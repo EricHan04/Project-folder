@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+
+
+body {font-family: 'Public Sans', Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5: color: rgb(34, 39, 43)}
+
+input[type='checkbox']{ /* style for checkboxes */
+  width: 20px ; /*Desired width*/
+  height: 20px ; /*Desired height*/
+}
+.dataTables_wrapper {font-size: 14px};
+table{border-collapse: collapse}
+table.dataTable{border-collapse: collapse}
+table.dataTable th.dt-center{border: 1px solid #ccc; border-collapse: collapse}
+table.dataTable th.dt-right, table.dataTable td.dt-right, table.dataTable thead th {text-align: center; border:1px solid #ccc }
+table.dataTable thead th{vertical-align: bottom}
+table.dataTable tbody th, table.dataTable tbody td {padding: 0px 10px}
+.shiny-input-container>div>select:not(.selectized) {height: 30px}
+.form-group {margin-bottom:0px}
+h1 {font-size: 36px; line-height: 1.25; font-weight: 700; margin-top: 4rem}
+h2 {font-size: 28px; line-height: 1.25; font-weight: 700; margin-top: 3rem}
+h3 {font-size: 22px; line-height: 1.25; font-weight: 700; margin-top: 2rem}
+h4 {font-size: 18px; line-height: 1.33; font-weight: 700; margin-top: 1.5rem}
+h5 {font-size: 16px; line-height: 1.5; font-weight: 700; margin-top: 1.5rem}
+
+.nsw-intro{font-size: 18px; line-height: 1.5;font-weight: 400; margin-top: 1rem}
+.nsw-small{font-size: 14px; line-height: 1.35;font-weight: 400; margin-top: 1rem}
+
+/* Make text visible on inputs */
+.shiny-input-container {
+  color: #474747;
+}
+

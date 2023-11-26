@@ -1,0 +1,63 @@
+library(readr)
+library(dplyr)
+library(tidyr)
+
+# Set precision for display
+options(digits = 19)
+
+# load LGA characteristics
+LGA_data <- read_csv('A.1 LGA data.csv', locale = locale(encoding = "ISO-8859-1")) %>%
+  rename(LGA_Name = X1, 
+         `2016_Population` = X2, 
+         `2021_Actual_Population` = X3,
+         `2023_Projected_Population` = X4, 
+         `2011_average_weekly_income` = X5,
+         `2021_average_weekly_income` = X6, 
+         SEIFA = X7) %>%
+  mutate(Income_normalize = `2021_average_weekly_income` / max(`2021_average_weekly_income`, na.rm = TRUE),
+         SEIFA_normalize = SEIFA / max(SEIFA, na.rm = TRUE))
+
+# load Base data
+BASE_data <- read_csv('A.3 BaseData.csv', locale = locale(encoding = "ISO-8859-1")) %>%
+  rename(Beach_FID = X1, 
+         Column1 = X2, 
+         Beach_Name = X3, 
+         LGA_Name = X4, 
+         New_Count = X5, 
+         CONF = X6,
+         Patrolled = X7, 
+         Iconic = X8, 
+         Main = X9, 
+         National_Park = X10, 
+         Open_Coast = X11, 
+         Surf = X12,
+         Bay = X13, 
+         `Length(m)` = X14, 
+         `Mean_Width(m)` = X15, 
+         Latitude = X16, 
+         Longitude = X17,
+         `Changing room` = X18, 
+         Restaurant = X19, 
+         Park = X20) %>%
+  left_join(LGA_data %>% select(LGA_Name, `2021_average_weekly_income`, `2023_Projected_Population`, SEIFA), by = "LGA_Name")
+
+# load distance
+lga_dist <- read_csv('lga_distance.csv', locale = locale(encoding = "ISO-8859-1")) %>%
+  rename(LGA_FID = X1, 
+         LGA_Name = X2, 
+         Beach_FID = X3, 
+         Beach_Name = X4, 
+         Driving_d = X5) %>%
+  mutate(LGA_Name = ifelse(LGA_Name == "Sutherland Shire", "Sutherland", LGA_Name))
+
+cbd_dist <- read_csv('cbd_distance_corrected.csv', locale = locale(encoding = "ISO-8859-1")) %>%
+  rename(LGA_FID = X1, 
+         LGA_Name = X2, 
+         Beach_FID = X3, 
+         Beach_Name = X4, 
+         Driving_d = X5)
+
+print(nrow(BASE_data))
+BASE_data <- BASE_data %>%
+  left_join(cbd_dist %>% select(Beach_FID, Driving_d), by = "Beach_FID")
+print(nrow(BASE_data))

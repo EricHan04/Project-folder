@@ -1,0 +1,215 @@
+# Load packages ----------------------------------------------------------------
+
+library(shiny)
+library(reactable)
+library(htmltools)
+library(dplyr)
+library(DT)
+library(shinyjs)
+library(shinydashboard)
+
+# Create table headers and tooltips - probably not efficient but created separate table headers for LGA v State.
+# table_frame1 is for LGA boundary results
+table_frame1 <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=6, "LGA boundary of analysis" , icon("circle-info", lib = "font-awesome", class="temp", title="The local government area (LGA) is the boundary of analysis for coast management option cost-benefit analysis.")),
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  th(class = 'dt-center', colspan = 3, 'Consumer surplus', icon("circle-info", lib = "font-awesome", class="temp", title="Estimates impact on beach users.")),
+                                  th(class = 'dt-center', colspan = 3, 'Producer surplus' , icon("circle-info", lib = "font-awesome", class="temp", title="Estimates impact on tourist related businesses.")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 2
+                                     ), th))),
+                                )
+                              )))
+  }
+
+# table_frame2 is for State boundary results
+table_frame2 <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=6, "State boundary of analysis" , icon("circle-info", lib = "font-awesome", class="temp", title="Provides State boundary of analysis estimates for instances where, say, a beach attracts a significant amount of tourism.")),
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  th(class = 'dt-center', colspan = 3, 'Consumer surplus', icon("circle-info", lib = "font-awesome", class="temp", title="Estimates impact on beach users.")),
+                                  th(class = 'dt-center', colspan = 3, 'Producer surplus' , icon("circle-info", lib = "font-awesome", class="temp", title="Estimates impact on tourist related businesses.")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 2
+                                     ), th))),
+                                )
+                              )))
+  }
+
+
+# Define UI --------------------------------------------------------------------
+
+
+ui <- navbarPage("Beach Evaluation Tool",
+                 tabPanel("Introduction", 
+                          h4(strong("NSW Beach values estimation tool (input for coastal management option cost benefit analysis)")),
+                          br(),
+                          p("This tool provides beach values estimates for use in coastal management option cost benefit analysis."),
+                          p("The following values are estimated for each in the 29 coastal local government areas in NSW:"),
+                          HTML("<ul><li>Consumer surplus</li><li>Producer surplus</li><li>Existence, bequest, option to use</li></ul>"),
+                          br(),
+                          p(em(strong("Resources:"))),
+                          em("NSW beach values estimation tool user guide and technical appendicies"),
+                          br(em("Coastal management options cost benefit analysis guidelines"))
+                 ),
+                 tabPanel("CBA Tool",
+                          fluidPage(
+                            includeCSS("www/dpie.css"),
+                            includeCSS("www/jquery-ui.min.css"),
+                            useShinyjs(),
+                            tags$head(
+                              tags$script(src = "www/jquery-ui.min.js"),
+                            ),
+                            fluidRow(
+                              column(width=12, selectInput("lga", label = "Select LGA:",
+                                                           choices = c("","Ballina", "Bayside","Bega Valley","Bellingen","Byron","Canada Bay","Central Coast","Clarence Valley","Coffs Harbour","Eurobodalla","Kempsey","Kiama","Lake Macquarie","Mid-Coast","Mosman","Nambucca Valley","Newcastle","Northern Beaches","Port Macquarie-Hastings","Port Stephens","Randwick","Richmond Valley","Shellharbour","Shoalhaven","Sutherland","Tweed","Waverley","Wollongong","Woollahra")),
+                              )
+                            ),
+                            fluidRow(
+                              column(width=12,em("Beach values estimates inputs for use in cost-benefit analysis of coastal management options (annual, constant prices)"),
+                              ),
+                              
+                            ),
+                            fluidRow(
+                              br(),
+                              tags$button(id="download", icon("download"), "Download as CSV"),
+                              tags$button(id="reset", "Reset", icon("circle-info", lib = "font-awesome", class="temp", title="Remove any alternative values entered in the scenario section to estimate values impacts of another scenario.")),
+                              tags$button(id="calculate", "Calculate", icon("circle-info", lib = "font-awesome", class="temp", title="Generate value estimates if you have entered alternative values for beach width, length and/or presence of a lifeguard service.")),
+                              HTML("<div style='float:right;text-align:right'>"),
+                              tags$button(id="stateanalysis", class="action-button", "Switch to State Analysis"),
+                              hidden(tags$button(id="lgaanalysis", class="action-button", "Switch to LGA Analysis")),
+                              HTML("</div>"),
+                              br(),
+                              br(),
+                              dataTableOutput('table'),
+                              br(),
+                              HTML("<p style='font-size:10px'>September 2022 Prices (ABS CPI)<br>2022 LGA population forecast (Department of Planning and Environment)<br>Average 2019 to 2022 LGA tourist visitation data (Tourism Research Australia)")
+                            )
+                          )
+                 ),
+
+                 
+)
+
+
+
+# Define server ----------------------------------------------------------------
+
+
+server <- function(input, output,session) {
+  
+# run the jsfor tooltips once dom elements have been created
+  runjs("$('.temp').tooltip();")
+  
+  
+# generate the scenario input fields for each beach and insert the base value in each.
+  for (i in seq_len(nrow(data))) {
+    data$Scenario_width[i] = as.character(numericInput(paste0("width",i), label=NULL, data$Width[i], width="100px"))
+    data$Scenario_length[i] = as.character(numericInput(paste0("length",i),label=NULL, data$Length[i], width="100px"))
+    data$Scenario_patrolled[i] = as.character(selectInput(paste0("patrolled", i),label=NULL, choices = unique(data$Patrolled), selected=data$Patrolled[i], width = "100px"))
+    data$Scenario_closed[i] = as.character(checkboxInput(paste0("closed",i), label=NULL, value = FALSE, width = "50px" ))
+  }
+  
+# creating some dummy variables for LGA consumer + producer surplus
+  data$cs_cs=0
+  data$cs_s=0
+  data$cs_ch=0
+  data$ps_cs=0
+  data$ps_s=0
+  data$ps_ch=0
+  
+# creating dummy variables for State consumer + producer surplus  
+  data$cs_cs1 = 1
+  data$cs_s1=1
+  data$cs_ch1=1
+  data$ps_cs1=1
+  data$ps_s1=1
+  data$ps_ch1=1
+  
+# creating and reordering data for LGA boundary of analysis  
+  data1<-data[,c(1,2,4,3,5,6,7,8,9,10,11,12,13,14,15)]
+  
+# creating and reordering data for State boundary of analysis
+  data2<-data[,c(1,2,4,3,5,6,7,8,9,16,17,18,19,20,21)]
+  
+# render the datatable and filter by the LGA input  
+  output$table = renderDataTable(
+    data1 %>% filter(LGA == input$lga), class = 'cell-border stripe', escape = FALSE, selection = 'none', server = FALSE, container = table_frame1(), rownames= FALSE, 
+    options = list(dom = 't', paging = FALSE, ordering = FALSE, list(columnDefs=list(list(target=1,className="test")))),
+    callback = JS("$('.temp').tooltip();
+      	table.rows().every(function(i, tab, row) {
+          var $this = $(this.node());
+          $this.attr('id', this.data()[0]);
+        });
+        Shiny.unbindAll(table.table().node());
+        Shiny.bindAll(table.table().node());")
+  )
+ 
+
+# listening for event from the 'Switch to state analysis' button and changing the table output - again this is probably a silly way to do it, I haven't looked into whether table can just be updated instead of creating whole new output table.  
+  observeEvent(input$stateanalysis, {
+    observe({
+      toggle("lgaanalysis", condition = input$stateanalysis)
+    })
+    hide("stateanalysis")
+    output$table = renderDataTable(
+      data2 %>% filter(LGA == input$lga), class = 'cell-border stripe', escape = FALSE, selection = 'none', server = FALSE, container = table_frame2(), rownames= FALSE, 
+      options = list(dom = 't', paging = FALSE, ordering = FALSE),
+      callback = JS("$('.temp').tooltip();
+        table.rows().every(function(i, tab, row) {
+          var $this = $(this.node());
+          $this.attr('id', this.data()[0]);
+        });
+        Shiny.unbindAll(table.table().node());
+        Shiny.bindAll(table.table().node());")
+    )
+  })
+  
+# listening for event from the 'switch to LGA analysis' button  
+  observeEvent(input$lgaanalysis, {
+    observe({
+      toggle("stateanalysis", condition = input$lgaanalysis)
+    })
+    hide("lgaanalysis")
+    output$table = renderDataTable(
+      data1 %>% filter(LGA == input$lga), class = 'cell-border stripe', escape = FALSE, selection = 'none', server = FALSE, container = table_frame1(), rownames= FALSE, 
+      options = list(dom = 't', paging = FALSE, ordering = FALSE),
+      callback = JS("$('.temp').tooltip();
+        table.rows().every(function(i, tab, row) {
+          var $this = $(this.node());
+          $this.attr('id', this.data()[0]);
+        });
+        Shiny.unbindAll(table.table().node());
+        Shiny.bindAll(table.table().node());")
+    )
+  })
+
+}
+
+
+# Create a Shiny app object ----------------------------------------------------
+
+shinyApp(ui = ui, server = server)

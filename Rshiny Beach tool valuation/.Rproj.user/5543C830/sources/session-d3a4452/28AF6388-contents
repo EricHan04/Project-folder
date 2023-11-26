@@ -1,0 +1,992 @@
+# Load packages ----------------------------------------------------------------
+
+library(shiny)
+library(reactable)
+library(htmltools)
+library(dplyr)
+library(DT)
+library(shinyjs)
+library(shinydashboard)
+library(ggplot2)
+library(waterfalls)
+library(plotly)
+library(openxlsx)
+
+#Create the table headers used by output table
+
+table_frame1 <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=6, "LGA boundary of analysis" , icon("circle-info", lib = "font-awesome", class="temp", title="The local government area (LGA) is the boundary of analysis for coast management option cost-benefit analysis.")),
+                                  
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  th(class = 'dt-center', colspan = 3, 'Consumer surplus', icon("circle-info", lib = "font-awesome", class="temp", title="Estimates beach visits value.")),
+                                  th(class = 'dt-center', colspan = 3, 'Producer surplus' , icon("circle-info", lib = "font-awesome", class="temp", title="Estimates tourist related business beach visits value.")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 2
+                                     ), th))),
+                                )
+                              )))
+  }
+
+table_frame2 <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=6, "State boundary of analysis" , icon("circle-info", lib = "font-awesome", class="temp", title="The local government area (LGA) is the boundary of analysis for coast management option cost-benefit analysis.")),
+                                  
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  th(class = 'dt-center', colspan = 3, 'Consumer surplus', icon("circle-info", lib = "font-awesome", class="temp", title="Estimates beach visits value.")),
+                                  th(class = 'dt-center', colspan = 3, 'Producer surplus' , icon("circle-info", lib = "font-awesome", class="temp", title="Estimates tourist related business beach visits value.")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 2
+                                     ), th))),
+                                )
+                              )))
+  }
+
+
+ebo <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=3,rowspan=2, "Existence, Bequest, Option to use Value (Annual)" , icon("circle-info", lib = "font-awesome", class="temp", title="Placeholder for EBO definition")),
+                                  
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 1
+                                     ), th))),
+                                )
+                              )))
+  }
+
+
+data <- read.csv("1. interface_data.csv", stringsAsFactors = FALSE)
+
+plotfont <- list(
+  family = "'Public Sans', Arial, sans-serif")
+
+
+# BASE CALCULATION -------------------------------------------------------------
+options(digits = 19)
+
+# Step 1: calculate the total visitation
+# load LGA characteristics
+LGA_data <- read.csv("A.1 LGA data.csv", encoding = "iso-8859-1")
+colnames(LGA_data) <- c("LGA_Name", "2016_Population", "2021_Actual_Population",
+                        "2023_Projected_Population", "2011_average_weekly_income",
+                        "2021_average_weekly_income", "SEIFA")
+LGA_data$Income_normalize <- LGA_data$'2021_average_weekly_income' / max(LGA_data$'2021_average_weekly_income')
+LGA_data$SEIFA_normalize <- LGA_data$SEIFA / max(LGA_data$SEIFA)
+
+BASE_data <- read.csv("A.3 BaseData.csv", encoding = "iso-8859-1")
+colnames(BASE_data) <- c("Beach_FID", "Column1", "Beach_Name", "LGA_Name", "New_Count", "CONF", "Patrolled_B",
+                         "Iconic", "Main", "National_Park", "Open_Coast", "Surf", "Bay",
+                         "Length_B", "Width_B", "Latitude", "Longitude")
+
+BASE_data <- merge(BASE_data,
+                   LGA_data[c("LGA_Name", "2021_average_weekly_income",
+                              "2023_Projected_Population", "SEIFA")],
+                   by = "LGA_Name",
+                   all.x = TRUE)
+
+rm(LGA_data)
+gc()
+
+# load distance
+cbd_dist <- read.csv("cbd_distance_corrected.csv", encoding = "iso-8859-1")
+colnames(cbd_dist) <- c("LGA_FID", "LGA_Name", "Beach_FID", "Beach_Name", "Driving_d")
+
+print(nrow(BASE_data))
+BASE_data <- merge(BASE_data,
+                   cbd_dist[c("Beach_FID", "Driving_d")],
+                   by = "Beach_FID",
+                   all.x = TRUE)
+print(nrow(BASE_data))
+rm(LGA_data)
+gc()
+
+BASE_data$N_LENGTH <- (BASE_data$`Length_B` - min(BASE_data$`Length_B`)) / 
+  (max(BASE_data$`Length_B`)) - min(BASE_data$`Length_B`)
+
+BASE_data$N_WIDTH <- (BASE_data$`Width_B` - min(BASE_data$`Width_B`)) / 
+  (max(BASE_data$`Width_B`)) - min(BASE_data$`Width_B`)
+
+BASE_data$N_INCOME <- (BASE_data$'2021_average_weekly_income' - min(BASE_data$'2021_average_weekly_income')) / 
+  (max(BASE_data$'2021_average_weekly_income') - min(BASE_data$'2021_average_weekly_income'))
+
+BASE_data$N_POP <- (BASE_data$'2023_Projected_Population' - min(BASE_data$'2023_Projected_Population')) / 
+  (max(BASE_data$'2023_Projected_Population') - min(BASE_data$'2023_Projected_Population'))
+
+BASE_data$ln_DIST <- log(BASE_data$Driving_d)
+
+params_frame <- read.csv("benefit_transfer_params_Ali.csv", encoding = "iso-8859-1")
+
+independent_vars <- c("Iconic", "National_Park", "Surf", "N_LENGTH", "Main", "Patrolled_B", "Bay",
+                      "N_WIDTH", "N_POP", "N_INCOME", "ln_DIST")
+BASE_data$const <- 1
+
+independent_data <- as.matrix(BASE_data[, c("const", independent_vars)])
+coeff <- as.numeric(params_frame$coeff)
+
+predictions <- independent_data %*% coeff
+BASE_data$predictions <- as.vector(predictions)
+
+# revert the fitted value (LN of the raw number) to the total visitation number
+BASE_data$total_visit_base <- exp(BASE_data$predictions)
+
+# replace the total visitation calculated with the actual number if the actual number is larger than zero
+# and has "A" or "B" confidence level
+subset_condition <- !is.na(BASE_data$New_Count) & BASE_data$New_Count > 0 &
+  (BASE_data$CONF == "A" | BASE_data$CONF == "B")
+replacement_values <- BASE_data$New_Count[subset_condition]
+BASE_data$total_visit_base[subset_condition] <- replacement_values
+
+print(sum(BASE_data$total_visit_base))
+
+# Step 2 - calculate international and interstate
+## load data 
+
+INT_visit_data <- read.csv("INT_visit_data.csv", encoding = "iso-8859-1")
+INT_visit_data <- INT_visit_data[, !(colnames(INT_visit_data) %in% c("International.Visitors", "Interstate.Visitors"))]
+INT_visit_data$Beach_FID <- INT_visit_data$Beach_FID + 1
+
+base1 <- BASE_data[c("Beach_FID", "total_visit_base")]
+colnames(base1) <- c("Beach_FID", "total_visit_base1")
+INT_visit_data <- merge(INT_visit_data, base1, by = "Beach_FID", all.x = TRUE)
+INT_visit_data$Beach_availability <- 1
+
+base2 <- read.csv("international_interstate_visitors_number.csv", encoding = "iso-8859-1")
+base2_1 <- base2[c(1, 7)]
+colnames(base2_1) <- c("LGA_FID", "international_visitors")
+base2_1 <- base2_1[3:130, ]
+base2_1$international_visitors <- as.numeric(gsub("NP", "0.001", base2_1$international_visitors)) * 1000
+base2_1$LGA_FID <- as.integer(base2_1$LGA_FID)
+
+base2_2 <- base2[c(1, 11)]
+colnames(base2_2) <- c("LGA_FID", "interstate_visitors")
+base2_2 <- base2_2[3:130, ]
+base2_2$interstate_visitors <- as.numeric(gsub("NP", "0.001", base2_2$interstate_visitors)) * 1000
+base2_2$LGA_FID <- as.integer(base2_2$LGA_FID)
+
+check1 <- sum(base2_1$international_visitors)
+check2 <- sum(base2_2$interstate_visitors)
+print(paste("check1", check1))
+print(paste("check2", check2))
+
+INT_visit_data <- merge(INT_visit_data, base2_1, by = "LGA_FID", all.x = TRUE)
+INT_visit_data <- merge(INT_visit_data, base2_2, by = "LGA_FID", all.x = TRUE)
+
+rm(base2_1)
+rm(base2_2)
+gc()
+
+lga_dist <- read.csv("lga_distance.csv", encoding = "iso-8859-1")
+colnames(lga_dist) <- c("LGA_FID", "LGA_Name", "Beach_FID", "Beach_Name", "Driving_d_LGA_Beach")
+
+INT_visit_data <- merge(INT_visit_data, lga_dist[c("LGA_FID", "Beach_FID", "Driving_d_LGA_Beach")], by = c("LGA_FID", "Beach_FID"), all.x = TRUE)
+rm(lga_dist)
+gc()
+
+INT_visit_data$Distance_m <- INT_visit_data$Driving_d_LGA_Beach
+INT_visit_data <- INT_visit_data[, !(colnames(INT_visit_data) %in% c("Driving_d_LGA_Beach", "type_Modified_Used", "NEAR_RANK", "DIST_CBD_Km_Ali"))]
+
+colnames(INT_visit_data) <- c("LGA_FID", "Beach_FID", "Distance_m", "LGA_Name", 
+                              "Beach_Name", "Iconic", "Main", "National_Park", "Open_Coast", "Surf", "Bay",
+                              "Length_B", "Width_B", "Changing room", "Patrolled_B",
+                              "Restaurant", "Park", "total_visit_base1", "Beach_availability",
+                              "international_visitors", "interstate_visitors")
+
+
+## from pre-determined alpha, calculate the visitation from internaltional and interstate
+### For BASE - international
+# First, assign alpha as zero
+df1 <- INT_visit_data
+alpha1 <- read.csv("alpha1_international-step2.csv", encoding = "iso-8859-1")
+df1 <- merge(df1, alpha1, by = "Beach_FID", all.x = TRUE, suffixes = c("", "_alpha1"))
+
+rm(alpha1)
+gc()
+
+# Define utility calculation function
+utility_calc_step2 <- function(frame, alpha_name, utility_name) {
+  frame[[utility_name]] <- 0
+  
+  frame[[utility_name]] <- frame[[alpha_name]] +
+    (frame[["Iconic"]] * 0.114) +
+    (frame[["Surf"]] * 0.134) +
+    (frame[["Bay"]] * 0.184) +
+    ((frame[["Length_B"]] / 1000) * (-0.00549)) +
+    (frame[["Width_B"]] * 0.0127) +
+    (frame[["Changing room"]] * 0.404) +
+    (frame[["Patrolled_B"]] * 0.379) +
+    (frame[["Restaurant"]] * 0.259) +
+    (frame[["Park"]] * 0.257) +
+    ((frame[["Distance_m"]] / 1000) * (-0.0101))
+  
+  frame[[utility_name]] <- frame[[utility_name]] * frame[["Beach_availability"]]
+  
+  return(frame)
+}
+
+df1 <- utility_calc_step2(df1, "alpha_1", "utility_base")
+
+# Calculate exponential of utility
+df1[["exp_utility_base"]] <- exp(df1[["utility_base"]]) * df1[["Beach_availability"]]
+
+# Group by LGA_FID and calculate the sum of exp_utility for each LGA
+temp <- aggregate(df1[["exp_utility_base"]], by = list(df1[["LGA_FID"]]), sum)
+colnames(temp) <- c("LGA_FID", "sum_exp_base")
+df1 <- merge(df1, temp, by = "LGA_FID", all.x = TRUE)
+
+# Calculate probability
+df1[["prob_base"]] <- with(df1, exp_utility_base / sum_exp_base) * df1[["Beach_availability"]]
+
+df1[["international_x_prob_base"]] <- with(df1, international_visitors * prob_base * Beach_availability)
+
+temp <- aggregate(df1[["international_x_prob_base"]], by = list(df1[["Beach_FID"]]), sum)
+colnames(temp) <- c("Beach_FID", "international_visit_beach_base")
+df1 <- merge(df1, temp, by = "Beach_FID", all.x = TRUE)
+
+diff_total_international_visitors <- sum(unique(df1[c("Beach_FID", "international_visit_beach_base")])$international_visit_beach_base) - sum(unique(INT_visit_data[c("LGA_FID", "international_visitors")])$international_visitors)
+print(paste("Differences in the total international visitors between the sum of Beach and the sum of LGA: ", diff_total_international_visitors))
+
+rm(temp)
+gc()
+
+### For BASE - interstate
+# Define utility calculation function
+utility_calc_step2 <- function(frame, alpha_name, utility_name) {
+  frame[[utility_name]] <- 0
+  
+  frame[[utility_name]] <- frame[[alpha_name]] +
+    (frame[["Iconic"]] * 0.114) +
+    (frame[["Surf"]] * 0.134) +
+    (frame[["Bay"]] * 0.184) +
+    ((frame[["Length_B"]] / 1000) * (-0.00549)) +
+    (frame[["Width_B"]] * 0.0127) +
+    (frame[["Changing room"]] * 0.404) +
+    (frame[["Patrolled_B"]] * 0.379) +
+    (frame[["Restaurant"]] * 0.259) +
+    (frame[["Park"]] * 0.257) +
+    ((frame[["Distance_m"]] / 1000) * (-0.0101))
+  
+  frame[[utility_name]] <- frame[[utility_name]] * frame[["Beach_availability"]]
+  
+  return(frame)
+}
+
+df2 <- INT_visit_data
+alpha2 <- read.csv("alpha2_interstate-step2.csv", encoding = "iso-8859-1")
+df2 <- merge(df2, alpha2, by = "Beach_FID", all.x = TRUE)
+
+rm(alpha2)
+gc()
+
+df2 <- utility_calc_step2(df2, "alpha_2", "utility_base")
+
+# Calculate exponential of utility
+df2[["exp_utility_base"]] <- exp(df2[["utility_base"]]) * df2[["Beach_availability"]]
+
+# Group by LGA_FID and calculate the sum of exp_utility for each LGA
+temp <- aggregate(df2[["exp_utility_base"]], by = list(df2[["LGA_FID"]]), sum)
+colnames(temp) <- c("LGA_FID", "sum_exp_base")
+df2 <- merge(df2, temp, by = "LGA_FID", all.x = TRUE)
+
+# Calculate probability
+df2[["prob_base"]] <- with(df2, exp_utility_base / sum_exp_base) * df2[["Beach_availability"]]
+
+df2[["interstate_x_prob_base"]] <- with(df2, interstate_visitors * prob_base * Beach_availability)
+
+temp <- aggregate(df2[["interstate_x_prob_base"]], by = list(df2[["Beach_FID"]]), sum)
+colnames(temp) <- c("Beach_FID", "interstate_visit_beach_base")
+df2 <- merge(df2, temp, by = "Beach_FID", all.x = TRUE)
+
+diff_total_interstate_visitors <- sum(unique(df2[c("Beach_FID", "interstate_visit_beach_base")])$interstate_visit_beach_base) - sum(unique(INT_visit_data[c("LGA_FID", "interstate_visitors")])$interstate_visitors)
+print(paste("Differences in the total interstate visitors between the sum of Beach and the sum of LGA: ", diff_total_interstate_visitors))
+
+rm(temp)
+gc()
+
+### create a table to workout the domestic visitors 
+final_table_base <- merge(
+  unique(df1[c("Beach_FID", "Beach_Name", "total_visit_base1", "alpha_1", "international_visit_beach_base")]),
+  unique(df2[c("Beach_FID", "Beach_Name", "alpha_2", "interstate_visit_beach_base")]),
+  by = c("Beach_FID", "Beach_Name"),
+  all.x = TRUE
+)
+
+print(nrow(final_table_base))
+
+final_table_base$domestic_visit_beach <- final_table_base$total_visit_base1 - final_table_base$international_visit_beach_base - final_table_base$interstate_visit_beach_base
+
+cat("should be zero here: ", sum(final_table_base$international_visit_beach_base) - check1)
+cat("should be zero here: ", sum(final_table_base$interstate_visit_beach_base) - check2)
+cat("total visit: ", sum(final_table_base$total_visit_base1))
+cat("total international visit: ", sum(final_table_base$international_visit_beach_base))
+cat("total interstate visit: ", sum(final_table_base$interstate_visit_beach_base))
+cat("total domestic visit: ", sum(final_table_base$domestic_visit_beach))
+
+cat("% of international visit: ", sum(final_table_base$international_visit_beach_base) / sum(final_table_base$total_visit_base1) * 100)
+cat("% of interstate visit: ", sum(final_table_base$interstate_visit_beach_base) / sum(final_table_base$total_visit_base1) * 100)
+cat("% of domestic visit: ", sum(final_table_base$domestic_visit_beach) / sum(final_table_base$total_visit_base1) * 100)
+
+final_table_base$"% international" <- final_table_base$international_visit_beach_base / sum(final_table_base$international_visit_beach_base) * 100
+final_table_base$"% interstate" <- final_table_base$interstate_visit_beach_base / sum(final_table_base$interstate_visit_beach_base) * 100
+final_table_base$"% domestic" <- final_table_base$domestic_visit_beach / sum(final_table_base$domestic_visit_beach) * 100
+final_table_base$"% total" <- final_table_base$total_visit_base1 / sum(final_table_base$total_visit_base1) * 100
+
+final_table_base <- final_table_base[c(
+  "Beach_FID", "Beach_Name", "total_visit_base1", "% total",
+  "international_visit_beach_base", "% international",
+  "interstate_visit_beach_base", "% interstate", "domestic_visit_beach",
+  "% domestic"
+)]
+
+# step3
+## calc domestic visitors for each postcode-beach pair - BASE
+utility_calc_step3 <- function(frame, alpha_name, utility_name) {
+  frame[[utility_name]] <- 0
+  frame[[utility_name]] <- frame[[alpha_name]] +
+    (frame$Iconic * 0.114) +
+    (frame$Surf * 0.134) +
+    (frame$Bay * 0.184) +
+    ((frame$`Length_B` / 1000) * (-0.00549)) +
+    (frame$`Width_B` * 0.0127) +
+    (frame$`Changing room` * 0.404) +
+    (frame$Patrolled_B * 0.379) +
+    (frame$Restaurant * 0.259) +
+    (frame$Park * 0.257) +
+    ((frame$Distance_m / 1000) * (-0.0101))
+  frame[[utility_name]] <- frame[[utility_name]] * frame$Beach_availability
+  return(frame)
+}
+
+df3 <- df2[, c(
+  "LGA_FID", "Beach_FID", "Distance_m", "LGA_Name", "Beach_Name", "Iconic",
+  "Main", "National_Park", "Open_Coast", "Surf", "Bay", "Length_B",
+  "Width_B", "Changing room", "Patrolled_B", "Restaurant", "Park", "Beach_availability"
+)]
+
+df3 <- merge(df3,
+             final_table_base[c("Beach_FID", "domestic_visit_beach")],
+             by = "Beach_FID",
+             all.x = TRUE
+)
+print(nrow(df3))
+
+LGA_data_new <- read.csv("LGA 2023 population and Seifa score.csv", encoding = "iso-8859-1")
+colnames(LGA_data_new) <- c("LGA_Name", "LGA population 2023", "SEIFA")
+
+LGA_data_new <- within(LGA_data_new, {
+  LGA_Name <- gsub("Armidale", "Armidale Regional", LGA_Name)
+  LGA_Name <- gsub("Bathurst", "Bathurst Regional", LGA_Name)
+  LGA_Name <- gsub("Campbelltown (NSW)", "Campbelltown", LGA_Name)
+  LGA_Name <- gsub("Central Coast (NSW)", "Central Coast", LGA_Name)
+  LGA_Name <- gsub("Gundagai", "Cootamundra-Gundagai Regional", LGA_Name)
+  LGA_Name <- gsub("Dubbo", "Dubbo Regional", LGA_Name)
+  LGA_Name <- gsub("Greater Hume", "Greater Hume Shire", LGA_Name)
+  LGA_Name <- gsub("Mid-Western", "Mid-Western Regional", LGA_Name)
+  LGA_Name <- gsub("Queanbeyan-Palerang", "Queanbeyan-Palerang Regional", LGA_Name)
+  LGA_Name <- gsub("Snowy Monaro", "Snowy Monaro Regional", LGA_Name)
+  LGA_Name <- gsub("Sutherland", "Sutherland Shire", LGA_Name)
+  LGA_Name <- gsub("Tamworth", "Tamworth Regional", LGA_Name)
+  LGA_Name <- gsub("The Hills", "The Hills Shire", LGA_Name)
+  LGA_Name <- gsub("Upper Hunter", "Upper Hunter Shire", LGA_Name)
+  LGA_Name <- gsub("Upper Lachlan", "Upper Lachlan Shire", LGA_Name)
+  LGA_Name <- gsub("Warrumbungle", "Warrumbungle Shire", LGA_Name)
+})
+
+LGA_data_new$SEIFA_weighted <- LGA_data_new$SEIFA / sum(LGA_data_new$SEIFA)
+
+print(nrow(df3))
+df3 <- merge(df3, LGA_data_new, by = "LGA_Name", all.x = TRUE)
+
+rm(LGA_data_new)
+gc()
+
+print(nrow(df3))
+
+alpha3 <- read.csv("alpha1_domestic-step3.csv", encoding = "iso-8859-1")
+
+df3 <- merge(df3, alpha3, by = "Beach_FID", all.x = TRUE)
+print(nrow(df3))
+rm(alpha3)
+gc()
+
+df3 <- utility_calc_step3(df3, "alpha_3", "utility_base")
+
+df3$exp_utility_base <- exp(df3$utility_base) * df3$Beach_availability
+
+temp <- aggregate(df3$exp_utility_base, by = list(df3$LGA_FID), FUN = sum)
+colnames(temp) <- c("LGA_FID", "sum_exp_base")
+temp$sum_exp_base[temp$sum_exp_base == 0] <- 1
+temp$log_sum_expbase <- log(temp$sum_exp_base)
+temp$log_sum_expbase[temp$sum_exp_base == 0] <- 0
+
+df3 <- merge(df3, temp, by = "LGA_FID", all.x = TRUE)
+
+df3$prob_DO <- df3$exp_utility_base / df3$sum_exp_base * df3$Beach_availability
+df3$monetrize_log_sum <- -df3$log_sum_expbase / ((1.19 * -0.0101)*2)
+
+df3 <- df3 %>%
+  rename(LGA_population_2023 = `LGA population 2023`)
+df3$gravity_score <- with(df3, (LGA_population_2023 * SEIFA_weighted) / Distance_m)
+
+temp <- aggregate(df3$gravity_score, by = list(df3$LGA_FID), FUN = sum)
+colnames(temp) <- c("LGA_FID", "gravity_score_sum_LGA")
+df3 <- merge(df3, temp, by = "LGA_FID", all.x = TRUE)
+
+df3$po <- df3$gravity_score_sum_LGA / sum(df3$gravity_score, na.rm = TRUE)
+
+df3 <- merge(df3, final_table_base[c("Beach_FID", "% domestic")], by = "Beach_FID", all.x = TRUE)
+print(nrow(df3))
+
+df3$pd <- df3$"% domestic" / 100
+
+df3$pod1 <- with(df3, (prob_DO * po) / pd)
+df3$pod1[df3$Beach_availability == 0] <- 0
+
+temp <- aggregate(df3$pod1, by = list(df3$Beach_FID), FUN = sum, na.rm = TRUE)
+colnames(temp) <- c("Beach_FID", "pod1_sum")
+df3 <- merge(df3, temp, by = "Beach_FID", all.x = TRUE)
+print(nrow(df3))
+
+df3$"% pod1" <- df3$pod1 / df3$pod1_sum
+df3$"% pod1"[df3$Beach_availability == 0] <- 0
+
+df3$domestic_x_prob_base <- df3$domestic_visit_beach * df3$"% pod1"
+temp <- aggregate(df3$domestic_x_prob_base, by = list(df3$LGA_FID), FUN = sum)
+colnames(temp) <- c("LGA_FID", "Total_Domestic_visit_by_LGA")
+df3 <- merge(df3, temp, by = "LGA_FID", all.x = TRUE)
+
+print(sum(df3$domestic_x_prob_base, na.rm = TRUE))
+
+rm(temp)
+gc()
+
+df3$Weight <- df3$Total_Domestic_visit_by_LGA / df3$LGA_population_2023
+
+df3$Monetized_Logsum_Wt_Base <- df3$monetrize_log_sum * df3$Weight
+
+df3$LGA_Monetized_Logsum_Wt_Base <- df3$Monetized_Logsum_Wt_Base / 926
+
+LGA_Monetized_Logsum_Wt <- df3[, c("LGA_FID", "LGA_Monetized_Logsum_Wt_Base")]
+LGA_Monetized_Logsum_Wt <- unique(LGA_Monetized_Logsum_Wt[, c("LGA_FID", "LGA_Monetized_Logsum_Wt_Base")])
+
+CS_per_trip <- sum(unique(df3[, c("LGA_FID", "Monetized_Logsum_Wt_Base")])$`Monetized_Logsum_Wt_Base`, na.rm = TRUE) / 128
+
+CS_per_trip_per_beach <- sum(unique(df3[, c("LGA_FID", "Monetized_Logsum_Wt_Base")])$Monetized_Logsum_Wt_Base, na.rm = TRUE) / (128 * 926)
+
+CS_Table_Base <- unique(df3[, c("LGA_FID", "Monetized_Logsum_Wt_Base")])
+CS_Table_Base <- CS_Table_Base[!duplicated(CS_Table_Base$LGA_FID), c("LGA_FID", "Monetized_Logsum_Wt_Base")]
+
+df1_s <- df1
+df1_s <- select(df1_s, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+df2_s <- df2
+df2_s <- select(df2_s, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+df3_s <- df3
+df3_s <- select(df3_s, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+# Define UI --------------------------------------------------------------------
+
+
+ui <- navbarPage("Beach Evaluation Tool",
+                 tabPanel("Introduction", 
+                          h4(strong("NSW Beach values estimation tool (input for coastal management option cost-benefit analysis)")),
+                          br(),
+                          p("This tool provides beach values estimates for use in coastal management option cost-benefit analysis."),
+                          p("The following values are estimated for each in the 29 coastal local government areas in NSW:"),
+                          HTML("<ul><li>Consumer surplus</li><li>Producer surplus</li><li>Existence, bequest, option to use</li></ul>"),
+                          br(),
+                          p(em(strong("Resources:"))),
+                          em("NSW beach values estimation tool user guide and technical appendicies"),
+                          br(em("Coastal management options cost benefit analysis guidelines")),
+                          p(),
+                          HTML("<div style='font-size:12px;margin-top:20px;width:60%'>&#169 2023 State of NSW and Department of Planning and Environment.<br><br>With the exception of photographs, the State of NSW and Department of Planning and Environment (DPE) are pleased to allow this material to be reproduced in whole or in part for educational and non-commercial use, provided the meaning is unchanged and its source, publisher and authorship are acknowledged.<br><br>DPE has compiled this tool and user handbook in good faith, exercising all due care and attention. No representation is made about the accuracy, completeness or suitability of the information in the tool and publication which are intended for use by cost-benefit analysis (CBA) experts in undertaking NSW based coastal management options CBA. DPE shall not be liable for any damage which may occur to any person or organisation taking action or not on the basis of these publications. Readers should seek appropriate advice and refer to the user manual when applying the information to their specific needs.</div>")
+                 ),
+                 tabPanel("LGA CS & PS Values",
+                          fluidPage(
+                            tags$head(tags$script(
+                              HTML(
+                                "Shiny.addCustomMessageHandler('unbindDT', function(id) {
+                                  var $table = $('#'+id).find('table');
+                                  if($table.length > 0){
+                                    Shiny.unbindAll($table.DataTable().table().node());
+                                  }
+                                })")
+                            )),
+                            includeCSS("www/dpie.css"),
+                            includeCSS("www/jquery-ui.min.css"),
+                            useShinyjs(),
+                            tags$head(
+                              tags$script(src = "www/jquery-ui.min.js"),
+                              # tags$script("$(document).ready(function(){
+                              #     $('.temp').tooltip();        
+                              # });")
+                              tags$style(type="text/css", "
+                                 #loadmessage {
+                                   position: fixed;
+                                   top: 0px;
+                                   left: 0px;
+                                   width: 100%;
+                                   padding: 5px 0px 5px 0px;
+                                   text-align: center;
+                                   font-weight: bold;
+                                   font-size: 100%;
+                                   color: #000000;
+                                   background-color: #CCFF66;
+                                   z-index: 105;
+                                 }
+                              "),
+                            ),
+                            
+                            fluidRow(
+                              column(width=12, selectInput("lga", label = "Select LGA:",
+                                                           choices = c(sort(unique(data$LGA_Name)))),
+                              )
+                            ),
+                            fluidRow(
+                              column(width=12,em("Beach values estimates inputs for use in cost-benefit analysis of coastal management options (annual, constant prices)"),
+                              ),
+                              
+                            ),
+                            fluidRow(
+                              br(),
+                              # tags$button(id="download", icon("download"), "Download as CSV"),
+                              tags$button(id="reset", "Reset", icon("circle-info", lib = "font-awesome", class="temp", title="Remove any alternative values entered in the scenario section to estimate values impacts of another scenario.")),
+                              tags$button(id="calculate",class="action-button", "Calculate", icon("circle-info", lib = "font-awesome", class="temp", title="Generate value estimates if you have entered alternative values for beach width, length and/or presence of a lifeguard service.")),
+                              # tags$button(id="downloadBtn",class="action-button", "Save as Excel", icon("circle-info", lib = "font-awesome", class="temp", title="Save the current table as excel")),
+                              # HTML("<div style='float:right;text-align:right'>"),
+                              # tags$button(id="stateanalysis", class="action-button", "Switch to State Analysis"),
+                              # hidden(tags$button(id="lgaanalysis", class="action-button", "Switch to LGA Analysis")),
+                              # HTML("</div>"),
+                              br(),
+                              br(),
+                              downloadButton("downloadData", "Download"),
+                              br(),
+                              br(),
+                              # conditionalPanel(condition="$('#lgacsps').hasClass('recalculating')",
+                              #                  tags$div("Loading...")
+                              # ),
+                              # dataTableOutput("dummyTable"),
+                              dataTableOutput('lgacsps'),
+                              br(),
+                              br(),
+                              HTML("<p style='font-size:10px'>September 2022 Prices (ABS CPI)<br>2022 LGA population forecast (Department of Planning and Environment)<br>Average 2019 to 2022 LGA tourist visitation data (Tourism Research Australia)")
+                            )
+                          )
+                 ),
+                 tabPanel("State CS & PS Values",
+                          p("Placeholder for STATE consumer surplus and producer surplus results"), 
+                          br(),
+                          dataTableOutput('statecsps'),
+                 ),
+                 tabPanel("LGA & State EBO Values",
+                          p("Placeholder for LGA and STATE EBO values"),
+                          br(),
+                          dataTableOutput("ebovalues"),
+                 ),
+                 tabPanel("Chart example",
+                          plotlyOutput("waterfall"),
+                          br(),
+                 )
+                 
+                 
+)
+
+
+
+# Define server ----------------------------------------------------------------
+
+
+server <- function(input, output,session) {
+  
+  # run the jsfor tooltips once dom elements have been created
+  runjs("$('.temp').tooltip();")
+  
+  data_subset_modified <- reactive({
+    
+    temp_df <- data  %>% filter(LGA_Name == input$lga)
+    
+    # create the user inputs
+    for (i in seq_len(nrow(temp_df))) {
+      temp_df$Width_i[i] = as.character(numericInput(paste0("width",i),
+                                                         label=NULL,
+                                                         value=temp_df$Width_S[i],
+                                                         width="80px"))
+      
+      temp_df$Length_i[i] = as.character(numericInput(paste0("length",i),
+                                                          label=NULL,
+                                                          value=temp_df$Length_S[i],
+                                                          width="80px"))
+      
+      temp_df$Patrolled_i[i] = as.character(selectInput(paste0("patrolled", i),
+                                                            label=NULL,
+                                                            choices = c("Yes","No"),
+                                                            selected = temp_df$Patrolled_S[i],
+                                                            width = "80px"))
+      
+      temp_df$Close_i[i] = as.character(selectInput(paste0("close",i),
+                                                        label=NULL,
+                                                        choices = c("Yes","No"),
+                                                        selected="No",
+                                                        width = "80px" ))
+      
+      temp_df
+    }
+    
+    js<- "$('.temp').tooltip();"
+    
+    #dummy values for LGA consumer and producer surplus
+    temp_df$lga_current_csb=0
+    temp_df$lga_current_css=0
+    temp_df$lga_current_csc=0
+    
+    temp_df$lga_current_psb=0
+    temp_df$lga_current_pss=0
+    temp_df$lga_current_psc=0
+    
+    temp_df
+    
+  })
+  
+  js<- "$('.temp').tooltip();"
+  
+  output$lgacsps <- DT::renderDataTable({
+    # Render the table
+    datatable(
+      data_subset_modified()[,c(1,3,4,5,6,11,12,13,14,15,16,17,18,19,20)] ,
+      class = 'cell-border stripe',
+      # extensions = 'Buttons',
+      rownames = FALSE,
+      escape = FALSE,
+      container = table_frame1(),
+      callback = JS(js),
+      selection = "none",
+      options = list(
+        searching = FALSE,
+        # pageLength = 10,  # Set the initial number of rows to display
+        # lengthMenu = list(c(5, 10, 20)),  # Set the length menu options
+        preDrawCallback = JS('function() {
+                           Shiny.unbindAll(this.api().table().node());
+                             }'),
+        drawCallback = JS('function() {
+                        Shiny.bindAll(this.api().table().node()); } ') ,
+        dom = 'Bftrip',
+        paging = FALSE,
+        info = FALSE,
+        # buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+        columnDefs = list(list(
+          className = 'dt-center', targets = 3:6),list(width='250px', 
+                                                       targets=c(0,1)), 
+          list(width="80px", targets=c(2,3,4,5,6,7,8,9,10,11,12,13,14))
+        ),
+        rownames = FALSE,
+        ordering = FALSE
+      )
+
+    )
+  })
+  
+  observeEvent(input$lga,{
+    session$sendCustomMessage("unbindDT", "lgacsps")
+  })
+  
+  # Using lapply for observers
+  observe({
+
+    print(paste("Number of rows: ", nrow(data_subset_modified())))
+
+    lapply(seq_len(nrow(data_subset_modified())), function(i) {
+      widthId <- paste0("width", i)
+      lengthId <- paste0("length", i)
+      patrolledId <- paste0("patrolled", i)
+      closeId <- paste0("close", i)
+
+
+      observeEvent(input[[widthId]], {
+        print(paste("Index:", i, "Input value:", input[[widthId]],
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], 
+             "Width_S"] <<- input[[widthId]]
+      }, ignoreInit = FALSE)
+
+      observeEvent(input[[lengthId]], {
+
+        print(paste("Index:", i, "Input value:", input[[lengthId]],
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], 
+             "Length_S"] <<- input[[lengthId]]
+      }, ignoreInit = TRUE)
+
+      observeEvent(input[[patrolledId]], {
+        print(paste("Index:", i, "Input value:", input[[patrolledId]],
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], 
+             "Patrolled_S"] <<- input[[patrolledId]]
+      }, ignoreInit = TRUE)
+
+      observeEvent(input[[closeId]], {
+        print(paste("Index:", i, "Input value:", input[[closeId]],
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], 
+             "Close_S"] <<- input[[closeId]]
+      }, ignoreInit = TRUE)
+      
+      observeEvent(input$reset,{
+        
+        # Replace data in Scenario column with data from Base column
+        print(data_subset_modified())
+        
+      })
+
+    })
+  })
+  
+  #create download button
+  output$downloadData <- downloadHandler(
+    filename = function() {
+      paste("data-", Sys.Date(), ".xlsx", sep="")
+    },
+    content = function(file) {
+      write.xlsx(data, file, rowNames = FALSE)
+    }
+  )
+  
+  
+
+  # Calculation function
+  observeEvent(input$calculate, {
+
+    # ## adjust international for scenario
+    # 
+    # df1_s <- merge(df1_s, data[, c("Beach_FID", "Patrolled_S", "Length_S", "Width_S", "Close_S")], by = "Beach_FID", all.x = TRUE)
+    # df1_s$Patrolled_S <- ifelse(df1_s$Patrolled_S == "Yes", 1, 0)
+    # df1_s$Beach_availability <- ifelse(df1_s$Close_S == "Yes", 0, 1)
+    # 
+    # df1_s <- utility_calc_step2(df1_s, 'alpha_1', 'utility_scenario')
+    # 
+    # temp <- df1_s[, c('LGA_FID', 'sum_exp_base')]
+    # temp <- temp[!duplicated(temp[, 'LGA_FID']), ]
+    # temp$deno <- 1 - (temp$sum_exp_base + 1)^(-1)
+    # 
+    # df1_s$exp_utility_scenario <- exp(df1_s$utility_scenario) * df1_s$Beach_availability
+    # 
+    # temp_scenario <- aggregate(df1_s$exp_utility_scenario, by = list(df1_s$LGA_FID), sum)
+    # colnames(temp_scenario) <- c('LGA_FID', 'sum_exp_scenario')
+    # temp_scenario$numer <- 1 - (temp_scenario$sum_exp_scenario + 1)^(-1)
+    # 
+    # temp <- merge(temp, temp_scenario, by = 'LGA_FID', all.x = TRUE)
+    # 
+    # temp <- merge(temp, df1_s[, c('LGA_FID', 'international_visitors')], by = 'LGA_FID', all.x = TRUE)
+    # 
+    # temp$T_O_scenario <- with(temp, (numer / deno) * international_visitors)
+    # 
+    # df1_s <- merge(df1_s, temp[, c('LGA_FID', 'T_O_scenario', 'sum_exp_scenario')], by = 'LGA_FID', all.x = TRUE)
+    # 
+    # df1_s$prob_scenario <- with(df1_s, (exp_utility_scenario / sum_exp_scenario) * Beach_availability)
+    # 
+    # df1_s$international_x_prob_scenario <- with(df1_s, T_O_scenario * prob_scenario * Beach_availability)
+    # 
+    # temp <- aggregate(df1_s$international_x_prob_scenario, by = list(df1_s$Beach_FID), sum)
+    # colnames(temp) <- c('Beach_FID', 'international_visit_beach_scenario')
+    # df1_s <- merge(df1_s, temp, by = 'Beach_FID', all.x = TRUE)
+    # 
+    # cat("Total number of international visitors in base case:", format(sum(df1_s$international_x_prob_base), big.mark = ",", scientific = FALSE), "\n")
+    # cat("Total number of international visitors in scenario:", format(sum(df1_s$international_x_prob_scenario), big.mark = ",", scientific = FALSE), "\n")
+    # cat("Total number of international visitors drop:", format(sum(df1_s$international_x_prob_base) - sum(df1_s$international_x_prob_scenario), big.mark = ",", scientific = FALSE), "\n")
+    # 
+    # 
+    # ## adjust interstate for scenario
+    # df2_s <- merge(df2_s, data[, c("Beach_FID", "Patrolled_S", "Length_S", "Width_S", "Close_S")], by = "Beach_FID", all.x = TRUE)
+    # df2_s$Patrolled_S <- ifelse(df2_s$Patrolled_S == "Yes", 1, 0)
+    # df2_s$Beach_availability <- ifelse(df2_s$Close_S == "Yes", 0, 1)
+    # 
+    # df2_s <- utility_calc_step2(df2_s, 'alpha_2', 'utility_scenario')
+    # 
+    # temp <- df2_s[, c('LGA_FID', 'sum_exp_base')]
+    # temp <- temp[!duplicated(temp[, 'LGA_FID']), ]
+    # temp$deno <- 1 - (temp$sum_exp_base + 1)^(-1)
+    # 
+    # df2_s$exp_utility_scenario <- exp(df2_s$utility_scenario) * df2_s$Beach_availability
+    # 
+    # temp_scenario <- aggregate(df2_s$exp_utility_scenario, by = list(df2_s$LGA_FID), sum)
+    # colnames(temp_scenario) <- c('LGA_FID', 'sum_exp_scenario')
+    # temp_scenario$numer <- 1 - (temp_scenario$sum_exp_scenario + 1)^(-1)
+    # 
+    # temp <- merge(temp, temp_scenario, by = 'LGA_FID', all.x = TRUE)
+    # 
+    # temp <- merge(temp, df2_s[, c('LGA_FID', 'interstate_visitors')], by = 'LGA_FID', all.x = TRUE)
+    # 
+    # temp$T_O_scenario <- with(temp, (numer / deno) * interstate_visitors)
+    # 
+    # df2_s <- merge(df2_s, temp[, c('LGA_FID', 'T_O_scenario', 'sum_exp_scenario')], by = 'LGA_FID', all.x = TRUE)
+    # 
+    # df2_s$prob_scenario <- with(df2_s, (exp_utility_scenario / sum_exp_scenario) * Beach_availability)
+    # 
+    # df2_s$interstate_x_prob_scenario <- with(df2_s, T_O_scenario * prob_scenario * Beach_availability)
+    # 
+    # temp <- aggregate(df2_s$interstate_x_prob_scenario, by = list(df2_s$Beach_FID), sum)
+    # colnames(temp) <- c('Beach_FID', 'interstate_visit_beach_scenario')
+    # df2_s <- merge(df2_s, temp, by = 'Beach_FID', all.x = TRUE)
+    # 
+    # cat("Total number of interstate visitors in base case:", format(sum(df2_s$interstate_x_prob_base), big.mark = ",", scientific = FALSE), "\n")
+    # cat("Total number of interstate visitors in scenario:", format(sum(df2_s$interstate_x_prob_scenario), big.mark = ",", scientific = FALSE), "\n")
+    # cat("Total number of interstate visitors drop:", format(sum(df2_s$interstate_x_prob_base) - sum(df2_s$interstate_x_prob_scenario), big.mark = ",", scientific = FALSE), "\n")
+    # 
+    # 
+    # ## adjust total visitors for scenario
+    # df3_s <- merge(df3_s, data[, c("Beach_FID", "Patrolled_S", "Length_S", "Width_S", "Close_S")], by = "Beach_FID", all.x = TRUE)
+    # df3_s$Patrolled_S <- ifelse(df3_s$Patrolled_S == "Yes", 1, 0)
+    # df3_s$Beach_availability <- ifelse(df3_s$Close_S == "Yes", 0, 1)
+    # 
+    # df3_s <- utility_calc_step2(df3_s, 'alpha_3', 'utility_scenario')
+    # 
+    # temp <- df3_s[, c('LGA_FID', 'sum_exp_base')]
+    # temp <- temp[!duplicated(temp[, 'LGA_FID']), ]
+    # temp$deno <- 1 - (temp$sum_exp_base + 1)^(-1)
+    # 
+    # df3_s$exp_utility_scenario <- exp(df3_s$utility_scenario) * df3_s$Beach_availability
+    # 
+    # temp_scenario <- aggregate(df3_s$exp_utility_scenario, by = list(df3_s$LGA_FID), sum)
+    # colnames(temp_scenario) <- c('LGA_FID', 'sum_exp_scenario')
+    # temp_scenario$numer <- 1 - (temp_scenario$sum_exp_scenario + 1)^(-1)
+    # 
+    # temp_T_O_scenario <- merge(temp, temp_scenario, by = 'LGA_FID', all.x = TRUE)
+    # 
+    # temp_T_O_scenario$domestic_visitors <- aggregate(df3_s$domestic_x_prob_base, by = list(df3_s$LGA_FID), sum)$x
+    # 
+    # temp_T_O_scenario$T_O_scenario <- with(temp_T_O_scenario, (numer / deno) * domestic_visitors)
+    # 
+    # df3_s <- merge(df3_s, temp_T_O_scenario[, c('LGA_FID', 'T_O_scenario', 'sum_exp_scenario')], by = 'LGA_FID', all.x = TRUE)
+    # 
+    # df3_s$prob_scenario <- with(df3_s, (exp_utility_scenario / sum_exp_scenario) * Beach_availability)
+    # 
+    # df3_s$domestic_x_prob_scenario <- with(df3_s, T_O_scenario * prob_scenario * Beach_availability)
+    # 
+    # temp_out <- aggregate(df3_s$domestic_x_prob_scenario, by = list(df3_s$Beach_FID, df3_s$Beach_Name), sum)
+    # colnames(temp_out) <- c('Beach_FID', 'Beach_Name', 'domestic_visitors_scenario')
+    # temp_out$'% domestic_scenario' <- (temp_out$domestic_visitors_scenario / sum(temp_out$domestic_visitors_scenario)) * 100
+    # df3_s <- merge(df3_s, temp_out, by = c('Beach_FID', 'Beach_Name'), all.x = TRUE)
+    # 
+    # cat("Total number of domestic visitors in base case:", format(sum(df3_s$domestic_x_prob_base), big.mark = ",", scientific = FALSE), "\n")
+    # cat("Total number of domestic visitors in scenario:", format(sum(df3_s$domestic_x_prob_scenario), big.mark = ",", scientific = FALSE), "\n")
+    # cat("Total number of domestic visitors drop:", format(sum(df3_s$domestic_x_prob_base) - sum(df3_s$domestic_x_prob_scenario), big.mark = ",", scientific = FALSE), "\n")
+    # 
+    # df3_s_1 <- df3
+    # df3_s_1[df3_s_1$Beach_FID == 414, 'Beach_availability'] <- 0
+    # 
+    # df3_s_1$Beach_availability <- 0
+    # 
+    # cat(nrow(df3_s_1), "\n")
+    # df3_s_1 <- merge(df3_s_1, temp_out, by = 'Beach_FID', all.x = TRUE)
+    # cat(nrow(df3_s_1), "\n")
+    # 
+    # df3_s_1 <- utility_calc_step3(df3_s_1, 'alpha_3', 'utility_scenario')
+    # 
+    # df3_s_1$exp_utility_scenario <- exp(df3_s_1$utility_scenario) * df3_s_1$Beach_availability
+    # 
+    # temp <- aggregate(df3_s_1$exp_utility_scenario, by = list(df3_s_1$LGA_FID), sum)
+    # colnames(temp) <- c('LGA_FID', 'sum_exp_scenario')
+    # temp$temp[temp$sum_exp_scenario == 0, 'sum_exp_scenario'] <- 1
+    # temp$log_sum_expscenario <- log(temp$sum_exp_scenario)
+    # temp$log_sum_expscenario[temp$sum_exp_scenario == 0] <- 0
+    # 
+    # df3_s_1 <- merge(df3_s_1, temp, by = 'LGA_FID', all.x = TRUE)
+    # 
+    # df3_s_1$prob_DO_scenario <- with(df3_s_1, exp_utility_scenario / sum_exp_scenario) * df3_s_1$Beach_availability
+    # df3_s_1$monetrize_log_sum <- (df3_s_1$log_sum_expscenario * (-1)) / (1.19 * (-0.0101) * 2)
+    # 
+    # df3_s_1$pd <- df3_s_1$'% domestic_scenario' / 100
+    # 
+    # df3_s_1$pod_scenario <- with(df3_s_1, (prob_DO_scenario * po) / pd)
+    # df3_s_1[df3_s_1$Beach_availability == 0, 'pod_scenario'] <- 0
+    # 
+    # temp <- aggregate(df3_s_1$pod_scenario, by = list(df3_s_1$Beach_FID), sum)
+    # colnames(temp) <- c('Beach_FID', 'pod_scenario_sum')
+    # df3_s_1 <- merge(df3_s_1, temp, by = 'Beach_FID', all.x = TRUE)
+    # 
+    # df3_s_1$'% pod_scenario' <- df3_s_1$pod_scenario / df3_s_1$pod_scenario_sum
+    # df3_s_1[df3_s_1$Beach_availability == 0, '% pod_scenario'] <- 0
+    # 
+    # df3_s_1$domestic_x_prob_scenario <- df3_s_1$domestic_visitors_scenario * df3_s_1$'% pod_scenario'
+    # 
+    # cat(sum(df3_s_1$domestic_x_prob_scenario), "\n")
+    # 
+    # df3$Weight <- df3$Total_Domestic_visit_by_LGA / df3$`LGA population 2023`
+    # 
+    # df3_s_1$Monetized_Logsum_Wt_scenario <- df3_s_1$monetrize_log_sum * df3$Weight
+    # 
+    # df3_s_1$LGA_Monetized_Logsum_Wt_scenario <- df3_s_1$Monetized_Logsum_Wt_scenario / 926
+
+  })
+  
+  
+  
+}
+
+
+# Create a Shiny app object ----------------------------------------------------
+
+shinyApp(ui = ui, server = server)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+name: CBAtool
+title:
+username:
+account: cbatool
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8891787
+bundleId: 7351872
+url: https://cbatool.shinyapps.io/CBAtool/
+when: 1686877918.76007
+lastSyncTime: 1686877918.76008
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.R|test1.R

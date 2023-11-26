@@ -1,0 +1,33 @@
+library(shiny)
+library(DT)
+
+ui <- fluidPage(
+  actionButton("calculate", "Calculate"),
+  DTOutput('datatable')
+)
+
+server <- function(input, output, session) {
+  # Let's assume df is your initial dataframe
+  df <- data.frame(
+    Column1 = 1:10,
+    Column2 = 11:20,
+    Column3 = rep(0, 10)  # initially filled with 0
+  )
+  
+  # ReactiveValues object
+  rv <- reactiveValues(data = df)
+  
+  observeEvent(input$calculate, {
+    # Perform the calculation when 'calculate' button is clicked
+    rv$data$Column3 <- rv$data$Column1 + rv$data$Column2
+  })
+  
+  output$datatable <- renderDT({
+    datatable(rv$data)
+  })
+}
+
+shinyApp(ui, server)
+
+
+shinyApp(ui, server)

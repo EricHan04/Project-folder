@@ -1,0 +1,472 @@
+library(dplyr)
+library(readr) 
+
+options(digits = 19)
+
+# #load the interface data for the dashboard 
+# data <- read.csv("1. interface_data.csv", stringsAsFactors = FALSE)
+
+# Step 1: calculate the total visitation
+# load LGA characteristics
+LGA_data <- read.csv("A.1 LGA data.csv", encoding = "iso-8859-1")
+colnames(LGA_data) <- c("LGA_Name", "2016_Population", "2021_Actual_Population",
+                        "2023_Projected_Population", "2011_average_weekly_income",
+                        "2021_average_weekly_income", "SEIFA")
+LGA_data$Income_normalize <- LGA_data$'2021_average_weekly_income' / max(LGA_data$'2021_average_weekly_income')
+LGA_data$SEIFA_normalize <- LGA_data$SEIFA / max(LGA_data$SEIFA)
+
+BASE_data <- read.csv("A.3 BaseData.csv", encoding = "iso-8859-1")
+colnames(BASE_data) <- c("Beach_FID", "Column1", "Beach_Name", "LGA_Name", "New_Count", "CONF", "Patrolled_B",
+                         "Iconic", "Main", "National_Park", "Open_Coast", "Surf", "Bay",
+                         "Length_B", "Width_B", "Latitude", "Longitude")
+
+BASE_data <- merge(BASE_data,
+                   LGA_data[c("LGA_Name", "2021_average_weekly_income",
+                              "2023_Projected_Population", "SEIFA")],
+                   by = "LGA_Name",
+                   all.x = TRUE)
+
+rm(LGA_data)
+gc()
+
+# load distance
+cbd_dist <- read.csv("cbd_distance_corrected.csv", encoding = "iso-8859-1")
+colnames(cbd_dist) <- c("LGA_FID", "LGA_Name", "Beach_FID", "Beach_Name", "Driving_d")
+
+print(nrow(BASE_data))
+BASE_data <- merge(BASE_data,
+                   cbd_dist[c("Beach_FID", "Driving_d")],
+                   by = "Beach_FID",
+                   all.x = TRUE)
+print(nrow(BASE_data))
+rm(LGA_data)
+gc()
+
+#calculate independent variables:
+BASE_data$N_LENGTH <- (BASE_data$`Length_B` - min(BASE_data$`Length_B`)) / 
+  (max(BASE_data$`Length_B`)) - min(BASE_data$`Length_B`)
+
+BASE_data$N_WIDTH <- (BASE_data$`Width_B` - min(BASE_data$`Width_B`)) / 
+  (max(BASE_data$`Width_B`)) - min(BASE_data$`Width_B`)
+
+BASE_data$N_INCOME <- (BASE_data$'2021_average_weekly_income' - min(BASE_data$'2021_average_weekly_income')) / 
+  (max(BASE_data$'2021_average_weekly_income') - min(BASE_data$'2021_average_weekly_income'))
+
+BASE_data$N_POP <- (BASE_data$'2023_Projected_Population' - min(BASE_data$'2023_Projected_Population')) / 
+  (max(BASE_data$'2023_Projected_Population') - min(BASE_data$'2023_Projected_Population'))
+
+BASE_data$ln_DIST <- log(BASE_data$Driving_d)
+
+#create the fitted value using the params from the iterations
+params_frame <- read.csv("benefit_transfer_params.csv", encoding = "iso-8859-1")
+
+independent_vars <- c("Iconic", "National_Park", "Surf", "N_LENGTH", "Main", "Patrolled_B", "Bay",
+                      "N_WIDTH", "N_POP", "N_INCOME", "ln_DIST")
+BASE_data$const <- 1
+
+independent_data <- as.matrix(BASE_data[, c("const", independent_vars)])
+coeff <- as.numeric(params_frame$coeff)
+
+predictions <- independent_data %*% coeff
+BASE_data$predictions <- as.vector(predictions)
+
+# revert the fitted value (LN of the raw number) to the total visitation number
+BASE_data$total_visit_base <- exp(BASE_data$predictions)
+
+# replace the total visitation calculated with the actual number if the actual number is larger than zero
+# and has "A" or "B" confidence level
+subset_condition <- !is.na(BASE_data$New_Count) & BASE_data$New_Count > 0 &
+  (BASE_data$CONF == "A" | BASE_data$CONF == "B")
+replacement_values <- BASE_data$New_Count[subset_condition]
+BASE_data$total_visit_base[subset_condition] <- replacement_values
+
+print(sum(BASE_data$total_visit_base))
+
+#Ali - Test 1
+write_csv(BASE_data, 'Step1-Ali.csv')
+
+# Step 2 - calculate international and interstate
+## load data 
+
+INT_visit_data <- read.csv("INT_visit_data.csv", encoding = "iso-8859-1")
+INT_visit_data <- INT_visit_data[, !(colnames(INT_visit_data) %in% c("International.Visitors", "Interstate.Visitors"))]
+INT_visit_data$Beach_FID <- INT_visit_data$Beach_FID + 1
+
+#get the total visitation number from step 1 and merge it to the LGA/Beach frame
+base1 <- BASE_data[c("Beach_FID", "total_visit_base")]
+colnames(base1) <- c("Beach_FID", "total_visit_base1")
+INT_visit_data <- merge(INT_visit_data, base1, by = "Beach_FID", all.x = TRUE)
+INT_visit_data$Beach_availability <- 1
+
+#get the actual number of international and interstate number
+base2 <- read.csv("international_interstate_visitors_number.csv", encoding = "iso-8859-1")
+base2_1 <- base2[c(1, 7)]
+colnames(base2_1) <- c("LGA_FID", "international_visitors")
+base2_1 <- base2_1[3:130, ]
+base2_1$international_visitors <- as.numeric(gsub("NP", "0.001", base2_1$international_visitors)) * 1000
+base2_1$LGA_FID <- as.integer(base2_1$LGA_FID)
+
+base2_2 <- base2[c(1, 11)]
+colnames(base2_2) <- c("LGA_FID", "interstate_visitors")
+base2_2 <- base2_2[3:130, ]
+base2_2$interstate_visitors <- as.numeric(gsub("NP", "0.001", base2_2$interstate_visitors)) * 1000
+base2_2$LGA_FID <- as.integer(base2_2$LGA_FID)
+
+# merge it to the LGA/Beach frame and replace the new international and interstate
+check1 <- sum(base2_1$international_visitors)
+check2 <- sum(base2_2$interstate_visitors)
+print(paste("check1", check1))
+print(paste("check2", check2))
+
+INT_visit_data <- merge(INT_visit_data, base2_1, by = "LGA_FID", all.x = TRUE)
+INT_visit_data <- merge(INT_visit_data, base2_2, by = "LGA_FID", all.x = TRUE)
+
+rm(base2_1)
+rm(base2_2)
+gc()
+
+# merge the driving distance from each LGA to each Beach
+lga_dist <- read.csv("lga_distance.csv", encoding = "iso-8859-1")
+colnames(lga_dist) <- c("LGA_FID", "LGA_Name", "Beach_FID", "Beach_Name", "Driving_d_LGA_Beach")
+
+INT_visit_data <- merge(INT_visit_data, lga_dist[c("LGA_FID", "Beach_FID", "Driving_d_LGA_Beach")], by = c("LGA_FID", "Beach_FID"), all.x = TRUE)
+rm(lga_dist)
+gc()
+
+INT_visit_data$Distance_m <- INT_visit_data$Driving_d_LGA_Beach
+INT_visit_data <- INT_visit_data[, !(colnames(INT_visit_data) %in% c("Driving_d_LGA_Beach", "type_Modified_Used", "NEAR_RANK", "DIST_CBD_Km_Ali"))]
+
+colnames(INT_visit_data) <- c("LGA_FID", "Beach_FID", "Distance_m", "LGA_Name", 
+                              "Beach_Name", "Iconic", "Main", "National_Park", "Open_Coast", "Surf", "Bay",
+                              "Length_B", "Width_B", "Changing room", "Patrolled_B",
+                              "Restaurant", "Park", "total_visit_base1", "Beach_availability",
+                              "international_visitors", "interstate_visitors")
+
+
+## from pre-determined alpha, calculate the visitation from internaltional and interstate
+### For BASE - international
+# First, assign alpha as zero
+df1 <- INT_visit_data
+alpha1 <- read.csv("alpha1_international-step2.csv", encoding = "iso-8859-1")
+df1 <- merge(df1, alpha1, by = "Beach_FID", all.x = TRUE, suffixes = c("", "_alpha1"))
+
+rm(alpha1)
+gc()
+
+# Define utility calculation function
+utility_calc_step2 <- function(frame, alpha_name, utility_name) {
+  frame[[utility_name]] <- 0
+  
+  frame[[utility_name]] <- frame[[alpha_name]] +
+    (frame[["Iconic"]] * 0.114) +
+    (frame[["Surf"]] * 0.134) +
+    (frame[["Bay"]] * 0.184) +
+    ((frame[["Length_B"]] / 1000) * (-0.00549)) +
+    (frame[["Width_B"]] * 0.0127) +
+    (frame[["Changing room"]] * 0.404) +
+    (frame[["Patrolled_B"]] * 0.379) +
+    (frame[["Restaurant"]] * 0.259) +
+    (frame[["Park"]] * 0.257) +
+    ((frame[["Distance_m"]] / 1000) * (-0.0101))
+  
+  frame[[utility_name]] <- frame[[utility_name]] * frame[["Beach_availability"]]
+  
+  return(frame)
+}
+
+df1 <- utility_calc_step2(df1, "alpha_1", "utility_base")
+
+# Calculate exponential of utility
+df1[["exp_utility_base"]] <- exp(df1[["utility_base"]]) * df1[["Beach_availability"]]
+
+# Group by LGA_FID and calculate the sum of exp_utility for each LGA
+temp <- aggregate(df1[["exp_utility_base"]], by = list(df1[["LGA_FID"]]), sum)
+colnames(temp) <- c("LGA_FID", "sum_exp_base")
+df1 <- merge(df1, temp, by = "LGA_FID", all.x = TRUE)
+
+# Calculate probability
+df1[["prob_base"]] <- with(df1, exp_utility_base / sum_exp_base) * df1[["Beach_availability"]]
+
+df1[["international_x_prob_base"]] <- with(df1, international_visitors * prob_base * Beach_availability)
+
+temp <- aggregate(df1[["international_x_prob_base"]], by = list(df1[["Beach_FID"]]), sum)
+colnames(temp) <- c("Beach_FID", "international_visit_beach_base")
+df1 <- merge(df1, temp, by = "Beach_FID", all.x = TRUE)
+
+diff_total_international_visitors <- sum(unique(df1[c("Beach_FID", "international_visit_beach_base")])$international_visit_beach_base) - sum(unique(INT_visit_data[c("LGA_FID", "international_visitors")])$international_visitors)
+print(paste("Differences in the total international visitors between the sum of Beach and the sum of LGA: ", diff_total_international_visitors))
+
+rm(temp)
+gc()
+
+### For BASE - interstate
+# Define utility calculation function
+utility_calc_step2 <- function(frame, alpha_name, utility_name) {
+  frame[[utility_name]] <- 0
+  
+  frame[[utility_name]] <- frame[[alpha_name]] +
+    (frame[["Iconic"]] * 0.114) +
+    (frame[["Surf"]] * 0.134) +
+    (frame[["Bay"]] * 0.184) +
+    ((frame[["Length_B"]] / 1000) * (-0.00549)) +
+    (frame[["Width_B"]] * 0.0127) +
+    (frame[["Changing room"]] * 0.404) +
+    (frame[["Patrolled_B"]] * 0.379) +
+    (frame[["Restaurant"]] * 0.259) +
+    (frame[["Park"]] * 0.257) +
+    ((frame[["Distance_m"]] / 1000) * (-0.0101))
+  
+  frame[[utility_name]] <- frame[[utility_name]] * frame[["Beach_availability"]]
+  
+  return(frame)
+}
+
+df2 <- INT_visit_data
+alpha2 <- read.csv("alpha2_interstate-step2.csv", encoding = "iso-8859-1")
+df2 <- merge(df2, alpha2, by = "Beach_FID", all.x = TRUE)
+
+rm(alpha2)
+gc()
+
+df2 <- utility_calc_step2(df2, "alpha_2", "utility_base")
+
+# Calculate exponential of utility
+df2[["exp_utility_base"]] <- exp(df2[["utility_base"]]) * df2[["Beach_availability"]]
+
+# Group by LGA_FID and calculate the sum of exp_utility for each LGA
+temp <- aggregate(df2[["exp_utility_base"]], by = list(df2[["LGA_FID"]]), sum)
+colnames(temp) <- c("LGA_FID", "sum_exp_base")
+df2 <- merge(df2, temp, by = "LGA_FID", all.x = TRUE)
+
+# Calculate probability
+df2[["prob_base"]] <- with(df2, exp_utility_base / sum_exp_base) * df2[["Beach_availability"]]
+
+df2[["interstate_x_prob_base"]] <- with(df2, interstate_visitors * prob_base * Beach_availability)
+
+temp <- aggregate(df2[["interstate_x_prob_base"]], by = list(df2[["Beach_FID"]]), sum)
+colnames(temp) <- c("Beach_FID", "interstate_visit_beach_base")
+df2 <- merge(df2, temp, by = "Beach_FID", all.x = TRUE)
+
+diff_total_interstate_visitors <- sum(unique(df2[c("Beach_FID", "interstate_visit_beach_base")])$interstate_visit_beach_base) - sum(unique(INT_visit_data[c("LGA_FID", "interstate_visitors")])$interstate_visitors)
+print(paste("Differences in the total interstate visitors between the sum of Beach and the sum of LGA: ", diff_total_interstate_visitors))
+
+rm(temp)
+gc()
+
+### create a table to workout the domestic visitors 
+final_table_base <- merge(
+  unique(df1[c("Beach_FID", "Beach_Name", "total_visit_base1", "alpha_1", "international_visit_beach_base")]),
+  unique(df2[c("Beach_FID", "Beach_Name", "alpha_2", "interstate_visit_beach_base")]),
+  by = c("Beach_FID", "Beach_Name"),
+  all.x = TRUE
+)
+
+print(nrow(final_table_base))
+
+final_table_base$domestic_visit_beach <- final_table_base$total_visit_base1 - final_table_base$international_visit_beach_base - final_table_base$interstate_visit_beach_base
+
+cat("should be zero here: ", sum(final_table_base$international_visit_beach_base) - check1)
+cat("should be zero here: ", sum(final_table_base$interstate_visit_beach_base) - check2)
+cat("total visit: ", sum(final_table_base$total_visit_base1))
+cat("total international visit: ", sum(final_table_base$international_visit_beach_base))
+cat("total interstate visit: ", sum(final_table_base$interstate_visit_beach_base))
+cat("total domestic visit: ", sum(final_table_base$domestic_visit_beach))
+
+cat("% of international visit: ", sum(final_table_base$international_visit_beach_base) / sum(final_table_base$total_visit_base1) * 100)
+cat("% of interstate visit: ", sum(final_table_base$interstate_visit_beach_base) / sum(final_table_base$total_visit_base1) * 100)
+cat("% of domestic visit: ", sum(final_table_base$domestic_visit_beach) / sum(final_table_base$total_visit_base1) * 100)
+
+final_table_base$"% international" <- final_table_base$international_visit_beach_base / sum(final_table_base$international_visit_beach_base) * 100
+final_table_base$"% interstate" <- final_table_base$interstate_visit_beach_base / sum(final_table_base$interstate_visit_beach_base) * 100
+final_table_base$"% domestic" <- final_table_base$domestic_visit_beach / sum(final_table_base$domestic_visit_beach) * 100
+final_table_base$"% total" <- final_table_base$total_visit_base1 / sum(final_table_base$total_visit_base1) * 100
+
+final_table_base <- final_table_base[c(
+  "Beach_FID", "Beach_Name", "total_visit_base1", "% total",
+  "international_visit_beach_base", "% international",
+  "interstate_visit_beach_base", "% interstate", "domestic_visit_beach",
+  "% domestic"
+)]
+
+#Total visitation estimates using BT function
+write_csv(final_table_base, 'Total visit numbers by category.csv')
+
+# step3
+## calc domestic visitors for each postcode-beach pair - BASE
+utility_calc_step3 <- function(frame, alpha_name, utility_name) {
+  frame[[utility_name]] <- 0
+  frame[[utility_name]] <- frame[[alpha_name]] +
+    (frame$Iconic * 0.114) +
+    (frame$Surf * 0.134) +
+    (frame$Bay * 0.184) +
+    ((frame$`Length_B` / 1000) * (-0.00549)) +
+    (frame$`Width_B` * 0.0127) +
+    (frame$`Changing room` * 0.404) +
+    (frame$Patrolled_B * 0.379) +
+    (frame$Restaurant * 0.259) +
+    (frame$Park * 0.257) +
+    ((frame$Distance_m / 1000) * (-0.0101))
+  frame[[utility_name]] <- frame[[utility_name]] * frame$Beach_availability
+  return(frame)
+}
+
+df3 <- df2[, c(
+  "LGA_FID", "Beach_FID", "Distance_m", "LGA_Name", "Beach_Name", "Iconic",
+  "Main", "National_Park", "Open_Coast", "Surf", "Bay", "Length_B",
+  "Width_B", "Changing room", "Patrolled_B", "Restaurant", "Park", "Beach_availability"
+)]
+
+df3 <- merge(df3,
+             final_table_base[c("Beach_FID", "domestic_visit_beach")],
+             by = "Beach_FID",
+             all.x = TRUE
+)
+print(nrow(df3))
+
+LGA_data_new <- read.csv("LGA 2023 population and Seifa score.csv", encoding = "iso-8859-1")
+colnames(LGA_data_new) <- c("LGA_Name", "LGA population 2023", "SEIFA")
+
+LGA_data_new$LGA_Name <- recode(LGA_data_new$LGA_Name,
+                                'Armidale' = 'Armidale Regional',
+                                'Bathurst' = 'Bathurst Regional',
+                                'Campbelltown (NSW)' = 'Campbelltown',
+                                'Central Coast (NSW)' = 'Central Coast',
+                                'Gundagai' = 'Cootamundra-Gundagai Regional',
+                                'Dubbo' = 'Dubbo Regional',
+                                'Greater Hume' = 'Greater Hume Shire',
+                                'Mid-Western' = 'Mid-Western Regional',
+                                'Queanbeyan-Palerang' = 'Queanbeyan-Palerang Regional',
+                                'Snowy Monaro' = 'Snowy Monaro Regional',
+                                'Sutherland' = 'Sutherland Shire',
+                                'Tamworth' = 'Tamworth Regional',
+                                'The Hills' = 'The Hills Shire',
+                                'Upper Hunter' = 'Upper Hunter Shire',
+                                'Upper Lachlan' = 'Upper Lachlan Shire',
+                                'Warrumbungle' = 'Warrumbungle Shire')
+
+LGA_data_new$SEIFA_weighted <- LGA_data_new$SEIFA / sum(LGA_data_new$SEIFA)
+
+print(nrow(df3))
+df3 <- merge(df3, LGA_data_new, by = "LGA_Name", all.x = TRUE)
+
+rm(LGA_data_new)
+gc()
+
+print(nrow(df3))
+
+alpha3 <- read.csv("alpha1_domestic-step3.csv", encoding = "iso-8859-1")
+
+df3 <- merge(df3, alpha3, by = "Beach_FID", all.x = TRUE)
+print(nrow(df3))
+rm(alpha3)
+gc()
+
+df3 <- utility_calc_step3(df3, "alpha_3", "utility_base")
+
+df3$exp_utility_base <- exp(df3$utility_base) * df3$Beach_availability
+
+temp <- aggregate(df3$exp_utility_base, by = list(df3$LGA_FID), FUN = sum)
+colnames(temp) <- c("LGA_FID", "sum_exp_base")
+temp$sum_exp_base[temp$sum_exp_base == 0] <- 1
+temp$log_sum_expbase <- log(temp$sum_exp_base)
+temp$log_sum_expbase[temp$sum_exp_base == 0] <- 0
+
+df3 <- merge(df3, temp, by = "LGA_FID", all.x = TRUE)
+
+df3$prob_DO <- df3$exp_utility_base / df3$sum_exp_base * df3$Beach_availability
+df3$monetrize_log_sum <- -df3$log_sum_expbase / ((1.19 * -0.0101)*2)
+
+df3 <- df3 %>%
+  rename(LGA_population_2023 = `LGA population 2023`)
+df3$gravity_score <- with(df3, (LGA_population_2023 * SEIFA_weighted) / Distance_m)
+
+temp <- aggregate(df3$gravity_score, by = list(df3$LGA_FID), FUN = sum)
+colnames(temp) <- c("LGA_FID", "gravity_score_sum_LGA")
+df3 <- merge(df3, temp, by = "LGA_FID", all.x = TRUE)
+
+df3$po <- df3$gravity_score_sum_LGA / sum(df3$gravity_score, na.rm = TRUE)
+
+df3 <- merge(df3, final_table_base[c("Beach_FID", "% domestic")], by = "Beach_FID", all.x = TRUE)
+print(nrow(df3))
+
+df3$pd <- df3$"% domestic" / 100
+
+df3$pod1 <- with(df3, (prob_DO * po) / pd)
+df3$pod1[df3$Beach_availability == 0] <- 0
+
+temp <- aggregate(df3$pod1, by = list(df3$Beach_FID), FUN = sum, na.rm = TRUE)
+colnames(temp) <- c("Beach_FID", "pod1_sum")
+df3 <- merge(df3, temp, by = "Beach_FID", all.x = TRUE)
+print(nrow(df3))
+
+df3$"% pod1" <- df3$pod1 / df3$pod1_sum
+df3$"% pod1"[df3$Beach_availability == 0] <- 0
+
+df3$domestic_x_prob_base <- df3$domestic_visit_beach * df3$"% pod1"
+temp <- aggregate(df3$domestic_x_prob_base, by = list(df3$LGA_FID), FUN = sum)
+colnames(temp) <- c("LGA_FID", "Total_Domestic_visit_by_LGA")
+df3 <- merge(df3, temp, by = "LGA_FID", all.x = TRUE)
+
+print(sum(df3$domestic_x_prob_base, na.rm = TRUE))
+
+df3$Weight <- df3$Total_Domestic_visit_by_LGA / df3$LGA_population_2023
+
+df3$Monetized_Logsum_Wt_Base <- df3$monetrize_log_sum * df3$Weight
+
+rm(temp)
+gc()
+
+
+
+df1_s <- df1
+df1_s <- select(df1_s, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+df2_s <- df2
+df2_s <- select(df2_s, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+df3_s <- df3
+df3_s <- select(df3_s, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+df3_s_1 <- df3
+df3_s_1 <- select(df3_s_1, -c(Patrolled_B, Length_B, Width_B, Beach_availability))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

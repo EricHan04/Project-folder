@@ -1,0 +1,927 @@
+LGA_Name,Beach_FID,Beach_Name,Width_B,Length_B,Patrolled_B,Width_S,Length_S,Patrolled_S,Close_S
+Tweed,1,Duranbah / Flagstaff,100,630,Yes,100,630,Yes,No
+Tweed,2,Little d'bah,10,70,No,10,70,No,No
+Tweed,3,Letitia Spit,30,80,No,30,80,No,No
+Tweed,4,Letitia ,100,1650,No,100,1650,No,No
+Tweed,5,Fingal,100,1650,Yes,100,1650,Yes,No
+Tweed,6,Dreamtime,25,1000,No,25,1000,No,No
+Tweed,7,North Kingscliff,30,1000,Yes,30,1000,Yes,No
+Tweed,8,Kingscliff / Cudgen,30,1200,Yes,30,1200,Yes,No
+Tweed,9,South Kingscliff,40,1000,Yes,40,1000,Yes,No
+Tweed,10,Salt,40,500,Yes,40,500,Yes,No
+Tweed,11,Casuarina ,40,3000,Yes,40,3000,Yes,No
+Tweed,12,Cotton,35,1000,No,35,1000,No,No
+Tweed,13,Cabarita,40,2500,Yes,40,2500,Yes,No
+Tweed,14,Norries Head,80,200,No,80,200,No,No
+Tweed,15,Maggies,120,2500,No,120,2500,No,No
+Tweed,16,Hastings Point ,40,350,Yes,40,350,Yes,No
+Tweed,17,Cudgera,140,2925,No,140,2925,No,No
+Tweed,18,Pottsville North,100,245,Yes,100,245,Yes,No
+Tweed,19,Mooball,80,13000,Yes,80,13000,Yes,No
+Tweed,20,Wooyung,100,2630,No,100,2630,No,No
+Byron,21,Crabbes Creek,110,3150,No,110,3150,No,No
+Byron,22,South Golden ,100,1000,Yes,100,1000,Yes,No
+Byron,23,New Brighton  / Ocean Shores,100,4500,No,100,4500,No,No
+Byron,24,Harrys Hill,15,100,No,15,100,No,No
+Byron,25,Torakina,11,80,No,11,80,No,No
+Byron,26,Brunswick Heads,120,10600,Yes,120,10600,Yes,No
+Byron,27,Tyagarah,25,2000,Yes,25,2000,Yes,No
+Byron,28,Little Wategos,15,150,No,15,150,No,No
+Byron,29,Wategos,40,575,Yes,40,575,Yes,No
+Byron,30,The Pass,50,800,Yes,50,800,Yes,No
+Byron,31,Belongil,180,2500,Yes,180,2500,Yes,No
+Byron,32,Main (Byron Bay),90,800,Yes,90,800,Yes,No
+Byron,33,Clarks,50,1400,Yes,50,1400,Yes,No
+Byron,34,Tallows,150,2500,Yes,150,2500,Yes,No
+Byron,35,Suffolk Park,150,3000,Yes,150,3000,Yes,No
+Byron,36,Broken Head ,150,1000,Yes,150,1000,Yes,No
+Byron,37,Kings 1,30,100,No,30,100,No,No
+Byron,38,Kings 2,60,250,No,60,250,No,No
+Byron,39,Brays,100,250,No,100,250,No,No
+Byron,40,Whites,50,350,No,50,350,No,No
+Ballina,41,Seven Mile  / Lennox Head,100,8500,Yes,100,8500,Yes,No
+Ballina,42,Boulder North,60,600,No,60,600,No,No
+Ballina,43,Boulder South / Iron Peg,30,100,No,30,100,No,No
+Ballina,44,Sharpes,90,1300,Yes,90,1300,Yes,No
+Ballina,45,Angels North,100,925,Yes,100,925,Yes,No
+Ballina,46,Angels South,70,700,No,70,700,No,No
+Ballina,47,Shelly,90,700,Yes,90,700,Yes,No
+Ballina,48,Lighthouse,150,700,Yes,150,700,Yes,No
+Ballina,49,South Ballina,160,4950,No,160,4950,No,No
+Ballina,50,Beswicks,100,2930,No,100,2930,No,No
+Ballina,51,Robins,120,2500,No,120,2500,No,No
+Ballina,52,Patches,100,7500,No,100,7500,No,No
+Richmond Valley,53,Broadwater,100,4700,No,100,4700,No,No
+Richmond Valley,54,Airforce,120,4550,No,120,4550,No,No
+Richmond Valley,55,Evans Head,150,2880,Yes,150,2880,Yes,No
+Richmond Valley,56,Razorback / Shark Bay / Little,80,120,No,80,120,No,No
+Richmond Valley,57,Red Hill,40,150,No,40,150,No,No
+Richmond Valley,58,Chinamans North,100,100,No,100,100,No,No
+Richmond Valley,59,Chinamanâs South,100,1000,No,100,1000,No,No
+Richmond Valley,60,New Zealand ,50,625,No,50,625,No,No
+Clarence Valley,61,Ten Mile,140,26,No,140,26,No,No
+Clarence Valley,62,Shark Bay ,110,2500,No,110,2500,No,No
+Clarence Valley,63,Woody Bay,50,1200,No,50,1200,No,No
+Clarence Valley,64,Woody Back,100,1350,No,100,1350,No,No
+Clarence Valley,65,Frazer Reef,100,150,No,100,150,No,No
+Clarence Valley,66,Iluka Bluff,60,1200,Yes,60,1200,Yes,No
+Clarence Valley,67,Iluka,180,2600,No,180,2600,No,No
+Clarence Valley,68,Moriartys Wall,20,500,No,20,500,No,No
+Clarence Valley,69,Iluka Wall  (Wave Trap),30,200,No,30,200,No,No
+Clarence Valley,70,Turners,200,375,Yes,200,375,Yes,No
+Clarence Valley,71,Whiting ,20,700,No,20,700,No,No
+Clarence Valley,72,Yamba Main,80,250,Yes,80,250,Yes,No
+Clarence Valley,73,Convent,40,100,No,40,100,No,No
+Clarence Valley,74,Pippi,120,1600,Yes,120,1600,Yes,No
+Clarence Valley,75,Barri ,120,1500,No,120,1500,No,No
+Clarence Valley,76,Green Point Cove,50,250,No,50,250,No,No
+Clarence Valley,77,Angourie / Spooky ,60,440,No,60,440,No,No
+Clarence Valley,78,Angourie Point ,35,100,No,35,100,No,No
+Clarence Valley,79,Back Angourie ,140,1500,No,140,1500,No,No
+Clarence Valley,80,Little Shelly,20,125,No,20,125,No,No
+Clarence Valley,81,Shelly,60,800,No,60,800,No,No
+Clarence Valley,82,Caves,70,2600,No,70,2600,No,No
+Clarence Valley,83,Plumbago,140,2800,No,140,2800,No,No
+Clarence Valley,84,Red Cliff,60,250,No,60,250,No,No
+Clarence Valley,85,Brooms Head Main ,120,4500,Yes,120,4500,Yes,No
+Clarence Valley,86,North Sandon,180,7300,No,180,7300,No,No
+Clarence Valley,87,Sandon River,5,300,No,5,300,No,No
+Clarence Valley,88,Little Pebbly,15,100,No,15,100,No,No
+Clarence Valley,89,Pebbly  (Clarence),25,375,No,25,375,No,No
+Clarence Valley,90,Hatchcover,15,150,No,15,150,No,No
+Clarence Valley,91,Sandon / Illaroo,130,9200,No,130,9200,No,No
+Clarence Valley,92,Illaroo South ,40,200,No,40,200,No,No
+Clarence Valley,93,Rocky Point,30,250,No,30,250,No,No
+Clarence Valley,94,Minnie Water Main,100,1400,Yes,100,1400,Yes,No
+Clarence Valley,95,Pipers Hill / Boat Harbour,40,125,No,40,125,No,No
+Clarence Valley,96,Tree Point 1,15,50,No,15,50,No,No
+Clarence Valley,97,Tree Point 2,35,150,No,35,150,No,No
+Clarence Valley,98,Tree Point 3,30,100,No,30,100,No,No
+Clarence Valley,99,Minnie Water Back ,100,2900,No,100,2900,No,No
+Clarence Valley,100,Diggers Camp Nth / Where Ever  ,80,300,No,80,300,No,No
+Clarence Valley,101,Diggers Camp,70,500,No,70,500,No,No
+Clarence Valley,102,Stony ,30,150,No,30,150,No,No
+Clarence Valley,103,Wilsons / Bare ,25,200,No,25,200,No,No
+Clarence Valley,104,Wooli,90,6600,Yes,90,6600,Yes,No
+Clarence Valley,105,Jones,140,750,No,140,750,No,No
+Clarence Valley,106,Barcoongere Rocks North,30,100,No,30,100,No,No
+Clarence Valley,107,Barcoongere Rocks South,50,300,No,50,300,No,No
+Clarence Valley,108,Freshwater ,40,2700,No,40,2700,No,No
+Coffs Harbour,109,Pebbly  (Coffs Harbour,50,900,No,50,900,No,No
+Coffs Harbour,110,Station Creek,150,4300,No,150,4300,No,No
+Coffs Harbour,111,Little  (Coffs Harbour),50,200,No,50,200,No,No
+Coffs Harbour,112,Red Rock,60,5200,Yes,60,5200,Yes,No
+Coffs Harbour,113,Corindi North,50,350,No,50,350,No,No
+Coffs Harbour,114,Corindi,130,3200,Yes,130,3200,Yes,No
+Coffs Harbour,115,Arrawarra Beach,60,750,No,60,750,No,No
+Coffs Harbour,116,Oceanview,100,900,No,100,900,No,No
+Coffs Harbour,117,Mullaway,150,700,No,150,700,No,No
+Coffs Harbour,118,Cabins/South Mullaway,60,650,No,60,650,No,No
+Coffs Harbour,119,Mullaway Head,60,50,No,60,50,No,No
+Coffs Harbour,120,Safety  (Darkhum),150,1200,No,150,1200,No,No
+Coffs Harbour,121,Woolgoolga ,100,1700,Yes,100,1700,Yes,No
+Coffs Harbour,122,Woolgoolga Back ,120,1800,No,120,1800,No,No
+Coffs Harbour,123,Hearnes Lake,140,2100,No,140,2100,No,No
+Coffs Harbour,124,Sandy,140,1200,No,140,1200,No,No
+Coffs Harbour,125,Fiddamans,110,1200,No,110,1200,No,No
+Coffs Harbour,126,Emerald,100,800,Yes,100,800,Yes,No
+Coffs Harbour,127,Shelly,30,625,No,30,625,No,No
+Coffs Harbour,128,Moonee,140,4600,No,140,4600,No,No
+Coffs Harbour,129,Sapphire,60,2375,No,60,2375,No,No
+Coffs Harbour,130,Riecks Point,100,400,No,100,400,No,No
+Coffs Harbour,131,Pelican / Nautilus ,60,750,No,60,750,No,No
+Coffs Harbour,132,Campbells,60,800,No,60,800,No,No
+Coffs Harbour,133,Hills North ,100,150,No,100,150,No,No
+Coffs Harbour,134,Hills/Opal Cove,80,600,No,80,600,No,No
+Coffs Harbour,135,Korora,70,650,No,70,650,No,No
+Coffs Harbour,136,Charlesworth Bay,40,500,No,40,500,No,No
+Coffs Harbour,137,Diggers North,90,300,No,90,300,No,No
+Coffs Harbour,138,Diggers South / Little Diggesr,100,825,Yes,100,825,Yes,No
+Coffs Harbour,139,Macauleys Headland,30,50,No,30,50,No,No
+Coffs Harbour,140,Park  North,60,1500,Yes,60,1500,Yes,No
+Coffs Harbour,141,Park  South / North Wall,120,600,No,120,600,No,No
+Coffs Harbour,142,Jetty ,100,1400,No,100,1400,No,No
+Coffs Harbour,143,Gallows,20,150,No,20,150,No,No
+Coffs Harbour,144,Boambee,140,5700,No,140,5700,No,No
+Coffs Harbour,145,Murrays/Sawtell,140,2080,Yes,140,2080,Yes,No
+Coffs Harbour,146,Bonville / Bongil / Bundagen,140,6800,No,140,6800,No,No
+Bellingen,147,North,90,8750,Yes,90,8750,Yes,No
+Bellingen,148,Hungry Head North,100,2500,No,100,2500,No,No
+Bellingen,149,Hungry Head,90,2000,Yes,90,2000,Yes,No
+Bellingen,150,Schnapper,80,1000,No,80,1000,No,No
+Bellingen,151,Wenonah Head / Valla,80,5200,No,80,5200,No,No
+Nambucca Valley,152,Valla Head / Walla ,40,425,Yes,40,425,Yes,No
+Nambucca Valley,153,South Valla,150,650,No,150,650,No,No
+Nambucca Valley,154,Hyland,80,3000,No,80,3000,No,No
+Nambucca Valley,155,Nambucca North,90,800,No,90,800,No,No
+Nambucca Valley,156,Nambucca Main,60,600,Yes,60,600,Yes,No
+Nambucca Valley,157,Beilbys,70,300,No,70,300,No,No
+Nambucca Valley,158,Shelly,50,535,No,50,535,No,No
+Nambucca Valley,159,V Wall,20,20,No,20,20,No,No
+Nambucca Valley,160,Entrance / Wellington,100,200,No,100,200,No,No
+Nambucca Valley,161,Forster - Scotts Head,150,11250,Yes,150,11250,Yes,No
+Nambucca Valley,162,Little,100,150,No,100,150,No,No
+Nambucca Valley,163,Scotts Head  / Wakki,30,150,Yes,30,150,Yes,No
+Kempsey,164,Middle Head ,70,2200,No,70,2200,No,No
+Kempsey,165,Grassy Head ,90,1975,Yes,90,1975,Yes,No
+Kempsey,166,Stuarts Point ,90,9000,No,90,9000,No,No
+Kempsey,167,Back ,70,1625,No,70,1625,No,No
+Kempsey,168,Trial Bay Goal,20,1850,No,20,1850,No,No
+Kempsey,169,Horseshoe Bay,50,150,Yes,50,150,Yes,No
+Kempsey,170,Front  (South West Rocks),120,1850,Yes,120,1850,Yes,No
+Kempsey,171,Little Bay,60,200,No,60,200,No,No
+Kempsey,172,Gap ,140,900,No,140,900,No,No
+Kempsey,173,Cobble ,50,40,No,50,40,No,No
+Kempsey,174,North Smoky 1,50,100,No,50,100,No,No
+Kempsey,175,North Smoky 2,100,150,No,100,150,No,No
+Kempsey,176,North Smoky 3,100,350,No,100,350,No,No
+Kempsey,177,South Smoky 1,200,2500,No,200,2500,No,No
+Kempsey,178,South Smoky 2,200,10,No,200,10,No,No
+Kempsey,179,Hat Head,90,2000,Yes,90,2000,Yes,No
+Kempsey,180,Gap ,40,200,No,40,200,No,No
+Kempsey,181,Connors ,60,350,No,60,350,No,No
+Kempsey,182,Third ,50,200,No,50,200,No,No
+Kempsey,183,Killick / Crescent Head / Front ,40,15200,No,40,15200,No,No
+Kempsey,184,Killick  North,150,8000,No,150,8000,No,No
+Kempsey,185,Killick  South,100,7,Yes,100,7,Yes,No
+Kempsey,186,Pebbly  / Shelly ,30,375,No,30,375,No,No
+Kempsey,187,Goolawah  / Back ,100,6600,No,100,6600,No,No
+Kempsey,188,Racecourse / Sunset ,100,1075,No,100,1075,No,No
+Kempsey,189,Delicate Nobby,120,2000,No,120,2000,No,No
+Kempsey,190,Big Hill (2)   (The Rock),80,50,No,80,50,No,No
+Kempsey,191,Barries,80,3000,No,80,3000,No,No
+Port Macquarie-Hastings,192,Point Plomer  (Fingers),100,300,No,100,300,No,No
+Port Macquarie-Hastings,193,Queens Head,70,200,No,70,200,No,No
+Port Macquarie-Hastings,194,North Shore ,100,13050,No,100,13050,No,No
+Port Macquarie-Hastings,195,Pelican Point / North Breakwall  / Pilot ,50,100,No,50,100,No,No
+Port Macquarie-Hastings,196,Town,50,625,Yes,50,625,Yes,No
+Port Macquarie-Hastings,197,Oxley ,60,250,No,60,250,No,No
+Port Macquarie-Hastings,198,Rocky ,40,425,No,40,425,No,No
+Port Macquarie-Hastings,199,Flynns ,60,500,Yes,60,500,Yes,No
+Port Macquarie-Hastings,200,Nobbys / The Dog ,50,400,No,50,400,No,No
+Port Macquarie-Hastings,201,Shelly,90,750,No,90,750,No,No
+Port Macquarie-Hastings,202,Pandanus Cove,20,50,No,20,50,No,No
+Port Macquarie-Hastings,203,Miners North,40,350,No,40,350,No,No
+Port Macquarie-Hastings,204,Miners South,50,600,No,50,600,No,No
+Port Macquarie-Hastings,205,Tacking Point North / Little Bay,40,100,No,40,100,No,No
+Port Macquarie-Hastings,206,Tacking Point - Lighthouse,160,680,Yes,160,680,Yes,No
+Port Macquarie-Hastings,207,Lighthouse ,100,10200,Yes,100,10200,Yes,No
+Port Macquarie-Hastings,208,Lake Cathie,40,1900,Yes,40,1900,Yes,No
+Port Macquarie-Hastings,209,Middle Rock ,40,100,No,40,100,No,No
+Port Macquarie-Hastings,210,Rainbow / Bonny Hills,70,2500,Yes,70,2500,Yes,No
+Port Macquarie-Hastings,211,Boat Ramp,30,200,No,30,200,No,No
+Port Macquarie-Hastings,212,Bartletts - Sponys Bay,50,300,No,50,300,No,No
+Port Macquarie-Hastings,213,Shark,160,400,No,160,400,No,No
+Port Macquarie-Hastings,214,North Haven / Grants ,100,3000,Yes,100,3000,Yes,No
+Port Macquarie-Hastings,215,Pilot ,110,250,No,110,250,No,No
+Port Macquarie-Hastings,216,Wash House,60,800,No,60,800,No,No
+Port Macquarie-Hastings,217,Pebbly  (Port Macquarie-Hastings),30,50,No,30,50,No,No
+Port Macquarie-Hastings,218,Dunbogan ,120,9350,No,120,9350,No,No
+Mid-Coast,219,Kylie ,100,400,No,100,400,No,No
+Mid-Coast,220,Crowdy Head ,100,14800,Yes,100,14800,Yes,No
+Mid-Coast,221,Harrington ,90,5600,No,90,5600,No,No
+Mid-Coast,222,Manning Point ,100,10000,No,100,10000,No,No
+Mid-Coast,223,Old Bar,120,6000,Yes,120,6000,Yes,No
+Mid-Coast,224,Saltwater / Wallabi,60,1000,No,60,1000,No,No
+Mid-Coast,225,Saltwater / Badges,70,2000,No,70,2000,No,No
+Mid-Coast,226,"Diamond (Back Saltwater, Back)",90,3000,Yes,90,3000,Yes,No
+Mid-Coast,227,Diamond South ,30,150,No,30,150,No,No
+Mid-Coast,228,Shelly,40,400,No,40,400,No,No
+Mid-Coast,229,Black Head ,70,1580,Yes,70,1580,Yes,No
+Mid-Coast,230,Pebbly,35,200,No,35,200,No,No
+Mid-Coast,231,Diamond Reef ,150,300,No,150,300,No,No
+Mid-Coast,232,Nine Mile ,30,11700,No,30,11700,No,No
+Mid-Coast,233,Tuncurry ,90,5700,No,90,5700,No,No
+Mid-Coast,234,Tuncurry Rock Pool,30,80,No,30,80,No,No
+Mid-Coast,235,Forster Main ,120,500,Yes,120,500,Yes,No
+Mid-Coast,236,Pebbly,70,250,No,70,250,No,No
+Mid-Coast,237,One Mile ,110,1300,Yes,110,1300,Yes,No
+Mid-Coast,238,Burgess ,30,300,No,30,300,No,No
+Mid-Coast,239,McBrides ,80,200,No,80,200,No,No
+Mid-Coast,240,Cape Hawke North ,20,30,No,20,30,No,No
+Mid-Coast,241,Cape Hawke South ,30,50,No,30,50,No,No
+Mid-Coast,242,Janies Corner,80,200,No,80,200,No,No
+Mid-Coast,243,Seven Mile ,120,9700,No,120,9700,No,No
+Mid-Coast,244,Lindeman Cove,30,100,No,30,100,No,No
+Mid-Coast,245,Shelly,50,300,No,50,300,No,No
+Mid-Coast,246,Elizabeth ,110,600,Yes,110,600,Yes,No
+Mid-Coast,247,Boomerang ,120,1450,Yes,120,1450,Yes,No
+Mid-Coast,248,Blueys ,130,975,No,130,975,No,No
+Mid-Coast,249,Sandbar / Cellito ,80,2800,No,80,2800,No,No
+Mid-Coast,250,Number Six ,100,175,No,100,175,No,No
+Mid-Coast,251,Number Five ,110,275,No,110,275,No,No
+Mid-Coast,252,Number Four ,80,125,No,80,125,No,No
+Mid-Coast,253,Number Three ,60,125,No,60,125,No,No
+Mid-Coast,254,Number Two ,50,275,No,50,275,No,No
+Mid-Coast,255,Number One ,100,1350,No,100,1350,No,No
+Mid-Coast,256,Boat ,90,550,No,90,550,No,No
+Mid-Coast,257,Lighthouse ,110,1950,No,110,1950,No,No
+Mid-Coast,258,Treachery ,180,1850,No,180,1850,No,No
+Mid-Coast,259,Submarine / Fiona / Yagon ,180,8800,No,180,8800,No,No
+Mid-Coast,260,Mungo ,120,16800,No,120,16800,No,No
+Mid-Coast,261,Dark Point North ,160,1625,No,160,1625,No,No
+Mid-Coast,262,"Bennetts  (Dark Point , White Sands, Lemon Tree, The Baskets,  Lovers Walk)",140,13300,No,140,13300,No,No
+Mid-Coast,263,Hawks Nest,40,1000,Yes,40,1000,Yes,No
+Mid-Coast,264,Winda Woppa,15,1400,No,15,1400,No,No
+Port Stephens,265,Jimmys,20,500,No,20,500,No,No
+Port Stephens,266,Soldiers Point,11,630,No,11,630,No,No
+Port Stephens,267,Soldiers Point (S),11,300,No,11,300,No,No
+Port Stephens,268,Little/ Little Nelson Bay,14,300,No,14,300,No,No
+Port Stephens,269,Wanda,10,1600,No,10,1600,No,No
+Port Stephens,270,Nelson Bay,10,550,No,10,550,No,No
+Port Stephens,271,Shoal Bay,25,2500,No,25,2500,No,No
+Port Stephens,272,Corlette,8,300,No,8,300,No,No
+Port Stephens,273,Nelson Bay Marina,6,250,No,6,250,No,No
+Port Stephens,274,Zenith ,120,400,No,120,400,No,No
+Port Stephens,275,Dutchmans,7,400,No,7,400,No,No
+Port Stephens,276,Bagnalls,10,1000,No,10,1000,No,No
+Port Stephens,277,Wreck North ,40,50,No,40,50,No,No
+Port Stephens,278,Wreck ,120,225,No,120,225,No,No
+Port Stephens,279,Box ,130,350,No,130,350,No,No
+Port Stephens,280,Fly Roads ,120,1400,No,120,1400,No,No
+Port Stephens,281,Fingal ,70,2700,Yes,70,2700,Yes,No
+Port Stephens,282,Shark Bay ,10,30,No,10,30,No,No
+Port Stephens,283,Samurai ,180,1100,No,180,1100,No,No
+Port Stephens,284,One Mile / Anna Bay,100,1300,Yes,100,1300,Yes,No
+Port Stephens,285,Birubi Point,60,400,Yes,60,400,Yes,No
+Port Stephens,286,Boulder ,40,50,No,40,50,No,No
+Port Stephens,287,Kingsley ,50,100,No,50,100,No,No
+Port Stephens,288,Little Kingsley ,30,30,No,30,30,No,No
+Port Stephens,289,Boat Harbour,50,200,No,50,200,No,No
+Port Stephens,290,Fishermans Bay,40,50,No,40,50,No,No
+Newcastle,291,Newcastle Bight / Stockton,150,26,No,150,26,No,No
+Newcastle,292,Stockton,40,32,Yes,40,32,Yes,No
+Newcastle,293,Little Park ,40,200,No,40,200,No,No
+Newcastle,294,Nobbys Head,30,250,No,30,250,No,No
+Newcastle,295,Horseshoe ,13,220,No,13,220,No,No
+Newcastle,296,Nobbys,60,800,Yes,60,800,Yes,No
+Newcastle,297,Newcastle ,50,650,Yes,50,650,Yes,No
+Newcastle,298,Susan Gilmour ,20,100,No,20,100,No,No
+Newcastle,299,Bar ,50,500,Yes,50,500,Yes,No
+Newcastle,300,Dixon Park ,70,580,Yes,70,580,Yes,No
+Newcastle,301,Merewether ,60,330,Yes,60,330,Yes,No
+Newcastle,302,The Gulf,20,50,No,20,50,No,No
+Newcastle,303,The Gulf (S),70,500,No,70,500,No,No
+Newcastle,304,Glenrock / Burwood,30,1300,No,30,1300,No,No
+Lake Macquarie,305,Dudley ,50,1300,No,50,1300,No,No
+Lake Macquarie,306,Redhead / Nine Mile ,120,1000,Yes,120,1000,Yes,No
+Lake Macquarie,307,Blacksmiths / Nine Mile,100,6900,Yes,100,6900,Yes,No
+Lake Macquarie,308,Swansea Wall  (Belmont),40,100,No,40,100,No,No
+Lake Macquarie,309,Swansea Heads ,30,100,Yes,30,100,Yes,No
+Lake Macquarie,310,Crabbes ,40,300,No,40,300,No,No
+Lake Macquarie,311,Hams ,60,1500,No,60,1500,No,No
+Lake Macquarie,312,Caves ,60,300,Yes,60,300,Yes,No
+Lake Macquarie,313,Stinky Point ,50,250,No,50,250,No,No
+Lake Macquarie,314,Quarry ,30,300,No,30,300,No,No
+Lake Macquarie,315,Pinny ,70,250,No,70,250,No,No
+Lake Macquarie,316,Catherine Hill Bay / Middle Camp ,60,1500,Yes,60,1500,Yes,No
+Lake Macquarie,317,Catherine Hill Bay South / Little ,20,100,No,20,100,No,No
+Central Coast,318,Moonee,80,1000,No,80,1000,No,No
+Central Coast,319,Little/Ghosties,60,200,No,60,200,No,No
+Central Coast,320,Timber,50,100,No,50,100,No,No
+Central Coast,321,Bongon ,50,50,No,50,50,No,No
+Central Coast,322,Frazer Park,70,400,Yes,70,400,Yes,No
+Central Coast,323,Deadmans/Gravelly,30,70,No,30,70,No,No
+Central Coast,324,Little Birdie,30,40,No,30,40,No,No
+Central Coast,325,Waterfall,90,1000,No,90,1000,No,No
+Central Coast,326,Red Ochre,90,1000,No,90,1000,No,No
+Central Coast,327,Birdie,90,1500,No,90,1500,No,No
+Central Coast,328,Budgewoi,90,4500,Yes,90,4500,Yes,No
+Central Coast,329,Lakes,30,1500,Yes,30,1500,Yes,No
+Central Coast,330,Lakes South / Hargraves,50,1200,No,50,1200,No,No
+Central Coast,331,Jenny Dixons,50,300,No,50,300,No,No
+Central Coast,332,Noraville/ Cabbage Tree Harbour,30,300,No,30,300,No,No
+Central Coast,333,Norah Head / Lighthouse,20,300,No,20,300,No,No
+Central Coast,334,Gravelly/Pebbly,50,600,No,50,600,No,No
+Central Coast,335,Soldiers,70,900,Yes,70,900,Yes,No
+Central Coast,336,Tuggerah - Magenta,30,4100,Yes,30,4100,Yes,No
+Central Coast,337,Magenta,30,500,No,30,500,No,No
+Central Coast,338,Tuggerah / North Entrance,70,4100,Yes,70,4100,Yes,No
+Central Coast,339,The Entrance,50,300,Yes,50,300,Yes,No
+Central Coast,340,Blue Bay,40,250,No,40,250,No,No
+Central Coast,341,Toowoon Bay,50,700,Yes,50,700,Yes,No
+Central Coast,342,Little Bay,20,200,No,20,200,No,No
+Central Coast,343,Shelly,90,1500,Yes,90,1500,Yes,No
+Central Coast,344,Blue Lagoon,30,400,No,30,400,No,No
+Central Coast,345,Bateau Bay,40,200,No,40,200,No,No
+Central Coast,346,Forresters ,70,1500,No,70,1500,No,No
+Central Coast,347,Spoon Bay,80,1070,No,80,1070,No,No
+Central Coast,348,Wamberal,100,1800,Yes,100,1800,Yes,No
+Central Coast,349,Terrigal,60,1000,Yes,60,1000,Yes,No
+Central Coast,350,Terrigal Haven,40,200,No,40,200,No,No
+Central Coast,351,North Avoca,70,900,Yes,70,900,Yes,No
+Central Coast,352,Avoca,60,600,Yes,60,600,Yes,No
+Central Coast,353,Copacabana ,50,750,Yes,50,750,Yes,No
+Central Coast,354,MacMasters,50,750,Yes,50,750,Yes,No
+Central Coast,355,Little,40,50,No,40,50,No,No
+Central Coast,356,Maitland Bay,60,600,No,60,600,No,No
+Central Coast,357,Ocean,80,1300,Yes,80,1300,Yes,No
+Central Coast,358,Umina,60,1300,Yes,60,1300,Yes,No
+Central Coast,359,Putty,50,800,No,50,800,No,No
+Central Coast,360,Lobster,20,320,No,20,320,No,No
+Central Coast,361,Bullimah,20,50,No,20,50,No,No
+Central Coast,362,Killcare,80,800,Yes,80,800,Yes,No
+Central Coast,363,Tallow,80,500,No,80,500,No,No
+Central Coast,364,Little Tallow,60,150,No,60,150,No,No
+Central Coast,365,Iron Ladder,25,100,No,25,100,No,No
+Central Coast,366,Pearl,50,1000,No,50,1000,No,No
+Central Coast,367,Patonga,15,100,No,15,100,No,No
+Central Coast,368,Middle Head,13,100,No,13,100,No,No
+Central Coast,369,Little Patonga,18,500,No,18,500,No,No
+Northern Beaches,370,Flint and Steel,20,100,No,20,100,No,No
+Northern Beaches,371,Flannel Flower,3,100,No,3,100,No,No
+Northern Beaches,372,Hungry,12,120,No,12,120,No,No
+Northern Beaches,373,Resolute ,10,60,No,10,60,No,No
+Northern Beaches,374,Station (Barrebjoey),10,1500,No,10,1500,No,No
+Northern Beaches,375,Great Mackerel ,10,640,No,10,640,No,No
+Northern Beaches,376,North Palm ,100,1400,Yes,100,1400,Yes,No
+Northern Beaches,377,Currawong ,10,360,No,10,360,No,No
+Northern Beaches,378,Palm,80,900,Yes,80,900,Yes,No
+Northern Beaches,379,Snapperman ,10,640,No,10,640,No,No
+Northern Beaches,380,Sandy ,10,470,No,10,470,No,No
+Northern Beaches,381,The Basin,10,500,No,10,500,No,No
+Northern Beaches,382,Bonnie Doon,8,60,No,8,60,No,No
+Northern Beaches,383,Portuguese ,10,80,No,10,80,No,No
+Northern Beaches,384,Whale,70,600,Yes,70,600,Yes,No
+Northern Beaches,385,Paradise ,10,160,No,10,160,No,No
+Northern Beaches,386,Old Wharf,0,300,No,0,300,No,No
+Northern Beaches,387,Clareville,10,320,No,10,320,No,No
+Northern Beaches,388,Taylors,7,200,No,7,200,No,No
+Northern Beaches,389,Avalon,70,500,Yes,70,500,Yes,No
+Northern Beaches,390,Bilgola,70,500,Yes,70,500,Yes,No
+Northern Beaches,391,Newport,100,1300,Yes,100,1300,Yes,No
+Northern Beaches,392,Bungan,80,600,Yes,80,600,Yes,No
+Northern Beaches,393,The Basin,40,300,No,40,300,No,No
+Northern Beaches,394,Mona Vale,80,1000,Yes,80,1000,Yes,No
+Northern Beaches,395,Warriewood,60,500,Yes,60,500,Yes,No
+Northern Beaches,396,Turimetta / Little Narrabeen (Northern es),70,350,No,70,350,No,No
+Northern Beaches,397,North Narrabeen,90,950,Yes,90,950,Yes,No
+Northern Beaches,398,Narrabeen,90,1000,Yes,90,1000,Yes,No
+Northern Beaches,399,South Narrabeen,70,1000,Yes,70,1000,Yes,No
+Northern Beaches,400,Collaroy,60,700,Yes,60,700,Yes,No
+Northern Beaches,401,Fishermans,30,500,Yes,30,500,Yes,No
+Northern Beaches,402,Long Reef Head,20,50,No,20,50,No,No
+Northern Beaches,403,Butter Box,20,30,No,20,30,No,No
+Northern Beaches,404,Long Reef,60,1000,Yes,60,1000,Yes,No
+Northern Beaches,405,Dee Why,80,800,Yes,80,800,Yes,No
+Northern Beaches,406,North Curl Curl,100,600,Yes,100,600,Yes,No
+Northern Beaches,407,South Curl Curl,120,800,Yes,120,800,Yes,No
+Northern Beaches,408,Freshwater,200,350,Yes,200,350,Yes,No
+Northern Beaches,409,Queenscliff,100,400,Yes,100,400,Yes,No
+Northern Beaches,410,North Steyne ,120,400,Yes,120,400,Yes,No
+Northern Beaches,411,Pickering Point,5,30,No,5,30,No,No
+Northern Beaches,412,West Esplanande / Manly Cove,18,230,No,18,230,No,No
+Northern Beaches,413,Delwood ,5,30,No,5,30,No,No
+Northern Beaches,414,Manly ,100,600,Yes,100,600,Yes,No
+Northern Beaches,415,Fairlight,10,80,No,10,80,No,No
+Northern Beaches,416,Esplande,8,50,No,8,50,No,No
+Northern Beaches,417,Shelly ,80,100,No,80,100,No,No
+Northern Beaches,418,Fairy Bower,20,60,No,20,60,No,No
+Northern Beaches,419,East Esplanade / Manly Cove,8,250,No,8,250,No,No
+Northern Beaches,420,Sandy Bay,7,150,No,7,150,No,No
+Northern Beaches,421,Forty Baskets ,12,100,No,12,100,No,No
+Mosman,422,Spit East ,9,470,No,9,470,No,No
+Northern Beaches,423,Little Manly,20,140,No,20,140,No,No
+Northern Beaches,424,Clontarf Beach,20,660,No,20,660,No,No
+Northern Beaches,425,Reef ,8,80,No,8,80,No,No
+Northern Beaches,426,Collins Flat,22,70,No,22,70,No,No
+Northern Beaches,427,Castle Rock,8,30,No,8,30,No,No
+Northern Beaches,428,Store ,10,200,No,10,200,No,No
+Mosman,429,Chinamans ,13,230,No,13,230,No,No
+Northern Beaches,430,Washaway ,7,100,No,7,100,No,No
+Northern Beaches,431,Quarantine,15,110,No,15,110,No,No
+Mosman,432,Edwards,22,430,No,22,430,No,No
+Mosman,433,Cobblers,5,100,No,5,100,No,No
+Mosman,434,Balmoral,16,860,No,16,860,No,No
+Mosman,435,Obelisk ,9,90,No,9,90,No,No
+Woollahra,436,Lady Bay,14,90,No,14,90,No,No
+Mosman,437,Clifton Gardens / Chowder Bay,9,120,No,9,120,No,No
+Woollahra,438,Camp Cove,14,240,No,14,240,No,No
+Mosman,439,Sirius Cove,9,100,No,9,100,No,No
+Mosman,440,Little Sirius Cove,5,30,No,5,30,No,No
+Canada Bay,441,Cabarita,11,160,No,11,160,No,No
+Woollahra,442,Watsons Bay,11,200,No,11,200,No,No
+Mosman,443,Taylors Bay,21,50,No,21,50,No,No
+Woollahra,444,Watsons Bay (S),10,60,No,10,60,No,No
+Mosman,445,Whiting ,8,90,No,8,90,No,No
+Mosman,446,Ashton Reserve,4,50,No,4,50,No,No
+Mosman,447,Athol ,8,100,No,8,100,No,No
+Woollahra,448,Gibsons ,16,120,No,16,120,No,No
+Woollahra,449,Kutti ,15,80,No,15,80,No,No
+Canada Bay,450,Quarantine Reserve,9,180,No,9,180,No,No
+Woollahra,451,Shark,18,220,No,18,220,No,No
+Woollahra,452,Parsley Bay ,50,60,No,50,60,No,No
+Mosman,453,Bradleys Head,4,100,No,4,100,No,No
+Woollahra,454,Vaucluse Park,50,80,No,50,80,No,No
+Woollahra,455,Milk,9,45,No,9,45,No,No
+Canada Bay,456,Bayview Park,5,330,No,5,330,No,No
+Woollahra,457,Little Bay,20,45,No,20,45,No,No
+Woollahra,458,Hermit,20,30,No,20,30,No,No
+Woollahra,459,Queens,10,55,No,10,55,No,No
+Woollahra,460,Lady Martins ,8,160,No,8,160,No,No
+Woollahra,461,Carthona Ave,0,0,No,0,0,No,No
+Woollahra,462,Rose Bay,10,230,No,10,230,No,No
+Woollahra,463,Bellamy,10,180,No,10,180,No,No
+Woollahra,464,Seven Shillings ,12,390,No,12,390,No,No
+Woollahra,465,Double Bay,10,270,No,10,270,No,No
+Waverley,466,North Bondi,100,300,Yes,100,300,Yes,No
+Waverley,467,Bondi,100,500,Yes,100,500,Yes,No
+Waverley,468,Tamarama,100,80,Yes,100,80,Yes,No
+Waverley,469,Bronte,60,250,Yes,60,250,Yes,No
+Randwick,470,Clovelly,100,70,Yes,100,70,Yes,No
+Randwick,471,Gordons Bay,20,75,No,20,75,No,No
+Randwick,472,Coogee,80,400,Yes,80,400,Yes,No
+Bayside,473,Cooks River,15,300,No,15,300,No,No
+Randwick,474,Maroubra,80,500,Yes,80,500,Yes,No
+Bayside,475,Kyeemagh ,20,800,No,20,800,No,No
+Randwick,476,Maroubra South,100,500,Yes,100,500,Yes,No
+Bayside,477,Foreshore,5,270,No,5,270,No,No
+Bayside,478,Brighton-Le-Sands,30,1600,No,30,1600,No,No
+Randwick,479,Malabar,70,150,No,70,150,No,No
+Bayside,480,Monterey ,30,1000,No,30,1000,No,No
+Randwick,481,Little Bay 1,40,50,No,40,50,No,No
+Randwick,482,Yarra Bay,30,650,No,30,650,No,No
+Randwick,483,Little Bay 2,40,100,No,40,100,No,No
+Randwick,484,Frenchmans Bay (N) ,18,170,No,18,170,No,No
+Randwick,485,Frenchmans Bay (S) ,10,420,No,10,420,No,No
+Bayside,486,Ramsgate,15,750,No,15,750,No,No
+Randwick,487,Congwong  / La Perouse,40,200,No,40,200,No,No
+Randwick,488,Little Congwong ,30,200,No,30,200,No,No
+Bayside,489,Dolls Point ,75,580,No,75,580,No,No
+Bayside,490,Sandringham (N),16,430,No,16,430,No,No
+Sutherland,491,Towra Point,14,200,No,14,200,No,No
+Sutherland,492,Towra (E),13,800,No,13,800,No,No
+Bayside,493,Sandringham,30,650,No,30,650,No,No
+Sutherland,494,Towra (W),13,530,No,13,530,No,No
+Bayside,495,Sandringham (S),7,800,No,7,800,No,No
+Sutherland,496,Kurnell / Silver,20,2000,No,20,2000,No,No
+Sutherland,497,Taren Point ,12,100,No,12,100,No,No
+Sutherland,498,Pelican Point,9,320,No,9,320,No,No
+Sutherland,499,Taren Point (S),1,150,No,1,150,No,No
+Sutherland,500,Green Hills,60,2700,No,60,2700,No,No
+Sutherland,501,Boat Harbour (Sutherland),40,150,No,40,150,No,No
+Sutherland,502,Wanda,90,1500,Yes,90,1500,Yes,No
+Sutherland,503,Elouera,50,350,Yes,50,350,Yes,No
+Sutherland,504,North Cronulla,50,300,Yes,50,300,Yes,No
+Sutherland,505,South Cronulla,60,300,Yes,60,300,Yes,No
+Sutherland,506,Gunnamatta Park ,15,690,No,15,690,No,No
+Sutherland,507,Blackwoodâs,10,30,No,10,30,No,No
+Sutherland,508,Shelly,20,30,No,20,30,No,No
+Sutherland,509,Lugano Ave,7,110,No,7,110,No,No
+Sutherland,510,Darook Park,10,115,No,10,115,No,No
+Sutherland,511,Oak Park ,10,30,No,10,30,No,No
+Sutherland,512,Deeban Spit ,45,1000,No,45,1000,No,No
+Sutherland,513,Jibbon,30,700,No,30,700,No,No
+Sutherland,514,Gunyah,0,130,No,0,130,No,No
+Sutherland,515,Bonnie Vale,10,240,No,10,240,No,No
+Sutherland,516,Horderns ,25,600,No,25,600,No,No
+Sutherland,517,Marley,60,300,No,60,300,No,No
+Sutherland,518,Little Marley,30,100,No,30,100,No,No
+Sutherland,519,Wattamolla,80,200,No,80,200,No,No
+Sutherland,520,Garie,80,900,Yes,80,900,Yes,No
+Wollongong,521,Little Garie,30,100,No,30,100,No,No
+Wollongong,522,North Era,70,300,No,70,300,No,No
+Wollongong,523,Era,80,350,Yes,80,350,Yes,No
+Wollongong,524,Burning Palms,60,500,Yes,60,500,Yes,No
+Wollongong,525,Werrong,40,200,No,40,200,No,No
+Wollongong,526,Bulgo,20,220,No,20,220,No,No
+Wollongong,527,Thommos Rock,20,50,No,20,50,No,No
+Wollongong,528,Stanwell Park,120,850,Yes,120,850,Yes,No
+Wollongong,529,Coalcliff North,20,100,No,20,100,No,No
+Wollongong,530,Coalcliff,60,500,Yes,60,500,Yes,No
+Wollongong,531,Scarborough North,30,150,No,30,150,No,No
+Wollongong,532,Scarborough,60,800,Yes,60,800,Yes,No
+Wollongong,533,Wombarra,20,400,No,20,400,No,No
+Wollongong,534,Coledale,80,300,Yes,80,300,Yes,No
+Wollongong,535,Sharky,50,400,No,50,400,No,No
+Wollongong,536,Brickyard / Long Point,30,100,No,30,100,No,No
+Wollongong,537,Little Austinmer,50,300,No,50,300,No,No
+Wollongong,538,Austinmer,80,250,Yes,80,250,Yes,No
+Wollongong,539,Thirroul,90,1000,Yes,90,1000,Yes,No
+Wollongong,540,McCauleys,60,1000,No,60,1000,No,No
+Wollongong,541,Sandon Point,70,900,Yes,70,900,Yes,No
+Wollongong,542,Bulli,80,900,Yes,80,900,Yes,No
+Wollongong,543,Woonona,100,1000,Yes,100,1000,Yes,No
+Wollongong,544,Bellambi ,100,1000,Yes,100,1000,Yes,No
+Wollongong,545,Bellambi Point,80,300,No,80,300,No,No
+Wollongong,546,East Corrimal,80,1400,No,80,1400,No,No
+Wollongong,547,Corrimal,80,1000,Yes,80,1000,Yes,No
+Wollongong,548,Towradgi,90,1000,Yes,90,1000,Yes,No
+Wollongong,549,Fairy Meadow,105,2000,Yes,105,2000,Yes,No
+Wollongong,550,Puckey's ,30,1000,No,30,1000,No,No
+Wollongong,551,North Wollongong,90,500,Yes,90,500,Yes,No
+Wollongong,552,Belmore / Wollongong Harbour (Brighton),30,200,No,30,200,No,No
+Wollongong,553,Wollongong City,120,4200,Yes,120,4200,Yes,No
+Wollongong,554,Wollongong South,40,1400,No,40,1400,No,No
+Wollongong,555,Port Kembla Harbour,20,250,No,20,250,No,No
+Wollongong,556,MM,30,150,No,30,150,No,No
+Wollongong,557,Fishermans ,50,500,No,50,500,No,No
+Wollongong,558,Port Kembla,100,3000,Yes,100,3000,Yes,No
+Wollongong,559,Perkins - Windang,30,6000,No,30,6000,No,No
+Wollongong,560,Windang  (South),100,3560,Yes,100,3560,Yes,No
+Shellharbour,561,Warilla North,35,666.6666667,No,35,666.6666667,No,No
+Shellharbour,562,Warilla,80,666.6666667,No,80,666.6666667,No,No
+Shellharbour,563,Warilla South,17,666.6666667,No,17,666.6666667,No,No
+Shellharbour,564,Shellharbour North /Nuns,30,60,Yes,30,60,Yes,No
+Shellharbour,565,Shellharbour / Boatharbour,90,1000,No,90,1000,No,No
+Shellharbour,566,Shellharbour South,50,900,Yes,50,900,Yes,No
+Shellharbour,567,The Jetty (Shallows),20,230,No,20,230,No,No
+Shellharbour,568,The Middy / Redsands,20,30,No,20,30,No,No
+Shellharbour,569,Bushrangers Bay,20,100,No,20,100,No,No
+Shellharbour,570,Maloneys,40,40,No,40,40,No,No
+Shellharbour,571,Killalea / The Farm,120,600,No,120,600,No,No
+Shellharbour,572,Minnamurra / Mystics,100,1650,No,100,1650,No,No
+Kiama,573,Jones / Boyds,80,1000,Yes,80,1000,Yes,No
+Kiama,574,The Boneyard  / Cathederal Rocks,20,50,No,20,50,No,No
+Kiama,575,Kiama / Bombo,80,1200,Yes,80,1200,Yes,No
+Kiama,576,Black,30,250,Yes,30,250,Yes,No
+Kiama,577,Surf,50,250,Yes,50,250,Yes,No
+Kiama,578,Kendalls,70,350,Yes,70,350,Yes,No
+Kiama,579,Easts,80,250,Yes,80,250,Yes,No
+Kiama,580,Loves Bay,20,70,No,20,70,No,No
+Kiama,581,Werri ,80,850,Yes,80,850,Yes,No
+Kiama,582,Gerringong Harbour / Boat Harbour ,20,30,No,20,30,No,No
+Kiama,583,Walkers,50,300,No,50,300,No,No
+Kiama,584,Gerroa / Seven Mile,200,2000,Yes,200,2000,Yes,No
+Shoalhaven,585,Mid Seven Mile ,120,7700,No,120,7700,No,No
+Kiama,586,Seven Mile Beach,35,12000,No,35,12000,No,No
+Shoalhaven,587,Shoalhaven Heads,100,2700,Yes,100,2700,Yes,No
+Shoalhaven,588,Comerong Island,120,5500,No,120,5500,No,No
+Shoalhaven,589,Tilbury Cove,30,150,Yes,30,150,Yes,No
+Shoalhaven,590,Crookhaven / Culburra,120,3700,Yes,120,3700,Yes,No
+Shoalhaven,591,Warrain North,100,3700,Yes,100,3700,Yes,No
+Shoalhaven,592,Warrain South,100,6000,No,100,6000,No,No
+Shoalhaven,593,Hare Bay,70,3000,No,70,3000,No,No
+Shoalhaven,594,Callala Bay,70,2600,No,70,2600,No,No
+Shoalhaven,595,Chinamans,100,1800,No,100,1800,No,No
+Shoalhaven,596,Wilson,20,50,No,20,50,No,No
+Shoalhaven,597,Lobster Bay,20,20,No,20,20,No,No
+Shoalhaven,598,Currarong,100,1200,No,100,1200,No,No
+Shoalhaven,599,Abrahams Bosom,30,400,No,30,400,No,No
+Shoalhaven,600,Callala,120,5500,No,120,5500,No,No
+Shoalhaven,601,Cabbage Tree ,60,300,No,60,300,No,No
+Shoalhaven,602,Long ,120,2000,No,120,2000,No,No
+Shoalhaven,603,Shark Net  / Tapalla Point,40,625,No,40,625,No,No
+Shoalhaven,604,Figtree Inlet,15,40,No,15,40,No,No
+Shoalhaven,605,Huskisson,30,200,No,30,200,No,No
+Shoalhaven,606,Bindijine ,30,300,No,30,300,No,No
+Shoalhaven,607,Honeymoon Bay,50,100,No,50,100,No,No
+Shoalhaven,608,Collingwood,100,2000,No,100,2000,No,No
+Shoalhaven,609,Orion ,30,200,No,30,200,No,No
+Shoalhaven,610,Barfleur ,20,60,No,20,60,No,No
+Shoalhaven,611,Target,100,200,No,100,200,No,No
+Shoalhaven,612,Target North 2 ,20,80,No,20,80,No,No
+Shoalhaven,613,Target North 1,20,40,No,20,40,No,No
+Shoalhaven,614,Nelson,80,1000,No,80,1000,No,No
+Shoalhaven,615,Bream Creek / Boat Harbour ,50,30,No,50,30,No,No
+Shoalhaven,616,Silica Cove,30,200,No,30,200,No,No
+Shoalhaven,617,Blenheim ,50,100,No,50,100,No,No
+Shoalhaven,618,Greenfield ,100,200,No,100,200,No,No
+Shoalhaven,619,Chinamans ,60,600,No,60,600,No,No
+Shoalhaven,620,Hyams Point,30,50,No,30,50,No,No
+Shoalhaven,621,Hyams,80,2800,No,80,2800,No,No
+Jervis Bay Territory,622,Hyams,35,3055,No,35,3055,No,No
+Jervis Bay Territory,623,Murrays,20,500,No,20,500,No,No
+Jervis Bay Territory,624,Captains,30,85,No,30,85,No,No
+Jervis Bay Territory,625,Bristol Point,20,90,No,20,90,No,No
+Jervis Bay Territory,626,The Wall / Hole in the Wall,15,400,No,15,400,No,No
+Jervis Bay Territory,627,Greenpatch / Iluka,25,85,No,25,85,No,No
+Jervis Bay Territory,628,Scottish Rocks,15,1000,No,15,1000,No,No
+Jervis Bay Territory,629,Cave  ,35,900,No,35,900,No,No
+Shoalhaven,630,Bherwerre,30,7000,No,30,7000,No,No
+Jervis Bay Territory,631,Mary Cove,40,600,No,40,600,No,No
+Jervis Bay Territory,632,Summercloud Bay,15,300,No,15,300,No,No
+Jervis Bay Territory,633,Steamers,30,600,No,30,600,No,No
+Jervis Bay Territory,634,Whiting South,10,50,No,10,50,No,No
+Jervis Bay Territory,635,Whiting ,5,50,No,5,50,No,No
+Jervis Bay Territory,636,Whiting North,5,70,No,5,70,No,No
+Jervis Bay Territory,637,Blackharbour,10,30,No,10,30,No,No
+Jervis Bay Territory,638,Kittys North,10,30,No,10,30,No,No
+Shoalhaven,639,Sussex Inlet,20,100,No,20,100,No,No
+Jervis Bay Territory,640,Kittys ,20,50,No,20,50,No,No
+Shoalhaven,641,Cudmirrah,100,3000,Yes,100,3000,Yes,No
+Shoalhaven,642,Berrara / Kirbys,40,600,No,40,600,No,No
+Shoalhaven,643,Berrara Point,20,50,No,20,50,No,No
+Shoalhaven,644,Berrara South,60,1300,No,60,1300,No,No
+Shoalhaven,645,Bangalay,60,200,No,60,200,No,No
+Shoalhaven,646,Monument,60,500,No,60,500,No,No
+Shoalhaven,647,Flat Rock,40,70,Yes,40,70,Yes,No
+Shoalhaven,648,Dee,100,200,No,100,200,No,No
+Shoalhaven,649,Washerwoman,100,900,No,100,900,No,No
+Shoalhaven,650,Boat Harbour,50,380,No,50,380,No,No
+Shoalhaven,651,Red Head / One Tree ,20,200,No,20,200,No,No
+Shoalhaven,652,Bendalong / Inyadda,100,1300,No,100,1300,No,No
+Shoalhaven,653,Manyana,80,1500,No,80,1500,No,No
+Shoalhaven,654,Cunjurong Point,120,700,No,120,700,No,No
+Shoalhaven,655,Conjola,80,3100,No,80,3100,No,No
+Shoalhaven,656,Buckleys,80,1500,No,80,1500,No,No
+Shoalhaven,657,Narrawallee,70,1300,Yes,70,1300,Yes,No
+Shoalhaven,658,Jones,0,40,No,0,40,No,No
+Shoalhaven,659,Mollymook North,30,666.6666667,Yes,30,666.6666667,Yes,No
+Shoalhaven,660,Mollymook Mid,30,666.6666667,No,30,666.6666667,No,No
+Shoalhaven,661,Mollymook,80,666.6666667,Yes,80,666.6666667,Yes,No
+Shoalhaven,662,Golf Course Reef,20,300,No,20,300,No,No
+Shoalhaven,663,Collers,25,100,No,25,100,No,No
+Shoalhaven,664,Ulladulla Harbour North,15,250,No,15,250,No,No
+Shoalhaven,665,Ulladulla Harbour,30,500,No,30,500,No,No
+Shoalhaven,666,Ulladulla Harbour Sea Pool,20,300,No,20,300,No,No
+Shoalhaven,667,Warden Head North,20,30,No,20,30,No,No
+Shoalhaven,668,Warden Head South,20,60,No,20,60,No,No
+Shoalhaven,669,Ulladulla / Bombie,180,60,No,180,60,No,No
+Shoalhaven,670,Rennies,50,450,No,50,450,No,No
+Shoalhaven,671,Racecourse,60,400,No,60,400,No,No
+Shoalhaven,672,Racecourse South / Supertubes / Dolphin Point (?),120,1300,No,120,1300,No,No
+Shoalhaven,673,Burrill,90,1400,No,90,1400,No,No
+Shoalhaven,674,Wairo ,90,4700,No,90,4700,No,No
+Shoalhaven,675,Tabourie,80,2000,No,80,2000,No,No
+Shoalhaven,676,Stokes Island,60,250,No,60,250,No,No
+Shoalhaven,677,Sunburnt,70,300,No,70,300,No,No
+Shoalhaven,678,Termeil Lake,100,1500,No,100,1500,No,No
+Shoalhaven,679,Meroo,80,800,No,80,800,No,No
+Shoalhaven,680,Nuggan Point,20,50,No,20,50,No,No
+Shoalhaven,681,North,80,600,No,80,600,No,No
+Shoalhaven,682,Bawley ,100,300,No,100,300,No,No
+Shoalhaven,683,Cormorant,80,300,No,80,300,No,No
+Shoalhaven,684,Gannet,60,300,No,60,300,No,No
+Shoalhaven,685,Murramarang,70,800,No,70,800,No,No
+Shoalhaven,686,Cat and Kitten,30,150,No,30,150,No,No
+Shoalhaven,687,Bull Pup,40,300,No,40,300,No,No
+Shoalhaven,688,Racecourse,90,1300,No,90,1300,No,No
+Shoalhaven,689,Shelly  (Shoalhaven),60,400,No,60,400,No,No
+Shoalhaven,690,Avenue,80,750,No,80,750,No,No
+Shoalhaven,691,Kioloa,80,550,No,80,550,No,No
+Shoalhaven,692,Boat Ramp,20,25,No,20,25,No,No
+Shoalhaven,693,Merry ,100,300,No,100,300,No,No
+Shoalhaven,694,Pretty ,80,200,No,80,200,No,No
+Shoalhaven,695,O'hara Island,30,300,No,30,300,No,No
+Shoalhaven,696,O'Hara (S1),50,200,No,50,200,No,No
+Shoalhaven,697,Singing Stones,15,23,No,15,23,No,No
+Shoalhaven,698,O'Hara (S2),65,150,No,65,150,No,No
+Shoalhaven,699,O'Hara (S3),30,100,No,30,100,No,No
+Shoalhaven,700,Dawson Island North,50,300,No,50,300,No,No
+Shoalhaven,701,Dawson Island South,25,200,No,25,200,No,No
+Shoalhaven,702,Snake Bay North,35,50,No,35,50,No,No
+Shoalhaven,703,Snake Bay South,25,50,No,25,50,No,No
+Shoalhaven,704,Burns Bay,30,130,No,30,130,No,No
+Shoalhaven,705,Pebbly ,100,500,No,100,500,No,No
+Shoalhaven,706,Depot ,60,500,No,60,500,No,No
+Shoalhaven,707,Tranquillity Bay,30,70,No,30,70,No,No
+Shoalhaven,708,Durras North,80,1500,No,80,1500,No,No
+Eurobodalla,709,Durras,80,2000,No,80,2000,No,No
+Eurobodalla,710,Durras South / Cookies,60,800,No,60,800,No,No
+Eurobodalla,711,Beagle Bay / Mills,40,250,No,40,250,No,No
+Eurobodalla,712,Emily Miller,40,300,No,40,300,No,No
+Eurobodalla,713,Dark,30,100,No,30,100,No,No
+Eurobodalla,714,Myrtle,40,250,No,40,250,No,No
+Eurobodalla,715,South Myrtle,20,150,No,20,150,No,No
+Eurobodalla,716,Richmond,50,300,No,50,300,No,No
+Eurobodalla,717,Cullendulla,40,700,No,40,700,No,No
+Eurobodalla,718,Surfside,60,800,No,60,800,No,No
+Eurobodalla,719,Surfside  South ,30,1000,No,30,1000,No,No
+Eurobodalla,720,Oaky ,60,250,No,60,250,No,No
+Eurobodalla,721,Long North 2,15,200,No,15,200,No,No
+Eurobodalla,722,Long,50,2300,No,50,2300,No,No
+Eurobodalla,723,Long North 1,20,200,No,20,200,No,No
+Eurobodalla,724,Maloneys,50,1000,No,50,1000,No,No
+Eurobodalla,725,Honeysuckle,30,100,No,30,100,No,No
+Eurobodalla,726,Acheron Ledge,50,300,No,50,300,No,No
+Eurobodalla,727,Chain Bay,20,100,No,20,100,No,No
+Eurobodalla,728,Acheron Ledge North,20,300,No,20,300,No,No
+Eurobodalla,729,North Head ,80,300,No,80,300,No,No
+Eurobodalla,730,Corrigans,100,2000,No,100,2000,No,No
+Eurobodalla,731,Batehaven / Caseys,40,1000,No,40,1000,No,No
+Eurobodalla,732,Sunshine Cove,30,300,No,30,300,No,No
+Eurobodalla,733,Denhams,80,200,No,80,200,No,No
+Eurobodalla,734,Surf ,80,300,No,80,300,No,No
+Eurobodalla,735,Wimbie,60,250,No,60,250,No,No
+Eurobodalla,736,Circuit,30,60,No,30,60,No,No
+Eurobodalla,737,Lilli Pilli,60,250,No,60,250,No,No
+Eurobodalla,738,Mosquito Bay,30,50,No,30,50,No,No
+Eurobodalla,739,Garden Bay,30,100,No,30,100,No,No
+Eurobodalla,740,Malua Bay,60,400,Yes,60,400,Yes,No
+Eurobodalla,741,Pretty Point Bay,20,100,No,20,100,No,No
+Eurobodalla,742,McKenzies ,60,250,No,60,250,No,No
+Eurobodalla,743,Rosedale North,20,200,No,20,200,No,No
+Eurobodalla,744,Rosedale,60,700,No,60,700,No,No
+Eurobodalla,745,Jimmies Island,20,50,No,20,50,No,No
+Eurobodalla,746,Nuns ,30,60,No,30,60,No,No
+Eurobodalla,747,Black,30,50,No,30,50,No,No
+Eurobodalla,748,Guerilla Bay North,20,100,No,20,100,No,No
+Eurobodalla,749,Guerilla Bay,60,200,No,60,200,No,No
+Eurobodalla,750,Barlings,80,1200,No,80,1200,No,No
+Eurobodalla,751,Burrewarra Point 3 / Little Paddock,30,150,No,30,150,No,No
+Eurobodalla,752,Burrewarra Point 2,20,30,No,20,30,No,No
+Eurobodalla,753,Tomakin Cove,60,300,No,60,300,No,No
+Eurobodalla,754,Burrewarra Point 4 ,30,300,No,30,300,No,No
+Eurobodalla,755,Burrewarra Point 1,190,60,No,190,60,No,No
+Eurobodalla,756,Tomakin,60,1000,No,60,1000,No,No
+Eurobodalla,757,Broulee,80,2000,No,80,2000,No,No
+Eurobodalla,758,Broulee Spit,100,200,No,100,200,No,No
+Eurobodalla,759,Bengello  / South Broulee / South,100,5000,Yes,100,5000,Yes,No
+Eurobodalla,760,North Head / Airport,25,1000,No,25,1000,No,No
+Eurobodalla,761,Moruya Heads 1,30,200,No,30,200,No,No
+Eurobodalla,762,Moruya Heads 2,30,150,No,30,150,No,No
+Eurobodalla,763,Shelly ,20,200,No,20,200,No,No
+Eurobodalla,764,Moruya (Heads),120,2500,Yes,120,2500,Yes,No
+Eurobodalla,765,Pedro,90,2500,No,90,2500,No,No
+Eurobodalla,766,Congo,70,1300,No,70,1300,No,No
+Eurobodalla,767,Congo Point South 1,20,100,No,20,100,No,No
+Eurobodalla,768,Congo Point South 2,40,200,No,40,200,No,No
+Eurobodalla,769,Meringo,50,1000,No,50,1000,No,No
+Eurobodalla,770,Koonwarra / Meringo  South,50,1000,No,50,1000,No,No
+Eurobodalla,771,Mullimburra Point / Family / Honeymoon,100,150,No,100,150,No,No
+Eurobodalla,772,Mullimburra Point South 1,20,60,No,20,60,No,No
+Eurobodalla,773,Mullimburra Point South 2,30,100,No,30,100,No,No
+Eurobodalla,774,Mullimburra Point South 3,70,300,No,70,300,No,No
+Eurobodalla,775,Kellys Lake,50,1000,No,50,1000,No,No
+Eurobodalla,776,Bingie Bingie Point ,50,200,No,50,200,No,No
+Eurobodalla,777,Bingie ,30,4200,No,30,4200,No,No
+Eurobodalla,778,Coila Bar,120,1200,No,120,1200,No,No
+Eurobodalla,779,Coila South  (Stonesys),20,40,No,20,40,No,No
+Eurobodalla,780,Tarandore Point / Plantation ,100,250,No,100,250,No,No
+Eurobodalla,781,One Tree,100,250,No,100,250,No,No
+Eurobodalla,782,Tuross Head,50,250,No,50,250,No,No
+Eurobodalla,783,Tuross Entrance,100,100,No,100,100,No,No
+Eurobodalla,784,South Tuross,100,1200,No,100,1200,No,No
+Eurobodalla,785,Blackfellows Point,100,250,No,100,250,No,No
+Eurobodalla,786,Piccaninny,50,100,No,50,100,No,No
+Eurobodalla,787,Potato,80,900,No,80,900,No,No
+Eurobodalla,788,Jemisons,60,750,No,60,750,No,No
+Eurobodalla,789,Brou,100,2500,No,100,2500,No,No
+Eurobodalla,790,Dalmeny,100,4000,No,100,4000,No,No
+Eurobodalla,791,Joshs,20,50,No,20,50,No,No
+Eurobodalla,792,Yabbara,80,300,No,80,300,No,No
+Eurobodalla,793,Duesburys,60,500,No,60,500,No,No
+Eurobodalla,794,Kianga,50,500,No,50,500,No,No
+Eurobodalla,795,Kianga South,40,400,No,40,400,No,No
+Eurobodalla,796,Carters,100,200,No,100,200,No,No
+Eurobodalla,797,Bar ,150,750,No,150,750,No,No
+Eurobodalla,798,Wagonga Inlet / Bar South,50,200,No,50,200,No,No
+Eurobodalla,799,Smugglers Cove,50,700,No,50,700,No,No
+Eurobodalla,800,Narooma,120,750,Yes,120,750,Yes,No
+Eurobodalla,801,Glass House Rocks North,40,700,No,40,700,No,No
+Eurobodalla,802,Glass House Rocks South 1,20,250,No,20,250,No,No
+Eurobodalla,803,Glass House Rocks South 2,90,50,No,90,50,No,No
+Eurobodalla,804,Bullengella,80,650,No,80,650,No,No
+Eurobodalla,805,Handkerchief,50,1000,No,50,1000,No,No
+Eurobodalla,806,Barunga Point,30,150,No,30,150,No,No
+Eurobodalla,807,Bogola Head,40,250,No,40,250,No,No
+Eurobodalla,808,Fuller North,50,700,No,50,700,No,No
+Eurobodalla,809,Fuller South,60,1200,No,60,1200,No,No
+Eurobodalla,810,Loader,50,1200,No,50,1200,No,No
+Eurobodalla,811,Corunna Point / Billies,40,100,No,40,100,No,No
+Eurobodalla,812,Mystery Bay,30,800,No,30,800,No,No
+Eurobodalla,813,Cape Dromedary South 1,20,1300,No,20,1300,No,No
+Eurobodalla,814,Cape Dromedary South 2,30,100,No,30,100,No,No
+Eurobodalla,815,Cape Dromedary South 3,30,200,No,30,200,No,No
+Eurobodalla,816,Tilba Tilba North,50,150,No,50,150,No,No
+Eurobodalla,817,Tilba Tilba,60,1000,No,60,1000,No,No
+Eurobodalla,818,Tilba Tilba Head,20,50,No,20,50,No,No
+Eurobodalla,819,Little Lake,60,1800,No,60,1800,No,No
+Eurobodalla,820,Wallaga Lake,60,3300,No,60,3300,No,No
+Bega Valley,821,Pebbly,20,300,No,20,300,No,No
+Bega Valley,822,Camel Rock,55,1000,Yes,55,1000,Yes,No
+Bega Valley,823,Haywards,60,2500,No,60,2500,No,No
+Bega Valley,824,Haywards Point,60,600,No,60,600,No,No
+Bega Valley,825,Keatings Head,85,300,No,85,300,No,No
+Bega Valley,826,Morehead,30,750,No,30,750,No,No
+Bega Valley,827,Bermagui Inlet 1,15,38,No,15,38,No,No
+Bega Valley,828,Bermagui Inlet 2,17,50,No,17,50,No,No
+Bega Valley,829,Horseshoe Bay,40,500,Yes,40,500,Yes,No
+Bega Valley,830,Beares North,30,200,No,30,200,No,No
+Bega Valley,831,Beares,40,700,No,40,700,No,No
+Bega Valley,832,Breakaway,30,80,No,30,80,No,No
+Bega Valley,833,Zane Grey Pool,20,80,No,20,80,No,No
+Bega Valley,834,Jerimbut Point,20,80,No,20,80,No,No
+Bega Valley,835,Jaggers,50,200,No,50,200,No,No
+Bega Valley,836,Baragoot,60,3000,No,60,3000,No,No
+Bega Valley,837,Cuttagee,60,900,No,60,900,No,No
+Bega Valley,838,Mills,30,200,No,30,200,No,No
+Bega Valley,839,Barragga Bay,50,350,No,50,350,No,No
+Bega Valley,840,Armonds Bay,50,250,No,50,250,No,No
+Bega Valley,841,Murrah - Bunga,60,2000,No,60,2000,No,No
+Bega Valley,842,Bunga North,30,200,No,30,200,No,No
+Bega Valley,843,Bunga,50,800,No,50,800,No,No
+Bega Valley,844,Bunga South,40,350,No,40,350,No,No
+Bega Valley,845,Aragunnu Bay,60,700,No,60,700,No,No
+Bega Valley,846,Bengunnu Point North,20,70,No,20,70,No,No
+Bega Valley,847,Begunnu Point 1,30,80,No,30,80,No,No
+Bega Valley,848,Begunnu Point 2,30,50,No,30,50,No,No
+Bega Valley,849,Picnic North,40,200,No,40,200,No,No
+Bega Valley,850,Picnic ,40,500,No,40,500,No,No
+Bega Valley,851,Picnic Point,20,60,No,20,60,No,No
+Bega Valley,852,Bithry Inlet North,30,200,No,30,200,No,No
+Bega Valley,853,Bithry Inlet,20,200,No,20,200,No,No
+Bega Valley,854,Penders ,30,1000,No,30,1000,No,No
+Bega Valley,855,Middle North,60,800,No,60,800,No,No
+Bega Valley,856,Middle South,40,600,No,40,600,No,No
+Bega Valley,857,Gillards,40,1600,No,40,1600,No,No
+Bega Valley,858,Cowdroys,50,1300,No,50,1300,No,No
+Bega Valley,859,Nelson ,60,600,No,60,600,No,No
+Bega Valley,860,Moon Bay,30,100,No,30,100,No,No
+Bega Valley,861,Paspalum Point,30,60,No,30,60,No,No
+Bega Valley,862,Mogareeka Inlet,30,150,No,30,150,No,No
+Bega Valley,863,Tathra,60,3000,Yes,60,3000,Yes,No
+Bega Valley,864,Kianinny Bay,10,200,No,10,200,No,No
+Bega Valley,865,Boulder Bay,20,60,No,20,60,No,No
+Bega Valley,866,Games Bay,20,50,No,20,50,No,No
+Bega Valley,867,Wallagoot Gap,30,20,No,30,20,No,No
+Bega Valley,868,Wallagoot - Bournda,50,4200,No,50,4200,No,No
+Bega Valley,869,Bournda Island,50,100,No,50,100,No,No
+Bega Valley,870,North Tura / Dolphin Cove,50,2800,No,50,2800,No,No
+Bega Valley,871,Tura Head,40,100,No,40,100,No,No
+Bega Valley,872,Short Point / Tura,80,3500,Yes,80,3500,Yes,No
+Bega Valley,873,Middle ,30,700,No,30,700,No,No
+Bega Valley,874,Bar ,30,50,Yes,30,50,Yes,No
+Bega Valley,875,Merimbula,70,3000,Yes,70,3000,Yes,No
+Bega Valley,876,Pambula,60,3000,Yes,60,3000,Yes,No
+Bega Valley,877,Shelly,20,40,No,20,40,No,No
+Bega Valley,878,Little / Jigums,50,300,No,50,300,No,No
+Bega Valley,879,Bar Mouth South,20,1000,No,20,1000,No,No
+Bega Valley,880,Bar Mouth North,20,150,No,20,150,No,No
+Bega Valley,881,Long  / Haycock,80,2700,No,80,2700,No,No
+Bega Valley,882,Quondolo,60,1400,No,60,1400,No,No
+Bega Valley,883,Pinnacles,50,2800,No,50,2800,No,No
+Bega Valley,884,Worang Point,20,100,No,20,100,No,No
+Bega Valley,885,Aslings,60,2400,Yes,60,2400,Yes,No
+Bega Valley,886,Cattle Bay Wharf,10,100,No,10,100,No,No
+Bega Valley,887,Snug Cove,5,50,No,5,50,No,No
+Bega Valley,888,Yallumgo Cove,10,100,No,10,100,No,No
+Bega Valley,889,Cocora,30,300,No,30,300,No,No
+Bega Valley,890,By ,13,45,No,13,45,No,No
+Bega Valley,891,Bungo,30,200,No,30,200,No,No
+Bega Valley,892,Rixons,20,300,No,20,300,No,No
+Bega Valley,893,Quarantine Bay,20,250,No,20,250,No,No
+Bega Valley,894,Legges,30,500,No,30,500,No,No
+Bega Valley,895,Brandy Creek ,30,100,No,30,100,No,No
+Bega Valley,896,Currawulla,40,350,No,40,350,No,No
+Bega Valley,897,Northcote,20,100,No,20,100,No,No
+Bega Valley,898,Boydtown,60,2000,No,60,2000,No,No
+Bega Valley,899,Torarago Point,40,150,No,40,150,No,No
+Bega Valley,900,Moutrys,30,40,No,30,40,No,No
+Bega Valley,901,Munganno North,10,20,No,10,20,No,No
+Bega Valley,902,Munganno South,20,30,No,20,30,No,No
+Bega Valley,903,Edrom 2,20,70,No,20,70,No,No
+Bega Valley,904,Edrom 1 ,20,70,No,20,70,No,No
+Bega Valley,905,Whale ,60,1500,No,60,1500,No,No
+Bega Valley,906,Brierly Point,30,200,No,30,200,No,No
+Bega Valley,907,Brierly Point East 1,30,200,No,30,200,No,No
+Bega Valley,908,Brierly Point East 2,30,200,No,30,200,No,No
+Bega Valley,909,Fisheries,60,500,No,60,500,No,No
+Bega Valley,910,Leatherjacket Bay,20,660,No,20,660,No,No
+Bega Valley,911,Mowarry Point (2),30,100,No,30,100,No,No
+Bega Valley,912,Mowarry Point (1),20,30,No,20,30,No,No
+Bega Valley,913,Saltwater North,30,50,No,30,50,No,No
+Bega Valley,914,Saltwater Creek,30,500,No,30,500,No,No
+Bega Valley,915,Bittangabee Bay,20,50,No,20,50,No,No
+Bega Valley,916,Disaster Bay,80,2700,No,80,2700,No,No
+Bega Valley,917,Wonboyn Bay,80,4200,No,80,4200,No,No
+Bega Valley,918,Merrica,30,150,No,30,150,No,No
+Bega Valley,919,1568,10,30,No,10,30,No,No
+Bega Valley,920,Jane Spiers North,30,250,No,30,250,No,No
+Bega Valley,921,Jane Spiers,60,2300,No,60,2300,No,No
+Bega Valley,922,Newtons,60,1900,No,60,1900,No,No
+Bega Valley,923,Little Creek,40,250,No,40,250,No,No
+Bega Valley,924,Nadgee,50,500,No,50,500,No,No
+Bega Valley,925,Nadgee Lake,60,1200,No,60,1200,No,No
+Bega Valley,926,Cape Howe,40,600,No,40,600,No,No

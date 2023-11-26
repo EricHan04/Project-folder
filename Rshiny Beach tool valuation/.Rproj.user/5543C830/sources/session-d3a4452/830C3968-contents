@@ -1,0 +1,452 @@
+# Load packages ----------------------------------------------------------------
+
+library(shiny)
+library(reactable)
+library(htmltools)
+library(dplyr)
+library(DT)
+library(shinyjs)
+library(shinydashboard)
+library(ggplot2)
+library(waterfalls)
+library(plotly)
+library(openxlsx)
+
+#Create the table headers used by output table
+
+table_frame1 <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=6, "LGA boundary of analysis" , icon("circle-info", lib = "font-awesome", class="temp", title="The local government area (LGA) is the boundary of analysis for coast management option cost-benefit analysis.")),
+                                  
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide)."), tags$button(id="reset", "Reset",class="action-button", style="float:right", icon("circle-info", lib = "font-awesome", class="temp", title="Remove any alternative values entered in the scenario section to estimate values impacts of another scenario.")),
+                                  ),
+                                  th(class = 'dt-center', colspan = 3, 'Consumer surplus', icon("circle-info", lib = "font-awesome", class="temp", title="Estimates beach visits value.")),
+                                  th(class = 'dt-center', colspan = 3, 'Producer surplus' , icon("circle-info", lib = "font-awesome", class="temp", title="Estimates tourist related business beach visits value.")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 2
+                                     ), th))),
+                                )
+                              )))
+  }
+
+table_frame2 <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=6, "State boundary of analysis" , icon("circle-info", lib = "font-awesome", class="temp", title="The local government area (LGA) is the boundary of analysis for coast management option cost-benefit analysis.")),
+                                  
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  th(class = 'dt-center', colspan = 3, 'Consumer surplus', icon("circle-info", lib = "font-awesome", class="temp", title="Estimates beach visits value.")),
+                                  th(class = 'dt-center', colspan = 3, 'Producer surplus' , icon("circle-info", lib = "font-awesome", class="temp", title="Estimates tourist related business beach visits value.")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 2
+                                     ), th))),
+                                )
+                              )))
+  }
+
+
+ebo <-
+  function() {
+    htmltools::withTags(table(class = 'display',
+                              thead(
+                                tr(
+                                  th(rowspan = 3, 'LGA'),
+                                  th(rowspan = 3, 'Beach', icon("circle-info", lib = "font-awesome", class="temp", title="Beaches are listed in geographical order from North to South.")),
+                                  th(class = 'dt-center',colspan=7, "Beach attributes" , icon("circle-info", lib = "font-awesome", class="temp", title="Beach width, length and the presence of a lifeguard service attributes have the most significant impacts on beach values.")),
+                                  th(class = 'dt-center',colspan=3,rowspan=2, "Existence, Bequest, Option to use Value (Annual)" , icon("circle-info", lib = "font-awesome", class="temp", title="Placeholder for EBO definition")),
+                                  
+                                ),
+                                tr(
+                                  th(class = 'dt-center', colspan = 3, 'Current state', icon("circle-info", lib = "font-awesome", class="temp", title="Values of beaches in their current state. The base case values may differ from the current state values if the beach width, length and/or the presence of a patrol service is expected to change under base case management activities")),
+                                  th(class = 'dt-center', colspan = 4, 'Scenario', icon("circle-info", lib = "font-awesome", class="temp", title="Enter alternative figures here to 1) estimate base case values if beach attributes are expected to differ under current management activities compared with the current state of the beach; and 2) provide first pass estimate for use in rapid CBA tool calculations or prelimnary cost-benefit analysis. Monte-Carlo geomorphology probability of impact data is required to estimate coastal management option's impact (see section X in the user guide).")),
+                                  tr(lapply(rep(c('Width', 'Length', 'Patrolled'), 1), th),
+                                     lapply(rep(c('Width', 'Length', 'Patrolled','Closed'), 1), th),
+                                     (lapply(rep(
+                                       c('Current state', 'Scenario', 'Change'), 1
+                                     ), th))),
+                                )
+                              )))
+  }
+
+
+data <- read.csv("1. interface_data.csv", stringsAsFactors = FALSE)
+
+plotfont <- list(
+  family = "'Public Sans', Arial, sans-serif")
+
+
+
+# Define UI --------------------------------------------------------------------
+
+
+ui <- navbarPage("Beach Evaluation Tool",
+                 tabPanel("Introduction", 
+                          h4(strong("NSW Beach values estimation tool (input for coastal management option cost-benefit analysis)")),
+                          br(),
+                          p("This tool provides beach values estimates for use in coastal management option cost-benefit analysis."),
+                          p("The following values are estimated for each in the 29 coastal local government areas in NSW:"),
+                          HTML("<ul><li>Consumer surplus</li><li>Producer surplus</li><li>Existence, bequest, option to use</li></ul>"),
+                          br(),
+                          p(em(strong("Resources:"))),
+                          em("NSW beach values estimation tool user guide and technical appendicies"),
+                          br(em("Coastal management options cost benefit analysis guidelines")),
+                          p(),
+                          HTML("<div style='font-size:12px;margin-top:20px;width:60%'>&#169 2023 State of NSW and Department of Planning and Environment.<br><br>With the exception of photographs, the State of NSW and Department of Planning and Environment (DPE) are pleased to allow this material to be reproduced in whole or in part for educational and non-commercial use, provided the meaning is unchanged and its source, publisher and authorship are acknowledged.<br><br>DPE has compiled this tool and user handbook in good faith, exercising all due care and attention. No representation is made about the accuracy, completeness or suitability of the information in the tool and publication which are intended for use by cost-benefit analysis (CBA) experts in undertaking NSW based coastal management options CBA. DPE shall not be liable for any damage which may occur to any person or organisation taking action or not on the basis of these publications. Readers should seek appropriate advice and refer to the user manual when applying the information to their specific needs.</div>")
+                 ),
+                 tabPanel("LGA CS & PS Values",
+                          fluidPage(
+                            tags$head(tags$script(
+                              HTML(
+                                "Shiny.addCustomMessageHandler('unbindDT', function(id) {
+                                  var $table = $('#'+id).find('table');
+                                  if($table.length > 0){
+                                    Shiny.unbindAll($table.DataTable().table().node());
+                                  }
+                                })")
+                            )),
+                            includeCSS("www/dpie.css"),
+                            includeCSS("www/jquery-ui.min.css"),
+                            useShinyjs(),
+                            tags$head(
+                              tags$script(src = "www/jquery-ui.min.js"),
+                              # tags$script("$(document).ready(function(){
+                              #     $('.temp').tooltip();        
+                              # });")
+                              tags$style(type="text/css", "
+                                 #loadmessage {
+                                   position: fixed;
+                                   top: 0px;
+                                   left: 0px;
+                                   width: 100%;
+                                   padding: 5px 0px 5px 0px;
+                                   text-align: center;
+                                   font-weight: bold;
+                                   font-size: 100%;
+                                   color: #000000;
+                                   background-color: #CCFF66;
+                                   z-index: 105;
+                                 }
+                              "),
+                            ),
+                            
+                            fluidRow(
+                              column(width=12, selectInput("lga", label = "Select LGA:",
+                                                           choices = c(sort(unique(data$LGA_Name)))),
+                              )
+                            ),
+                            fluidRow(
+                              column(width=12,em("Beach values estimates inputs for use in cost-benefit analysis of coastal management options (annual, constant prices)"),
+                              ),
+                              
+                            ),
+                            fluidRow(
+                              br(),
+                              # tags$button(id="download", icon("download"), "Download as CSV"),
+                              # tags$button(id="reset", "Reset", icon("circle-info", lib = "font-awesome", class="temp", title="Remove any alternative values entered in the scenario section to estimate values impacts of another scenario.")),
+                              tags$button(id="calculate",class="action-button", "Calculate", icon("circle-info", lib = "font-awesome", class="temp", title="Generate value estimates if you have entered alternative values for beach width, length and/or presence of a lifeguard service.")),
+                              # HTML("<div style='float:right;text-align:right'>"),
+                              # tags$button(id="stateanalysis", class="action-button", "Switch to State Analysis"),
+                              # hidden(tags$button(id="lgaanalysis", class="action-button", "Switch to LGA Analysis")),
+                              # HTML("</div>"),
+                              br(),
+                              br(),
+                              downloadButton("downloadData", "Download"),
+                              br(),
+                              br(),
+                              # conditionalPanel(condition="$('#lgacsps').hasClass('recalculating')",
+                              #                  tags$div("Loading...")
+                              # ),
+                              dataTableOutput('lgacsps'),
+                              br(),
+                              br(),
+                              HTML("<p style='font-size:10px'>September 2022 Prices (ABS CPI)<br>2022 LGA population forecast (Department of Planning and Environment)<br>Average 2019 to 2022 LGA tourist visitation data (Tourism Research Australia)")
+                            )
+                          )
+                 ),
+                 tabPanel("State CS & PS Values",
+                          p("Placeholder for STATE consumer surplus and producer surplus results"), 
+                          br(),
+                          dataTableOutput('statecsps'),
+                 ),
+                 tabPanel("LGA & State EBO Values",
+                          p("Placeholder for LGA and STATE EBO values"),
+                          br(),
+                          dataTableOutput("ebovalues"),
+                 ),
+                 tabPanel("Chart example",
+                          plotlyOutput("waterfall"),
+                          br(),
+                 )
+                 
+                 
+)
+
+
+
+# Define server ----------------------------------------------------------------
+
+
+server <- function(input, output,session) {
+  
+  # trying to write some JS to highlight changes made in the userinput section
+  
+  js<- "$('.temp').tooltip();
+        $(document).on('shiny:inputchanged', function(event) {
+         var getid=(event.name).substring(0,1);
+          if(getid=='w'){
+           var base=2;
+           var scenario=6;
+          }
+          else{
+           var base=3;
+           var scenario=7;
+          }
+          table.rows().every(function(i, tab, row) {
+            var $this = $(this.node());
+            if(this.data()[base] !== parseInt($this[0].children[(scenario-1)].children[0].lastElementChild.value)){
+             $this.find('td:nth-child('+scenario+') input').addClass('change');
+            }
+            else{
+             $this.find('td:nth-child('+scenario+') input').removeClass('change');
+            }
+          });
+        });"
+  
+  data_subset_modified <- reactive({
+    
+    temp_df <- data  %>% filter(LGA_Name == input$lga)
+    
+    # create the user inputs
+    for (i in seq_len(nrow(temp_df))) {
+      temp_df$Width_i[i] = as.character(numericInput(paste0("width",i),
+                                                     label=NULL,
+                                                     value=temp_df$Width_S[i],
+                                                     width="80px"))
+      
+      temp_df$Length_i[i] = as.character(numericInput(paste0("length",i),
+                                                      label=NULL,
+                                                      value=temp_df$Length_S[i],
+                                                      width="80px"))
+      
+      temp_df$Patrolled_i[i] = as.character(selectInput(paste0("patrolled", i),
+                                                        label=NULL,
+                                                        choices = c("Yes","No"),
+                                                        selected = temp_df$Patrolled_S[i],
+                                                        width = "80px"))
+      
+      temp_df$Close_i[i] = as.character(selectInput(paste0("close",i),
+                                                    label=NULL,
+                                                    choices = c("Yes","No"),
+                                                    selected="No",
+                                                    width = "80px" ))
+      
+      temp_df
+    }
+    
+    js<- "$('.temp').tooltip();"
+    
+    #dummy values for LGA consumer and producer surplus
+    temp_df$lga_current_csb=0
+    temp_df$lga_current_css=0
+    temp_df$lga_current_csc=0
+    
+    temp_df$lga_current_psb=0
+    temp_df$lga_current_pss=0
+    temp_df$lga_current_psc=0
+    
+    temp_df
+    
+  })
+
+  # Set up a reactiveValues to store user input
+  userInput <- reactiveValues()
+  
+  output$lgacsps <- DT::renderDataTable({
+    # Render the table
+    datatable(
+      data_subset_modified()[,c(1,3,4,5,6,11,12,13,14,15,16,17,18,19,20)] ,
+      class = 'cell-border stripe',
+      extensions = 'Buttons',
+      rownames = FALSE,
+      escape = FALSE,
+      container = table_frame1(),
+      callback = JS(js),
+      selection = "none",
+      options = list(
+        searching = FALSE,
+        # pageLength = 10,  # Set the initial number of rows to display
+        # lengthMenu = list(c(5, 10, 20)),  # Set the length menu options
+        preDrawCallback = JS('function() {
+                           Shiny.unbindAll(this.api().table().node());
+                             }'),
+        drawCallback = JS('function() {
+                        Shiny.bindAll(this.api().table().node()); } ') ,
+        dom = 'Bftrip',
+        paging = FALSE,
+        info = FALSE,
+        columnDefs = list(list(
+          className = 'dt-center', targets = 3:6),list(width='250px', 
+                                                       targets=c(0,1)), 
+          list(width="80px", targets=c(2,3,4,5,6,7,8,9,10,11,12,13,14))
+        ),
+        rownames = FALSE,
+        ordering = FALSE
+      )
+      
+    )
+  })
+  
+  # Using lapply for observers
+  observe({
+    print(paste("Number of rows: ", nrow(data_subset_modified())))
+    
+    lapply(seq_len(nrow(data_subset_modified())), function(i) {
+      widthId <- paste0("width", i)
+      lengthId <- paste0("length", i)
+      patrolledId <- paste0("patrolled", i)
+      closeId <- paste0("close", i)
+      
+      
+      observeEvent(input[[widthId]], {
+        
+        print(paste("Index:", i, "Width value:", input[[widthId]], 
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+        
+        #if user clears the input, revert back to base value
+        if(is.na(input[[widthId]])){
+          updateNumericInput(session,widthId,value=data_subset_modified()$Width_B[i])
+        }
+        
+          data[data$Beach_FID == data_subset_modified()$Beach_FID[i], "Width_S"] <<- input[[widthId]]
+        
+      }, ignoreInit = FALSE)
+      
+      observeEvent(input[[lengthId]], {
+        
+        print(paste("Index:", i, "Length value:", input[[lengthId]], 
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+        
+        #if user clears the input, revert back to base value
+        if(is.na(input[[lengthId]])){
+          updateNumericInput(session,lengthId,value=data_subset_modified()$Length_B[i])
+        }
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], "Length_S"] <<- input[[lengthId]]
+      }, ignoreInit = TRUE)
+      
+      observeEvent(input[[patrolledId]], {
+        print(paste("Index:", i, "Patrolled value:", input[[patrolledId]], 
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+        
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], "Patrolled_S"] <<- input[[patrolledId]]
+      }, ignoreInit = TRUE)
+      
+      observeEvent(input[[closeId]], {
+        print(paste("Index:", i, "Closed value:", input[[closeId]], 
+                    "Beach_FID:", data_subset_modified()$Beach_FID[i]))
+        
+        data[data$Beach_FID == data_subset_modified()$Beach_FID[i], "Close_S"] <<- input[[closeId]]
+      }, ignoreInit = TRUE)
+      
+    })
+  })
+  
+  #unbind the dataTables on input change otherwise interactivity is lost
+  observeEvent(input$lga,{
+    session$sendCustomMessage("unbindDT", "lgacsps")
+  })
+  
+  
+  #reset the userInputs to base values when reset button clicked
+  observeEvent(input$reset,{
+    for (i in seq_len(nrow(data_subset_modified()))) {
+      updateNumericInput(session,paste0("width",i),value=data_subset_modified()$Width_B[i])
+      updateNumericInput(session,paste0("length",i),value=data_subset_modified()$Length_B[i])
+      updateSelectInput(session,paste0("patrolled",i),choices = c("Yes","No"), selected=data_subset_modified()$Patrolled_B[i])
+      updateSelectInput(session,paste0("close",i),choices = c("Yes","No"), selected="No")
+    }
+  })
+  
+  #create download button
+  output$downloadData <- downloadHandler(
+    filename = function() {
+      paste("data-", Sys.Date(), ".xlsx", sep="")
+    },
+    content = function(file) {
+      write.xlsx(data, file, rowNames = FALSE)
+    } 
+  )   
+      
+  # Calculation function
+  observeEvent(input$calculate, {
+    # Get the length of the dataset
+    len <- nrow(data_subset_modified())
+      
+    # Create the data frame
+    df <- data.frame(
+      lga_current_csb = rep(1, len),
+      lga_current_css = rep(1, len),
+      lga_current_csc = rep(1, len),
+      lga_current_psb = rep(1, len),
+      lga_current_pss = rep(1, len),
+      lga_current_psc = rep(1, len)
+     )
+   )
+    
+    
+  })
+  
+  
+}
+
+
+# Create a Shiny app object ----------------------------------------------------
+
+shinyApp(ui = ui, server = server)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
