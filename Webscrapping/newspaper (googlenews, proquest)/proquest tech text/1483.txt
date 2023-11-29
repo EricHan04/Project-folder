@@ -1,0 +1,28 @@
+One of the factors driving price hikes in fruit and vegetable stalls is the elevated price of the fertiliser urea. Prices are at record highs after China slashed exports, fertiliser exports out of Russia dried up, and gas prices drove the energy-intense process of creating crystallised urea from atmospheric nitrogen sky-high.
+The amount of energy spent in the manufacturing of urea is equivalent to emissions created by the global aviation industry, says University of Melbourne chemical engineer Dr Stefano Freguia.
+"It makes up about 2 per cent of the worldwide energy consumption, which is mostly fossil fuel driven, and so it contributes to global warming and greenhouse gas emissions," he says.
+Fertiliser is an expensive but unavoidable input factor for farmers; plants need nitrogen to produce chlorophyll, the green pigment that makes photosynthesis possible. But there is a cheap, renewable way of producing urea. Chances are you did it today.
+Humans excrete about 10 grams of urea, and about 1 gram of phosphorous, through their urine daily.
+Freguia is part of a $3.8 million new Hub for Nutrients in a Circular Economy, funded by the Australian Research Council, to find a commercially viable method of recouping urea flushed down toilets (100 tonnes of the stuff is produced in Melbourne and Sydney alone a day).
+At the centre of the plan is a self-powered bioreactor that can strip out nutrients from urine.
+The bioreactors contain electrodes covered in bacteria that feed on the organic matter in urine. The bacteria metabolise and excrete electrons, rather than oxygen, which flow through the electrodes and produce electricity.
+"The urine has got enough energy within it to power this process on its own," says Freguia.
+The energy is used to push the urine through membranes that filter out the desired nitrogen, phosphate and potassium. The result is a liquified fertiliser ready for use and the recouped urea could also be used to manufacture AdBlue, a crucial diesel additive that's increasingly expensive and scarce.
+"In four years we'll get to commercial readiness. And after that, it will be a long journey of transition to bring these technologies in new buildings."
+Freguia and his team will focus on rolling the technology out to council parks and gardens and small-scale urban horticulture projects before scaling up in step with the hub's 20 industry partners.
+Another early-stage start-up with its eyes on wastewater is Australian Hydrothermal, based in Adelaide. Director Dr Benjamin Keiller is focused on the potential of hydrothermal carbonisation technology (HTC). The process sees waste, such as sewage or food scraps, placed in water that's heated beyond 200 degrees but pressurised, so it doesn't boil.
+"Basically, we are accelerating the coalification process that occurs deep beneath the earth, but instead of doing it over millions of years, we're able to do it in like, an hour," says Keiller.
+The result is a solid "char" that can be burnt as a low-ash alternative to coal, buried as a method of carbon sequestration or treated as "biochar" and crumbled into soil, which "dramatically improves" soil quality.
+The leftover liquid is rich in nitrogen and can be used as a liquid fertiliser.
+Keiller and his team are in talks with SoMax, an American HTC company, with a view to get reactors installed in South Australian wastewater facilities in the next five years.
+Meanwhile, other agtech companies are focused on the efficient use of fertiliser. Between 60 and 70 per cent of nitrogen is never taken up by the target plants.
+"A lot of [fertiliser delivery] technology hasn't changed greatly in the last 80 to 100 years," says Ken Hancock, managing director of RFL AgTech, which supplies technology that precisely delivers fertiliser and micronutrients to crops. "All the traditional kind of fertiliser that's put into the ground is, by nature, very inefficient because of the soil chemistry.
+"We bypass the soil and deliver the nutrient directly into the seed and the foliage of the crop. That allows us to reduce the soil-applied fertiliser by about 20 per cent. That, on a macro level, allows growers to reduce their input costs and boost their yields."
+RFL AgTech listed on the ASX 200 in mid-April after an $8.5 million initial public offering. Hancock said globally rising fertiliser prices meant growers were having a "good hard look" at their use of urea and other additives.
+10 grams
+The amount humans excrete
+of urea, and about 1 gram
+of phosphorous, through
+their urine daily.
+CREDIT: Angus Dalton
+Word count: 742

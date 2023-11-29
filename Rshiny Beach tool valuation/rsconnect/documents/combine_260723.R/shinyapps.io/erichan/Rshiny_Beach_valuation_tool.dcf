@@ -1,0 +1,12 @@
+name: Rshiny_Beach_valuation_tool
+title: Rshiny_Beach_valuation_tool
+username: erichan
+account: erichan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10628220
+bundleId: 7969779
+url: https://erichan.shinyapps.io/Rshiny_Beach_valuation_tool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

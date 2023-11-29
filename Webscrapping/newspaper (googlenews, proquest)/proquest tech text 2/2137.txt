@@ -1,0 +1,31 @@
+The launch of a pair of advanced miniature satellites this week represents another major step forward in Australia's foray into space.
+Australia is rapidly casting off its "freeloader" status in the collection of vital space data, with a rocket launch this week carrying one of the most complex small satellite programs ever attempted.
+Aussie satellites blasted off from Rocket Lab's facility in New Zealand and so far the mission is all systems go.
+Working in collaboration with the Royal Australian Air Force, the UNSW Canberra Space’s M2 CubeSat combines emerging technologies that deliver advanced capabilities in earth observation, maritime surveillance and satellite communications. 
+The shoe-box size devices have the ability to split into two separate satellites and fly in sequence, enhancing the program's flexibility.
+The university's Space Director Russell Boyce said the M2 mission was one of the most advanced  CubeSat programs to be sent into space.
+"It will enable both UNSW and the RAAF to gain experience and capability in the development and operation of in-orbit space science and technology missions,” Prof Boyce said.
+"As we depend on space infrastructure for resource management, secure communications and data collection during extreme weather events and bushfires, building our sovereign space capabilities is critical for Australian security."
+Air Vice-Marshal Cath Roberts said the M2 mission was the first time the RAAF had used formation flying in CubeSats.
+“The two satellites will be able to communicate with each other, as well as ground stations back here on Earth, giving better quality data, with greater detail and less lag time, all fundamentally important for Australia’s defence," she said.
+The M2 mission was almost entirely designed and built in Australia, supported by optical telescopes developed by Aperture Optical Sciences in the US.
+It is supported by a domestic supply chain of 30 companies. 
+The mission is also part of a wider foray into space by a growing number of Australian companies and research groups which has significantly advanced the nation's space capabilities.
+In the past, for access to information including weather forecasting and banking data Australia was forced to look to international satellites operated by other countries.
+That came at an estimated $3 billion a year.
+But perhaps worse than that, Australia was receiving a significant amount of data for free and according to Prof Boyce "that was causing some discomfort".
+"We were starting to be seen freeloaders in the international community," he said.
+"What we're doing with this mission and what the government is doing in general at the moment is trying to take significant steps towards Australia making a healthy contribution to in-orbit space technology.
+"We won't be able to provide everything we need, but it's time we are started doing some of the heavy lifting."
+Australia's growing presence in space has been  enhanced by the development of the CubeSat or miniature satellite technology which has reduced the cost.
+"It's been true disruptive technology because it's lowered the barrier to entry for many players who couldn't get into the game before," Prof Boyce said.
+"That has enabled many organisations around the world to start playing in space, Australia included."
+Given its size, the technology has some limitations but is seen as an "excellent way to get your hands dirty in flying space missions".
+Among the M2's limitations are its finite life span, estimated at about five to 10 years, with the satellites eventually spiralling back into the atmosphere and burning up.
+They could also fall foul of the space environment with cosmic rays disrupting the electronic systems, while collisions with space debris is a less-common but ever-present danger.
+Prof Boyce said so far there were no such issues with officials on the ground already communicating successfully with the satellites and starting to commission their various systems.
+The mission is due to continue for many months.
+"So far there has been a lot of success. Even getting to the launch pad is a success," he said.
+"It's going to take us the rest of this year but even longer to declare full success, but we're already a long way there."
+CREDIT: Tim Dornin
+Word count: 679

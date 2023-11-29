@@ -1,0 +1,42 @@
+SOUTH AUSTRALIA'S DISTANCE FROM THE EASTERN SEABOARD CAN ACTUALLY BE AN ADVANTAGE FOR CREATING AN INDUSTRY BUILT AROUND SECURE DATA STORAGE IN THE DIGITAL AGE, FINDS RUSSELL EMMERSON.
+WHEN Pat Tapper walks into the city-based data centre of Internode, he doesn't just see the rows and columns of computer servers and connector cords.
+He sees real estate. He sees power.
+And if South Australia plays its cards right - just maybe - he sees the key to our future prosperity.
+"In South Australia, we have mining, we have defence, we have education as main contributors to the state's coffers," he says. "What happens if they go away? We have a foundation in information communications technology.
+"We then bring in or develop within the state our own expertise and competitive edge around this - whether it's people who know how to build applications or whatever and we become like Israel.
+"They have built industries out of nothing, out of intellectual property. And if you bring the cost of doing that business down, that means the cost of doing ICT for any part of government, of business, of education also comes down.
+"Everyone is relying on data and it is going to become more critical as time goes on, so we have the opportunity to be a smart state away from the eastern seaboard."
+Most of the players in the industry are keen to spruik Adelaide's benefits for the development of such industry.
+Adelaide represents a good compromise for the country's largest organisations, the sales pitch goes. It is a smart city with constant weather, little chance of flooding and the "20-minute city" moniker lets businesses get to their servers with little fuss.
+Most importantly for business, it is located away from potential east-coast disasters, with delays measured in milliseconds, and our cheaper standard of living gives us a natural competitive advantage in a national marketplace.
+So why then are we falling behind Sydney, Melbourne and Brisbane in selling the message?
+Adam Internet's Scott Hicks says many businesses simply want to reach out and touch their data. "They want to say `This is my stuff. I can touch it'," he says.
+"They still like to see the flashing lights and know that beep was their CPU doing their job."
+Larger organisations are still bound by the eastern-seaboard mentality.
+Adelaide's server farms fill quickly and do have interstate tenants but are struggling to land the "big ones" that will underwrite the value of a new centre.
+Business Monthly has been told of large organisations that don't see the benefit of offsite servers until it is too late, and others that agree there is a need to consolidate their operations in new facilities - but pass on the move because they don't really understand it. This makes the economics of building a new centre somewhat challenging. Internode built its first data centre in Franklin St in 2006, spending $3 million at the time and a further $7 million in upgrades.
+It is contemplating a further $1.5 million expansion together with a new "greenfields" expansion.
+Adam Internet tried to get an anchor tenant to underwrite its $6 million data centre at Mile End but was forced to take a "build it and they will come" attitude when a major organisation declined the opportunity. (That same organisation now has servers in the centre).
+And if the economics wasn't challenging enough, there is the sheer difficulty of finding a location.
+Mr Hicks says the right location "is as rare as hen's teeth".
+"You need something low key. It can't be on a flood zone or earthquake line. It has to have heaps of power, heaps of fibre from all the carriers," he says.
+"There are not too many sites out there today with that mix. You've got to spend heaps and heaps of money," he says.
+"We can be one of the leaders across the country.
+"We just need some people willing to put big bucks on the line and do it."
+Marty Gauvin and his company Tier 5 think they have a solution to that problem.
+Too many companies are struggling to make the numbers work on a large piece of infrastructure that is tied to one place and is obsolete within the next 10 years, he says.
+Rather than stump up the cash for a best guess on the high tide of demand, he is developing modular server farms that can be scaled up or down or thrown gently on the back of a truck and taken to where the action is. And why waste money and power on airconditioning? Cut back on costs by being aware of the pod's natural surroundings for a more efficient climatic solution.
+Tier 5 has retained Investech to raise $100 million globally to fund the venture.
+And they are confident.
+"There is a lot of appetite for an alternative class of assets with certain properties," Mr Gauvin says.
+"People got bitten by commercial property in the global financial crisis but they still want similar attributes: long-term income and capital growth.
+"This is like aircraft leasing - it is mobile infrastructure."
+Mr Gauvin does have form in the area.
+He founded the state's best-known data centre, Hostworks, in 1999 and sold it to Broadcast Australia for $69 million in 2008.
+So his decision to look to Tonsley Park - the former home of car maker Mitsubishi - for his new venture is instructional.
+In particular, it will ensure his new prototypes, to be delivered by the end of next month, have a steady supply of industrial-strength power to keep business turning over.
+Those coursing electrons have one purpose - to put Adelaide on the map so it can compete with out eastern counterparts. While they have 10 centres of international standard between them, Adelaide has none, he says.
+But if Adelaide can get over the line and develop the industry, it will mean more than healthy contracts. It means the city can recapture its "geek" status.
+"Data centres are the information factories of the future and we need those factories," he says.
+Credit: RUSSELL EMMERSON
+Word count: 1025

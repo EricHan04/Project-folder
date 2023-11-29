@@ -1,0 +1,11 @@
+Restricted airspace surrounding Australian airports just became a lot easier to access after drone safety app FlyFreely was verified to provide automated airspace authorisations.
+The Civil Aviation and Safety Authority (CASA) has verified the Australian startup to provide instantaneous controlled airspace authorisations as part of its automated airspace authorisation trial.
+Users will now be able to seek entry to the controlled airspace at Canberra, Adelaide and Perth airports.
+FlyFreely founder Dr David Cole said the trial would be a game-changer for commercial drone operators wanting to fly remotely piloted aircraft near controlled airports.
+“Australia’s aviation rules restrict access to the airspace around airports, for safety reasons,” he said.
+“The no-fly-zone extends in a 5km radius around controlled aerodromes, meaning many businesses that operate in and around these hubs are hamstrung in what they’re able to do.”
+Dr Cole said the CASA trial would significantly reduce accessibility issues, helping to improve productivity across multiple industries.
+“Up until now, professional drone operators wanting to gain access to the controlled airspace have had to pay $800 per application and wait up to 30 days for CASA to approve the request,” he said.
+“We’re now able to provide instant authorisations at no cost during the trial.”
+Dr Cole said efficiencies would be felt across multiple sectors, including construction, real-estate, media, telecommunications, energy and building services.
+FlyFreely is one of just four companies to have been granted authorisation as part of the CASA and Airservices Australia trial.

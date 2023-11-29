@@ -1,0 +1,15 @@
+A new automated technique that can improve pregnancy rates in IVF programs by up to 25 per cent is a step closer to becoming a practical reality.
+Australian researchers have been able to lift pregnancy rates in IVF programs to around 60 per cent on average simply by better determining the best embryos to use in a program with the help of image analysis and algorithms. IVF is a popular form of artificial breeding across the world but the same can't be said in Australia and conventional embryo flush called Multiple Ovulation Embryo Transfer (MOET) has become the first choice for fast-tracked breeding.
+Currently the success of an IVF program is based around the skills of a technician who judges the strength of an embryo under a microscope.
+But using artificial intelligence and algorithm sets, those technicians could one day soon send an embryo image to a Cloud database system and receive an analysis that has so far been more than 90 per cent accurate.
+A third round of assessment has just been completed but results from the first two rounds already showed a high relationship between the embryo image judgements and a pregnancy outcome.
+Professor Jeremy Thompson at the Centre for Nanoscale BioPhotonics said 2021 would be a big year for the game changing technology as they looked to gain investments and develop it into a commercialised system.
+"The problem with the IVF embryo is unlike the MOET derived embryo there is such a variability in the way it looks and it is hard to know whether the way it looks is related to the outcome," he said.
+"It's always been a big problem, even in the human IVF field, so trying to get an understanding from a basis of certainty is what we are trying to achieve.
+"It might be that the poorest looking embryo forms a pregnancy. We have a biased opinion of what a good looking embryo is."
+IVF not only allows for faster breeding of specific genetic combinations but a large number of eggs can be harvested, therefore producing more calves with a small amount of semen.
+This new selection technique doesn't use the same algorithm derived for human embryos.
+As a result hundreds of images of cattle embryos were needed and the expertise of producers and artificial breeding specialists. The University of Adelaide was the lead research partner while Holbrook Vet Centre provided the embryo production, image collection and pregnancy diagnosis. Quantitative Pty Ltd. undertook the image analysis.
+"We even think we would be able to match MOET pregnancy rates," Professor Thompson said. "IVF has really come along and worldwide there are more cows that get their eggs collected from IVF rather than from MOET but in Australia we don't use it much."
+CREDIT: Lucy Kinbacher
+Word count: 462

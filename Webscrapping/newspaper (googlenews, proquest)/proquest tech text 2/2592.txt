@@ -1,0 +1,15 @@
+IT’S cost taxpayers nearly $2 billion but most Australians can’t access their online electronic health record and many have not set a PIN number to protect their information.
+Nine in 10 Australians had a My Health Record created for them on January 31 after they failed to opt out of the controversial system.
+However, The Advertiser has learned four in 10 people have no way of using it or checking whether the information on it is accurate or setting privacy controls. To access the record you need to have a MyGov account. However, even though 23 million Australians have a My Health Record, only 15 million people have a MyGov account.
+While many individuals can’t access their My Health Record, any doctor, pharmacist, public hospital, pathologist or X-ray company can see their record and upload information on it without getting a patient’s permission.
+“My Health Record is based on the concept of standing consent,” Australian Digital Health Agency chief Tim Kelsey recently explained to a Senate estimates committee.
+This means their doctor can access the record and even trigger its activation without the patient’s knowledge or consent.
+Doctors are not required to get their patients’ consent to upload a shared health summary on to the My Health Record that can reveal if a person had, for example, an abortion, a sexually transmitted disease or has a mental illness.
+Once the record is activated, two years’ worth of Medicare and prescription data is downloaded on to the record and this can also reveal sensitive or embarrassing health conditions.
+Once that information is uploaded, it can be accessed by hundreds of thousands of health practitioners unless the patient sets up a PIN number or other privacy controls to protect it.
+NSW’s former Deputy Privacy Commissioner Anna Johnston said the real privacy risks of the new online health record were yet to play out.
+“People may not realise they have the record or realise what is included or excluded and who can see it,” she said.
+Dr Kerryn Phelps, who led a parliamentary revolt and stopped police and the Australian Taxation Office accessing the record without a warrant, said doctors weren’t using it.
+“Doctors question the clinical usefulness because there are so many gaps, information is selectively uploaded or removed and clinical mistakes can be made by omission as well as commission,” she said. “It’s largely a data-mining exercise.” Seven years after My Health Record’s launch and six months after the opt-out period ended, only one in eight records contain a health summary that makes them useful. Only 55 per cent of private hospitals private hospitals and three in four public hospitals are connected to My Health Record.Patients who don’t have a MyGov account can call the My Health Record helpline on 1800 723 471 for information.
+CREDIT: SUE DUNLEVY
+Word count: 468

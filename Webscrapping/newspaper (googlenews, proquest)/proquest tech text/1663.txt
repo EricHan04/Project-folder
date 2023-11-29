@@ -1,0 +1,19 @@
+THE novelty of attaching a fitbit-like device to a mob of cattle and watching them go through their days from afar is on the brink of wide scale commercialisation.
+Producers are naturally wondering whether they can trust the hype.
+The technology involves placing a sensor on an animal - using an ear tag or neck collar - that transfers data to a cloud service.
+The tag collects raw data such as a GPS location and accelerometer information, which shows when the animal is standing, walking, grazing or lying.
+Decisions about whether smart tags are going to deliver useful advice and actually put more money in the bank have to be weighed up on an individual farm level.
+There has been some fairly comprehensive economic analysis and case studies run on livestock tracking technology and one of the scientists who has been working on it for the past decade provided an overview at a recent webinar.
+Mark Trotter, an associate professor in precision livestock management at Central Qld University, says smart tags will indeed transform grazing industries.
+But that doesn't mean everyone should run out and buy one for every head on their property.
+Dr Trotter led a team that looked into the value proposition of smart tags. The work pointed to an overall 6 per cent increase in revenue and 3pc cost saving to be had from having these devices.
+Speaking at the recent Elders Agtech Virtual Series, he said the technology had a lot of potential to provide insights producers could not possibly get with their present access to labour and time.
+"This can allow us to monitor our animals 24 hours, seven days and if we can get the smarts in behind the hardware to interpret the data coming off, we can come up with meaningful recommendations to producers," he said.
+But the caveat is being realistic about the performance of the hardware - it was certainly a difficult technical challenge, he said.
+Long-term testing was still needed - there have not yet been many deployments that have exceeded 12 months. More than three years was needed to prove retention, Dr Trotter felt.
+Thinking about ways to extract value at lower investment levels - sentinel deployments, say in 5 per cent of the herd, was probably a good approach to take, he advised.
+Case studies and economic analysis came up with many different applications for the technology, Dr Trotter said.
+These include mustering efficiency, monitoring water consumption, determining which parts of a paddock are underutilised, detecting subclinical plant poisoning and exploring the behavioural differences between a mob's top performers and the tail end.
+In one case study in WA, producers even 'stole' their own sheep, hiding them on a neighbour's property, and then used the technology to trace them. Stock theft was one example where there was still a solid benefit to be had from tagging only a few animals, Dr Trotter said.
+CREDIT: Shan Goodwin
+Word count: 488

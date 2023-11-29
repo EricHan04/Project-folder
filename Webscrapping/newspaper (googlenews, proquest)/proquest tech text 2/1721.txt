@@ -1,0 +1,16 @@
+Helping grapegrowers optimise their irrigation water use will be one of the first outcomes of a $5 million digital technologies project supporting on-farm decision making for winegrape production.
+A digital platform called VitiVisor will collect information direct from the vineyard via cameras and sensors.
+It will then analyse the large amounts of data produced to assess vineyard performance and, for the first time, offer coordinated advice on management practices such as irrigation, pruning, fertiliser, fungicide and pesticide applications.
+Led by the University of Adelaide, the project is a collaboration between the University, Riverland Wine and Wine Australia, with support from UniSA and Primary Industries and Regions SA (PIRSA).
+The project is being developed in partnership with Riverland growers but the end product will be open to and usable by all growers.
+VitiVisor brings together researchers in viticulture, engineering, remote sensing, farm economics, water accounting, artificial intelligence, machine learning and robotics, with grapegrowers possessing deep knowledge of vineyard production and processes from the Riverland wine region.
+The project was initiated under the leadership of Chris Byrne, executive chair of Riverland Wine, who brought together motivated growers and advisors from the region to meet with University researchers for objective-setting workshops with a view to finding ways to reduce production costs.
+In the vineyard, cameras and sensors will collect data and analyse the performance of a vineyard, for instance measuring canopy growth, fruit production, sap flow and soil moisture.
+This will allow growers to track and predict how key management actions.
+These include application of water, fertiliser and herbicides and various canopy management strategies relate to vineyard outcomes such as fruit yield and quality.
+The information will be displayed as a dashboard, giving growers a quick snapshot of what is happening in their vineyards.
+They will be able to simply and easily share information about their vineyard performance with their advisors.
+Importantly, the vineyard level information will be combined with market and farm cost information.
+This will provide guidance on making the best decisions to maximise farm returns.
+VitiVisor will be an open source platform, expandable over time, allowing anyone to add new applications.
+Word count: 351

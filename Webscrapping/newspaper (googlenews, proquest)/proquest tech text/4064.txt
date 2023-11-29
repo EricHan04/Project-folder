@@ -1,0 +1,39 @@
+Source: The Conversation (Au and NZ) - By Therese Keane, Associate Professor, Deputy Chair Department of Education, Swinburne University of Technology
+A cute human-like robot taught students in a small, rural school how to code while also helping them learn their local Aboriginal language.
+The Maitland Lutheran School is an independent, co-educational primary and middle school in the farming district of Maitland, Yorke Peninsula, in South Australia. It is located on the traditional lands of the Narungga people.
+The school has around 240 students from Kindergarten to Year 9, and 16% of them are Aboriginal or Torres Strait Islander. Many of these students have Narungga heritage.
+The school wanted to support its students to connect with the heritage of the Narungga people, in partnership with the local Aboriginal community.
+Past research has shown digital technologies can help rediscover lost Indigenous languages. Technologies with culturally responsive ways of teaching have also been shown to improve engagement and learning among Indigenous students in STEM subjects.
+Read more: Reviving Indigenous languages – not as easy as it seems
+So, the school’s principal, David Field, decided to employ a small robot named Pink to help students understand their local culture and language. And it worked.
+By learning to program a humanoid robot, students developed 21st-century skills while also engaging with an Indigenous culture and language. The project also strengthened the connection between school, home and Country.
+Why did Pink work so well?
+The Maitland Lutheran School had long wanted to connected its students with Narungga culture and language. About eight years earlier, the school bought paper dictionaries of Narungga, but children had shown little interest in them.
+The principal engaged the only fluent speaker of Narungga to work with the school’s teachers and students. The aim was to engage the school’s Aboriginal and non-Aboriginal students in learning about both innovative technologies and Narungga culture.
+[embedded content]
+Humanoid robots look like humans and have movements that are human-like. So students are drawn to them and want to make them function like a human, by making them talk, move their arms and walk.
+Some research has shown school students feel more comfortable – less anxious and self-conscious – learning a new language when they can practise on a robot compared to a human.
+Apart from the cuteness factor, students believe the robot is not judgmental when they make mistakes.
+Read more: Why more schools need to teach bilingual education to Indigenous children
+How it panned out
+It didn’t take long for Pink to captivate the students. Students formed a relationship with the robot and became attached to it. One of the teachers said her students treated the robot like “they would a younger child”.
+Another teacher said the students:
+… humanised the robot within seconds, came and touched Pink’s hand to shake it and waved goodbye on leaving the room. All students wanted to be the first to talk, touch and engage with Pink.
+As the students’ enthusiasm and confidence using the robot increased, they wanted Pink to have more functionality, so they started learning how to program her.
+They wanted Pink to speak Narungga. But they discovered Pink could not pronounce the Narungga words when they typed the words correctly into the programming language.
+So, using their problem-solving skills, students trialled the phonetic spelling of the words until they achieved the correct Narungga pronunciation.
+A Year 1 and 2 teacher said:
+Deep learning occurred in terms of cultural awareness and language acquisition. Most of the students knew very little, if any, Narungga words. (Some did not even know the word Narungga!) In terms of information technologies the students have truly grown from not understanding that Pink was programmable to programming her to do a variety of things.
+So, the students at Maitland Lutheran School learnt not only the Narungga language but also how to use a programming language to control a humanoid robot. It was a steep learning curve to learn and understand two different ways of communicating, one old and one new.
+[embedded content]
+The work with the robot turned into community engagement as students’ enthusiasm involved many teachers and the wider school community. Teachers observed students saying “Hello” in Narungga to other staff members.
+The principal said the school community was starting to express pride in the traditional culture of the area, which was not evident before. The principal said:
+This has not only engaged our students; it has engaged our staff as well. It has given them encouragement in what they have seen from the students to keep progressing with the [Narungga] language as well as the digital side of things.
+It hasn’t just been for our Narungga students, it’s been across the board with all of our students. It’s been a great way of getting them to network together […] to work on something that has an Indigenous perspective but means a lot to everybody.
+Emerging technologies can play a role in engaging young people with the languages and cultures of Australia’s First Peoples.
+Read more: Robots likely to be used in classrooms as learning tools, not teachers
+The educators in this school recognised the importance of coding and robotics for their students’ future and the far-reaching opportunities to integrate this technology in ways that build respect and understanding between cultures.
+This project was part of a larger three-year study investigating the impact of humanoid robots on students’ learning and engagement.
+This article was co-authored with Monica Williams, Educational Consultant at the Association of Independent Schools of South Australia.
+- ref. How a robot called Pink helped school children bring an Aboriginal language back to life - http://theconversation.com/how-a-robot-called-pink-helped-school-children-bring-an-aboriginal-language-back-to-life-119810
+Word count: 903

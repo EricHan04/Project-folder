@@ -1,0 +1,11 @@
+A SOUTH Australian start-up company claims it’s developed technology that would prevent another Optus-style hacking scandal and save billions of dollars in identity fraud.
+Using military-grade encryption, Trax Print claims that its pioneering QR codes help protect valuable documents from criminals and ensure stolen personal data becomes “worthless”.
+Its founders, who launched the company after being a victim of identity fraud, use the code to protect driver’s licences, passports, birth certificates, Medicare cards or immigration papers.
+Company chief technology officer Robert Ablinger, pictured, said a specialised app alerts a user if a document is being scanned by a third party such as a bank, credit agency or retail outlet. If suspicious, the user can immediately suspend their document, which he said makes the hack worthless.
+“We could instantly reissue the… code on each ID for every victim and it would be secure,” he said. “Then this hack and others like it will mean nothing. We would make the data valueless.” He and his wife, Robyn, established the company in their western suburbs home at West Lakes after having their signature forged by a former colleague. Mr Ablinger, a computer programmer by trade, said the app would cost the state government $1m a year to administer – a small cost compared to the billions of dollars lost to identity fraud.
+His firm has held talks with federal agencies and hope the state government would look to implement its idea.
+He said it would take a hacker 17 billion years to get gain full access to the QR code.
+Optus hackers have stolen personal information from at least 9.8 million customers.
+More than 37,000 Medicare details are compromised. SA-Best Upper House MP Frank Pangallo said it was “tried, proven and accepted technology that can help fight the war against identity fraud”.
+CREDIT: ANDREW HOUGH
+Word count: 302

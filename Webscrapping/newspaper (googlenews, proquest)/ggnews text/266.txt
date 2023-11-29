@@ -1,0 +1,27 @@
+The Hubble Space Telescope is back online – for now. ‘Our window on the universe’, as it’s known, suffered a serious malfunction on 13 June. On Tuesday morning it was back up and running, and sent new images down to Earth.
+At just over 30 years of age, Hubble is nearing the end of its life, during which countries including Australia have used it to study the vast reaches of space.
+There is no longer a Space Shuttle to get to the telescope, which is orbiting about 550 kilometres above Earth, so engineers in NASA’s Goddard Space Flight Center mission control had to perform “a very complex hardware switch” to bring it back online after the malfunction so it could start sending images again. (This was slightly more complicated than switching it off, then back on again.) NASA Administrator Bill Nelson says he is “thrilled” to see it back in operation, “once again capturing the kind of images that have intrigued and inspired us for generations”.
+One of the images so far is a “rarely observed example” of a pair of interacting, or colliding, galaxies. Another is a large spiral galaxy with three spiral arms, instead of the usual two.
+Hubble was launched in 1990. Its age means NASA had to bring back retired staff who helped build it in the first place to help with the ‘switch’. Other team members started going through decades-old paperwork to come up with a fix.
+They ran a bunch of tests, eliminating possible problems, before flicking the switch.
+“The switch required 15 hours of spacecraft commanding from the ground,” says Hubble deputy project manager Jim Jeletic.
+“The main computer had to be turned off, and a backup safe-mode computer temporarily took over the spacecraft. Several boxes also had to be powered on that were never turned on before in space, and other hardware needed their interfaces switched.”
+The team declared victory on 15 July, and science observations started again on 20 July.
+Professor Matthew Colless, director of the Research School of Astronomy and Astrophysics at the Australian National University (ANU), says it’s great to have Hubble back. He’s also excited about new telescope projects in the works.
+“Hubble is the biggest research machine astronomers have at the moment,” he says. “Although we’re looking forward to the launch of the James Webb Telescope, that doesn’t duplicate what Hubble does.
+“It does new things, but we’ll be sorry when Hubble fails.”
+The James Webb Space Telescope is due to be launched later this year, and it’s not clear how much longer Hubble will last, or what will happen once it dies.
+Get an update of science stories delivered straight to your inbox.
+Colless says many Australians are using Hubble right now, thanks to a generous deal from NASA and the European Space Agency to grant them time.
+Australian astronomers will also be able to use planned ground telescopes, which will be far larger than Hubble or James Webb and will be able to get more detailed images from further away.
+There’s just the pesky problem of atmospheric distortion to deal with.
+Colless and his team are working on that using adaptive optics, mirrors, computers and lasers to map the distortions and edit them out.
+“They work a bit like noise-cancelling headphones,” he says. “We unscramble the light.”
+The ANU-led team is developing MAVIS (Multi-conjugate-adaptive-optics Assisted Visible Imager and Spectrograph), an instrument that will be fitted on the European Southern Observatory’s Very Large Telescope (VLT) in Chile.
+The team will take advantage of the VLT’s existing adaptive optics technology to create guide stars, using constellations of lasers beamed into the sodium layer of the atmosphere. They can then measure the distortion and use deformable mirrors to remove turbulence patterns.
+Colless says these mirrors will be deformed thousands of times a second to counter turbulence, using fast computers and robotic controls.
+“In noise-cancelling headphones, a little microphone is listening to the noises coming in, then putting into the headphones the right fluctuations to cancel out the vibrations so you only hear what the speakers want you to hear,” he says.
+“That’s what we’re doing, cancelling out the fluctuations in light without all that extra noise.
+“With MAVIS, we’ll be able to see more distant objects in more detail than ever before – galaxies much further back in time, close in around black holes in nearby galaxies, how material falls in and turns into quasars.”
+You can see a gallery of Hubble images here.
+Read more:

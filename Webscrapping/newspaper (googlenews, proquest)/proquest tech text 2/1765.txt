@@ -1,0 +1,18 @@
+Automation of machinery will be the future of precision agriculture, and major companies are already making elements of the technology available now.
+Speaking earlier this year at a Grains Research Development Corporation update, University of Southern Queensland Centre for Agricultural Engineering director Professor Craig Baillie said automation would underpin the future farm.
+"Automation is really just a system being able to be self acting or have some sort of self-regulated mechanism," he said.
+"The traditional precision agriculture approach was to collect lots of data, bring it back to the office, develop a prescription map, put it in (the tractor) and off you go.
+"The future is really about how you have an experience on farm which removes that traditional approach and moves into sensor based precision agriculture.
+"The farm of the future looks very similar to the farm of today but everything is interconnected, sharing information and things just happen.
+"If we get this right it should be a much easier landscape to operate in."
+Prof Baillie said the original equipment manufacturers, companies such as John Deere, CNH Industrial, AGCO and Claas, were already delivering elements of the technology.
+"We already have geo-referencing in GPS guidance, examples of sensing and perception are available, we have some performance control on machinery, we have telematics and in-field communication between machinery and we have variable rate," he said.
+"It's like a jigsaw puzzle, we just have to join them up."
+Prof Baillie said cloud servers were making it easier to marry up information from different companies and different sources.
+"Large tractor manufactures are developing these platforms for themselves or are reaching out and using others such as Amazon web services," he said.
+Prof Baillie said many of the implements on the market already had elements of automation through variable rate control.
+"Whether it is fertilisers or herbicide applications, it does that by a rate controller and there is a standard ISOBUS protocol that allows tractors and implements to communicate on a standard language," he said.
+Prof Baillie said next wave of automation included technologies which integrated machine learning with the existing technologies, a current example being the optical sensors in 'green on green' camera spraying.
+"When we talk about sensors we just aren't talking about a camera, we are talking about different sorts of techniques, including reflectance, transmittance, fluorescence, machine learning and 3D imaging," he said.
+CREDIT: Sharon O'Keeffe
+Word count: 396

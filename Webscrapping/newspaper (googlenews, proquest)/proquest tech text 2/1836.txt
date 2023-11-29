@@ -1,0 +1,23 @@
+It will be robots to the rescue and digital scans of our eyes, faces and fingerprints to fight fraudsters, reports Anthony Keane
+FRAUD WATCH
+FRAUD prevention is becoming increasingly hi-tech as governments and businesses try to stay ahead of rapidly advancing cybercriminals.
+Biometric scanning, such as fingerprint reading and facial recogniton – already on many smartphones – will become the norm for transactions and other business. And artificial intelligence systems will soon spot scam signals that currently get missed.
+Security specialists say Australians are more vulnerable to scammers as their lives become increasingly digitised.
+New research has found the cost of cybercrime is surging, with businesses often losing more than $100,000 from each incident.
+Accenture’s 2019 Cost of Cybercrime study found that cybersecurity spending had jumped 26 per cent in the past year and security breaches rose by 18 per cent.
+Multi-factor authentication, which combines a password with other security measures, such as a code sent to phones or a biometric scan, is spreading quickly as a fraud-prevention tactic.
+Xero head of industry Matthew Prouse said this type of authentication was mandatory for Xero users and Australian Taxation Office accounts.
+The ATO also widely uses voice recognition technology.
+“In Europe multi-factor authentication is becoming mandatory for practically everything,” Mr Prouse said.
+“I think finger printing and facial recognition will be the industry standard for identification.” Email attachments – common causes of fraud – would be replaced by businesses sending data digitally, Mr Prouse said.
+He said research had found that hackers typically lurked inside people’s inboxes for 18 months before taking action.
+“They see who you bank with, what software you use, what airlines you fly,” Mr Prouse said.
+Proofpoint Australia country manager Crispin Kerr said the FBI estimated that email-comprised scams cost victims $1.2 billion globally last year.
+“Everyone needs to stay one step ahead as the landscape continues to shift,” he said. “Attackers have moved beyond infrastructure and have found an easier path to success by targeting end users directly.” Mr Kerr said machine learning was advancing rapidly and was increasingly able to detect new types of attacks.
+Advanced detection methods would trickle down to consumer services, he said. “Internet service providers and phone providers will also be combating voice and SMS phishing with the level of automation we now expect in email,” Mr Kerr said.
+Retiree Stephen Yew, 70, clicked on an email containing malware and within a few months his savings account had been cleaned out.
+“My mobile phone wasn’t working as the number had been ported out without my knowledge,” he said.
+“Eventually I recovered the money and I reclaimed my bank account and phone number. It took almost six weeks. The stress, anxiety and inconvenience were terrible.” The Commonwealth Bank’s executive general manager of direct channels, Philippa Watson, said future fraud prevention required information sharing and improved awareness. “Educating the public is key to preventing fraud and scams,” she said.
+Xero’s Mr Prouse said consumers and business owners should visit staysmartonline.gov.au to learn ways to protect themselves.Fraud Watch is presented in partnership with Commonwealth Bank. If you have a scams story, let us know at fraudwatch@ news.com.au. To find out more, head to fraudwatch.com.au
+CREDIT: Anthony Keane
+Word count: 534

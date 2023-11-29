@@ -1,0 +1,16 @@
+Adelaide-based company Ping Services has closed a $650,000 seed fund round after securing an additional $200,000 in government funding earlier this year.
+The patented device, known as the Ping Monitor, uses acoustic analysis, machine learning and the Internet of Things (IoT) to continuously detect wind turbine blade damage.
+The key piece of technology is the algorithm that can rate the health of the turbine, based on its acoustic signature, and monitor changes over time.
+The device easily attaches to wind turbine towers and actively listens to the blades’ acoustic signature while rotating to detect blade faults such as pitting or cracks caused by lightning strikes or hail.
+Its conical shape protects its microphone from rain, debris such as bird droppings and ground-level noise.
+Data collected is transferred from remote sites via low orbit nanosatellite technology.
+The second-generation Ping Monitor 2.0 will be launched next month.
+Ping Services chief Matthew Stead said there were 3800 blade failures globally every year, causing up to $2 billion damage.
+He said the tech startup won its first client last month and was further trialling the technology with some of the biggest wind farm operators in the world.
+“This technology is a game-changer for the wind farm O&M sector and there’s a rush to see which large operator will be first out of the gate to start continuously monitoring their turbines,” Stead said.
+The Ping Monitor intelligent listening system is also being applied to asset monitoring in the mining, transport and power sectors.
+South Australia has emerged as the epicentre of the Australian space industry in the past 12 months. Adelaide is also home to the new Australian Space Agency and dozens of space startups and major Tier 1 defence companies.
+Ping Monitor is among the early success stories associated with the blossoming local space industry in South Australia. Ping Services has partnered with fellow South Australian space startup Myriota and was part of the University of South Australia’s inaugural space incubator program Venture Catalyst Space.
+The article was first published on The Lead South Australia. Read the original article.
+NOW READ: “Bloody smart people”: It’s up to startups to tackle climate change, and bring jobs to regional Australia
+NOW READ: Nanosatellite startup Myriota backed by Boeing in $19.4 million Series A funding round

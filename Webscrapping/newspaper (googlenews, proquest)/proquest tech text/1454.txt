@@ -1,0 +1,28 @@
+SA is poised to be a leader in an agricultural technology revolution, with multiple industries, the state government and the SA tech world joining a groundswell of game-changing projects and ideas.
+In announcing $700,000 of state government funding for nine agtech projects last week, Primary Industries Minister Clare Scriven said technology adoption had the potential "to make the most tremendous changes in agricultural productivity in our lifetimes".
+Agtech Advisory Group member and SA Agtech meetup convener Oli Madgett said factors like the increasing need for digital compliance records to meet sustainability targets, and labour availability concerns were the drivers of agtech adoption.
+When Mr Madgett held his first agtech meetup in SA six years ago, the group had 20 members but it has since swelled to 1500 from right across the agricultural and technological realm.
+He said sustainable, profitable farmers in Australia were largely efficient in their operations already, but any additional gains would likely be driven by technology.
+"That continued growth (in agtech meetup members) shows there's a real interest in the area within SA," he said. "Agtech adoption is gathering momentum and on the cusp of scaling up due to the labour problems we've had recently.
+"Things that were moderately painful are now really painful so that's often when technology find its place.
+"Suddenly, automation solutions that may not have made commercial sense a couple of years ago are coming down in cost, but also offering a solution as problems become more painful."
+Among the nine projects were ones looking at capturing and reducing dairy emissions, improved barley traceability and better objective data in grain receivals.
+A collaboration between Coopers Brewery, Grain Producers SA, tech company Trust Provenance and grain trader ADM will have barley tracked and traced from paddock to brewery.
+Trust software will capture data points along the barley's journey, then link into Coopers' software to enable a full paddock-to-beverage traceability platform.
+Each data point will be logged, presented in chronological order and viewable by a unique QR code for each batch of barley.
+Coopers maltings manager Doug Stewart said the iconic SA company was focused on sourcing only the highest quality barley so traceability was becoming increasingly important.
+"Traceability with this barley application will allow us to clearly demonstrate the superior qualities and provenance of the grains we use from local farmers, which provides a range of monitoring, food safety and marketing advantages," he said.
+GPSA chief executive officer Brad Perry said at least 10 growers would be involved initially and GPSA was excited by the opportunities and learnings the project could provide.
+"The importance of grain supply chain traceability for growers should not be understated, whether that's to assist market access, justify sustainability credentials or for biosecurity," he said.
+"The growing global trend for real-time and transparent proof of claim is finding its way into procurement programs for food manufacturers and retailers.
+"Making sure SA grain producers are future-proofed against evolving supply chain demands is part of this program."
+Cropify is aiming to eliminate subjective assessments from the grain supply chain.
+Wife and husband team Anna Falkiner and Andrew Hannon have developed a software and hardware program to ensure classification is done in a consistent and controlled environment, with records logged digitally and made available to growers and potential customers.
+"Approximately 53 per cent of current testing done at receival is subjective - by the human eye," Mrs Falkiner said.
+"It's up to the experience of the classifier so we want to replace that with machine learning so it's an objective and repeatable test that will eliminate human error."
+A former group commercial manager with Viterra, Mr Hannon said it was not uncommon for disputes to arise about quality and they were often linked to subjective assessment.
+Cropify have already developed a pulse module to identify defects, such as poor colour, insect damage, chips and breaks, wrinkles and mould, and plan to roll out cereals and oilseeds modules. The technology will be offered in varying formats so it can be used during every step of the supply chain - from farmers doing on-farm classification, to bulk handlers at receival sites, to exporters, importers and end users.
+Mrs Falkiner said having digital images of physical samples on file could also reduce the need to retain samples and cut back on plastic used to store them.
+- QUINTON McCALLUM
+CREDIT:
+Word count: 724

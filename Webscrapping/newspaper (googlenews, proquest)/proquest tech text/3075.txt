@@ -1,0 +1,186 @@
+From creating therapeutic robots and revolutionising clinical trials to devising better coding kits, cryptocurrency platforms, virtual reality experiences, and kangaroo meat produced in a lab, young Aussies are smashing it.
+We’ve identified 30 of the country’s brightest minds under 30 years who are thinking big, winning investments, and changing lives.
+MANURI GUNAWARDENA, 28, SYDNEY, HEALTHMATCH FOUNDER
+As a fifth year medical student, Manuri Gunawardena was “focused on neurosurgery with a passion for brain cancer research” but she uncovered a serious problem.
+Doctors were struggling to find patients to fill clinical trials, while patients found the process “hit and miss”.
+Her proposed solution, a platform called HealthMatch helping consumers find suitable trials, won Australia’s first TechCrunch Startup Battlefield and has since attracted more than $25 million in investment from Australia and abroad.
+The funds helped Ms Gunawardena expand her business from five to 20 employees last year and rapidly attract new clients.
+“In six months we went from 8000 to 80,000 users on the platform,” she said.
+“It was also great in terms of actual placements in trials: we went from placing about 50 people to placing over 2000 people a month into clinical trials.”
+That included finding enough candidates to fill an arthritis trial in one month, even though researchers had been searching for 18 months.
+Ms Gunawardena said her next goal was expanding HealthMatch to Singapore, followed by the United States, but her ultimate goal was to make the healthcare industry easier to navigate.
+“I’m really passionate about changing the way healthcare is done to be more patient-driven,” she said.
+“Traditionally a lot of problems occur because healthcare is very paternalistic.”
+CHARLIE CARRINGTON, 27, MELBOURNE, ATLAS MASTERCLASS CO-FOUNDER
+When nationwide lockdowns hit the hospitality sector last year, restaurant owner Charlie Carrington devised an alternative plan.
+Rather than swap to takeaway fare for Atlas Dining, which he established at the age of 22, he proposed a food delivery service to help connoisseurs make the cuisine at home, accompanied by video instructions.
+“It was a pretty out-there concept,” he said.
+“But the uptake was instant. It was incredible. We launched with no planning. I put an Instagram post up and said ‘email us’ and we had 50 emails in the first half an hour.”
+Just like the restaurant, the menu for Atlas Masterclass changes weekly, delivered with “pre-portioned” groceries, and is designed to be family-friendly.
+The restaurant took 400 orders in its first week of launch and has remained popular, he said, employing 60 international staff during Melbourne’s lockdowns.
+Mr Carrington said he now planned to expand Masterclass to Queensland, Tasmania and South Australia.
+“It’s a growing business and for us what started during COVID has proven to have the longevity,” he said.
+“Who would have thought something good and long-term could come from it?”
+COLINA AND HRIPSIME DEMIRDJIAN, 29, SYDNEY, DOUBLE TROUBLE CREATIVES FOUNDERS
+Dropping out of law school to focus on an emoji business is paying off for twin sisters Colina and Hripsime Demirdjian.
+“Our creativity and push for innovation wasn’t being met by our law degrees,” Colina said.
+“We passed all our exams and thought ‘why not launch a passion project?’”
+That project began as an Instagram account and, after studying Swift programming and encouragement from followers, turned into the Moji Edit app that has now been downloaded more than 10 million times.
+Double Trouble Creatives now employs 10 people, including developers who helped deliver “AI-powered avatars created by taking a single selfie” and real-time emoji videos now popular on TikTok.
+Colina said the app was “just beginning” to tap into technology, with more features and an Android version planned
+AENGUS TRAN, 27, SYDNEY, HARRISON.AI FOUNDER
+Harrison.ai, a company founded by Aengus Tran and his brother Dimitry has a bold vision: using artificial intelligence “to increase the quality of care of more than a million lives every single day”.
+Aengus Tran is already making significant steps towards that goal, with the company launching a system to analyse embryos during IVF treatment to boost the chances of pregnancy, followed by annalise.ai to detect 124 findings in chest X-rays, assisting radiologists.
+The company’s vision has attracted $29 million in funding so far from investors including Blackbird Ventures and Skip Capital.
+“When I started Harrison I wondered if I wanted to give up a career in medicine but I’ve realised I’m still practising medicine as a doctor, just not in the traditional way with a stethoscope around my neck,” Aengus said.
+BLAKE GARRETT, 23, SYDNEY, SCHOOL BYTES FOUNDER
+What started as a favour to his high school principal transformed into a profitable and growing business for Blake Garrett.
+The former Chatswood High School student said he built a prototype for managing day-to-day paperwork in his school but, after winning the SAP Young ICT Explorers award for his software, pitched it to others.
+“I was just talking to schools and seeing if they were interested in the system and before I knew it we had 20 schools on board, all willing to pay for it.
+“This was not just a favour any more.”
+School Bytes now handles administration for 435 NSW schools and 306,000 students, saving teachers time and attracting an annual revenue of $2 million.
+Mr Garrett said he planned to expand its reach to other states and target “at least 600” schools by next year.
+TIM NOAKESMITH & GEORGE PEPPOU 26 AND 29, SYDNEY, VOW FOOD FOUNDERS
+When Tim Noakesmith started questioning his own food choices and their impact, he stumbled upon what he calls “the greatest opportunity in agriculture over the last 10,000 years”: cultured meat.
+After teaming with fellow entrepreneur George Peppou, the pair created Vow Food, a company that creates lab-grown meat using the cells of animals.
+The firm has since added 11 animals to its library, including kangaroo meat famously made into dumplings by Neil Perry, has won approval for its consumption in Singapore, and attracted more than $9 million in investment.
+The Sydney-based firm employs a team of 27, with plans to double that in the next 18 months, but Mr Noakesmith said it would not rush to get cultured meats on plates.
+“We want people who eat it to go ‘oh, this is the level of quality and the standard I would expect of something that is going to completely redefine how food works,” he said.
+ELAINE YANG, 29, SYDNEY, ASKBELLA FOUNDER
+After working with beauty brands, Elaine Yang noticed a gap in the market.
+Consumers — herself included — often had to experiment to find the best skin product while brands struggled to find the right customers.
+Her solution is an automated “beauty bot” to recommend products.
+“I came up with the idea last year during COVID,” she said.
+“I reached out to a few beauty brands and the feedback was very positive.”
+Ms Yang hired a developer to help create Askbella, a bot that uses Facebook Messenger to ask users a series of questions and recommend products from brands including Dr Jart and COSRX.
+The bot has only been in operation for a month but Ms Yang says early figures are promising.
+“Artificial intelligence will be involved in the beauty industry and will become a real phenomenon in the next five to 10 years,” she said.
+ALEX HARPER, 26, AND ANGUS GOLDMAN, 26, BRISBANE, SWYFTX FOUNDERS
+Business-minded Alex Harper met future co-creator, IT whiz Angus Goldman, on a Sydney coding camp, sponsored by Google and Atlassian.
+The two were paired as roommates and hatched an idea to create a cryptocurrency exchange in Australia, buying and selling Bitcoin with a focus on customer support, regulated trading, and reliable service hosted by Amazon.
+The Swyftx platform took 12 months to build — “longer than we thought” — and required Mr Harper to take out a part-time job to keep them afloat, but now hosts more than $1 billion in monthly trades and employs 55 people.
+“It took us two years to hit our first billion dollars in trades, it took us five weeks to hit our second billion and now we’re closing in on our third billion,” he said.
+“Our user base has tripled in the last two months.”
+Mr Harper said the Brisbane-based company was eyeing off expansion in Singapore, Canada and Europe
+ROWAN SMITH, 25, SYDNEY, TECH GYM FOUNDER
+UTS mechatronics graduate Rowan Smith discovered the idea for Tech Gym through personal experience: his Nan suffered a stroke and was given just three 20-minute sessions a week to rehabilitate her left side.
+“And the therapists had so many patients to treat simultaneously, it was near impossible,” he said.
+His solution is a universal robot modified to exercise patients’ upper limbs, helping them perform exercises independently and without strain for patients or providers.
+“It’s able to recognise small input from the user and we can accelerate that to make large movements earlier,” Mr Smith said.
+The company is poised to launch a pilot with patients at Bankstown-Lidcombe Hospital after raising $100,000 in pre-seed investment.
+A second $1.25 million round is designed to fund the trial and get the device ready for market.
+NICOLE LIU, 25, SYDNEY, KIN FERTILITY FOUNDER
+Nicole Liu has turned a medical misdiagnosis into something positive with Kin Fertility, a digital platform offering women health advice, access to doctors, and subscriptions to the contraceptive pill.
+Ms Liu said the idea for the business came after she was mistakenly diagnosed with polycystic ovary syndrome at 24 and found it difficult to find information.
+What she started as a site for women’s health news then expanded to offer pill prescriptions and deliveries with oversight from a GP.
+Only those prescribed the medication from a GP in person within two years qualify.
+“We launched last February and we’ve now got over 40,000 subscribers to the pill service,” she said.
+“My ultimate goal is how can we become the place that women turn to first for women’s health, reproductive health and fertility health.”
+ALEX AND CHRIS NAOUMIDIS, 25 AND 23, MELBOURNE, MINDSET HEALTH FOUNDERS
+They call them “digital therapeutics,” and the apps produced by Victorian brothers Alex and Chris Naoumidis are designed to make a medical difference to users.
+The duo’s first app, Nerva, saw the pair partner with Dr Simone Peters from Monash University to deliver a six-week hypnotherapy course inside an app to provide relief from Irritable Bowel Syndrome.
+“There was such a big need for it,” Alex said.
+“There’s no strong treatments for IBS. There’s a low FODMAP diet but it doesn’t work for everyone.”
+The pair’s vision for hypnotherapy apps focused on treating single conditions won them a place in the esteemed Y Combinator accelerator as well as 15,000 subscribers.
+Alex said the pair planned to target menopausal hot flushes in their next app, and planned to launch an investment round.
+MARTIN KARAFILIS, 28, SYDNEY, TILITER CO-FOUNDER
+Fewer people can claim avocados as onions at the supermarket checkout thanks to smart camera technology developed by Martin Karafilis and friends Chris Sampson and Marcel Herz.
+Mr Karafilis said he called on help from his friends, who were studying computer vision and artificial intelligence, after they recognised challenges posed by self-check-outs.
+Issues included “millions of tonnes of plastic wrap” used to label produce, and confusion by checkout operators and shoppers.
+“As a consumer, you might have five or six types of red apple to identify, three different types of mandarins,” he said.
+“This way you can place them on a supermarket scale and it will identify the type.”
+Tiliter’s solution, which was part of UNSW’s Founders 10x accelerator, is now used in Woolworths stores across New South Wales, Victoria, Queensland and Western Australia, as well as parts of the US and Europe, and has attracted $7.5 million in investment.
+MADDY SCARF, 29, SYDNEY, TECMASK FOUNDER
+When Tecmask launched fashionable face masks in Australia three years ago, founder Maddy Scarf said a lot of her effort went into educating the public and reducing the “stigma” around wearing a mask.
+That became a moot point after the 2019 bushfires and 2020 pandemic when, she said, demand for the colourful creations spiked by 8000 per cent in two months.
+“We had to adapt quite quickly,” she said.
+“We had to start growing the team and getting as many resources as I could to keep up with demand.”
+Ms Scarf, then six months pregnant with her first child, also swapped from disposable to reusable masks, and moved manufacturing to Australia.
+She said the company was now looking to expand, following interest from the US and UK.
+LACHLAN MATHESON, 25, MELBOURNE, BOXXD FOUNDER
+When Lachlan Matheson’s sister couldn’t buy boxes for her cake shop, the then flight attendant stepped in to help, organising their manufacture overseas.
+That assistance, and his idea for ready and custom-made packaging, has since turned into a lucrative online business turning over “about $3 million a year”.
+“This was my first proper company. It was a little scary to transition from working somewhere else to putting a lot of money into something,” he said.
+“I had to buy a lot of stock, not knowing if we were going to have any customers.”
+His packaging company BOXXD now works with small and medium-sized businesses in Australia and more than 20 other countries to create packaging for all types of goods.
+After a spike in orders last year, Mr Matheson said the company planned to launch more pre-made packaging for e-commerce this year.
+BENJAMIN XIA, 25, SYDNEY, CONTACTILE CO-FOUNDER
+It sounds like something from science fiction but the young, three-person team behind Contactile is trying to give robots a sense of touch.
+Benjamin Xia, the electrical engineer behind many of the company’s hardware and software prototypes, said he, Heba Khamis and Stephen Redmond developed the technology at UNSW and participated in accelerators within the CSIRO and University of Sydney to commercialise the technology.
+“It could be used in essential applications where we still require humans to use their hands because robots can’t do it yet,” he said.
+That could be manufacturing applications, he said, or use in prosthetic hands.
+Contactile, which is currently working to release a pilot program, recently won the Awards NSW Startup of the Year.
+SCOTT MILLAR, 20, BRISBANE, BOP INDUSTRIES FOUNDER
+Some executives didn’t know what to make of Scott Millar when he showed up at business events, a CEO at 16 years of age.
+“They’d ask ‘who are you and what are you doing here?’,” he said.
+But the self-funded education firm he founded at 14, BOP Industries, now employs 10 people, has worked with 50,000 students in 120 schools around the world, and holds STEM-themed challenges, school holiday programs, and will appear at the World Science Festival in Brisbane this month.
+Mr Millar, whose firm has teamed with companies including Virgin Australia and Singapore Airlines, said the programs were not typical of a classroom and posed real-world tech challenges to students.
+“It’s not just about digital literacy but digital confidence,” he said.
+“Digital confidence is about being so comfortable with technology that you can start to think outside the box.”
+DANIELLE LEBON, 29, MELBOURNE, CO-LAB PANTRY CO-FOUNDER
+When the pandemic shut down restaurants across Melbourne, Danielle Lebon, a design and marketing specialist, and friends Natasha Buttigeig, 29, and Avin Chadee, 28, devised a way to help them stay in business.
+They set out to create a one-stop shop for meals, ingredients, sauces, recipes and merchandise, where users could order from many venues at once.
+“There wasn’t any other company doing what we were doing and allowing customers to cross-purchase across different restaurants,” she said.
+“It took time to get their heads around it and for us to build that story for them.”
+It also took “20-hour days for the whole year,” Ms Lebon said, as the company grew to feature goods from more than 150 vendors across Victoria, and attracted close to 12,000 customers.
+Lockdowns or not, the group plans to continue the venture long-term and expand.
+JOSEPH SINCLAIR, 22, MELBOURNE, SPROUT APP CREATOR
+Thousands of Australians are swapping and selling their backyard produce thanks to Joseph Sinclair, a student at Monash University, who created the Sprout app after inspiration struck on a New Zealand holiday.
+The computer science student noticed “honesty boxes” filled with homegrown produce on his trip and decided to digitise them in an Apple app.
+“For months I worked hard to get the app to a stage where it was good enough for uni but over the next year I kept grinding to the point where it was usable by thousands of people,” he said.
+The Sprout app now boasts more than 3000 users, and Mr Sinclair said he was working to launch a version for Google Android smartphones to reach more urban farmers, while also pursuing a career in software development.
+JUSTIN LIANG, 28, SYDNEY, INSPACE CO-FOUNDER
+Virtual reality is paying off in the real world for Inspace co-founder Justin Liang, whose firm produces digital recreations of real-world designs for architects, developers and real estate firms.
+Mr Liang said he created the company with VR specialist Eric Fear after AMP shut its venture arm in 2017.
+Inspace has since attracted $2.8 million in investments, and worked with property giants JLL, CBRE, Folkestone and Macquarie Bank.
+“(But) the hyper growth started for us last year when COVID kicked in,” he said.
+“People could no longer even visit places that did exist. It’s a really interesting thing to see $100 million-plus deals done with overseas buyers who haven’t physically visited the space.”
+Mr Liang said he planned to set up the company’s US headquarters in New York this August.
+MICHAEL NIXON, 18, WAGGA WAGGA, EDUKITS INTERNATIONAL FOUNDER
+It could be argued that Michael Nixon’s coding kit appeals to kids because he was one when he created it.
+The business owner founded EduKits and created its famous product, The Amazing Annoyatron, when he was just 13 years old.
+Rather than just delivering a blinking light when wired correctly, the kit can be used to prank parents and friends.
+“A lot of times, kids’ coding kits can be out of touch with what kids really want to do,” he said.
+“Kids don’t want to do anything practical — they really just want to have some fun.”
+The kit, which won a NSW iAward, now sells in 65 stores and across 15 countries.
+Mr Nixon is now working on an electronic dragon kit to encourage more girls to learn code.
+JEFF YEW, 27, BRISBANE, BINANCE AUSTRALIA CEO
+The Australian arm of the world’s largest cryptocurrency exchange this month hit a new record: more than $172 million traded in a single day.
+And behind the scenes is 27- year-old Jeff Yew, who funded his university degree by sinking his savings into Bitcoin.
+The passionate investor, who was involved in cryptocurrency start-ups such as TravelByBit before heading Binance Australia, said more Australians were investing in digital currencies for the first time this year as the market soared and regulation in Australia led the world. “Australia was one of the earliest countries to announce the legality of Bitcoin,” he said.
+Mr Yew said there were benefits to running such a large exchange at a young age — like being able to put in 18-hour days — and helping out first-time investors.
+“We know what they’re going through because we’ve been through it,” he said.
+WILL BISHOP, 18, ADELAIDE, CHIRP APP DEVELOPER
+If you’re reading tweets on your Apple Watch, you’re probably looking at the work of Adelaide app developer Will Bishop.
+After teaching himself to code and creating an app to access his high school’s timetables and grades, Mr Bishop turned his attention to Apple’s smallest screen.
+The result, Chirp, is one of few apps to deliver tweets, trends and Twitter lists on your wrist and earned the developer two scholarships to Apple’s Worldwide Developers Conference in San Francisco.
+Along with his other Watch apps, Nano and MiniWiki, the 18-year-old has earned more than 670,000 downloads.
+Mr Bishop said he planned to pursue a career in software development but would be using funds from the App Store to buy a van and take a gap year after “working since year 11 on these apps”.
+JAMES DALE, 20, MELBOURNE, CLEANSKY CREATOR
+He might be a university student but James Dale’s ‘side-hustles’ attract a lot of attention and investments.
+The 20-year-old’s recent project — a virtual yearbook for US students called HAGS (have a great summer) — has attracted $US1 million in investment, including money from Google’s venture capital arm.
+He also led the Apple development side of Stanford University’s Pneumask Project to turn snorkel masks into medical equipment last year, and is probably best known for creating the app CleanSky that visually plots pollution levels and air quality on a map — an app he launched after the 2019 bushfires.
+Mr Dale said he plans to expand the app in future but finishing his university degree was also a priority so he could return to Apple in the US where he completed an internship.
+“I really want to keep that door open to go back to Apple,” he said.
+ALEXANDER TRAN, 25, SYDNEY, LUMAWAY CO-FOUNDER
+Working in a venture capital firm didn’t suit Alexander Tran, who called it “an environment I didn’t thrive in,” but it did give him ideas for an education venture with Robert Hua and Sanjay Narayana.
+The trio pitched their idea to use artificially intelligent software to identify career paths and skills gaps in university courses and it has so far won $160,000 in investment from companies including H2Ventures, as well as clients.
+Lumaway provides software to institutions including Western Sydney University and UTS.
+Mr Tran said the firm recently used its funding to create a new arm to give something back to students: a mentoring platform with on-the-job career guidance.
+“We’ve already gotten close to 100 mentors on the platform,” he said.
+“For them, it’s an opportunity to give back. For the students, it can help them on their journeys.”
+CHRIS DILGER, 22, MELBOURNE, WATERWISE AND HELPING GROUP CO-FOUNDER
+Whether it’s advising gardeners how to avoid “urban heat stress” or helping bushfire victims find safe places, Chris Dilger is determined to use technology for good.
+The computer science graduate claimed the global Deloitte Australia-UK Gravity Challenge prize with Waterwise collaborator Amber Truong in December.
+Their creation — a platform to help consumers work out how much to water their garden and when based on environmental factors — will now be used in a pilot for water providers.
+And the venture came after Mr Dilger set up Amazon Web Services infrastructure for the Helping Group, assisting bushfire victims connect with accommodation for themselves and livestock.
+Their next project, he says, is a “digital democracy tool” to hold MPs accountable.
+“I think we have so much unrealised potential in this country,” he said.
+“We could do so much more with technology in Australia.”
+HADDON DIXON, 26, MELBOURNE, AIRCART FOUNDER
+The idea for Aircart — a company that could be described as Uber for groceries — came to Haddon Dixon out of necessity.
+“I arrived home from work about 7pm and opened up the fridge and there was nothing there,” he said.
+The business student, who was also working full-time in logistics, wondered why he couldn’t get groceries delivered promptly and, without testing, set up a website offering such a service within southeast Melbourne.
+His first order arrived within two hours of launch.
+Aircart now services “about 1000” customers who get groceries delivered in about 45 minutes, he said, and is in talks with “large-scale retailers” to expand its service later this year.
+Word count: 3742

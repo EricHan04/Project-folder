@@ -1,0 +1,12 @@
+A NEW smart refrigeration platform has been developed by an Adelaide technology start-up to help microbreweries improve their productivity and reduce energy consumption.
+Newly launched product development house Katana has developed the Frigid platform, which uses Internet of Things and cloud-computing technologies to provide craft brewers with real-time information and the ability to control the chilling process remotely.
+The platform was recently launched following a successful pilot program with Stepney-based Little Bang Brewery.
+Katana co-founder Jassa Amir-Lang said the Frigid platform enabled craft brewers to optimise their energy use in the brewing process, and offered access to the type of detailed information that had previously been available to only the large multinational brewers.
+“Frigid was born after significant conversations with the team at Little Bang Brewery and finding out what problems they had and how technology could potentially help,” he said.
+“After a lot of trial and error and user testing, we have created a part-cloud platform, part-hardware solution that integrates with existing infrastructure and instantly provides access to logs, remote monitoring and real cost savings.” Little Bang Brewery founder Fil Kemp said most microbreweries currently relied on having people manually monitor refrigeration and chilling outputs around the clock.
+“We have been using Frigid, refining and enhancing the platform, and it is working seamlessly,” he said.
+“It creates enormous peace of mind and allows our brewers to focus on other priorities.
+“Improving our cooling efficiency, having access to data logs and receiving real-time alerts is a game-changer.” The Frigid platform is built on top of the Amazon Web Services cloud system, and there are future plans to add artificial intelligence and machine learning components.
+Mr Amir-Lang said Katana, the technology start-up he recently established with business partner Patrick Anderson, was working on the development of several other digital platforms. “Our business model is primarily based on joint ventures and is part accelerator, part incubator and part investor, something which is very much a win-win for both parties,” he said.
+CREDIT: GIUSEPPE TAURIELLO
+Word count: 332

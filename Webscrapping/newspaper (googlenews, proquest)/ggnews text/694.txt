@@ -1,0 +1,10 @@
+Image: Cisco
+The Ten Gigabit Adelaide network has been deemed complete after it hit its target of 1,000 buildings connected in the city.
+The project kicked off in 2018 and involved 82 kilometres of fibre cable, 26,000 spliced fibres, and eight 10G core sites. TPG was responsible for building the network.
+"The landmark project -- the first of its kind in Australia -- represents a significant strategic commitment by the City of Adelaide to provide our city businesses with world-class digital infrastructure that will help create jobs and boost our economy," Adelaide Lord Mayor Sandy Verschoor said.
+"The network is a great asset for local business -- as hundreds have already discovered -- and is a compelling factor to attract business from interstate or from around the globe."
+TPG said it now has "several hundred organisations" on the network. The telco charges AU$440 a month for a symmetrical 1Gbps service on a 48-month contract, with customers able to jump to symmetrical 10Gbps for an extra AU$120 a month.
+By comparison, the highest speeds available on the NBN are 1Gbps down and 400Mbps up.
+When seeking applications for connections to buildings, the City of Adelaide reached its 1,000 applications target within nine weeks.
+In August, the ACCC revealed NBN had 45,000 premises connected to its new Home plans, which offer speeds of 100/20, 250/25, and 500-1,000/50Mbps.
+Related Coverage

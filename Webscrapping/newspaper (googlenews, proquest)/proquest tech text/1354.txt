@@ -1,0 +1,13 @@
+Australian weather forecasting and monitoring is set to increase in accuracy, as a result of advanced satellites being launched into space today from Cape Canaveral, Florida, United States, aboard a SpaceX Falcon Heavy rocket.
+The six satellites form a mission known as the Constellation Observing System for Meteorology, Ionosphere and Climate, and are collectively called the COSMIC-2 satellites.
+They will orbit Earth near the equator and will take measurements of the tropics and subtropics, and will also monitor the ionosphere for the effects of solar storms.
+Information collected from the COSMIC-2 satellites will underpin data provided by the Bureau of Meteorology, and is expected to deliver benefits such as better storm forecasting, especially in warm, tropical areas close to the equator.
+Each COSMIC-2 satellite is about the size of a kitchen oven, and carries three instruments that detect electron density and other space weather information in the ionosphere.
+The satellites also have precision GPS receivers, which, using a technique called radio occultation, will collect "bent" signals as they travel through the atmosphere, with these bent signals giving scientists an indication of the pressure, moisture content and temperature of the atmosphere.
+Data from radio occultation is thought to assist with the delivery of more accurate weather forecasts.
+A number of organisations such as the BoM, NASA, the Taiwan National Space Organization, (NSPO), NASA, and the United States National Oceanic and Atmospheric Administration have worked together for many years to plan for the launch.
+BoM chief data officer Dr Anthony Rea said the Bureau would largely monitor the signals from the ground station in Middle Point, NT, with many other stations set up around Australia ready to send and receive information.
+"This (large network) enables us to make a valuable contribution to international space missions, such as COSMIC-2," he said.
+"In the case of COSMIC-2, we will be sending commands to the satellites as well as downlinking real-time data."
+Start the day with all the big news in agriculture. Click here to sign up to receive our daily Stock Journal newsletter.
+Word count: 339

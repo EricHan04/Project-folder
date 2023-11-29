@@ -1,0 +1,31 @@
+The systems that drive sustainability
+The development of sustainable improvements in production efficiency will continue to be a key imperative for livestock.
+The application of genetic, nutritional, digital, health or management solutions or technologies will continue to drive incremental gains in efficiency.
+However, the larger, more transformative improvements are likely to arise through the adoption of more systems-based approaches.
+This is by no means a new concept but for a variety of reasons it has lost prominence in livestock production science.
+Each livestock enterprise is a complex and dynamic system and while benefits accrue through single technology solutions such as genetics or nutritional supplements, far greater gains in productivity, sustainability and profitability are likely to be realised through integrating multiple technologies.
+Reinvigorating systems based thinking is critical in the design and execution of future research and development.
+Production efficiency is multidimensional but a core aspect relates to the capacity of the animal to convert feed into food and fibre for humans.
+Unlike the massive gains in feed efficiency that have occurred in pigs and poultry, ruminants on the other hand, have a much lower conversion efficiency.
+While progress has been made, ongoing sustainable gains in ruminant feed efficiency will require a more integrated approach that targets the biological intersection between the plant biomass, the rumen microbiome and the animal.
+The application of more advanced and sophisticated computational analytics like machine learning will be critical given the sheer magnitude and complexity of biological processes within and interactions between these elements.
+The rise of CRISPR CRISPR and other technologies that enable gene editing (small set of targeted changes in the DNA) have considerable potential to transform key drivers of production efficiency across many sectors.
+While highly promising, the technology is not without its challenges.
+For example, all of the economically important livestock production and resilience traits (growth, reproduction, disease resistance) are polygenic meaning that they are regulated by large numbers (possibly thousands) of genes.
+Secondly, the position food regulators take on whether a small number of gene edits does or does not constitute genetic modification and the flow-on effects on consumer acceptance remains a contentious issue.
+In livestock, gene editing has been successfully applied to improve animal health and welfare outcomes such as breeding polled cattle which obviates the need to perform the painful practice of dehorning.
+In another exciting application for the egg industry, it is now possible to identify male embryos early in the development of the egg prior to hatching.
+Instead of destroying millions of day-old male chicks, the identified eggs can be removed and redirected into human vaccine production.
+Ethical disruption Viewpoints on the relationship humans have with the environment are changing and are challenging the economic and political fabric of society in a manner that makes prediction of future scenarios difficult.
+The issues and perspectives are complex and are occurring in an environment that can be characterised as ethical disruption, analogous to the digital disruption occurring to older models of livestock production and more generally across society.
+For instance, rights and ownership over environmental "assets" including land, water, plants, animals, genotypes and means of production are being challenged by alternative models such as stewardship over these "components" of the environment.
+Perceived rights and the identities they entail are rarely surrendered willingly.
+More than merely maintaining a watching brief, the livestock sector can contribute to discussions on ethics, for instance by drawing on knowledge of processes of domestication, co-evolution of humans and livestock within agricultural niches, and psychosocial co-dependencies between humans and farm animals.
+An important contribution here is to make value statements about the benefits to humanity of livestock production systems that lie beyond the proximate economic value of livestock products.
+Feeding our future world will require the livestock sector to proactively manage the balance and indeed tension between increased production efficiency and sustainability.
+The science journalist Charles Mann elegantly articulated this tension in his recent book "Prophets and Wizards".
+Prophets argue for a reduction in the ag footprint as we have exceeded the planet's ecological limits whereas wizards believe that increased innovation is central to feeding the world.
+Ultimately, the acceptance and the response to these contrasting philosophies will have a large bearing on the future of the livestock sector.
+- Dr Drewe Ferguson is the Research Director, Livestock Systems and Dr Ian Colditz is an Honorary Fellow, Livestock Systems. Both are with CSIRO Agriculture and Food
+CREDIT: Drewe Ferguson, Ian Colditz
+Word count: 736

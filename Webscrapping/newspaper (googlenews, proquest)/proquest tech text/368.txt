@@ -1,0 +1,39 @@
+Source: The Conversation (Au and NZ) - By Jamie Pittock, Professor, Fenner School of Environment & Society, Australian National University
+Jamie Pittock, Author provided
+To quit coal and move to renewables, we need large-scale energy storage. That’s where pumped hydro comes in. Queensland’s ambitious new plan involves shifting from a coal-dominated electricity grid to 80% renewables within 13 years, using 22 gigawatts of new wind and solar. The plan relies on two massive new pumped hydro developments to store electricity, including the biggest proposed in the world.
+While it sounds high-tech, it’s very simple: take two dams at different elevations. Pump water to the top dam when cheap renewables are flooding the grid. Run the water down the slope and through turbines to make power at night or when the wind isn’t blowing.
+When dams are built badly, however, they can trash the environment. For two decades, I’ve pointed out the environmental destruction conventional dams can cause. But now we urgently need more pumped hydro dams to enable Australia’s transition to fully renewable power.
+The campaign to save Lake Pedder (pictured in 1954) from being flooded for hydroelectricity failed - but made new large scale hydro dams less viable. Janette Asch/Flickr, CC BYQueensland is getting pumped
+Queensland’s huge new renewable energy plan relies heavily on two massive pumped hydro projects. Inland from the Sunshine Coast is Borumba Dam, which could deliver two gigawatts of 24-hour storage by 2030. This was first proposed last year. The new proposal is Pioneer-Burdekin, west of Mackay, which is intended to store five gigawatts of 24-hour storage from the 2030s. It would involve relocating residents of the small town of Netherdale, which would be inundated.
+For consumers, this means energy reliability. Each gigawatt of stored power could supply around two million homes – and Queensland has around two million households.
+Environmentally, the good news is we can learn from previous mistakes and build this vital infrastructure carefully to minimise local environmental damage and maximise the broader environmental benefit of quitting coal power.
+The world’s largest pumped hydro facility is planned for the Pioneer Valley, west of Mackay. Steven Penton/Flickr, CC BYWhy is pumped hydro so important to the energy transition?
+Solar and wind power can produce vast quantities of cheap power – but not all the time. Pumped hydro is one way to store renewable energy when it’s being generated and releasing it later when needed.
+While grid-scale batteries such as Victoria’s Big Battery have drawn plenty of media coverage, they are better at storing smaller amounts of electricity and releasing it quickly. Pumped hydro is slightly slower to start feeding back to the grid, but big facilities can keep generating power for days.
+Read more: The hydropower industry is talking the talk. But fine words won't save our last wild rivers
+Renewable fuels such as green hydrogen and ammonia may be available in the future, but not now. Nuclear energy is very expensive and would take decades to build. Batteries cannot meet supply gaps longer than a few hours, and come with environmental costs from the mining of raw materials, manufacture, and recycling and disposal of toxic materials.
+That leaves pumped hydro as a vital option – especially on cold, still and overcast days in winter when solar and wind produce very little electricity.
+So why is pumped hydro a better environmental prospect?
+Conventional hydropower dams destroy river ecosystems and flood forests, towns and prime farm land. Globally, the hydropower industry anticipates expanding by 60% by 2050 to provide renewable electricity and storage.
+I’m less worried about pumped hydro, for three reasons.
+First, the two reservoirs can be built away from rivers. This alone greatly reduces the damage done by damming rivers and flooding fertile valleys.
+Second, the area flooded is generally an order of magnitude smaller than conventional hydropower. This is because the great elevation difference between the two reservoirs may enable more power to be generated from limited water.
+And third, pumped hydro doesn’t need much extra water once filled, as the water cycles around. A little topping up to replace losses from evaporation and seepage is all that’s needed.
+More than 3,000 potential sites for pumped hydro have been identified in Australia. Importantly, these are all outside formal nature reserves and mostly located along the Great Dividing Range. We’d only need around 20 of these sites to be developed to store power for the nation. That’s around the same number currently planned, built or under construction in Tasmania, South Australia, New South Wales and Queensland.
+Nearly all large renewable energy developments meet local opposition based on non-financial values. Opponents of big pumped hydro developments such as Snowy 2.0 have called for other sites to be developed instead.
+If we took this approach, however, we could multiply the environmental disruption. That’s because Snowy 2.0, as well as the proposed Borumba and Pioneer-Burdekin projects in Queensland are huge. They could each generate up to ten times more power than most of the other projects being planned elsewhere.
+Shifting elsewhere could mean many more smaller projects, which means more roads, transmission lines and reservoirs.
+Pumped hydro relies on two reservoirs at different elevations, as visible in the Turlough Hill pumped hydro scheme in Ireland. Shutterstock Avoiding the mistakes of the past
+Environmental disruption from pumped hydro differs greatly depending on the site.
+At the site selection stage, it’s vital to avoid areas of high conservation and Indigenous cultural value.
+We can limit environmental damage by using existing dams, as we’re seeing at Snowy 2.0. Old mines in the right locations can have a second life as pumped hydro, as the Kidston project in Queensland demonstrates.
+By using existing dams or mines, we can actually begin repairing past damage, such as by improving old dams to boost environmental flows.
+That’s not to say damage won’t be done. Pumped hydro has been linked to the introduction of diseases affecting wildlife, as well as invasive plant and animal species.
+Roads and transmission lines are one of the biggest impacts on the natural world. By my calculations, much more habitat will be cleared for the Snowy 2.0 overhead transmission lines (around 9,600 hectares) than the new hydro scheme road and pipeline access and waste rock disposal (around 1,000 hectares).
+We could dramatically reduce environmental damage and visual clutter by putting the lines underground, or building close to existing power lines.
+So, the choice is ours. While pumped hydro is a lot less damaging than traditional hydroelectricity, it will cause some environmental damage.
+That’s why pumped hydro developers must choose sites and build carefully, to minimise environmental damage and maximise the benefits of storage. After all, this technology offers the enormous environmental good of freeing ourselves from the need to burn coal, gas and oil every hour of every day.
+Read more: Batteries get hyped, but pumped hydro provides the vast majority of long-term energy storage essential for renewable power – here’s how it works
+Jamie Pittock receives funding from the Australian Water Partnership and leads a project from Asia-Pacific Economic Cooperation concerning pumped storage hydropower in the Asia - Pacific region. He is a member and advises a number of non-government environmental organizations, including WWF Australia.
+- ref. How to ensure the world's largest pumped-hydro dam isn't a disaster for Queensland's environment - https://theconversation.com/how-to-ensure-the-worlds-largest-pumped-hydro-dam-isnt-a-disaster-for-queenslands-environment-191758
+Word count: 1185

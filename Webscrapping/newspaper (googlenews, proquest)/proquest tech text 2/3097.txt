@@ -1,0 +1,27 @@
+ABS contracted Adelaide company Clevertar to create the first Census chatbot Claire, modelled on the ‘typical’ Australian identified through the previous Census in 2016.
+Following the last Census, which was marred by a massive tech failure and privacy concerns around data storage timelines, ABS identified the ‘typical’ Australian as a 38 year old female called ‘Claire’.
+Around 10 million households are expected to undertake the Census in 2021, which is to be completed by August 10.
+The chatbot is designed to respond to a set of predefined questions around the Census, helping users to find the information they need through a guided conversation.
+Since 1911, the Census, which is undertaken every five years, provides a snapshot of Australia’s population mix and how it has changed.
+The information is used to make decisions around planning schools, social welfare, healthcare and roads and other local services for individuals, families and communities.
+“We are doing everything that we can to ensure a positive Census experience for the Australian community,” said Andrew Henderson, ABS Census executive director and national spokesman.
+“A key focus for the 2021 Census is to increase the variety of support options available to the public to make it easier for people to complete the Census online or in paper form.
+“The addition of self-service features like Claire will help to ensure that people have timely and relevant responses to their Census questions”, he added.
+It turned to Flinders University spin-out Clevertar, which has previously won praise from Apple co-founder Steve Wozniak for its clever technology, who said he wanted it for “for every little kid — for education as well as for the elderly”.
+Clevertar co-founder and chief executive Tanya Newhouse, said the ABS contract was its largest contract to date, but could not reveal the figure for commercial reasons.
+“It was a competitive tender process and our team had an exciting time developing Claire to suit the ABS’s brief,” Ms Newhouse said.
+“Claire is a specialised chatbot; she’s an expert in all-things Census. She makes even the trickiest questions easy to answer.
+“By drawing on previous customer enquiries and through collaboration with the ABS, Claire is able to deliver information and answers 24 hours a day, seven days a week.”
+The new customer service option is expected to help reduce wait times in phone queues.
+“The real key to it is the data and how that will inform and improve ABS’s user experience in future,” Ms Newhouse said.
+“We are also discussing other future opportunities with the ABS.”
+Clevertar has also been assisting SA Health, which uses its chatbot, Zoe, online to answer health-related questions around Covid-19.
+“Trials of this technology in the health sector have shown that people feel more comfortable talking to a chatbot than they do their doctor, so we’re confident Australians will enjoy turning to Claire with their Census-related questions,” Ms Newhouse said.
+Claire is set up to work within the ABS environment and Clevertar does not have access to private information collected by the ABS.
+It’s a positive step in Clevertar’s growth trajectory following finalisation of a two-month-long external administration process in 2019 after talks with a creditor failed.
+A spin-out of Flinders University, Clevertar was co-founded by Tania Newhouse and Martin Luerssen in 2012.
+In 2016, Clevertar was judged the global Best Start-Up — Tech Innovation by a panel comprising Mr Wozniak and a panel of judges at the Talent Unleashed Awards in Sydney.
+Census is compulsory for everyone in Australia, including visa holders, tourists and international visitors, and is one of the largest and most important statistical collections undertaken by the ABS.
+The ABS this week said it had received more than 1 million online submissions so far.
+Census 2021 will also provide valuable insights into how the pandemic has changed life in Australia.
+Word count: 607

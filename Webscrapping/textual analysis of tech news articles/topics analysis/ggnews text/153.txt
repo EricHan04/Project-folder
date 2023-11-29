@@ -1,0 +1,7 @@
+A new on-the-spot test for COVID-19, the flu and other diseases has been developed by researchers in the United States and Australia with the potential to return results in as little as five minutes.
+The process uses a vortex fluidic device developed at Adelaide's Flinders University that conducts protein biomarker assay testing to identify infections.
+It can test for hundreds proteins at a time with the data produced able to be read using a smart phone.
+While many costly tests can take upwards of 48 to 72 hours, on-the-spot tests such as this can lead to accurate diagnosis and the early start of important drug treatments.
+In an assessment published on Monday in international chemistry journal Angewandte Chemie, the new method was found to be superior to other biomarker-based tests currently in use.
+Not only was the processing fast and accurate, it also sliced up to 70 per cent off the cost of sometimes toxic reagents, the report said.
+It cut processing time from hours to less than five minutes.

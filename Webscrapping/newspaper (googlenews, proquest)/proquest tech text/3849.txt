@@ -1,0 +1,15 @@
+Students from John Pirie Secondary School and Mid North Christian College competed against each other and 11 other schools in the SA Power Networks/VEX Robotics SWER Line Robotics Competition at the Adelaide Convention Centre last week.
+The aim was to develop a robot able to crawl along overhead power lines to check for damage and faults.
+Mid North Christian College was the overall winner, taking the Innovation Award: Celebrating a Team that created a truly creative and innovative robot.
+John Pirie Secondary School won the WD-40 award: Celebrating a Team that didn't give up when trying to find a solution.
+Mid North Christian College was chosen as the winner for their ability to best complete the following three phases:
+Move along the SWER Line Navigate around/over a Conductor/Stobie pole top Navigate on and off the Stobie pole to begin and end the inspection. Christian College science teacher, Jordan Smith said he project encouraged students to the possibility of going down a career pathway to become an engineer.
+"It was something we didn't expect and it was all new for our class. The kids have never done this stuff before," Mr Smith said.
+"We worked for 14 weeks on this project where they prototyped and tried ideas.
+"I had one student primarily working on designing different wheel shapes and he modelled them up on the computer and then 3D printed them for a trial run to see if they worked on our dummy power line.
+"Another part of the team would be working on codes. One girl was working on an image sensor code that coded the robot to sense the insulator as it approached and she could code different speeds into the robot.
+"Another part worked on a cruise control module and they could change the speed of the robot with a click of a button."
+Head of Corporate Affairs for SA Power Networks, Paul Roberts was impressed with the innovative technology.
+"It was very rewarding to see the incredibly ingenious solutions developed by students and their enthusiasm for the project."
+CREDIT: Christian Cominos
+Word count: 344

@@ -1,0 +1,64 @@
+These 50 scholars are Australia's leading researchers in chemical and material sciences - one selected from each of the 50 fields in this discipline. They are the researchers with the highest number of citations from papers published in the last five years in the 20 top journals in their field.
+Field Architecture Field leader Zhonghua Gou, Griffith Lead institution Uni of Melb
+Field Artificial Intelligence Field leader Chee Peng Lim, Deakin Lead institution Monash
+Field Automation & Control Theory Field leader Peng Shi, Uni of Adelaide Lead institution Swinburne
+Field Aviation & Aerospace Engineering Field leader Michael Smart, Uni of Qld Lead institution Uni of Qld
+Field Bioinformatics & Computational Biology Field leader Geoff Webb, Monash Lead institution Monash
+Field Biomedical Technology Field leader Dietmar Hutmacher, QUT Lead institution Uni of Qld
+Field Biotechnology Field leader Lars Keld Nielsen, Uni of Qld Lead institution ADFA
+Field Civil Engineering Field leader Hao Hong, Curtin Lead institution RMIT
+Field Computational Linguistics Field leader Timothy Baldwin, Uni of Melb Lead institution Macquarie
+Field Computer Graphics Field leader Tim Dwyer, Monash Lead institution Monash
+Field Computer Hardware Design Field leader David Boland, Uni of Sydney Lead institution RMIT
+Field Computer Networks & Wireless Communication Field leader Jinhong Yuan, UNSW Lead institution UNSW
+Field Computer Security & Cryptography Field leader Jun Zhang, Swinburne Lead institution CSIRO
+Field Computer Vision & Pattern Recognition Field leader Dacheng Tao, Uni of Sydney Lead institution UTS
+Field Computing Systems Field leader Jinjun Chen, Swinburne Lead institution Swinburne
+Field Data Mining & Analysis Field leader Hongzhi Yin, Uni of Qld Lead institution Uni of Melb
+Field Databases & Information Systems Field leader Marcello La Rosa, Uni of Melb Lead institution Uni of Melb
+Field Educational Technology Field leader Dragan Gasevic, Monash Lead institution UniSA
+Field Engineering & Computer Science (general) Field leader Subhas Mukhopadhyay, Macquarie Lead institution UNSW
+Field Environmental & Geological Engineering Field leader Jinsong Huang, Uni of Newcastle Lead institution Monash
+Field Evolutionary Computation Field leader Zbigniew Michalewicz, Uni of Adelaide Lead institution RMIT
+Field Food Science & Technology Field leader Bhesh Bhandari, Uni of Qld Lead institution Uni of Qld
+Field Fuzzy Systems Field leader Gleb Beliakov, Deakin Lead institution Deakin
+Field Human Computer Interaction Field leader Frank Vetere, Uni of Melb Lead institution Uni of Melb
+Field Library & Information Science Field leader Tina Du, UniSA Lead institution Curtin
+Field Manufacturing & Machinery Field leader Sami Kara, UNSW Lead institution Deakin
+Field Mechanical Engineering Field leader Jie Yang, RMIT Lead institution UNSW
+Field Medical Informatics Field leader Farah Magrabi, Macquarie Lead institution Uni of Qld
+Field Metallurgy Field leader Huijun Li, Uni of Wollongong Lead institution Uni of Wollongong
+Field Microelectronics & Electronic Packaging Field leader Sima Dimitrijev, Griffith Lead institution ANU
+Field Mining & Mineral Resources Field leader Ranjith Pathegama Gamage, Monash Lead institution Monash
+Field Multimedia Field leader Jianfei Cai, Monash Lead institution UNSW
+Field Ocean & Marine Engineering Field leader Ian Turner, UNSW Lead institution UNSW
+Field Operations Research Field leader Ben Fahimnia, Uni of Sydney Lead institution UNSW
+Field Plasma & Fusion Field leader Boyd Blackwell, ANU Lead institution ANU
+Field Power Engineering Field leader Fengji Luo, Uni of Sydney Lead institution UTS
+Field Quality & Reliability Field leader Paul Salmon, USC Lead institution USC
+Field Radar, Positioning & Navigation Field leader Jinling Wang, UNSW Lead institution RMIT
+Field Remote Sensing Field leader Jeffrey Walker, Monash Lead institution Uni of Melb
+Field Robotics Field leader Inkyu Sa, CSIRO Lead institution QUT
+Field Signal Processing Field leader Ba-Ngu Vo, Curtin Lead institution UTS
+Field Software Systems Field leader Hongyu Zhang, Uni of Newcastle Lead institution Uni of Adelaide
+Field Structural Engineering Field leader Qing Li, Uni of Sydney Lead institution Uni of Sydney
+Field Sustainable Energy Field leader Robert Taylor, UNSW Lead institution Uni of Sydney
+Field Technology Law Field leader Dan Svantesson, Bond Lead institution VU
+Field Textile Engineering Field leader Lijing Wang, RMIT Lead institution Deakin
+Field Theoretical Computer Science Field leader Sasha Rubin, Uni of Sydney Lead institution Monash
+Field Transportation Field leader David Hensher, Uni of Sydney Lead institution QUT
+Field Water Supply & Treatment Field leader Hokyong Shon, UTS Lead institution UTS
+Field Wood Science & Technology Field leader Warren Batchelor, Monash Lead institution Monash
+Inkyu Sa Computer Scientist CSIRO Data61 Research leader in robotics A scientist with CSIRO's Data 61, Inkyu Sa, is an expert in deep learning, the technique that enables the computer brain of a robot to learn from experience.
+The conventional way of programming a robot is to give it a set of instructions, laboriously written by human programs of the form "while this is happening, if you see this then do that".
+Sa is going a step further, bringing deep learning to robots to give them the capacity to make new sets of instructions based on the success, or the failure, of the past. It means that robots can be trained, which will make them far more effective.
+"The deep learning network does a really good job compared to the conventional approach," Sa says.
+His expertise in this area attracted wide notice in 2016 when, as a post doctoral research fellow at Queensland University of Technology, he working on a deep learning robot that harvested fruit and vegetables. He was lead author on an influential paper, DeepFruits: A fruit detection system using deep neural networks, which was widely cited by other researchers. Harvey, the harvesting robot built by the QUT team, proved able to pick one capsicum every 30 seconds from a row of plants in a glasshouse.
+Originally from South Korea, Sa worked at Samsung on the company's first Android smart phone before coming to Australia in 2010 to do his PhD at QUT.
+He's now part of the CSIRO Data 61 team, which is competing in the DARPA Subterranean Challenge, a global competition between 11 invited teams run up by the US Defense Advanced Research Projects Agency.
+It tests the ability of robots to autonomously navigate underground tunnels and caves, and find objects inside them.
+He's now working on techniques to improve a computer's reliability in identifying things in photographs. It's an important ability for autonomous vehicles to master. Can one, for example, distinguish between a tree or a human no matter the time of day or weather conditions?
+Sa says he "respectfully" disagrees with Elon Musk, who has said that fully autonomous cars will be ready next year or the year after.
+"We have to make sure everything works 100 per cent, which is a really big challenge," Sa says.
+"An autonomous car is driving in a very dynamically changing environment. Maybe it's raining, maybe there's lightning. There's a bunch of different scenarios we have to handle. "We don't want to drive over nine-year-old kids or 80-year-old grandmas and grandpas."
+Word count: 1131

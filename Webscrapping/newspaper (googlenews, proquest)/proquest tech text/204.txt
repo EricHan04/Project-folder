@@ -1,0 +1,41 @@
+Source: The Conversation (Au and NZ) - By Rabindra Nepal, Associate Professor of Economics, University of Wollongong
+The shock suspension last week of Australia’s wholesale electricity market rekindled an age-old debate about whether the energy sector should be nationalised – in other words, owned and controlled by government.
+The calls came after electricity prices spiked and supply tightened along Australia’s east coat, triggering a chain of events which eventually forced the Australian Energy Market Operator (AEMO) to suspend the national electricity market.
+So should the flow of energy in Australia come under public control? And even if it’s feasible, would it prevent crises like the one we’ve just seen?
+I’m an academic in energy economics with a special interest in electricity network privatisation. As my work has revealed, nationalising electricity is not a silver bullet. To operate most effectively, the sector needs to balance the roles of private competition and government regulation.
+What’s caused the energy crisis?
+A recent cold snap meant more people were turning on their heaters, so using more electricity. Compounding that, prices on the wholesale electricity market – where generators are paid for the power they produce – surged for two reasons.
+First, Russia’s invasion of Ukraine has driven up global coal and gas prices.
+Second, about a quarter of coal power stations feeding the national grid were offline due to unplanned outages or maintenance. At times, renewable energy outputs also fell.
+All this caused wholesale electricity prices to surge, which prompted AEMO to impose a cap on prices. The capped price was less than it costs some plants to generate power, prompting them to withdraw their capacity from the market. The situation became impossible for AEMO to manage so it stepped in to suspend the market indefinitely to prevent disastrous blackouts.
+Generators must now supply the market with electricity and will be compensated for losses.
+Public vs private
+The national electricity market was created in 1998, and comprises electricity generation, transmission, distribution and retailers. It covers all states and territories except Western Australia and the Northern Territory, and delivers around 80% of the nation’s electricity.
+Since the 1990s, state governments have tended to sell off power assets to private operators. The system is now privatised to varying degrees.
+In Western Australia, Tasmania and the Northern Territory, electricity supply is fully owned by state governments. In Queensland, the state government owns most of the electricity supply system and only the retail market has been privatised.
+The electricity system is mostly privatised in Victoria and South Australia, and partially privatised in New South Wales. However, governments still regulate electricity prices in Victoria, the Australian Capital Territory, Tasmania and regional Queensland.
+The energy market suspension isn’t the only energy crisis Australia has faced in recent times. In 2016, the South Australian power market – a mostly privatised system – was suspended for 13 days.
+Energy supply and affordability crises in the national electricity market have increasinglycoincided with growing private ownership.
+Western Australia, which isn’t part of the national market and has a system featuring significant state intervention in gas supply, has avoided the energy crisis currently gripping the eastern states.
+My research found privatisation can lead to improved energy market efficiency, but only if coupled with strong regulation of the sector. This suggests states with fully privatised energy markets should shift to more government involvement. It also suggests public-owned states should privatise some assets.
+Nationalising isn’t a silver bullet. That’s because market outcomes are the best outcomes for consumers if the market is functioning well. Having competition is the best way to bring retail and wholesale costs down.
+But if electricity prices are so high that some consumers can’t afford it, it’s the responsibility of government to provide electricity to them – through subsidies, for instance.
+Read more: What's a grid, anyway? Making sense of the complex beast that is Australia's electricity network
+Markets and government should co-exist
+Experience from energy markets overseas shows that for a complicated industry like electricity to work, markets and government policies should co-exist.
+Chile’s power supplies were state-owned until 1982. Then, it became the first country in the world to adopt a competitive power sector by establishing a wholesale electricity market. Today, that market is well-functioning because energy prices tend to reflect the long-term costs of producing electricity.
+The success of this privately owned system is due to strong government-initiated reforms. They include effective regulation of transmission and distribution networks, strengthening sector institutions and modifying auction rules in the wholesale market to encourage new bidders.
+Chile has also become a renewable energy champion while having a privatised electricity system, because market reforms were supported by policies to promote clean energy.
+Other Latin American countries with market-based electricity systems, such as Argentina, also allowed for varying degrees of government involvement to make the market work.
+As climate change worsens and countries struggle to reduce their greenhouse gas emissions, market-based electricity systems will become more difficult.
+Everyone pays the cost of emissions in the form of global warming. But these costs aren’t factored into the costs of generating electricity. So without a carbon price, there’s little incentive for generators in an entirely privatised market to reduce their emissions.
+The United Kingdom has recognised this. It has significantly intervened in the electricity market by introducing a mechanism to keep prices stable for consumers, and guaranteeing extra capacity in times of tight supply.
+This helps to meet its climate change objectives by preventing supply shortfalls during the transition to renewables.
+What lies ahead?
+Australia’s National Electricity Market lacks the right balance between state and market.
+The strong push towards the market that began in the early 1990s in Victoria, South Australia and New South Wales now needs to be clawed back somewhat. And in Queensland and Tasmania where markets can be established, this should be done – with policies to support energy security and environmental sustainability.
+The experience of the UK and Latin America with partly state-owned electricity systems suggests Australia should not be sceptical of such reforms.
+Active government involvement in the electricity sector is necessary for Australia to meet its ambitious climate targets, but this doesn’t mean totally abandoning the power of market forces.
+Rabindra Nepal does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+- ref. Should Australian governments nationalise the electricity sector? It's not that simple - https://theconversation.com/should-australian-governments-nationalise-the-electricity-sector-its-not-that-simple-185203
+Word count: 1041

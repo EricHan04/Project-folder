@@ -1,0 +1,18 @@
+Imagine being able to swipe left on a potential investment property you don’t like and then being able to trust that the platform won’t show you a similar property again.
+That’s the idea behind a new Sydney start-up that uses AI to pair investors with properties that suit their preferences and budget.
+PropHero, which began operating in July last year, pulls 40 million data points and processes 240 variables to screen 18,000 Australian suburbs for properties with a buyer’s preferred risk and return characteristics.
+Since its launch, the business has completed 30 successful purchases, with 20 per cent of customers returning to buy again.
+The company is so confident in its system, it believes it can help people to invest in property in 98 per cent less time.
+The quickest purchase to date has been 48 hours from first search. Its founders, Pablo Gil Brusola and Mikael Roger, are now taking their start-up global, with their sights set on Portugal and a ­potential expansion into Mexico, London and Greece also on the horizon.
+For now, the business and its 20 staff operate in Australia and in Mr Brusola’s home country of Spain.
+“Through our data models we analyse the top suburbs in the country, we then select the top 1 per cent, which is about 100 suburbs, and we then do microanalysis and select about 30-40 of them,” Mr Brusola said.
+PropHero aims to work off three main AI models, which include a suburb data model, a property data model to analyse the type of purchase, and then a client property model.
+“Eventually it will show you what properties will suit you as a client. The algorithm will record that and show you others based on the data from the ones you don’t like,” Mr Brusola said. “Kind of like how Tinder matches you with the right choice.” The business is aiming to offer three apps to customers who pay a flat rate of $1000 for access and $10,000 if a successful purchase goes through.
+The apps will include one for selecting properties, one to complete purchases and one to track investment growth, which will all work in unison as part of an investment ecosystem and setting customers up to reinvest, Mr Brusola says.
+While PropHero does analyse the data of all suburbs, the most successful purchases of late have been in South East Queensland, and South Australia.
+Mr Brusola admitted that picking up the company’s first client was no easy task. “ In the beginning, it was hard to get customers, so it was ­really just a lot of trust among friends”.
+Their first customer was a savvy investor from Sydney’s north shore who owned several properties.
+“It was great to have him on board because he challenged us a lot,” Mr Brusola said.
+“After lots of work, eventually he trusted us.” The business has since doubled its customer base month on month, with many referrals now coming through mortgage brokers and return clients.
+CREDIT: JOSEPH LAM
+Word count: 499

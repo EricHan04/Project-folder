@@ -1,0 +1,19 @@
+CROP GEAR AUTONOMOUS technology developed in Poland carries the potential to re-imagine tractor use in Australian orchards, drawing on artificial intelligence to automate all manner of tasks, including mowing, slashing, mulching and spraying.
+GOTrack has been quietly displaying its wares with industry and in one-on-one demonstrations across eastern Australia for the past five months, but a public event in the Goulburn Valley this month, hosted by agricultural investments manager goFARM Australia, gave growers in the Cobram/Shepparton region a close-up look.
+Sole distribution of the GOTrack system nationally is in the hands of vineyard and horticulture machinery supplier AME Group, of South Australia.
+Fitting most modern orchard tractors and controlled from a phone, GOTrack’s chief benefit is its promise to overcome staff shortages, cut labour costs and free workers from monotonous tasks.
+AME Group national sales manager Lee Seatter said the company secured import rights to GOTrack last year and had received strong feedback during its infield demonstrations.
+“The main interest so far has come from the almond industry, but we have been contacted by a very diverse range of horticultural producers,” Mr Seatter said.
+“GOTrack is not the only autonomous system around, but what’s distinctive about it is that it can be fitted to different makes of modern tractor, so it allows your tractor to autonomously operate a sprayer while still leaving you the option of using the machine normally.
+“If you do change your tractor, there’s a fair possibility most components could be transferred and software updated.” The hardware in the system fundamentally comprises line assist, brake drive, steering wheel drive, main control unit, display screen and GPS module.
+The user drives the tractor’s route and operates the equipment as normal, effectively building a course for the tractor to learn and then repeat autonomously. Different programs can be set and each path is saved separately. Speed, RPM, liquid dosage and more can all be predetermined and remotely monitored, while the RTK system controls the tractor’s location and lidar cameras detect any obstacles.
+SMS alarms notify users of issues such as low liquid level, obstacles or the tractor overheating.
+GoFARM Australia horticulture manager Ben Hayward said he was excited to trial this pioneering technology on the business’s orchards, while helping bring the system to life for growers in the region.
+“GOTrack’s appeal lies in its versatility,” he said.
+“It can be a tree sprayer, mower or weed sprayer, but will also work with three-point linkage machinery such as mulchers, slashers, sweeping and even harvesters.
+“On any orchard there’s a core group of employees who will always be relevant to operations on the site and this equipment supports them.
+“It gets them out of the monotonous work of sitting in a tractor for 12 hours spraying trees and allows them to focus on other pressing tasks across the operation.
+“It also negates the need to rely on casual labour.
+“It’s really difficult to find people at the moment, let alone skilled operators.” Pricing on the GOTrack system starts from about $110,000, plus GST. For more details, visit amegroup.com.au/go-track/
+CREDIT: COLIN TAYLOR
+Word count: 510

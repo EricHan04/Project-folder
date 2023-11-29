@@ -1,0 +1,83 @@
+Matt King reckons "batteries are the way of the future". He's just installed a $12,000 Tesla home battery & solar panels on his Darwin business.
+He has solar panels on his home too. But he won't install a battery there.
+His reason for not installing one on his home highlights how much energy policy, subsidies & basic household economics impact consumer uptake of home battery storage for solar systems.
+"We're getting a one for one feed-in tariff," Mr King said.
+"There's no maths in it."
+Solar panels generate real-time energy when the sun is shining.
+If a residence generates more power than it uses, it can send that out to the grid. Feed-in tariffs are what an energy provider or government will pay them back for that energy.
+Feed-in tariffs were very generous during the early days of solar.
+That was to encourage the uptake of the renewable energy, but tariffs have been dropping for years as household solar uptake has surged.
+And Australia's uptake of home solar has been impressive. About 2.6 million homes are now fitted with photovoltaic panels.
+"It's an absolute phenomenon," Australian Energy Market Commission (AEMC) chief executive Benn Barr said.
+"We've gone from 0.2 per cent of households in 2007 to 20 per cent now.
+"When I talk to other regulators overseas, their jaws drop when they hear about that level of penetration."
+It has been so successful, Mr Barr says it is starting to cause headaches.
+"All of that power coming in at the same time — in the middle of the day — for electricity networks that were set up to get power into your house is causing problems," he said.
+"We like to refer to it as traffic jams or congestions."
+Where batteries come into the picture
+Many energy markets or governments across Australia set higher feed-in tariffs for solar energy exported to the grid at night or in the early hours of the day.
+They argue this is case of basic supply & demand. Nights are when more households want power & there is traditionally less solar on offer.
+Of course, the sun is not shining at night. So how do you give your excess solar to the market then?
+That is where batteries have come into play.
+The household battery industry has been pushing storage as a way for solar owners to stash away excess power. It can then be used at any time or sent out to the grid for the highest price.
+"If you move that power to when it's needed, then that solar can still get a good return," Mr Barr said.
+But this requires complicated number crunching.
+Depending on what electricity off the grid is costing, it may work out cheaper for a household to avoid buying a costly battery, deal with lower daytime tariffs, & buy grid power at night.
+And the AEMC has been forecasting lower electricity prices, too. This is in part due to the rise of renewable energy.
+Sunwiz energy market analyst Warwick Johnston said that, five years after the first Tesla home battery system was installed here, for most Australians with solar "the economics of batteries aren't quite there yet".
+"You wouldn't say across the board that batteries are going to have a fantastic payback or represent a fantastic return on investment just yet for most households," Mr Johnston said.
+In his recent market analysis, Mr Johnston also noted "historical forecasts of a massive uptake were predicated upon a steep price drop in batteries but that hasn't played out thus far".
+But there are growing subsidies across Australia.
+Some states are now even offering consumers interest-free loans to buy household batteries.
+Some energy providers are also trialling so-called virtual power stations that incentivise household batteries while subsiding them.
+South Australia's generous battery subsidy scheme & uptake of solar overall has seen it become the biggest market for household batteries, followed by Victoria & NSW.
+Overall, about 110,000 home solar batteries have been installed nationally, according to Sunwiz data.
+That works out to about 4.4 per cent of solar households.
+Which brings us back to Matt King
+Mr King lives in the Northern Territory.
+Until a year ago, the Territory had no battery subsidy schemes & it also had by far the most generous feed-in tariff in the nation.
+Its so-called "one for one" gave solar exporters like-for-like back from the grid.
+"You were using the grid to store the excess energy your solar was producing," Darwin solar technician Ben Hassall said.
+"So there was no physical need to have the household batteries installed at the time."
+Then in April last year, the NT government suddenly slashed its tariff by 67 per cent & subsidised storage systems for small businesses & homes.
+It said this was about getting its tariff policy in line with the rest of the nation's pricing structures & maintaining the "stability of the power system".
+There had also been concerns raised about its grid.
+The Territory's new subsidy scheme & lower tariffs are what pushed Mr King to get both solar panels & the battery installed on his bike repair shop.
+"The subsidy was a big incentive. It would have been unlikely I'd have gotten the battery without it," he said.
+Blue Cycle's monthly power bill has gone from $800 to $100 using the system, plus the battery has given the small business a backup power source during Darwin's infamous blackouts.
+Mr King said installing a battery was not just about economics. He also cares about the environment & wants to encourage renewable energy.
+Yet he is not such a battery diehard that he will install one on his home.
+The NT government is allowing everybody who installed solar before its tariff change in April 2020 to keep the "one for one" under grandfathering arrangements.
+That covers some 12,000 residences, including Mr King's home in Darwin. He loses that financial incentive if he upgrades his solar system, puts on a battery or moves house.
+"There's no maths in putting on a battery [at home]," Mr King said.
+"I won't touch that system at all until we really have to."
+Just over 500 batteries have been installed in 12 months under the Northern Territory's new subsidy scheme.
+Data given to ABC News by the NT government shows 80 per cent of them were installed in new solar systems.
+Solar electrician Ben Hassall also told ABC News that most batteries he was installing were going into new solar systems.
+In a statement, the Territory's Minister for Renewables & Energy Eva Lawler said the NT had no plans to axe the grandfathering arrangements.
+What levers are being pulled nationally?
+The Northern Territory example is extreme, but it shows in one fell swoop what effect both subsidies & tariff reductions can have on consumers.
+And battery industry proponents believe more levers are about to be pulled.
+Tariffs are still going down nationally. For instance, in July Victoria will drop its minimum level.
+In South Australia, energy authorities even recently used powers for the first time to prevent thousands of solar homes from sending power to the grid.
+Now the AEMC is even controversially proposing an overhaul of the system that could see solar exporters penalised for sending energy out during the day.
+"The other part of it is two-way pricing," the AEMC's Benn Barr said.
+"So not only trying to disincentive solar when it's not needed but giving an incentive for customers to actually consume the solar-generated cell [or] move it to times of the day when it's needed."
+Modelling by the AEMC shows households with solar & a battery would be better off financially under this system.
+The modelling is being challenged, though.
+It is also just a proposal & it is unclear if any states or energy providers will implement it.
+Ben Hutt from battery & solar software company Evergen is one of many in the renewables space that is against the AEMC's proposal.
+"Personally, I think that sun tax is a crazy thing," Mr Hutt said.
+"We should have a coal tax for the excess coal energy that's in the grid during the day rather than worrying about the solar energy.
+"But I think it will definitely drive battery uptake because it's basically lost revenue for those solar homes. And the only way that they can really capture that revenue is by having a battery."
+As well as the potential for growing disincentives, Mr Hutt argued that people who installed solar when the market was still growing years ago were also now coming up for upgrades that could see battery systems installed.
+"There is now an increasing market for either selling small batteries to those people or increasingly going back & upgrading the solar system at the same time as deploying a battery," Mr Hutt said.
+Forecasting by the AEMO shows different home battery uptake levels depending on all the different levers.
+Sunwiz's Mr Johnston only forecasts a year into the future.
+His estimations have 33,000 home batteries being installed in 2021, up from 31,000 last year.
+"We're seeing almost a steady market," he said.
+He believes rivals to the home battery market include the rise of big batteries, which states nationally are bringing in to help stabilise the grid as renewable energy booms & coal fire power stations are switched off.
+There are also proposals around community batteries, which are mid-sized storage systems shared by collectives.
+Mr Johnston is also hopeful about the rise of electric vehicles, which could be used in place of batteries in homes to store energy.
+Although, a bit like household batteries, electric vehicles are also yet to go mass market in Australia.
+Word count: 1609

@@ -1,0 +1,6 @@
+AUSTRALIA is faced with an “urgent challenge” to fast-track strategies for the uptake of ethical artificial intelligence systems at the risk of global firms setting the boundaries and profiting, according to the head of CSIRO’s data arm.
+A CEDA audience in Sydney yesterday heard AI was already central to an in­creasingly data-driven global economy and, if applied correctly in Australia, could boost the economy by $315 billion.
+CSIRO Data61 chief executive Adrian Turner warned the country could not afford to sit on its hands.
+“I believe that Australian industry is not adopting tech, on the whole, as fast as it needs to,” he said.
+“We need to lean into this and we need to develop sovereign capability. If we get it wrong, we’ll see global platform companies come in and extract the value.” The CEDA event centred on the importance of building ethics into AI systems – making them lawful, fair, transparent, accountable, and contestable for those on the end of any AI-driven decision.Mr Turner said Australia’s egalitarian culture and its underlying values of fairness provided it with an advantage in development of ethical AI systems, which could be worth “trillions” in exports over the next 20 years.
+Word count: 199

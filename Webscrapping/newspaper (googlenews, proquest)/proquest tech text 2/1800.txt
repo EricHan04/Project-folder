@@ -1,0 +1,14 @@
+READING tea leaves to pick the best blend for a perfect brew is a skill that smartphones can learn using artificial intelligence, says the founder of Adelaide start-up GoMicro.
+Originally from Sri Lanka, where he “grew up drinking good tea”, Dr Sivam Krish was always disappointed by the tea available in Australia.
+“Waking my wife up with a bad cup of tea is something I would like to avoid,” he said.
+“It is certainly one of those problems worth solving.” The GoMicro attachment turns a smartphone camera into a microscope, which can be used to take magnified photos of tea leaves.
+Software uses artificial intelligence to learn what the different shapes, colours and textures mean in order to classify the leaves.
+When put to the test in experiments at the New Venture Institute, within Flinders at Tonsley, Dr Krish said the latest GoMicro AI App achieved greater than 90 per cent accuracy.
+“AI can assess the texture, colour and distribution of tea leaves,” he said. “I have reasons to believe that it can do a much better job at delivering ‘better tasting tea’ to end consumers, without the convoluted process of a series of people making on judgments on behalf of what others may like.” When Dr Krish recently visited a tea broker in Colombo, the capital of Sri Lanka, he learnt that tea is bought, assessed and sold by a process that seems to have hardly changed in more than a century and a half.
+“Tea is bought from various regional factories assessed by tea tasters and sold in an auction,” he said. “It is then blended based on the guesswork of tea companies.” Dr Krish and co-founder Jarrad Law launched the GoMicro AI App this week in Melbourne at the Asia Pacific’s largest agrifood technology event, “evokeAG”.
+Reading the leaves is just one of many applications in agriculture and the food industry.
+Other applications include assessing the quality of fresh produce such as ripening fruit, or identifying pests and diseases.
+Dr Krish believes it is an “exciting time” for the technology, which “puts expertise in the hands of everybody”.
+The researchers used freely available “open source” software known as a Tensorflow AI-engine that was originally developed by Google.They plan to make the App free to users who wish to develop new applications and then charge a fee when they are ready to deploy their version of the technology.
+CREDIT: CLARE PEDDIE
+Word count: 404

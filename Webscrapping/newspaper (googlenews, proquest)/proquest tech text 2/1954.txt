@@ -1,0 +1,4 @@
+SA company Presagen has launched an open online platform to promote the development of artificial intelligence -enabled healthcare solutions.
+Presagen, which has developed AI-based IVF-imaging software company Life Whisperer, launched its AI Open Projects platform at the HLTH conference in Las Vegas.
+AI Open Projects will allow clinics globally to crowdsource diverse datasets to build AI medical products. Clinics will provide data access, expertise and clinical support, while Presagen will look after AI build, regulatory approvals and commercialisation.The financial value created from economies of scale will be shared among contributing clinics via royalties.
+Word count: 94

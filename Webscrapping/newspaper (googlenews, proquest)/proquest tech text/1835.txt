@@ -1,0 +1,23 @@
+Blockchain to tackle information costs
+The word blockchain may make many uncomfortable given its connection to the world of cryptocurrencies where fortunes have been made and lost with the click of a mouse.
+But ag businesses are now seriously looking at what it can offer to improve transparency and trust and produce premiums in markets at home and overseas.
+But, just what is blockchain?
+Economist with the Royal Melbourne Institute of Technology's Blockchain Innovation Hub Dr Darcy Allen said the technology provided a way of re-organising how we record facts that are dealt with on an everyday basis.
+"Bitcoin is really a proof of concept for blockchain," said Dr Allen.
+Dr Allen explained that blockchain allowed all players in a particular supply chain to update, approve and track the path of a product, providing proof along the way of what is being sold.
+"It is a managed and maintained decentralised ledger of information about that good," he said.
+"The producers, distributors and suppliers all the way to the retailer, are all uploading information to a ledger that everyone can see. Each block of information chained to the next and the one before it."
+Dr Allen said blockchain could be a solution for rising "information costs" in agriculture.
+"Throughout the 20th-century we solved a lot of the transportation costs in a supply chain," he said.
+"Things like the shipping containers and airfreight...which brought down transportation costs.
+"But now we are looking for ways to bring down the information costs of proving this good is what it says it is.
+"As cattle move from production to consumer what we do is pass information.
+"And that's costly, there's errors along the way and there's a potential for fraud."
+Industry costs Speaking at the recent Australian Ag Immersive Technology conference in Melbourne, the Head of Agri-Food Tech with KPMG Ben van Delden provided some sobering numbers on the cost of that fraud.
+"Food and beverage fraud globally is a $10-$15 billion problem," he told delegates.
+Industry and corporate affairs manager with Teys, John Langbridge, also spoke about the cost of inspection and the lack of transparency in his sector.
+"The current cost of inspection to the industry is about $113 million per year," said Mr Langbridge.
+"We also have third party certification....so you could probably take that figure and multiply it by four.
+"Even importing countries come out and verify. In 2010 when I was with the department (of agriculture), 17 different countries came out to verify the supply chain. They all look essentially at the same thing, but again they don't share anything."
+CREDIT: Campbell Cooney
+Word count: 433

@@ -1,0 +1,24 @@
+SMARTdaily SKIN-SCANNING TECHNOLOGY HAS GREAT POTENTIAL FOR EARLY DETECTION TECHNOLOGY WHAT if pointing a smartphone at a freckle could save your life? This is the idea behind some of the latest advances in skin cancer-detecting technology, which are poised to get a boost when Google enters the market.
+The tech giant recently revealed plans to roll out an artificially intelligent, medically approved search engine for your skin that could name a rash or issue a warning about a suspicious mole.
+But while experts have largely welcomed its move, they also warn there could be unintended side effects for patients and doctors who rely on technology for a diagnosis.
+WHAT IS GOOGLE DOING?
+Google recently unveiled plans to launch a skin-scanning product at its I/O developers conference, with chief health officer Dr Karen De Salvo revealing it had spent three years creating the solution.
+She says it was created to help address the almost 10 billion Google searches about skin, nail and hair conditions every year and a shortage of specialists in the field.
+Google’s “AI-powered dermatology assist tool” will be an addition to its search engine, available through the web browser on your smartphone, and will ask users to snap and upload three photos of a mole, freckle, lesion or rash.
+De Salvo says it would then compare the photos to a database of skin issues and deliver guidance.
+“It seems simple but developing an effective AI model for dermatology requires the capability to interpret millions and millions of images inclusive of a full range of different skin types and tones,” she says.
+“We’re working to make it available to Google search users in the EU as early as the end of this year.” There’s no word yet when the tool will be submitted for approval by regulators in Australia and the US. But when Google does launch its skin tool Down Under, it will join a growing number of skin cancer-detecting apps such as SkinVision, Miiskin and Firstcheck.
+DO SMARTPHONE SKIN CHECKS WORK?
+Solbari CEO Johanna Young says her sun-safe clothing company recognised the potential of these apps and last year teamed with SkinVision to sell annual passes to the service.
+Young, who gave up her job in finance to focus on skin cancer prevention, says the partnership has already proven beneficial, detecting the most serious cancer on users.
+“We’ve got hundreds of people who have used the skin-check app so far and there have been some serious melanomas identified,” she says. “The first time we had someone who had a melanoma detected with the skin app that was a huge moment for us.” More than 16,000 cases of melanoma were recorded in Australia last year, according to The Australian Institute of Health and Welfare, making it the third most common form of cancer. More than 1300 Aussies died from the disease.
+Young says the statistics highlight the need for Aussies to get regular skin checks, even during the pandemic.
+“The number of skin checks with GPs is down considerably and that is leading to people not treating their skin in time,” she says. “Ninety-five per cent of melanomas can be treated successfully if treated early enough.”
+WHAT ARE THE RISKS?
+Despite advances, experts warn artificially intelligent skin-scanning technology is early in its development and cannot replace visiting a medical professional.
+A UK study found popular skin-scanning apps failed to identify a number of serious skin cancers, including melanomas.
+But University of Queensland’s Diamantina Institute Dermatology Research Centre director, Professor H. Peter Soyer, says the use of machine learning and artificial intelligence in identifying skin cancer is a “complex issue” with great promise and questions.
+“There’s a lot of discussion about how to harness the potential of AI. It has huge potential for the patients, the wider community, for doctors and for health,” he says.
+Soyer says risks of skin-scanning apps included a failure to identify some skin cancers, particularly for patients with darker skin, doctors relying on it too much, and “over-diagnosis” creating unnecessary anxiety for users. “I am a strong supporter for access to health information and this will empower people in the wider community so I think this is good,” he says. “AI will not replace doctors, it will make doctors better.”
+CREDIT: Jennifer Dudley-Nicholson National technology editor
+Word count: 713

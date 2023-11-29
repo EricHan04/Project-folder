@@ -1,0 +1,14 @@
+AUSTRALIA needs to make sure it is not left behind when it comes to the use of artificial intelligence in the food industry.
+This will be one of the issues Australian Institute for Machine Leaning business development manager Dr Paul Dalby will cover at the Regional Development Conference being held at Tailem Bend this week.
+“Australia is at risk of falling behind in the global race for artificial intelligence,” he said.
+“Other similar sized economies are investing billions of dollars, while Australia is investing millions.” The Australian Institute of Machine Learning at the University of Adelaide has 120 people working on machine learning and its work on computer vision is ranked third in the world.
+“Traditionally, software is written as a recipe that describes how a computer should carry out a series of tasks,” Dr Dalby said. “With machine learning, which is the key technology that powers most of what we think of as artificial intelligence, a computer learns how to do something from lots of examples. It is the technology that powers software like Siri and Google and enables driverless cars to ‘see’ their environment.” Machine learning has a range of applications, from making better climate models, to use in the financial markets. There are also a wide range of agricultural applications.
+“There are agricultural robots that can see and pick fruit and vegetables and robots that can weed,” he said.
+Dr Dalby said a growing application of machine learning that is being used by primary producers overseas is Robo-Advisory.
+“Robo-Advisory is where the computer takes in a range of information, from climate, to satellite imagery of the farm, soil types, what’s happening in different markets, and processes that to give advice like an agronomic adviser would.
+“While it’s still in the early phases, I can see this type of technology becoming more and more widespread.” Dr Dalby said another application was using a machine to help connect growers to customers more effectively.
+“You could find out where the highest value markets are for your products.” Dr Dalby said the most common use in Australia at the moment was the use of computer vision in packing sheds to help grade product. But he believes there are much greater opportunities available.
+“We have growers coming to us, interested in the technology, but at the moment it’s much more commonly used in Europe and the United States.
+“My concern is, this is an arms race in agriculture.“While Australia is doing OK at the moment, in the next five to ten years I expect we’ll see an explosion of this technology in food production and we need to make sure we’re on board with it and that we don’t fall behind.”
+CREDIT: PAULA THOMPSON REGIONAL EDITOR
+Word count: 455

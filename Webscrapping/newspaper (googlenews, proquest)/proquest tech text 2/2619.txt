@@ -1,0 +1,24 @@
+Terry Sweeney, chief executive of the Digital Health Cooperative Research Centre, says Adelaide is fast becoming a global centre for digital innovation, in part due to the world-renowned Australian Institute for Machine Learning (AIML) that is based in the city.
+With Covid-19 accelerating innovation in digital health and artificial intelligence said to be the next frontier for the sector, SA looks set to take pole position in an industry that is worth $200 billion globally today.
+“Australia has just 1 per cent of the global digital health market, which means we have an opportunity and the ability to go out and grab a lot more,” says the British-born executive, who relocated to Adelaide last year to take up the job.
+“We have got the ingredients to really push the boundaries on a global scale. South Australia wants to be a leader in digital health.”
+The SA government, which has set a goal for the state to become Australia’s centre for science by 2030, laid out a 10-year strategy last year to attract investment in research and development, drive innovation across multiple industries and boost productivity.
+Other measures include investing more than $700 million in Lot Fourteen, the innovative precinct that has adopted an open-door policy that gives companies easy access to government officials.
+Even so, it is AIML’s expertise in data analytics and machine learning that has proven to be the biggest drawcard for companies and institutions around the world.
+Gavin Artz, director of hi-tech and creative industries for the state’s Department for Trade and Investment, says momentum is building as more companies look to open up offices in Adelaide to work close to the researchers at both AIML and the Massachusetts Institute of Technology (MIT).
+“Everyone is coming here to build that something new,” Artz says. “I really see South Australia as a place where people do the R&D and build the application that we sell to the rest of the world.”
+And digital health is expected to be no exception.
+Both Artz and Sweeney say Covid-19 has highlighted the key role that data and artificial intelligence will play in helping fight the pandemic as well as support the future of healthcare both in Australia and overseas.
+Artz says SA has already done a lot of work around digitising health-related data in a way that is unique to the state and allows SA to start leveraging the data to create sophisticated health solutions.
+“We are really focused on building what the next 10 years will look like,” he says.
+“It’s about how you adapt the health system to take advantage of the technology and rethink what a health system should look like.”
+Sweeney, a former global managing director of IBM Watson Health, says that with health-related data doubling every 73 days globally, and frontline health workers so time-poor, there’s a big opportunity for artificial intelligence to increase operational efficiency in healthcare and drive better patient outcomes.
+A typical clinician would have to read for 167 hours a week just to stay on top of all the information that is being generated, whereas AI technology can read more than 800 million pages of unstructured data per minute.
+“Machines are fantastic at analysing huge amounts of data and looking for correlations that humans wouldn’t normally see,” says Sweeney.
+“It’s not about replacing humans with technology, it’s about using the technology to gain insights from the explosion of data that will allow humans to make better and more informed decisions.”
+With Covid-19 affecting 220 countries and territories and leading to more than three million deaths globally, there appears to be no shortage in both public and private funding for digital health services to help manage the fallout from the pandemic.
+In the US, digital health companies raised a record $6.7 billion ($8.6 billion) in venture capital in the first quarter of 2021, according to data compiled by Rock Health. That follows the more than $14 billion that was raised in 2020.
+Closer to home, the numbers are slightly more modest but are expected to build.
+“South Australia wants to be locally relevant and globally significant,” says Sweeney.
+“We want to create a digital health industry that solves local problems across Australia, but has the ability to export that capability to also solve international problems.”
+Word count: 690

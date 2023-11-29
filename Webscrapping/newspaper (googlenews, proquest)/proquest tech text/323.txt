@@ -1,0 +1,38 @@
+Source: The Conversation (Au and NZ) - By Bjorn Sturmberg, Research Leader, Battery Storage & Grid Integration Program, Australian National University
+Lucas Pezeta/Pexels, CC BY-SA
+This week, the Australian Energy Market Operator warned gaps in electricity supply are likely within three years.
+The reason? Coal plants are quitting the market earlier than expected, as well as becoming less reliable. Russia’s invasion of Ukraine drove coal, gas, petrol and diesel prices to painful highs. Domestic energy bills are soaring too, due in large part to ballooning gas prices. At one stage, outages and fuel shortages at coal and gas plants, coupled with low solar and wind output, very nearly cut power to a third of all east coast customers.
+But the good news is there’s a clean energy gold rush under way, now we have a legislated emissions target and strong engagement between state and federal energy ministers. Investors are moving with increased confidence, accelerating their investments in clean energy generation and storage.
+Even so, there’s a big task ahead to reach the goal of 82% renewables by 2030. We’ll need rapid deployment – not only to meet grid demand, but also new demand from the move to “electrify everything” in our homes and on our roads.
+So what changes can you expect to see?
+Solar panels and wind farms will pop up in many more places
+The first thing you’re likely to notice is the rapid construction of new clean energy projects.
+Over the past year, many of our coal power stations have become less reliable due to old age, heat stress and lack of fuel. There’s going to be a rush to the exit for coal. What’s the point of operators spending money propping up power stations at the end of their service life?
+As a result, five coal plants are now expected to shut by the end of the decade – significantly more than anticipated.
+What will replace them? Solar and wind farms, as these are the cheapest forms of new generation, supported by energy storage in batteries and pumped hydro.
+The market operator conservatively expects 7.3 gigawatts of new generation to be built by the end of 2026-27, with half this again (3.4GW) “anticipated” to be built, meaning AEMO has a good degree of confidence these renewables will be built.
+Even so, this is only a tiny fraction of the estimated 45GW of renewable opportunities in Australia readily available to investors and clean energy developers. We’ll need to build all 45GW – and then at least 5GW more – to hit our renewable target of 82%.
+Unlike thermal power stations, solar and wind farms are made of simple building blocks that are quicker to scale in manufacturing and deployment.
+In particular, you can expect to see solar and wind farms popping up in renewable energy zones like New England and the central west of New South Wales. These zones are designed to share the costs of new grid construction amongst a concentration of clean energy generation in areas with good sun and wind resources.
+Batteries to store and transmission lines to move electricity
+Further major infrastructure investments will be made into energy storage and transmission lines.
+The increasing value to the grid of storage is driving major investments like the plans for A$1 billion of new grid-scale batteries recently announced by US investment giant Blackrock, as well as AGL’s A$763 million plan to build batteries next to the decommissioned Liddell coal power plant.
+Much of this investment is occurring in coal country, like Victoria’s Gippsland and the Hunter Valley in NSW. Here, companies are vying to place grid-scale batteries at old coal stations. Why? To take advantage of the existing strong connections to the grid.
+While our existing transmission infrastructure will host many new renewable power stations and batteries, new transmission lines will need to be built. Especially between states, like EnergyConnect between NSW and South Australia, as well as new grid extensions to connect renewable energy zones to major cities.
+Read more: 4 reasons our gas and electricity prices are suddenly sky-high
+A focus on flexible use of power
+In addition to the infrastructure placed in the grid, there will be a new focus on unlocking the value of flexibility in energy demand to better match the variability of when solar and wind plants generate electricity.
+Storage is one source of flexibility. Timing our own electricity use is another.
+Flexible energy use is far less resource intensive than new infrastructure and offers the greatest benefit to system reliability. But it relies on human behaviour and our willingness to change established habits.
+Expect to see strong price incentives for you to use electricity when it’s abundant. The sunniest hours are already the cheapest time to use power in most of Australia - and this will only get cheaper.
+Not only that, but you will likely see grid incentives at times of peak demand. Picture notifications offering you a financial incentive to turn off energy-hungry appliances such as electric vehicle chargers, home batteries and heaters use at particular times - and for these functions to be offered through automation.
+This focus on the demand-side of electricity use is already well understood by energy-hungry industries. Last year, for the first time, this demand response was enabled for home users as well.
+What can you to do prepare?
+The long-overdue energy transformation will affect everyone, in how we use energy at home as well as the infrastructure in our communities.
+This transition depends on us all for support and direction. Projects will need social licence – support by local communities – political backing, and, in some cases, personal investment in technology and services.
+Investments of time will be particularly important if we want to save billions of dollars and millions of tonnes of critical materials through making demand-side flexibility a reality.
+So be ready to see change, and to take part in it. While change can be daunting, the energy transition is really about embracing flexible new paths to the same goal, as my children’s book on the energy transition shows. And the benefits are huge: abundant, cheap power, generated locally and in flourishing regions.
+Read more: 'We want to be part of that movement': residents embrace renewable energy but worry how their towns will change
+Bjorn Sturmberg has received funding from the State and Federal governments, including from the Australian Renewable Energy Agency, for work related to solar, batteries, microgrids, and electric vehicles. He is the author of the illustrated children's book, Amy's Balancing Act.
+- ref. Good news – there's a clean energy gold rush under way. We'll need it to tackle energy price turbulence and coal's exodus - https://theconversation.com/good-news-theres-a-clean-energy-gold-rush-under-way-well-need-it-to-tackle-energy-price-turbulence-and-coals-exodus-188804
+Word count: 1079

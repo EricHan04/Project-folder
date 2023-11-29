@@ -1,0 +1,52 @@
+Luring national and international talent, the Venture Catalyst space program is incubating what could prove to be vital sovereign technology for Australia.
+Yee Wei Law teaches cryptography and data protection and telecommunications. And device security and electronic and mechatronic engineering.
+But rather than write endless academic research papers on attack-resilient satellites, for example, the network security expert decided to launch a start-up to help Australia develop a sovereign capability.
+"Why not?" he says.
+"Doing the same thing over and over is perhaps not how researchers should think, so I put forward my idea for building secure communications software solutions for satellite constellations."
+Named Mesh in Space, Dr Law's spin-off from his work at the University of South Australia has been selected as part of a space program luring human capital to the state called Venture Catalyst.
+Set up in Australia's traditional defence industry heartland, the aim is to incubate what could prove to be vital future technology as thousands of low-Earth orbit satellites take to the skies.
+Satellites per se have been around for decades but multiplying constellations of these smaller versions are relatively new.
+Billionaire Elon Musk's rocket company SpaceX has launched more than 2000 Starlink satellites and he wants his global footprint to include Australia's vast expanse.
+London-based OneWeb is also building a space-based global communications network.
+In agriculture, new satellite constellations are being developed for monitoring crops, climate change and weather patterns, while mining is ripe for deep data sets to more effectively assess Australia's immense hidden riches.
+Ocean intelligence also has much to gain from space technology.
+Physicist Ian Dewey at ESpy Ocean is looking skyward after starting out 20 years ago with remote sensing and image analysis as a submarine hunter.
+Personal contacts have a lot to do with the venture.
+"I was the teacher many years ago for someone who's now a senior captain for Sea Shepherd," he explains.
+"He was working on the Gabon program trying to stop poachers."
+Sea Shepherd and the Bob Barker, a vessel familiar to Australians for its anti-whaling work in Antarctic waters, has been working with the Gabonese government to tackle illegal fishing in central West Africa.
+"He said, 'Ian, is there some way we can see where they are before we spend endless hours looking for them?'
+"And I said, 'Of course there is, I can solve that problem.'"
+After sharing data and testing solutions, ESpy is now tapping into the space program to develop its business idea with Fisheries NSW.
+"Yes, they want to stop the idiot who just goes out to get 200 abalone and deplete a local stock," Mr Dewey says.
+"But also they want to stop the international pirate who comes in and not only takes everything but destroys the environment in the process."
+Mr Dewey's interest lies in using hyperspectral imaging to analyse a large area and track specific objects.
+"That it can be used in an environmental situation is an absolute positive," he says.
+Globally, aerospace and defence firms like Lockheed Martin are working on space tech and the United States plans to have a mesh network in low-Earth orbit this year.
+But each company is using its own proprietary technology, which is totally opaque to us, Dr Law says.
+Meanwhile, South Australia is now home to the Australian Space Agency that will support the so called space economy.
+UniSA's Innovation and Collaboration Centre, host to the Venture Catalyst program, is working with the CSIRO, research organisations, industry bodies and international privateers.
+Dr Law says the resource-intensive sector needs to collaborate on common endeavours, including missions to the Moon and Mars that Australia wants to play a role in.
+"One country can only deploy a limited number of satellites," he says.
+"Hence the idea of creating a network protocol stack that allows satellites from different organisations to talk to each other, and they would talk in such a way that they form a mesh in space."
+A mesh means one satellite having multiple communication links with any satellite it can contact, Dr Law says.
+If a satellite has 100km of communications reach, all the satellites within that range can talk to that particular satellite and form a mesh.
+"From a security or reliability perspective, the mesh technology is best because if one link fails then all the other links can carry traffic and information," Dr Law says.
+"The civil development and the defence development go hand in hand."
+Satellites need to be deployed to detect hypersonic movement and send real-time data and images, with constellations able to monitor the entire sky, he says.
+Russia recently tested hypersonic, intercontinental and short-range ballistic missiles over invasion target Ukraine, and defence satellites are able to detect activity from the Black Sea to the Arctic.
+Australia and its allies also keep watch on missiles tested by China, North Korea and Iran.
+Because these missiles travel so fast they can quickly move out of the range of one satellite but a mesh can alert all the other satellites within range.
+And if the hypersonic missile has jamming capabilities then the satellite will have to have multiple communication beams - optical and radio links, Dr Law says.
+While most space technology lies with private offshore companies and will be tightly held, Australia's critical blueprint identifies numerous space technologies as being in the national interest.
+These include advanced optical and radiofrequency communications, satellite positioning and navigation, advanced robotics, autonomous operations systems, space launch networks and small satellites for Earth observation and wide area communications.
+Australia aims to grow the space sector by 20,000 jobs and up to $12 billion by 2030, with all eyes on South Australia as the nation's traditional defence industry hub.
+According to Premier Stephen Marshall, the state is “a magnet for space start-ups" with its collaborative ecosystem and programs like Venture Catalyst.
+Further west, Perth-based QL Space is looking at how space-based technology can help miners but  considering moving its headquarters to Adelaide.
+Operations manager Rajen Biswa says the satellite network and supply chain he has in mind would identify rare earth elements and critical minerals.
+A Synthetic Aperture Radar platform would use multi-spectrum images, sensors to give a deep earth exploration capability and other earth observation, historical and geological information to create a rich data set that can be interpreted by artificial intelligence.
+"The bulk of our team is in Australia and we have a few teams working from India too," Mr Biswa says.
+"Besides the huge potential for space companies in Australia, the massive support for space innovations in governmental and other sectors is a big incentive." 
+"The space economy in Australia is accelerating at a very fast pace."
+CREDIT: Marion Rae
+Word count: 1110

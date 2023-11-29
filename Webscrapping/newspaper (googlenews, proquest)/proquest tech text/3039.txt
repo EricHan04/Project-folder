@@ -1,0 +1,14 @@
+While the term 'tagging' would make many minds jump to social media platforms, the concept is also a major part of cereal breeding research being carried out by Australian Grain Technologies at Roseworthy.
+The research, led by AGT breeding research scientist James Walter, involves the use of machine learning methods to identify counts of objects, such as seedling numbers or cereal spikes, to rapidly speed up data collection.
+"If you were to (manually collect data), it would be very slow, and if you want to do it, you could only do a really small set of plots," Dr Walter said.
+"By collecting data quickly, more can be collected, and we can better investigate the genetics of the varieties we're breeding, and how those varieties fare in different regions.
+"The idea behind using machine learning, is if we can take a photo of these plots, that can then be fed into an algorithm that counts everything for you, that will be a lot quicker."
+Specifically, images are taken and read by a programming language called Python, which examines individual pixels.
+Prior to uploading research data, a database of training images has to be gathered, to "teach" Python what constitutes certain objects.
+"If you were doing a spike count, you'd upload a few hundred photos, label each spike as a spike, then all of those labels go into a convolution neural network, which learns what the distinctive features are of all of those labels," Dr Walter said.
+"You'd then upload a set of data for validation, where you know what areas should be tagged in it, and you see how well it predicts those things versus what is actually there.
+"It's important to keep adding training data to the set, across different locations, so the program can learn all the different possibilities for what an object could look like in different environments."
+Dr Walter said there was a big base set of training data uploaded for head detection and plant detection in wheat, with work under way to validate that data.
+Work is also under way to detect key objects in barley.
+CREDIT: Claire Harris
+Word count: 353

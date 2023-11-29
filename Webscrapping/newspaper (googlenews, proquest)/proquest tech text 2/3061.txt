@@ -1,0 +1,35 @@
+IRENE ANDERSON: Our son has cerebral palsy. He has multiple medical needs.
+ASHLYNNE MCGHEE, REPORTER: The Andersons have been taking every precaution to make sure their son Shaun doesn't catch COVID-19. His weakened immune system means he's a high risk.
+IRENE ANDERSON: Good job. It's only been the one person coming in & out & working with our son.
+ASHLYNNE MCGHEE: But nine days ago that support worker phoned Irene on a Saturday afternoon to tell her he tested positive.
+IRENE ANDERSON: I was absolutely fearful of what the consequences were likely to be, particularly for our son.
+ASHLYNNE MCGHEE: The national benchmark for notifying close contacts of a positive case is 48 hours. In this case, it took more than 50.
+Contact tracers say that's because there was a delay notifying them of the case.
+IRENE ANDERSON: We weren't contacted by contact tracing until a quarter to nine on Monday night & to think that if the worker hadn't told us, we would have been in the dark for that length of time.
+PROF. CATHERINE BENNETT, DEAKIN UNIVERSITY: The faster your contact tracing works, the more likely you are to catch those contacts before they've become infectious & possibly infected others.
+IRENE ANDERSON: I just feel that families with someone who is highly vulnerable need to know a lot quicker.
+I'm feeling relieved at this point we have tested negative. We're hopeful with the way we're all presenting at the moment, that we are okay.
+CATHERINE BENNETT: That contact tracing process is really the key to actually containing the spread.
+ASHLYNNE MCGHEE: As Melbourne emerges from lockdown, contact tracing will be critical to avoid a resurgence. Identifying & isolating everyone who has come into contact with a COVID case will stop the spread.
+DANIEL ANDREWS, VICTORIAN PREMIER (September 7): We are getting to almost 100 per cent of every positive case within 24 hours. We're getting to literally 100 per cent of all close contacts within 48 hours. They are national benchmarks.
+SCOTT MORRISON, PRIME MINISTER (September 7): Now New South Wales has a stronger capability when it comes to tracing & I should stress, it's not just about how many people you've got on the phone, information systems are critical to this.
+PROF. EUAN WALLACE, VIC. HEALTH AND HUMAN SERVICES: Of course, I'm aware of the commentary on Victoria's contact tracing.
+When we're dealing with day after day of 400 cases a day & we need hundreds of people on telephones doing those interviews.
+So the system has been stressed. We have made improvements & had those improvements been in place two or three months ago, would our performance have been better? Then, I think so.
+ASHLYNNE MCGHEE: Until late last month, Victoria's 2,600 contact tracers were using pen, paper, & a fax machine.
+EUAN WALLACE: The IT system that we use had a case interviewers on the telephones writing down the interviews on paper & then that interview being typed in separately.
+Our paper-based system is exactly the same system that's used elsewhere in the country.
+ASHLYNNE MCGHEE: David Van Rooy runs a factory in the south-eastern suburbs. He has 24 staff. In July, as Melbourne's second wave took off, one of his staff members tested positive to COVID.
+DAVID VAN ROOY, CEO, VANROOY MACHINERY: He gave them my name & mobile number as being his employer & so I expected a phone call within 24 hours & of course, that call didn't come.
+ASHLYNNE MCGHEE: It's been 49 days & David hasn't heard anything. He took matters into his own hands, isolating staff who worked closely with the man, & cleaning sections of the factory.
+DAVID VAN ROOY: We were kind of taking the bull by the horns but again, kind of flying blind. We had a crack, but ultimately it would've been nice to have a direction from the DHHS to say this is what you need to be doing.
+There's a lot of anger out there. People aren't trusting the system. People are feeling really let down by what's happened.
+ASHLYNNE MCGHEE: Late last month, Victorian contact tracing went digital. Software giant Salesforce agreed to show 7.30 the new cloud-based software purchased by the state government.
+GISELE KAPTERIAN, SALESFORCE: As a contact tracer, I'll be presented with this screen which outlines all the fields that I need to fill in, including the names of the individuals who share a household, the close contacts of the individual.
+EUAN WALLACE: And as soon as they're entered, they then trigger an SMS notification to the close contact to say you have been identified as a close contact.
+ASHLYNNE MCGHEE: The program logs people's symptoms & maps who else may be infected. South Australia & WA use the same software system but there's no national database. So if a positive case crosses a border...
+EUAN WALLACE: We would just phone the relevant public health department in that state. So if it was Sydney or Brisbane or wherever, we would just lift a phone & speak to them directly.
+ASHLYNNE MCGHEE: Whether Australia manages to suppress COVID largely depends on the success of our contact tracing systems.
+Victoria is at the tail end of its second wave. The real test will be when borders reopen.
+CATHERINE BENNETT: If we can't completely get rid of the virus or we can't protect ourselves absolutely from the virus returning to our communities, then ultimately our case control response is going to be a critical part to making sure that we never see another wave like wave two in Melbourne.
+Word count: 927

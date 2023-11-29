@@ -1,0 +1,18 @@
+ARTIFICIAL intelligence could save your life in the near future, as Australian ­researchers use it to identify cancers, prevent paralysis, ­diagnose complex conditions in minutes and provide access to specialists from afar.
+The technological innovations are primed to tackle a huge range of conditions from diabetes to autism and childhood hearing diseases to breast cancer. Some advances are rolling out in hospitals and labs now.
+Researchers say these medical breakthroughs are ­designed to assist rather than replace doctors, but the technology could help take pressure off strained hospitals and overworked clinicians.
+News Corp investigates this emerging technology as part of a six-part series, The Future of Everything, that will look at innovations from flying cars to hologram business meetings.
+One of the world leaders in AI medical tools, Google ­entered the field after efforts to identify cancer using its­ ­existing image-recognition technology.
+Dr Alan Karthikesalingam, vascular surgeon and senior clinical research scientist at Google Health, told News Corp the company considered AI technologies “another incredibly powerful tool in a doctor’s toolbox”, an addition that could potentially act as a second set of expert eyes. “We wondered, could we use the technology to try to recognise breast cancer in mammograms or diabetic eye disease in photos of the back of the eye?” he said.
+Google has partnered with a Japanese hospital to further test and train its mammography tool with real-world scans.
+This came after it published findings in medical journal Nature, showing its tech could identify breast cancer from mammograms with greater accuracy than experts.
+Dr Karthikesalingam said many of Google’s projects had now graduated from the “first wave of progress” and would undergo clinical trials to prove they could be reliable and helpful to doctors in the field.
+But AI medical tools aren’t just being developed overseas.
+Australian researchers are using software to spot lung cancers on chest X-rays and choose healthy embryos in IVF. They are also identifying autism and strokes using specialist brain scans. An international project researcher working on scans for autism believes they could be in use within a decade, giving a diagnosis within 20 minutes.
+The University of Sydney is also enabling research into AI medical treatments and robotic surgery in its Hybrid Theatre, where it trains surgeons.
+The facility features an imposing Artis Pheno scanner and the arms of a Da Vinci Surgical System often used in prostate cancer surgery.
+How artificial intelligence will improve our health 2022..... Artificially intelligent app used to diagnose ear disease. 2022..... AI software scans chest X rays to find pneumonia, cancer and other breathing issues.
+2023..... Trolley-sized stroke detecting machine will help determine if patients have had a bleed or blockage in the brain.
+2025..... Helmet-sized brain-scanner released for paramedics to detect and pinpoint strokes. 2032..... Kids offered 20-minute brain scans to diagnose autism.
+CREDIT: JENNIFER DUDLEY-NICHOLSON
+Word count: 470

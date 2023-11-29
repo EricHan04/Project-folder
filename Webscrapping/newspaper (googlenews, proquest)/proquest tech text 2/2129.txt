@@ -1,0 +1,18 @@
+INOVOR Technologies’ Adelaide-developed nano-satellites can do something which founder Matthew Tetlow believes no others can do.
+The shoebox-sized devices, which are designed to work as part of an array, are loaded with algorithms developed here, which allow them to effectively make crucial decisions.
+One of the applications the company offers its client in space and defence is the ability to detect changes, either looking out into the reaches of space, or looking back at Earth.
+Should something important change – such as an expensive satellite slipping slightly out of orbit, or a warship moving from a port – the artificial intelligence programs on the satellites can determine whether to send the images back to base. This is important, because it allow the satellites to send back only useful data, rather than just dumping every image they collect back to Earth, clogging up networks and running down their power supplies.
+Dr Tetlow started Inovor in 2012 as a consultancy and it now employs more than 20 people at Lot Fourteen.
+The company has secured several contracts, including one for $2.5 million to supply satellites for the Buccaneer Main Mission being jointly conducted by the Defence Science and Technology Group and the University of New South Wales Canberra Space. Buccaneer is what is known as a space situational awareness program. In layman’s terms, it is important to know where everything is in space, from satellites, to space junk and incoming asteroids.
+Technology developed by Inovor can help make decisions about whether, for example, the owners of an expensive satellite need to burn valuable fuel to move it out of the path of some incoming space junk, or to leave it as is.
+CONTINUED PAGE 63 Shoebox satellite in demand FROM PAGE 61 Being space, rather than land-based, the Inovor satellites can work around the clock, and their smart technology and low power use means they have lengthy up-time.
+Dr Tetlow originally wanted to be an air force pilot, but living in South Africa at the time meant that career path was not open to him.
+After going into mechanical engineering, inspired by a love of aerospace and race cars, he also did a PhD in aerospace engineering, leading to a career in defence and space technologies.
+A State Government grant at the early stages of his business gave Inovor the ability to take the technology from a concept to pre-prototype, which opened the door to deal with agencies such as the CSIRO and DSTG.
+“In satellite technology we operate in two modes: fly someone else’s mission, so the CSIRO comes to us and says we want to fly this kind of sensor,’’ Dr Tetlow said.
+Rather than buying off-the-shelf parts and building a spacecraft from them, Inovor designs and builds its own platform, meaning it can provide total solutions for clients.
+“The other way we operate is having our own missions, One is called Hyperion and one is called Skyris,’’ Dr Tetlow said.
+Hyperion is used to detect and track resident space objects, while Skyris looks earthward.
+Dr Tetlow believes their technology, which enables the spacecraft to decide what data is important, therefore greatly reducing the use of bandwidth and volume of data, is unique.He is passionate about attracting students into the space sector, which he says is undergoing a boom.
+CREDIT: CAMERON ENGLAND BUSINESS EDITOR
+Word count: 555

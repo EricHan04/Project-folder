@@ -1,0 +1,16 @@
+The way people move about in Adelaide and South Australia will be tracked as one of the first projects at a Living Lab being established at Lot Fourteen.
+Mobility analysts DSpark are keen to provide accurate information which will help the State Government understand the impact of tourism and plan better public transport, road networks and services.
+DSpark is a foundation partner of the Living Lab which also involves the Massachusetts Institute of Technology, principal partner BankSA, Optus Business and the State Government.
+“We’re able to see the trips people make on various modes of transport – whether they’re on a bus or a train, in a car, or they could be walking,” says Paul Rybicki, country head of DSpark.
+“That then becomes useful for tourism bodies and transport authorities.” DSpark takes de-identified telco data and transforms this via patented algorithms into valuable audience insight around how people move.
+This data is enhanced via external datasets including census, public transport data, roads network data and data on overseas travelers, the latter which uniquely allows DSpark to also measure the mobility of national and international travelers in Australia.
+DSpark data can be utilised alongside other sources such as blue-tooth vehicle counts and bus boarding swipe ons to provide a plot on how bunches of people move.
+DSpark can pinpoint where and when car traffic bottlenecks are occurring, which bus routes are delivering good or poor service and which shopping malls are getting a lot of foot traffic.
+For public transport, they can work out whether people walk or drive the first and last legs of the commute.
+“We don’t have any individuallevel data, we’re deliberately set up to not have personally identifiable information,” Mr Rybicki says.
+“The projects we work on are not for the individual, they’re for the population as a whole.” BankSA chief executive Nick Reade says work is well underway to set up the Living Lab with the partners defining initial areas of focus for the research.
+“Perhaps most significantly, the Lab’s first project will focus on supporting the Government’s plan to grow the state’s visitor economy and uncover new opportunities associated with that,” he says.
+“Work is also underway to build connections between MIT and local researchers and universities, which will be critical in sharing knowledge and skills, and utilising our local capability.
+“As a side benefit to the Living Lab, we are looking forward to hosting one of MIT’s leading Artificial intelligence (AI) researchers who will connect and share insights with the local AI community.” Optus Business managing director Simon Vatcher says the Living Lab will help “our enterprise and government customers use innovation to operate more efficiently, tap into emerging markets and opportunities, and satisfythe evolving needs of their customers”.
+CREDIT: Words Chris Russell
+Word count: 460

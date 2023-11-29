@@ -1,0 +1,17 @@
+Image: Chris Duckett/ZDNet
+Telstra and TPG Telecom have signed a billion-dollar deal that will see the pair share portions of their networks with each other.
+For TPG, the telco will gain access to 3,700 Telstra "mobile network assets" that will see it increase its 4G population coverage from 96% to 98.8% within a defined zone across regional Australia and urban fringes. The deal also includes 5G coverage, and at the same time, TPG will decommission 725 mobile sites within the zone.
+"Compared with TPG Telecom's current arrangements, there will be no material increase in total network costs, while the 98.8% population coverage will be achieved at a significantly lower cost than building an equivalent network," TPG said.
+Telstra said it would maintain one million square kilometres of coverage for itself as a "competitive advantage" as no other operators have infrastructure there.
+"Mobile coverage is often talked about as population coverage, however we all know that it's the square kilometres of coverage when you travel between towns and cities that also matters. It is the fabric of our mobile network," Telstra CEO Andy Penn said.
+See also: How Vodafone Australia changed its 5G plans after the Huawei ban
+On the Telstra side of the equation, the incumbent telco will get access to equipment already on 169 TPG mobile sites, 4G and 5G spectrum owned by TPG, and the ability to deploy its own equipment on the sites.
+"This additional spectrum will mean that all Telstra customers will continue to experience Australia's best and fastest network across the country, in combined 4G and 5G speeds," Penn said.
+"In particular, the spectrum agreement will ensure that regional and rural customers will now experience faster speeds in more locations on their mobiles."
+Telstra added the access that TPG will receive would be similar to that of its virtual operators and its Belong sub-brand. TPG will still run its own network to cover 80% of the population, as well as maintain its Optus infrastructure sharing arrangement.
+The initial deal is set to run for a decade, with TPG having the ability to "request" two five-year contract extensions. The deal is pencilled in to begin by the end of the year but still needs approval by the Australian Competition and Consumer Commission.
+If approved, TPG said the decommissioning of its mobile sites would cost AU$50 million, a network write-down of AU$75 million, and a one-off "recognition of onerous lease related charges" that could be up to AU$150 million.
+"The deal will give TPG Telecom's consumer, enterprise, and wholesale customers seamless access to a national network," TPG Telecom CEO Iñaki Berroeta said.
+"This will enable TPG Telecom's Vodafone, TPG, iiNet, Lebara, and Felix brands to improve their services for regional Australians."
+On the Telstra side, it said it expected to see up to AU$1.8 billion over the initial decade.
+Related Coverage

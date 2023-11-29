@@ -1,0 +1,4 @@
+The eyes are not just the windows to the soul, they can also indicate heart disease risk.
+An international research team found artificial intelligence-enabled imaging of the retina’s network of veins and arteries can predict cardiovascular disease.
+The team applied AI models developed from the data of 88,000 UK participants to retinal images of 7411 different adults aged 48-92. The participants were tracked for seven to nine years and captured between half and two-thirds of circulatory disease deaths in those most at risk.
+Word count: 83

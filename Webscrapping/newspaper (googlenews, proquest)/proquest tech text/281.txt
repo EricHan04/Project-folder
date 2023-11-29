@@ -1,0 +1,48 @@
+Source: The Conversation (Au and NZ) - By Roger Dargaville, Senior lecturer & Deputy Director Monash Energy Institute, Monash University
+If you aren’t a long term energy policy news junkie, you’d be forgiven for thinking today’s crisis arrived fairly suddenly.
+Indeed, Liberal leader Peter Dutton is framing it as a recent catastrophe, saying it was caused by Labor “transitioning into renewables too quickly […] they are spooking the market.”
+But this crisis hasn’t come out of nowhere.
+We arrived at this moment thanks to a series of policy decisions under previous governments – state and federal – that left Australia’s energy system ill-equipped to cope with the demands placed on it.
+Here are five key policy moments that in part led to the power crisis engulfing Australia today.
+Read more: Australia has met its renewable energy target. But don’t pop the champagne
+1. Privatisation of the electricity sector
+The 1990s saw a trend towards privatisation of government owned assets, with the logic that industry would run the assets more efficiently.
+The Kennett government in Victoria had a strong policy to privatise generators and transmission assets, with South Australia and New South Wales also privatising energy assets.
+However, the actual focus of industry is not to be efficient but to maximise shareholder profit (which may involve being more streamlined, but not necessarily). And so the the primary role of the energy sector to provide general benefits to Australian residents and businesses has been lost.
+Read more: Want electricity reform? Start by giving power back to the states
+2. The Gladstone gas terminal agreements
+Liquefied natural gas (LNG) exports began from the Gladstone LNG gas terminal in Queensland in 2015, during the Abbott-Turnbull-Morrison era, connecting the eastern states’ domestic gas markets to the international price.
+But the journey began long prior, with construction of this terminal beginning in 2010 (in the middle of the Rudd-Gillard-Rudd era). It involved years of strategy discussion, policy design and agreements.
+These agreements, forged between industry and various state (especially the Beattie Queensland Labor government) and federal governments (going as far back as the Howard era), created an LNG export industry.
+Unlike Western Australia, there was no domestic reserve for gas set up as part of the agreements. So on the east coast, we are now exposed to international gas prices.
+Of course, in the lead up to creating the LNG export industry, federal governments perhaps could not have been expected to predict Russia’s invasion of Ukraine over a decade later, driving up gas prices.
+But the decisions made around the Gladstone gas agreements allowed Australian gas to be shipped offshore and have led to extremely high gas prices domestically.
+3. Axing the price on carbon, watering down the renewable energy target
+Under former Prime Minister Tony Abbott, the then-Coalition government removed the price on carbon created by the Rudd-Gillard-Rudd government. This was arguably one of the most backward steps in the efforts to reign in Australia’s carbon emissions and did nothing to incentivise renewable energy production.
+It also tried very hard to scrap the renewable energy target (RET) – eventually settling for just watering it down significantly.
+The RET required energy retailers and large customers to ensure a share of their energy was derived from renewable sources.
+An earlier form of the target was established in 2001 by the Howard Coalition government. The Rudd Labor government increased the target’s ambition in 2009.
+In 2015 the Abbott Coalition government dramatically reduced the target, and it was was easily met in 2019. Since then, there has been no additional hard incentive to build more renewables.
+The reason renewables are still being built now is because they are cheaper than coal.
+Investment would continue at a more rapid pace, except that getting transmission connection agreements – which allow renewable energy producers to get their power into the grid – is quite difficult (more on that later).
+4. An effective stop on investment in wind farms in Victoria
+In 2011, the Victorian Baillieu state government effectively put a stop to wind farm investment by creating a 2km exclusion zone around existing homes. As researchers Lisa Caripis and Anne Kallies wrote in The Conversation in 2012, these laws
+effectively give the owners of any dwelling within 2km of a proposed wind farm the power to decide whether or not the development should proceed.
+This decision, combined with the reduced RET, really slowed down investment in renewables.
+These laws were reformed in 2015 by the Andrews government in Victoria.
+Read more: Victorian wind farm laws: a blow to Australia’s clean energy future?
+5. Lack of investment in transmission infrastructure
+This is not so much a policy moment, but a lack of one.
+Transmission infrastructure is the wires, poles and other bits of the system needed to get electricity from power producers to households and businesses.
+Most major transmission projects in Australia connecting coal, gas and hydro projects to the grid have been built by governments and then later privatised. Under the current privatised system, getting new transmission lines built is a complex process.
+Renewables generation projects are often built at smaller scales in remote locations and new transmission infrastructure is needed to connect them to the grid.
+Many renewable energy projects currently cannot connect to the grid because transmission infrastructure can’t securely absorb the extra capacity.
+Both federal and state governments have failed to enact policies encouraging investment in transmission projects that can serve renewables generation. This has set the system up for the failure we’re seeing today.
+Read more: What is the electricity transmission system, and why does it need fixing?
+A tough job ahead
+Of course, other policy decisions have also led to today’s crisis. For example, there’s been limited government policy encouraging the construction of batteries and pumped hydro in order to store renewable energy produced at times of lower demand.
+The exception here is, of course, the tax payer funded Snowy 2.0 scheme, recently revealed to be running over time and over budget.
+Without government intervention, it seems unlikely an orderly transition to renewables can be achieved.
+Roger Dargaville receives funding from the RACE for 2030 CRC and the Woodside Monash Energy Partnership.
+- ref. 5 policy decisions from recent history that led to today's energy crisis - https://theconversation.com/5-policy-decisions-from-recent-history-that-led-to-todays-energy-crisis-185207
+Word count: 1000

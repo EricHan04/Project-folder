@@ -1,0 +1,26 @@
+The system needs to be more flexible, and prepared for “technology that hasn’t been invented yet”, rule-setting body the Australian Energy Market Commission says.
+New rules will cut red tape, encourage competition and allow household batteries to be used in more ways, particularly the increasingly lucrative support services.
+“The potential of an additional revenue stream can encourage more people to invest in a battery,” commission chair Anna Collyer said.
+“Then, as we’ve seen with solar panels, there is a virtuous circle where the more people invest, the more efficient production becomes and costs come down.”
+The changes will make it easier for a business to aggregate a large number of household batteries, selling the output and sharing the profits with the householders.
+These aggregations, called virtual power plants, currently mostly sell power into the wholesale market, like a big generator.
+At least ten schemes operate in South Australia with varying rewards for households – either regular payments, discounts or feed-in tariffs.
+Demonstration trials have shown these virtual power plants are very effective in support services, particularly stabilising frequency.
+Frequency control costs in the national electricity market have grown from $29m a year in 2009 to $356m in 2020, according to the Australian Energy Regulator.
+These costs are increasing because of the volatility of renewable energy, even while solar and wind drive down wholesale generation prices.
+“The energy market is moving to a future that will be increasingly reliant on storage to firm up the expanding volume of renewable energy as well as address the growing need for critical system security services as the ageing fleet of thermal generators retire,” Ms Collyer said.
+The commission’s draft changes to the way energy storage works, which also includes simplification of registering big batteries, is open for consultation until September 16.
+In a related decision, a new ultra-fast frequency control market will be created from October 2023.
+This will require responses within 2 seconds, down from the current fastest 6-second market, with batteries likely to be major participants.
+Changes in the electricity system were highlighted on Wednesday by the newly appointed chief executive of the Australian Energy Market Operator, Daniel Westerman.
+Commenting on the nation’s world leading uptake of solar, Mr Westerman said the change was extraordinary.
+‘It is a stunning democratisation of power,” he said.
+“It’s a transformation – turning historically passive electricity consumers into active generators.
+“And a capital transfer, too. Power infrastructure investment decisions that were once the preserve of our nation’s boardrooms are now being made around the kitchen table in our towns and suburbs.”
+However, the high uptake of solar has created problems in managing the system, he said.
+Large numbers of rooftop solar systems feeding power into the grid were creating stability problems and times of very low demand from big generators.
+Managing this was “like trying to ride a bike really, really slowly”, he said.
+SA was at the forefront of adapting to these challenges, which “needs to be consumer centric”.
+Cutting off or constraining households from selling their excess solar into the grid should only be a last resort.
+SA was developing a strong partnership between distributor SA Power Networks and the state government to “deliver a suite of extra management capabilities” to keep the system secure.
+Word count: 517

@@ -1,0 +1,17 @@
+Elon Musk's Starlink may be on the path to providing faster broadband to rural customers after a US ruling allowed the company to operate part of its satellite fleet at a closer orbit to Earth.
+The US Federal Communications Commission (FCC) on Tuesday (Wednesday AEST) granted Starlink the rights to orbit 2814 satellites - yet to be launched - in lower orbits than originally planned. Starlink, a division of SpaceX, has 1300 satellites in orbit, as part of a planned network of 12,000 designed to blanket the Earth with high-speed space-based internet broadband coverage.
+The new ruling will bring the 2814 satellites from a planned orbit of around 1150 km to about 550 km, cutting down on the delay in the broadband signal.
+"It's going to be good news for internet users (including many test users in regional Australia) as lag will be reduced," said Professor Alan Duffy, program lead for SpaceTech Applications at Swinburne University.
+In making their ruling, the FCC concluded that "the lower altitude of its satellites enables a better user experience by improving speeds and latency".
+Starlink's latency - the time required to move data from source to destination - is expected to fall by mid-2021 from 20 to 40 milliseconds to milliseconds measured in the teens or even single digits. That compares to 600 to 800 milliseconds for the NBN Sky Muster satellites, orbiting at a much more distant 36,000 km.
+Starlink is among a handful of newly formed companies, including OneWeb and Amazon-backed Kuiper, that are offering broadband distributed by satellites in low-Earth-orbit. The technology, unproven at such scale, could potentially bridge the long-standing city-rural digital divide in Australia, the US and elsewhere. Australia has about 2 million people who lack internet access at home.
+Satellite-based broadband is made possible by combining existing technologies together in new ways. Starlink satellites are small and sent up in large batches by SpaceX rockets, which, being re-usable, make the cost of launch dramatically cheaper.
+How these networks will function fully deployed is still unknown, including what sort of interference the competing networks could create for each other over time.
+To gain FCC approval Starlink had to overcome objections by OneWeb, and Musk's space rival, Jeff Bezos, whose company Amazon is backing another satellite-broadband project called Project Kuiper. The companies cited the risk of interference as a reason to deny Starlink's request.
+"It is highly likely we will experience an interference issue at some point, if all these satellites get up there," said Adelaide-based satellite designer engineer Julia Mitchell.
+"Ultimately, there has not been a low-Earth-orbit constellation that has actually been profitable and not gone bankrupt at some point," said Ms Mitchell, who works at satellite-manufacturer SITAEL Australia.
+Professor Duffy said lower Starlink orbits will benefit astronomers by putting more of them into the Earth's shadow, which "limits their reflection of sunlight that blind our optical telescopes".
+However, he's not convinced thousands of new satellites won't affect radio astronomy.
+"The biggest danger from the orbit is that it now sits much closer to crewed operations for the International Space Station as well as China's future efforts with their own space station."
+CREDIT: Chris Zappone
+Word count: 526

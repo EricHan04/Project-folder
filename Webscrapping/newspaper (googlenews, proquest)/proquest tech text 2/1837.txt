@@ -1,0 +1,15 @@
+BEDFORD PARK
+A NEW, more effective flu vaccine developed at Flinders University is believed to be the world’s first drug completely designed by artificial intelligence.
+Researchers hope the vaccine, which is set for clinical trials in the US, will provide 80-90 per cent immunity, compared to 50 per cent for current jabs.
+Professor Nikolai Petrovsky, who is also research director of local company Vaxine Pty Ltd, said computers have been used to help design other drugs.
+But never has a computer program developed an entire drug.
+Researchers created an AI program called SAM (Search Algorithm for Ligands – a type of molecule) and taught it about flu vaccines that had proved successful or unsuccessful, so it learned the difference between good and bad drugs.
+Prof Petrovsky said SAM then developed a list of “trillions of weird and wonderful drugs” that it was able to narrow down itself to a small number that were most likely to be effective.
+These were then put through laboratory trials using human cells at Flinders, to find the best one.
+“The idea of AI is you make the computer the inventor,” Prof Petrovsky said. “It’s AI, so you don’t initially trust it. But in essence, it did work. In a very small space of time, we went from a computer making a drug to it going into a human being.” The vaccine uses substances called adjuvants, which act as “turbochargers” boosting resistance against infection. The AI process shaved down the traditional drug development time – 20 years of work – to around three years.
+The clinical trial in the US requires 240 healthy volunteers and will take a year.
+“This represents the start of a new era where artificial intelligence is going to play an increasingly dominant role in drug discovery and design,” Prof Petrovsky said.
+His team had demonstrated much could be done to improve the effectiveness of vaccines: “It’s been a very successful model of how you can work together to hopefully change a human disease.” However, he said it was unfortunate the new drug could not be taken further in Adelaide.
+“We would have loved to be able to develop it here in SA, but we don’t have the support here,” Prof Petrovsky said.Australian research funding models were too short-term, he said.
+CREDIT: Dixie Sulda
+Word count: 384

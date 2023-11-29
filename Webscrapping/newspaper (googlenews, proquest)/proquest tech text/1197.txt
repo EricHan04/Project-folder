@@ -1,0 +1,78 @@
+It's not just about getting rich, it's about quality of life. And it starts with a lightbulb, writes Shane Wright .
+Nobel prizewinner in economics Paul Krugman famously noted the importance of productivity improvement.
+"Productivity isn't everything, but in the long run it is almost everything. A country's ability to improve its standard of living over time depends almost entirely on its ability to raise its output per worker," he wrote in his 1994 book The Age of Diminishing Expectations.
+But Krugman's pithy explanation, maybe easily understood by fellow Nobel winners, has often struggled to resonate with the public, politicians, union leaders and business operators.
+People often talk about productivity without actually knowing what it means. When employees hear the word, they think it means working more hours; business owners think it has something to do with reducing costs; politicians seem to think it's an economic Magic Pudding.
+It's a major topic at present because productivity growth has slipped in just about every country So, what is productivity? Why is it so important? And can our lives improve without it?
+What is productivity?
+In an economic sense, productivity is a relatively simple concept - it is output divided by inputs.
+Let's use a widget-making factory as an example. For every 10 boxes of steel (input), the factory makes 1000 widgets (output). That equates to 100 widgets for every box of steel.
+I buy equipment that reduces steel wastage during the production process, cutting my steel needs to 9 boxes. I now produce 111.1 widgets for each box of steel. My productivity has soared by 11.1%.
+This type of productivity is often called "capital deepening". It's a new machine or technology that allows us to boost output or reduce an input.
+Productivity can also be increased by working more smartly. I send my workers to Widget University to get a degree in widget-making. They come up with a new way to produce widgets, making 1200 from just 9 boxes of steel.
+This is an example of "human capital". Mix the two and you get what is called "multifactor productivity".
+Over the past century, more than half of all productivity in Australia has been of the multifactor kind. The rest has been due to better technology.
+By increasing our widget- making productivity, the overall price for our widgets falls. It enables a business to better pay its staff. And the falling price enables people to buy more. Those people have more income to spend on something else.
+There's also the concept of labour productivity, which effectively measures output per hour of labour. Over the past century, most OECD countries have produced far, far more despite spending less time at work.
+New Zealand has been something of an exception. Most developed economies experienced strong productivity growth in the 1950s and 60s, followed by a slowdown. New Zealand has had the slowdown without the strong productivity growth.
+Does it really matter that productivity growth has slowed?
+Just like compound interest, a small change in the rate of productivity growth can have long-term repercussions.
+Australia's Productivity Commission says that, if productivity growth averages 2% a year, economic output per person doubles in 35 years, triples in 55 years and increases five-fold over 85 years. But if productivity grows at 1% a year, it would take 70 years for economic output to double.
+You might be someone who doesn't measure their life by how much they produce. But you probably put a value on time not spent at work.
+According to the commission, Australians are selling themselves short on the "leisure dividend" provided by productivity.
+The 11.5 million people of Belgium have about the same GDP per person as Australia. But Belgium's productivity is higher. If Australia's labour productivity was at Belgium's level, Australians could work four hours fewer a week without a reduction in income. If we reduced our working week by just an hour, we could boost our GDP per person by 25 per cent.
+New Zealanders, meanwhile, work longer hours and get less output per hour than Australians - and indeed most other OECD countries.
+Productivity is not just about being richer - it goes to our quality of life.
+How important is the lightbulb to productivity?
+Let's illuminate this idea. People today live in a world of light. There's so much light, economists use photos from space to determine which countries are growing richer.
+But 160 years ago, the world was much darker. A key issue was not just the absence of electricity and lightbulbs but the sheer cost of producing light.
+US economist William Nordhaus in the mid-1990s carried out research that showed the importance of cheap light.
+Nordhaus chopped wood and burned various types of candles to get a baseline on how much effort went into light creation.
+Chopping wood 10 hours a day for six days created enough fuel to create about 1000 lumen hours of light - or about what you get from one lightbulb in less than an hour.
+In productivity terms, the output is light divided by the input of wood and the 60 hours of labour needed to cut that wood. If you spent your 60 hours creating tallow candles - made from the fat of animals - you would have enough candles to burn one every night for almost 2 1/2 hours.
+Candles made from spermaceti, harvested from sperm whales, burned a little longer, and did not give off the stench of burning animal. But they were more expensive (and the world hunted sperm whales almost to extinction).
+Oil lamps did better still but were expensive and dangerous.
+Then along came the electric lightbulb in 1879. By 1900, a single carbon filament bulb gave you 10 days of continuous bright light for the equivalent of a 60-hour week of work.
+Two decades later, bulbs delivered five months' light for the equivalent of that 60-hour week. And just before Nordhaus' research, bulbs were giving a decade's worth of light.
+In 160 years, society went from stinking tallow candles that barely illuminated the pages of a book to a point where our towns and cities are never dark.
+Why did abattoirs give us cheap cars?
+If you want evidence that productivity increases incomes and produces extra leisure time, Henry Ford is a prime example.
+Vital to his success in bringing cheap cars to the masses was the moving conveyor belt. Rather than workers moving around a factory putting parts to a new car, a timed conveyor belt would bring the building blocks of a car to the staff.
+The idea was not new. Abattoirs brought carcasses to workers on conveyor belts, making it easier and quicker to carve up a cow or a sheep. Ford's breakthrough was to bring that concept to cars.
+Soon after Ford introduced his conveyor belt, staff started to leave because they were bored by the repetitive nature of the work.
+In response, he offered his staff US$5 a day as part of a profit-sharing arrangement. Critics said it would bankrupt the company.
+Instead, potential workers flocked to Detroit to work for Ford. Hours were also reduced, enabling the company to work three shifts a day.
+Productivity delivered higher pay and production and lower prices.
+What is slowing productivity growth?
+While new technology and education have historically been the biggest drivers of productivity growth, they are not the only ways.
+The World Bank, in a report in 2008 into eastern Europe, noted that government policies can be just as important.
+Good governance, macroeconomic stability, competition, infrastructure quality, labour market flexibility, skill upgrading and financial deepening are all critical to productivity.
+One of history's great economists, Adam Smith, noted in his book The Wealth of Nations that a lack of competition is not good for consumers.
+Competition - or the lack of it - has been identified among some experts as one of the reasons productivity has slowed over recent years.
+Former Australian Competition and Consumer Commission boss Rod Sims recently argued that from beer to airlines to banks, Australia simply doesn't have enough competition to force companies to find ways to be more productive.
+"If Australia had fewer markets run by dominant oligopolies, and more benefiting from strong competition, we would have less inequality, and higher wages and productivity," he wrote.
+Unions can also impede productivity.
+The Australian Chamber of Commerce and Industry recently complained that the Maritime Union has gone out of its way to oppose automation systems across the country's ports. This type of automation is normal in overseas ports.
+A World Bank report looking at the world's best ports ranked Australia's five ports in the bottom 30%, with Adelaide the highest at 264th.
+Wellington's CentrePort - majority owned by Greater Wellington Regional Council and minority by Horizons Regional Council - by contrast, was 151st.
+Aren't there downsides to productivity changes?
+Two areas of potentially large jumps in productivity are artificial intelligence (AI) and automation. Both tap into fears about technology and productivity that have been evident since the industrial revolution.
+The Luddites of the 1810s smashed textile machines and fearful skilled workers such as weavers would be put out of work by technology.
+Their concern was well- founded. Machines did replace the groups of well-paid weavers. But the community benefited from the reduced cost of cloth. Some of that reduced cost flowed to the owners of the machines, some to the workers they employed, and some of it flowed as a benefit to consumers who were able to buy cheaper products.
+At the start of this century, Australia's Productivity Commission estimates 84,000 people were employed globally in the video rental store Blockbuster. But Blockbuster is gone - replaced by N streaming services that employ about 11,600 people while offering far, far more than even the world's largest video rental store.
+Without that technical breakthrough, all people would be poorer - both in terms of income (especially what they could buy with that income) and in the time spent at work.
+Productivity improvements - particularly those from technological advancements - do lead to the end of jobs. But they also boost the overall number of people in work, creating new jobs, occupations or entire industries.
+Where else might productivity gains come from?
+Perhaps the biggest change might come from a medical breakthrough.
+People have benefited from the huge changes in medicine over the past two centuries. We are much less likely to die at birth, during our early years, in accidents and from disease. Our food and water are safer.
+Even if we are struck down by accident or disease, medical technology means we have a much greater chance of a full recovery.
+If researchers find a way to cure cancer or dementia, for example, not only will our collective quality of life improve but there will be a lift in our overall productivity.
+Another area of possible improvement is through the better use of data. Businesses and governments now collect vast amounts of information. That information could be used to deliver insights that will improve productivity.
+But there are concerns the big productivity breakthroughs due to technology are over.
+American economist Robert Gordon, who has described himself as the "prophet of pessimism", argues "big-bang" productivity enhancements have effectively come to an end.
+The lightbulb, a reliable internal combustion engine and the telephone were created in a three-year period around 1876. Other changes, such as indoor plumbing and refrigeration, were invented not long after.
+Even the smartphone is dwarfed by previous advances. We need to get used to only moderate productivity improvements because game- changing advances are unlikely. In public appearances, Gordon displays a photo of a smartphone and a toilet and asks "Which would you rather give up?"
+Another thesis is that, as the global population ages, dynamism in business or technology slows.
+There are also concerns the fall in global interest rates over the past 30 years has seen money flow not towards entrepreneurs changing the face of our daily lives, but into a property boom that's simply inflated the price of bricks and mortar.
+Whatever the future, productivity growth will be pivotal to our living standards forever more. - Sydney Morning Herald
+Word count: 2025

@@ -1,0 +1,53 @@
+Using hydrogen manufactured from renewable energy to fire up crematoriums is one of the potential usages in everyday life being explored for the growing sector.
+Hydrogen will be commonplace for backyards barbecues, BOC business development manager Chris Dolman said on Thursday.
+“We know that all household gas appliances coming into Australia these days are being tested for whether they can use 5 per cent, 10 per cent, 100 per cent hydrogen,” he told a sold-out Business SA forum on the emerging sector.
+Heavy industry such as cement and steel making were looking at hydrogen to reduce carbon emissions and there would be significant use in transport to fuel cars, buses, ferries, forklifts and trains.
+“We’re also interested in those non-conventional applications, people don’t usually think about,” he said.
+“One of those is replacing some of the carbonised gas in the crematorium space.
+“There are a lot of opportunities where we need to be creative as a sector.”
+From next month, BOC will start to take delivery of the gas from the Hydrogen Park SA facility at Tonsley which is now in the final stages of commissioning.
+HyP SA is owned by the Australian Gas Infrastructure Group (AGIG) and its subsidiary AGN.
+AGIG head of strategy Kristin Raman said the new $11.4m facility would be a practical demonstration of what was to come, starting with blending 5 per cent hydrogen into natural gas supply to 700 homes in Mitchell Park.
+“This isn’t a technically challenging project,” she said.
+“But it demonstrates how to integrate this into our existing networks, it overcomes barriers to entry, it socialises and normalises hydrogen.”
+It showed how excess renewable energy which would otherwise be wasted could be used to make hydrogen.
+The company has a target of all SA including 10 per cent hydrogen by 2030 and “ultimately conversion to 100 per cent renewable gas (hydrogen and bio-gas) before 2050,” she said.
+Making household gas clean had an equity dimension in the move to being carbon neutral.
+If there was a major push to going all-electric for homes, as some people proposed, there would be a big cost to replace appliances such as heaters and cookers and add cost to those consumers remaining on gas in diminishing numbers but paying for all the infrastructure.
+She looked forward to the era of hydrogen-fuelled cars, which emit water vapour rather than greenhouse gases.
+“You can drink the water out of the tail pipe if you’re really thirsty,” she quipped.
+Energy and Mining Department executive director Nick Smith said global hydrogen use was expected to soar.
+In 2017, the world used 55 megatonnes of hydrogen but would need an estimated 600Mt to 800Mt by 2050.
+Mr Smith said SA was attracting global attention because of its growing use of renewable energy.
+Also on Thursday, supermarket giant Coles announced it would buy renewable energy from companies operating in SA.
+Coles aims to be powered 100 per cent by renewables by 2025 and net zero with greenhouse gas emissions by 2050.
+It will purchase renewable energy certificates linkd to generation by ENGIE at its Willogoleche and Canunda wind farms in SA.
+A similar deal has been struck with Neoen, which operates in SA, NSW, Queensland and Victoria.
+In SA, Neoen is one of the biggest renewable energy investors. It operates the Hornsdale wind farm and big battery at Jamestown and is developing the Crystal Brook and Goyder energy parks.
+Coles executive Thinus Keeve said the agreements “show we’re taking a leading role in driving climate action in Australia”.
+Meanwhile, a $12m government grant to build a big battery in South Australia has been paid back because the project proved to be more lucrative than anticipated.
+Electricity companies AGL and ElectraNet received the grant in 2017 for a big battery on Yorke Peninsula.
+The Federal Government body which handed out the money — the Australian Renewable Energy Agency — said the battery at Dalrymple had “achieved all of its objectives”, principally providing information on how the electricity system can operate in SA with 100 per cent renewable power.
+The battery, which cost $30m, has already earned more than $22m in its first two years by providing support services to the electricity system.
+“We’re pleased to be delivering improved reliability and energy security to SA, with the first large-scale certified indoor battery in Australia connected to the energy grid,” AGL chief operating officer Markus Brokhof said.
+“The performance and technical response of the battery has been excellent, and the commercial return has exceeded expectations. Therefore a return of the grant was part of the ARENA funding mechanism.”
+The grant repayment comes as a new service in the electricity market was proposed on Thursday by rule-setting body the Australian Energy Market Commission which would harness the super-quick capability of batteries.
+Commission chief executive Benn Barr said it was critical to introduce new ways of ensuring stability.
+The change would create a market for responding to fluctuations in frequency in two seconds, down from the current fastest six-second category.
+“These ultra-fast services have never been provided before and this will introduce more flexibility into the fleet as well as spur on market innovation as solar, wind, demand-response and batteries compete to provide these sought-after services,” Mr Barr said.
+“That’s good for consumers because it will keep costs down compared to an alternative of producing more of different types of frequency response which aren’t as granular. This, plus the benefits of competition and innovation will lower costs to consumers.”
+The 30MW/8MWh battery, called ESCRI for Energy Storage for Commercial Renewable Integration, was built in 2017 and began operating in the market in December 2018.
+AGL leases the battery from ElectraNet. Its Samsung batteries are charged by AGL’s Wattle Point wind farm and excess solar energy in the system.
+In its first two years, its operators were paid $22.6m for frequency control ancillary services – a service that stabilises supply.
+In addition, it earned $319,820 from discharging energy, slightly less than the $329,750 it paid to charge up.
+The support services were called on for 29 system events, ARENA said.
+“It responded almost instantly to inject power to arrest dips in voltage or reduce the duration of an outage,” ARENA said.
+“One event in December 2019 saw lightning cause a nearby powerline to trip.
+“In this event, the battery maintained Dalrymple’s energy supply until the issue was resolved, showing how the system can enhance reliability for the region.
+“Weeks later, a catastrophic failure tripped a series of transmission lines.
+“On this occasion, the battery responded immediately, supporting the network to recover from the sudden voltage dip to become stable within 2.5 seconds.”
+The Dalrymple battery followed construction of SA’s first big battery, the Tesla installation called the Hornsdale Power Reserve at Jamestown operated by Neoen. That battery was built at 100MW/129MWh but has since expanded to 150MW/194MWh.
+Infigen operates a 25MW/52MWh battery at Lake Bonney in the South East.
+Nexif has a 10MW/10MWh battery at Lincoln Gap, near Port Augusta.
+Several other batteries are planned, including AGL’s 250MW battery at Torrens Island.
+Word count: 1124

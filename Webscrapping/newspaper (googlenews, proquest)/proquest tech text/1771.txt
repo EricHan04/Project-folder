@@ -1,0 +1,18 @@
+A report due to be released in early May promises to lay out connectivity options and Australian agtech solutions clearly and without jargon.
+Collaboratively produced by professional service company KPMG, Meat and Livestock Australia, and agrifood innovation precinct AATLIS, the Agri 4.0 'Connectivity at our fingertips' report challenges the premise that connectivity is not available on regional and remote farms.
+KPMG partner and head of AgriFood Tech, Ben van Delden said while a lack of connectivity has contributed to delays in Australian agricultural innovation and technology adoption, a number of new and exciting communication protocols and market players have emerged to provide connectivity solutions.
+"The core intent of this report is to address the myth that because farmers are rural and remote they can't connect," he said.
+"Depending on what you need connectivity for, there are a range of ways regional producers can achieve internet of things connectivity across their businesses."
+Mr van Delden said the report examined a range of connectivity options, including licensed and unlicensed LPWAN, satellite IoT networks and on-farm WiFi systems, describing the benefits and constraints of each technology.
+"The report helps to create a checklist of things farmers need to consider if they want connectivity, as well as what the business and property considerations are that you need to work through," he said.
+"We are trying to simplify the process as much as possible."
+Mr van Delden said the report features a number of real life case studies exploring what works in different businesses and locations.
+"One of the case studies looks at what really remote operators are doing to create face time capabilities on their farms and what that does in terms of worker safety," he said.
+Mr van Delden said KPMG had invested in the agtech space as it believed digital technologies were key to the profitability and sustainability of its clients.
+"We are moving into a new digital economy where data serves multiple purposes. The farmer from a production and risk point of view, and the regulator or consumer from a confidence point of view," he said.
+MLA general manager for research, development and innovation Sean Starling said MLA had been working with the red meat industry to understand the benefits of having a digitally enabled supply chain.
+"On-farm internet of things and connectivity is an integral part of the whole of supply chain digital approach," he said.
+"One of the difficulties we have found for our livestock industry is digital connectivity - it's all very well to have a soil or rain sensor but if they have no connectivity you can't get it back to the rest of the supply chain.
+"This report explains a number of methods by which farmers can get connected."
+The report will be launched next week and made available through KPMG and MLA electronic distribution networks.
+Word count: 470

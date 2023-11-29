@@ -1,0 +1,40 @@
+Agriculture, trades, mining and manufacturing still offer workers opportunities for hard yakka – but with a modern twist.
+AGRICULTURE
+Total employment in agriculture, forestry and fishing grew 9.5 per cent – adding about 30,000 jobs – in the five years to November, 2020.
+Although Australian Government figures show the most common occupations were livestock farmer and crop farmer, agtech is also creating roles in areas from automation to artificial intelligence and data science.
+An Australian Council of Learned Academies report predicts a future that leverages technologies such as sensors, the internet of things (IoT), robotics, machine learning, large scale optimisation and data fusion, biotechnology, nanotechnology, and distributed ledger technology.
+AgriWebb co-founder and chief executive Kevin Baum says it can be an “uphill battle” attracting talent into the agtech sector as people assume they need to have grown up on a farm but that is not the case.
+The farm management software company is currently hiring for roles in engineering, marketing and management, and all are based in capital cities.
+“Most of our company doesn’t necessarily come from an agriculture background, you just have to be fired up about solving big problems,” he says.
+“A lot of our engineering team come from your big tech companies – Google, IBM Adobe – or from small start-ups, but they have been with us for years now because what we are doing is challenging, interesting and exciting.”
+AgriWebb co-founder and chief revenue officer John Fargher agrees there are opportunities in agtech for workers “from all walks of life”.
+He personally grew up on a fifth-generation livestock farm in South Australia before becoming a lawyer but says agriculture experience is not a prerequisite.
+“Agriculture is a growing industry and really impactful and it brings a lot of meaning into someone’s life outside of a salary,” he says.
+“The best part of my job is seeing the impact we have when you stand on a customer’s farm and they explain how we have managed to change their business and set them up to hand on their business to the next generation or grow their production to feed the world.”
+TRADES
+For many trades roles, physical strength and hands-on skills are no longer enough.
+Motor mechanics, for example, plug in computers to cars to diagnose and fix many issues.
+Employers are increasingly looking for apprentices with technical and digital skills, favouring those who have studied IT and engineering subjects while at school.
+TAFE NSW commercial general manager Peter Buttenshaw says digital, sustainability, robotics and automation knowledge is in demand across all trade areas.
+“Often, the employers want someone who is not just certificate III level-qualified but with higher level qualifications such as a certificate IV, diploma and advanced diploma,” says Buttenshaw, who will be supervising the engineering competition at the WorldSkills Australia National Championships & Skills Show in Perth in August.
+“Employers are looking for (apprentices) who have done engineering and robotics and digital (subjects at school).
+“Any kids with high level maths and aptitude for applied engineering definitely have highly desirable skills.”
+MINING
+There has been 21.4 per cent growth in mining employment in the five years to November, 2020, and Australian Government forecasters expect jobs will continue to increase over the next three years.
+Technologies such as augmented reality and IoT have been changing the way people work in the mining sector, and their adoption has only increased since the COVID-19 pandemic.
+BHP, for example, uses Microsoft HoloLens 2 – a head-mounted computer with a transparent display – to allow experts to remotely coach on-site workers through physical tasks and inspections.
+The mining company has also installed IoT sensors so data can be remotely collected from trucks, excavators, drills and bulldozers without the potential risks associated with manually taking readings.
+Such changes mean tech-savvy workers are needed in the mining sector to install systems and develop digital tools.
+On many mine sites, autonomous vehicles are being operated by drivers using computers, often located hundreds of kilometres away from a mine site, while drone operator also is an increasingly common role.
+MANUFACTURING
+While employment declines occurred last decade in such things as car and furniture manufacturing, it rose in food and beverage manufacturing.
+However, a Genpact report reveals industrial manufacturing is leading the charge in the adoption of robotics.
+It found 95 per cent of senior executives believed employees would be comfortable working alongside robots by 2021 and 71 per cent of workers agreed.
+Although overall employment in the manufacturing sector dropped by 1.7 per cent in the past five years, there are growing opportunities for tech-focused workers.
+Job site Indeed career insights head Jay Munro recommends workers keep their career options open by filling any technological knowledge gaps.
+“(Some employees) are understandably concerned about there being less jobs in the future as a result of increased automation,” he says.
+“However, it’s highly possible that jobs that are lost will be replaced by new positions which require different skills.
+“For example, while there may not be the same demand for skilled people to help manufacture things, there will be a need for skilled people who know how to program and fix machines.”
+A CSIRO report on advanced manufacturing predicts “immense strategic growth opportunities” if the sector embraces sensors and data analytics, advanced materials, smart robotics and automation, additive manufacturing (3D printing), and augmented and virtual reality.
+“Digital literacy needs to go beyond strong computer, coding, mechatronics and data management skills to include expertise in smart data systems, communications and data interpretation,” it states.
+Word count: 879

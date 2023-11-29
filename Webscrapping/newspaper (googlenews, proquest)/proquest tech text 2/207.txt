@@ -1,0 +1,29 @@
+Early next year, a ­low-cost Low Earth Orbit satellite known as Kanyini will blast off, to start three years of data collection based on its hyper-spectral imaging abilities and Internet-of-Things receiver sensors.
+Backed by $6.5m of funding, Kanyini marks the first time an Australian state has developed a satellite in its own right.
+The winning entry from a statewide school naming competition, the word Kanyini is a Pitjantjatjara term describing the “principle of responsibility and unconditional love for all of creation”.
+True to this ethos, the data generated will help to manage water use and tackle climate change, as well as assist in emergency management of disasters such as bushfires.
+Weighing only 12kg, Kanyini will be positioned in low Earth orbit, approximately 500km above the Earth. Unlike the higher geostationary large satellites used for purposes such as telecommunications, Kanyini’s lower orbit will allow it to detect and analyse terrestrial objects with a compact payload.
+Kanyini will service the SA Space Services Mission, which is being developed by a consortium consisting of Adelaide-based space companies: Myriota and Inovor Technologies, and the national SmartSat Cooperative Research Centre.
+One of only a few Australian satellite manufacturers, Inovor Technologies is designing and building Kanyini at Lot Fourteen and operating the satellite “bus” (the hardware that supports the various payloads).
+To date, says Inovor Technologies founder and chief executive Dr Matthew Tetlow, the approach to building a satellite has been to plug the disparate components together – Lego style – but this has been less than successful.
+In Inovor Technologies’ case, everything is developed in-house – including more than a million lines of code – which means there’s complete quality control. “It’s taken a lot of money and time to do it, but I think it has positioned us very well to capture a lot of the market, especially in Australia,” Tetlow says.
+It’s expected Kanyini will be launched in early 2023.
+“There are a number of launch opportunities in this window but it’s all about scheduling, flexibility and cost,” Tetlow says.
+“Because Kanyini is not the primary payload, we can’t just say ‘the rocket needs to go on this day’.”
+Kanyini is a standard 6U CubeSat, about the size of a cereal packet. In this case, the CubeSat consists of Inovor Technologies’ Apogee “bus” and two payloads for internet-enabled communications and hyperspectral imaging equipment.
+Tetlow says because the hyperspectral imager can detect much more beyond the visible eye, it has myriad applications, such as analysing vegetation and soil to a granular degree.
+“It enables you to have a much richer picture of what’s happening on Earth,” he says.
+An on-board processing capacity also enables artificial intelligence for in-orbit data processing, thus reducing data transmission requirements and allowing more rapid decision making.
+After an expected three-year lifespan circling the globe, the satellite will succumb to the Earth’s gravity and burn up on re-entry.
+While the mission is not for profit, the data generated will accelerate the uptake of space derived information for the SA government, provide local industry with “space-flight heritage” and enable start-up enterprises to develop products and services in fields such as climate management, mining exploration, agriculture and defence.
+“This mission will provide opportunities for small start-up companies to use the ongoing data captured by the satellite to develop analytics applications for government and commercial use,” says SmartSat CRC chief executive Professor Andy Koronios.
+The mission also highlights the state’s potential as an exporter of satellites and related equipment.
+In the case of Inovor Technologies, the company has already supplied a larger satellite to the Australian Defence Force and is furthering two of its own missions based on entirely own-developed hardware and applications.
+“We can have a big crack at the global market,” Tetlow says. “We can provide a whole service from satellite design, manufacture, test, delivery and operation, as opposed to providing just a satellite and leaving the service delivery to others.”
+The company’s Hyperion program involves launching small satellites (12U CubeSats) into low orbit to observe the higher orbit bands for space junk that could damage the more expensive equipment.
+While there are plenty of earthbound radar and electro-optical sensors, space-based systems are not affected by the obscuring effects of weather and light pollution and can view objects from different angles.
+Separately, the Skyris mission will launch small satellites with on-board machine-learning capabilities for enhanced Earth remote sensing and ground resolution imaging.
+Skyris will be able to identify changes to the Earth’s surface caused by natural disasters such as floods, earthquakes and fires, or “subtle activities” such as illegal logging and land reclaiming.
+Along with Kanyini, these missions support the Adelaide-based Australian Space Agency’s goal of tripling the size of the sector to $12bn by 2030, while creating 20,000 jobs.
+South Australia’s start-up space sector has grown at 65 per cent per annum over the past four years and is expected to grow at an annual rate of 5.8 per cent to 2030.
+Word count: 795

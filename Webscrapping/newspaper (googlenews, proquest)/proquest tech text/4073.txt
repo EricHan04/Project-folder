@@ -1,0 +1,21 @@
+The utilisation of emerging technologies to help increase productivity and lower on-farm production costs has been identified as a key area to aid future progression in the horticulture industry.
+University of New England researcher Andrew Robson spoke at the Citrus Technical Forum in Adelaide last week and said using remote sensing in orchards was an effective tool for growers to help identify variability in tree health and production.
+Professor Robson said satellite imagery in particular could identify fruit size and nutrition levels within different orchards across same property.
+"It is a tool to help with core sciences of agronomy, pathology and breeding," he said.
+Field sampling was another form of remote sensing technology that had proven to lower production costs, as well as provide in-depth crop information to help growers make better input decisions.
+"It can help forecast yield for the whole crop or create a fruit size map," Prof Robson said.
+"Growers can use the imagery to work out sample locations and determine low growth and high growth areas within the orchard and identify how it associates with soil profiles, pests, disease and irrigation."
+Israeli robot designer Gad Kober also spoke at the forum.
+Mr Kober helped to create the Fresh Fruit Robot to help alleviate challenges associated with manual fruit picking.
+"It is labour-intensive and we are experiencing a global labour shortage," Mr Kober said.
+"Labor costs are rising too and on-farm productivity is not as good as it could be."
+Mr Kober said the FFRobot emulated the human picker but it had 12 robotic arms.
+"It analyses the leaves, branches and fruit, then finds the location of the fruit based on colour and size," he said.
+"The robotic hand twists the fruit off, using the same motion for each piece of fruit.
+"It is repetitive and the movement and motion never changes. Therefore the fruit picked will always be the same quality.
+"Damaged fruit can account for up to 15 per cent of fruit loss. It happens when transferring from the tree to the bin or moving bins within orchards."
+Employing a robotic harvester for fruit picking has also lowered production costs, Mr Kober says.
+Using artificial light, the robot can pick fruit for 24 hours a day and equates for about 20-25 manual pickers, while it also increased production for growers by picking about 8000 to 10,000 individual pieces of fruit an hour.
+Mr Kober said based on about a 50-hectare apple orchard and a FFRobot with a lifespan of five years, labour time declined from 20,000 hours to just 1680 hours.
+CREDIT: VANESSA BINKS
+Word count: 429

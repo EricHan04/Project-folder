@@ -1,0 +1,15 @@
+Adelaide tech company Opensensing this week secured State Government funding to develop a hi-tech system that would allow authorities to constantly monitor the levels of waste in quarantine bins.
+Staff at the department of Primary Industries and Regional Development have been scrambling to get on top of several fruit fly outbreaks across Adelaide and the Riverland – threatening the state’s $1.3bn horticulture industry.
+Cases recently spiked in the areas of Prospect and Stepney, while stone fruits were pulled from the shelves of the state’s major supermarkets following reports of fruit fly larvae.
+Opensensing received a grant after pitching its new project through the Go2Gov program, which calls on local innovators to respond directly to public sector challenges.
+General manager Leo Gaggl said the monitoring system would use a Long Range Wide Area Network that allows data to be processed and communicated in real-time without using SIM cards or telecommunication providers.
+“We have existing level sensors for bins, but the huge challenge for the biosecurity bins is that the coverage inside of those bins is just not here,” Mr Gaggl said.
+“What we are addressing in our project is the more localised wireless coverage and then back over long distances.”
+Mr Gaggl said his company was also working to develop bin-surround monitoring, which would be used to alert PIRSA staff to dangerous levels of fruit waste building up around bins.
+Primary Industries and Regions Minister David Basham said the government was doing “everything we can to protect SA’s horticulture industry”.
+“This is why we are excited to partner with local start ups to explore new technologies and
+innovation which could improve biosecurity and better protect our state from the threat of fruit fly.”
+Innovation and Skills Minister David Pisoni said Opensensing’s grant would accelerate the company’s idea, with the view of the government becoming a paying customer once completed.
+In August 2019, Opensensing installed 100 smart sensors across Adelaide as part of the Local Government Association’s ‘Smart Cities’ framework, monitoring car park levels, road congestion points and rubbish bin levels.
+NAT - Stay Informed - Social Media
+Word count: 333

@@ -1,0 +1,21 @@
+The Hubble Space Telescope has found a star implicated in the death of its partner.
+An international team of astronomers used observations from the telescope to confirm the existence of a companion star to a supernova. The discovery clears up a mystery about supernova chemistry, as well as helping researchers to understand how giant binary stars work.
+Supernovae are vast explosions in space, created at the end of a star’s life. They carry layers of elements around them, with hydrogen gas at the very edge. If there’s no hydrogen around a supernova – as is the case with supernova 2013ge – something must have been stripping it away pre-explosion.
+So what might be siphoning the hydrogen? Researchers say it’s a companion star that’s been hidden by the supernova’s brightness.
+“This was the moment we had been waiting for: finally seeing the evidence for a binary system progenitor of a fully stripped supernova,” says Ori Fox, an astronomer at the Space Telescope Science Institute in Baltimore, US, and lead author on a paper describing the research, published in The Astrophysical Journal Letters.
+The researchers used Hubble’s Wide Field Camera 3 to study the region of supernova 2013ge in ultraviolet light, as well as examining archived images of the supernova fading – as it did from 2016 to 2020.
+Hubble images of galaxy NGC 3287 show supernova 2013ge fading over time, revealing the steady source of ultraviolet light astronomers have identified as its binary companion star. Credit: Science: Ori Fox (STScI) Image processing: Joseph DePasquale (STScI)
+A nearby source of ultraviolet light stayed bright as the supernova faded – leading researchers to suspect a second star.
+“In recent years many different lines of evidence have told us that stripped supernovae are likely formed in binaries, but we had yet to actually see the companion,” says co-author Maria Drout, a researcher at the University of Toronto, Canada.
+“So much of studying cosmic explosions is like forensic science – searching for clues and seeing what theories match. Thanks to Hubble, we are able to see this directly,” Drout adds.
+Get an update of science stories delivered straight to your inbox.
+The researchers say that this adds weight to the growing theory that most massive stars form as binary systems.
+Based on the Hubble imagery, the companion star was “jostled” but not otherwise disturbed by 2013ge’s supernova.
+It is, however, equally massive – and probably headed for the same fate as its partner. One day, it will explode and form its own supernova, before collapsing into a neutron star or black hole.
+From there, it may be flung away from its partner – which the researchers say would explain why we sometimes see solitary supernovae.
+Alternatively, it could continue to orbit its dead companion, eventually merging and shooting out gravitational waves.
+But it’ll take a little patience to find out. “With the surviving companion of SN 2013ge, we could potentially be seeing the prequel to a gravitational wave event, although such an event would still be about a billion years in the future,” says Fox.
+The evolution astronomers propose for supernova 2013ge: two stars begin in orbit, first one then the other becomes a supernova, resulting in two neutron stars in orbit. Credit: Illustration: NASA, ESA, Leah Hustak (STScI)
+The researchers will be looking for other bereaved supernova companion stars with the Hubble Space Telescope’s help.
+“There is great potential beyond just understanding the supernova itself. Since we now know most massive stars in the universe form in binary pairs, observations of surviving companion stars are necessary to help understand the details behind binary formation, material-swapping, and co-evolutionary development,” says Fox.
+“It’s an exciting time to be studying the stars.”

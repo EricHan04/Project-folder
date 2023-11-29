@@ -1,0 +1,22 @@
+Drought-tolerant chickpeas that are highly efficient at extracting water from the soil could be available to growers in the future, after researchers employed novel technology to speed their search of available genetic material.
+The aim is to reduce the time taken to release drought-tolerant chickpea varieties to growers.
+As part of research conducted with GRDC investment, University of Sydney lecturer Helen Bramley and her research team, have developed a new way to quickly screen chickpea genotypes for water-use efficiency.
+"The traditional approach involves inserting aluminium access tubes into the soil to measure soil water content using a neutron probe," Dr Bramley said.
+"But installing the tubes and taking the measurements at different depths is time-consuming and labour-intensive," she said.
+RELATED READING: Fungicide-resistant disease discovered
+The team was keen to find a more accurate and efficient, less time-consuming and non-destructive method for gathering water-use data across a large population of trial plots at critical periods.
+"I saw the University of Sydney Professor of Digital Agriculture and Soil Science Alex McBratney give a presentation that described various technologies for measuring the soil properties, which included electromagnetic induction that measures the apparent electrical conductivity of soil or how salty the soil is," she said.
+Because there is generally a relationship between ECa and moisture content, researchers were interested to know if it was possible to adapt the technology to measure soil water use in chickpea plots.
+"Subsequently the team used an EM38-MK1 sensor, a one-metre-long instrument capable of collecting electrical conductivity data. A model, calibrated against neutron probe measurements, was also developed to calculate available soil water for different depths within the soil," Dr Bramley said.
+At the end of 2017, a proof-of-concept experiment was established using 36 different chickpea genotypes.
+Some were rainfed while others were irrigated because of dry seasonal conditions.
+"Using the EM38 sensor, we were able to calculate water use for the plants in every plot as well as at different soil depths after a rainfall event," Dr Bramley said.
+"Being able to measure moisture at different depths allowed us to pinpoint where in the soil the plants were extracting water from."As a consequence," she said.
+Dr Bramley said the technology has enabled the team to identify the chickpea genotypes with deeper roots, which may be one of the traits important for drought tolerance.
+A prototype buggy, called the BrEM38, was also developed to ease the task of taking thousands of water-use measurements throughout the year.
+The buggy, which operates at different heights, was constructed by Chris Bramley entirely from plastic to fit over the plots and run on wheels to improve the speed of data collection.
+No metal was used in the construction because it could interfere with the EMI measurements.
+Going forward, Dr Bramley hoped the process of collecting water-use data can be further automated using robotics.
+"My vision is that we will soon have multiple robots operating at various locations across Australia that continuously collect this data from the field," she said.
+Start the day with all the big news in agriculture. Click here to sign up to receive our daily Stock Journal newsletter.
+Word count: 518

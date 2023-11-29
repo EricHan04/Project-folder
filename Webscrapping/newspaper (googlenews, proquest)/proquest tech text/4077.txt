@@ -1,0 +1,47 @@
+Space is hard, as the saying goes.
+How hard? Take this scenario: your satellite is orbiting at the speed of 27,000 kilometres per hour when it stops working.
+It's still orbiting just no longer functioning. Unlike a car stuck in a ditch, you can't see what's happened to it. You are at the mercy of instruments.
+Since these days a "satellite owner" can be anyone from NASA to advanced high-school classes the risk of crashes, not to mention daily complexity, grows.
+This new reality is creating a market for Australian companies looking to step into the orbital economy.
+High Earth Orbit Robotics uses software to take pictures of satellites, spacecraft, and even space junk from the vantage of other satellites as they orbit pass each other while travelling at 10 kilometres per second.
+Like so much of the commercial space revolution, the company doesn't rely on lofting bulky hardware into space but a more skillful use of data already available from satellites.
+With plenty of satellites in orbit, the Sydney-based company uses "software to predict the position" of them, according to chief executive William Crowe. "We then use this information to command the satellite to point in the right direction at the right time with millisecond precision."
+The company is profitable and already counts among its clients the Defence Department, CSIRO, and Saber Astronautics, another company that is profiting from what's known as space situational awareness - basically, knowing where things are in orbit.
+The bird's eye satellite-to-satellite view enables damage assessments, analysis of rotation and whether the various solar panels and antennas are correctly deployed.
+In keeping with the entrepreneurial spirit of the new space era, the companies are essentially creating new markets with new services.
+Like with any new technology, they sometimes find themselves rubbing up against the established conventions.
+As the laws are written, taking any image of anything in space from a US satellite and publishing it must go through a lengthy clearance process, Crowe says.
+Australia has never regulated this activity. "It allows a tech-savvy nation like us in Australia to move forward, to gather information and provide useful analytics."
+"We have the ability to be a world leader."
+The fact that High Earth Orbit Robotics can do this work without its own fleet of satellites says a lot about the nature of the new space industry in Australia today.
+The demand to see and control what's going on has grown more important as waves of new, smaller and low cost satellites populate low-earth orbit.
+Australia is moving into this role with Sydney-based Saber Astronautics this month chosen to design the county's space control room to complement the Space Agency in Adelaide.
+The Responsive Space Operations Centre will be funded by a $6 million grant from the Australian government's Space Infrastructure Fund. To capture global space business, the facility will lease out mission control services to various satellites owners.
+Grabbing space expenditure is the name of the game. The Australian Space Agency wants to triple the sector's contribution to GDP from $3.9 billion in 2018 to $12 billion by 2030. Developing the business of mission control, and offering it to satellite owners, is one way to do this.
+Satellite owners will be able to access the grouping of telescopes and dish networks to track new fleets of small, cheap cubesats [miniature satellites] in orbit.
+"It's a bit like building a cricket pitch which can be rented out to successive teams," says Saber chief executive Dr Jason Held.
+Thanks to the development of cubesats, orbital spacecraft are sometimes not much bigger than a coffee mug, packed with cheap computing power and sensors.
+Instead of complex and expensive satellites being sent up for decades-long missions, smaller satellites can do the same missions with a lifespan of 18 months.
+Held says that for a long time, space operations were complex, almost by design. The domain of nation states and engineers, it was a point of pride that it took six months to train an operator.
+Evolutions in technology have changed that. Saber uses 3D gaming technology and computing of position to vastly simplify the interface and smooth the users' experience.
+The company was able to win contracts in the US with space command controls that took 45 minutes to train someone on.
+Using gaming technology and intuitive displays, the controls are easier to master and require fewer operators. Moreover, they make it easier to stay across the increasingly congested orbits above us.
+The company has 25 staff and will be hiring six more for the contract who will helm a "satellite office" in Adelaide. Held says that Saber will now be in a position to help "drive the direction of where we think Australian space can go".
+"The space industry is changing," says Held. "We've hit the first disruption - cubesats - and are looking at a future in 10 years where people are 3D printing spacecraft in orbit.
+"Why not have this sort of innovation in the operations centre as well?"
+Professor Alan Duffy, Program Lead for SpaceTech Applications at Swinburne said: "When you have a large number of satellites you need to manage them better."
+"It's a challenge from control and risk perspective," he says, adding that Saber, for example, "realised this would be an issue years ago".
+Technology is "leapfrogging" the old and space companies can now be "more experimental because it costs less".
+In turn, the space industry "can be more aligned to the Silicon Valley 'fail fast' approach", which encourages rapid innovation to be perfected on the go.
+This means the data provided from space for, say, insight into climate for farmers, or for traffic patterns in a city, can be marketed and used in new ways.
+"We look to entire new industries," says Duffy, giving the example of companies, Myriota and Fleet, which use small sats to provide data and capabilities to remote customers across Australia.
+"When you can do things so cheaply we are extending the internet to orbit, connecting the world and Australia to ultra-cheap sensors," Duffy says. "The things that can be unleashed through the lower cost of satellites are worth more than satellites themselves."
+The shift in thinking around space benefits Australia because of the nation's relatively young commercial industry. "We have almost a clean slate, which allows us to be free from the old model and work on this new paradigm," says Duffy.
+In turn, Australian industry could be positioned to take full advantage of the more ambitious endeavours like the NASA directed Artemis project to return to the moon by 2024.
+The federal government has invested $150 million in Australian businesses working on projects connected to that program.
+As can be seen with Saber's mission control, the strategy for new space is for government agencies to set goals and prices and let private companies compete to fulfil them.
+NASA has said it will set a price it will pay for the cost of water on the moon, which can be used to sustain life and enable missions: companies can then bid to supply the contract.
+This is a different approach than the days of the space race when the governments of the US and Soviet Union launched the rockets themselves.
+"No longer is space a battle between super-powers, but a battle between start-ups," Duffy says.
+CREDIT: Chris Zappone
+Word count: 1222

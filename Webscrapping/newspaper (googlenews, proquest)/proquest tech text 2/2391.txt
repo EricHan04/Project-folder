@@ -1,0 +1,11 @@
+CRYPTOSA has unveiled a $1 million investment in local blockchain infrastructure and in-kind support, ahead of the trial of a new platform aimed at reducing the impact of counterfeit wine.
+Led by entrepreneurs Yawn Rong and Michael Zhang, the blockchain advisory and shared workspace provider has invested in 40 servers dedicated to the local blockchain start-up community.
+The servers are hosted at the Adelaide Data Centre on Morphett St, near the CryptoSA Lab working space.
+“We are using these 40 servers to build blockchain infrastructure locally in Adelaide – it will provide a decentralised layer for people to run their validation,” Mr Rong said. “We have the 40 independent servers and we have mechanisms to shuffle the servers with other servers across the world.
+“The running costs for the servers here is about three times higher than China so we’ve spent some real money here to contribute to South Australia.” The servers will also be used by a new wine provenance tracking platform being trialled by CryptoSA and its global blockchain partner Ultrain.
+The platform was demonstrated at a launch event on Friday night, and will be trialled by local wineries First Drop Wines, Maison Blue and Orchid Wine Estate.
+“There’s a QR code on the bottle and when it’s scanned it will come up with all the history of where the wine has been manufactured, where it’s been distributed, a description of the wine, a description of the company, a history of the wineries,” Mr Rong said.
+“The winery will also be able to collect data so this provides a huge benefit to both consumers and wineries.” Mr Rong believes blockchain technology can play an important role in reducing the impact of counterfeit wine.
+“It’s a small step – there will be no one single solution to end the counterfeiting industry because it’s a huge industry with huge interests behind it,” he said. “What we can do is make it as difficult as possible.”CryptoSA plans to launch its incubation program for local start-ups later this year.
+CREDIT: GIUSEPPE TAURIELLO
+Word count: 341

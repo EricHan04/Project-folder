@@ -1,0 +1,94 @@
+Living 20 minutes out of Shepparton in northern Victoria, Lisa Powell & her family have struggled for years to get the good internet they need for work & study.
+They've tried many options, including other satellite internet services like NBN Co's Sky Muster, & are now spending more than they'd like on mobile data.
+"We spend upwards of $300 a month on internet & the speeds are pretty bad," Ms Powell said.
+"For us to have good internet is going to be brilliant."
+Last Friday, Elon Musk's company Starlink announced that after months of anticipation, a trial version of its internet service was live in Australia, starting with northern Victoria & southern New South Wales.
+On Wednesday, Ms Powell received the $700 rooftop satellite dish she had ordered from Starlink earlier in the year.
+In Facebook groups & chat forums, the Starlink news has been generally met with excitement & relief, although some are wary of the bold claims made on behalf of satellite internet & are urging caution.
+Starlink promises to give people living in the bush what they've wanted for a long time; internet that's just as fast as that in the city.
+But can it follow through on this promise?
+And will it break down the rural-city digital divide & offer faster speeds for all Australians?
+How fast is Starlink in Australia?
+Starlink’s public beta test, known as "Better Than Nothing Beta," launched in October 2020 in the northern US & southern Canada, where users reported average download speeds of about 100 megabits per second (Mbps).
+That's roughly equivalent to the speed of a very good NBN plan, or about twice a typical 4G mobile internet service.
+And for people in rural areas without 4G reception or broadband cables, it's faster than anything else on offer.
+Sky Muster, the most popular satellite internet service in Australia, has a top download speed of 50Mbps, with users of its premium 'plus' service reporting average speeds of about 40Mbps.
+Aside from speed (also known as bandwidth), there's also the issue of latency, which is the lag between the moment a data packet is sent & the moment it's received & processed.
+If you've been on a video call where people talk over the top of each other because of the delay in hearing what the other person is saying, that's latency.
+Starlink says users can expect latency of 20 milliseconds (ms) to 40ms in most locations, & this will drop to less than 16ms to 19ms in mid to late 2021.
+That's (about 10ms), but significantly less than what Sky Muster users typically report (about 600ms).
+Fast speeds for first Australian users
+In February, Starlink announced that Australians could pre-order the satellite dishes for the beta service, which would be available later in the year.
+On Monday this week, James de Salis in Canberra received his Starlink set-up box in a courier package.
+Within minutes, he said he had set up the dish in his backyard, plugged it in and watched it automatically orient itself to find a satellite overhead.
+"I connected to its Wi-Fi network on the phone and had blazingly fast internet," he said.
+That morning, he clocked a download speed of 344Mbps.
+Over the following 24 hours, it stayed around 150Mbps to 250Mbps with about 20 minutes of outages, when the view of the satellites was obstructed or there were no satellites overhead at all.
+"Even at quarter of these speeds, Starlink will still be a gamechanger," Mr de Salis said.
+Speeds in Australia will probably drop as more users are added to the network, though the effect of this extra traffic will be partly counteracted by the company adding more satellites & ground stations.
+As in the US, Starlink has told customers in Australia they should expect downloads of 50Mbs to 150Mbs, though it's also hinted this speed will go up.
+In February, that the speed will double to 300Mbs "later in the year".
+Starlink is fast, but can it keep up the pace?
+Mr Musk talks a big game, but his global space internet business remains a "highly risky exercise," said Paul Budde, an independent telecommunications analyst.
+"The main caveat is can they deliver, & can they deliver in an affordable way?" he said.
+"It’s an enormous, ambitious project that they're launching."
+Satellite internet technology has been around for decades: a rooftop dish beams data via radio signals to a satellite, which bounces them down to a ground station. This sends the data wherever it needs to go & can relay a response via the same network.
+Starlink's approach is different from previous satellite internet in two ways: the satellites are closer to Earth, & there's more of them.
+A geostationary satellite like Sky Muster is about 36,000 kilometres above the surface of the Earth, whereas the low Earth orbit satellites used by Starlink are only about 550km up.
+The shortened distance can drastically improve the internet speeds while also reducing latency, but it introduces a problem: coverage. Because the satellites are so low, they only cover a small area of the Earth.
+The solution: a network of thousands of low Earth orbit satellites.
+Since 2019, Mr Musk's SpaceX has launched more than 1,200 Starlink satellites, which is a lot; but only a fraction of the it plans to send into orbit.
+"It will take years to get the whole system ready & the lifetime of their satellites is five years," Mr Budde said.
+"What a massive exercise that will be, the continuous shuttling of satellites up in the air."
+But if SpaceX can build its network on schedule & make its service more affordable (the cost of the dish is a barrier to many), it will transform the market for the provision of internet services in Australia, Mr Budde said.
+"If that is done, you'll have an enormously [more]competitive system to what we have in Australia," he said.
+"The system will be far superior & far more cost effective than what NBN has."
+Will Starlink work in Australian conditions?
+Kristy Sparrow, a co-founder of Better Internet for Rural, Regional & Remote Australia (BIRRR), urged caution & consideration, rather than rushing online to order a Starlink satellite dish.
+She said there were still unanswered questions around the service, including whether the company will eventually impose data limits, & whether the rooftop satellite dishes will be able to handle the Australian heat.
+When she & others met with Starlink representatives from the US earlier this year, they were unsure whether the dish would work in 40 degrees Celsius or 50C heat, she said.
+"They weren't sure about the wind rating, the temperature rating & they'd never heard of cockatoos," she said.
+Starlink also has no phone number to call for technical assistance, only an online portal — not much help if your internet isn't working.
+"Over the years we've found the number one thing people want is reliability, and to be able to pick up a phone & speak to the provider," Ms Sparrow said.
+"If they’re not offering phone support, I think they've missed the market a bit."
+What parts of Australia have access to Starlink?
+Starlink is currently only available to Australians in northern Victoria & southern NSW (below 32 degrees latitude), though it says the "service will expand across the country in coming months".
+Under the terms of the Australian Communications & Media Authority (ACMA) five-year licence granted to Starlink in January 2021, the company .
+This is all of Australia except Sydney, Brisbane, the Gold Coast, Melbourne, Adelaide & Perth.
+By a rough calculation, that still leaves 10 million people, including Canberra, Hobart and big regional centres such as Newcastle & Townsville.
+If Starlink gets a licence to provide its internet services to the big cities, it could pick up millions of customers in the suburbs, Mr Budde said.
+In February, Mr Musk hinted at something similar, tweeting that Starlink
+Leafy, spread-out suburbs like Hornsby or Dural in Sydney would be perfect candidates for Starlink, Mr Budde said.
+"If everything goes well, then for many people in urban areas, the satellites will be a far better option than the current NBN," Mr Budde said.
+"A quarter of NBN users report having a poor, or unreliable, or unsatisfactory connection.
+"A quarter of the population could easily be persuaded to go to a satellite internet provider."
+Could Starlink be an alternative to the NBN?
+Rob Zarka's house outside of Gembrook, about 70km from the centre of Melbourne, sits smack-bang in the middle of the line demarcating the area to which Starlink can legally provide its internet service.
+It's a tricky situation: he may be too close to Melbourne to get Starlink, but at the same time he's too far from Gembrook to connect to the NBN via a fixed line.
+He was once told it would cost over $10,000 to connect his house to the network.
+His family of four currently relies on both Sky Muster & ADSL, which costs a lot but still only allows one person in the house to stream video at a time.
+"I need internet all day, whether it's phone calls over the internet or video calls or using the online system," said Mr Czarka, who works as a project manager.
+"Particularly through lockdown we had a terrible experience."
+Mr Czarka has pre-ordered the Starlink satellite dish in the hope that he'll be allowed to use the service.
+In Canberra, Mr De Salis lives on a suburban street that does not yet have the NBN.
+His house is connected to the local exchange 3km away by copper wiring.
+That still delivers broadband of 20-30Mbps, but it's nothing compared to the speeds he's been clocking on Starlink.
+"Anyone in a suburb that can't get fibre to their house will be interested in this," he said.
+An NBN spokesperson said they expect the NBN's role to "only grow in importance" as Australians become increasingly reliant on access to the internet.
+"Emerging commercial satellite broadband networks may have the potential to provide some consumers with additional choices; however, NBN has an important obligation to help ensure all Australians have access to fast broadband, at affordable prices, & at least cost to taxpayers."
+Sky Muster, which has over 100,000 customers, relies on satellites that will have to be either replaced or refuelled in nine years' time.
+The spokesperson said NBN may consider "partnership opportunities with other network providers" in the future.
+Will Starlink block our view of the stars?
+If you were up very early on Tuesday morning & living on the east cost of Australia, you may have seen a procession of lights across the sky.
+These were recently launched Starlink satellites moving into their assigned orbits.
+Once in place, they won't be visible to the naked eye, but will still show up as streaks or trails of light in the long-exposure images taken by astronomers.
+The proliferation of low Earth orbit satellites has been of concern to the astronomical community for years, said Monash University astronomer Michael Brown.
+"There's been some improvements over the past two years or so, since the first Starlink satellites were launched," he said.
+"The issue is better than we might have feared, but it's still not good. We still have a lot of these trails."
+SpaceX has taken notice of these concerns and designed satellite casings that reflect less sunlight to make them less visible to astronomers, but the company hasn't slowed its launch schedule.
+Aside from this light pollution, there's also radio interference, Dr Brown said.
+Starlink's ACMA licence states that its ground station transmitters "must not be operated within 70km" of the Murchison Radioastronomy Observatory — the area that will be home to the planned Square Kilometre Array radio telescope.
+Starlink satellites beam internet data in the 11-12GHz range, which can also be used for radio astronomy.
+"It's good to see that condition in there, but Starlink will still have an impact," Dr Brown said.
+"If you have hundreds or thousands of satellites using that frequency range, it's going to be a lot less usable."
+Word count: 2011

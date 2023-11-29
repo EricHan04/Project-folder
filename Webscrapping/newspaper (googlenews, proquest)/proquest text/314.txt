@@ -1,0 +1,48 @@
+Electricity prices have been falling, in good news for households, but these cuts have also dragged down how much consumers with rooftop solar earn when they sell power to the grid.
+In addition, some solar owners have been alarmed about new rules which mean they will have to pay a fee to make the most of selling excess power after 2025.
+Also, all new solar systems will have to be set up so grid companies can turn them off remotely.
+Nonetheless, advocates remain convinced solar – and in many cases home batteries – will deliver a financial win for most households.
+AEMO, which runs the national electricity market, said the growing role of rooftop solar was a key factor as the system underwent a deep transformation.
+“The way we (the electricity sector) communicate, reward, engage and communicate with consumers needs to radically change because they are very much at the centre of the transformation,” AEMO spokesman Tony Chappell said.
+More than a third of SA households have solar. Nationally, that proportion is at 24 per cent, compared to 0.2 per cent in 2007.
+There is no sign of solar slowing, with AEMO expecting rooftop solar on homes and business to supply three-quarters of our energy needs at times by 2026.
+Solar households reap the biggest benefit by using that energy in their home, reducing what they need to buy from a retailer via the grid.
+This eases overall demand on the grid and, coupled with cheap generation by grid-scale wind and solar farms, has forced SA’s wholesale electricity prices down to less than half of 2019 levels, making SA the cheapest state in the market, after hydro-powered Tasmania.
+Lower wholesale prices flow through to retail prices, with SA’s official benchmark reported this week by the Essential Services Commission of SA, showing a 7 per cent, or $145, fall in competitive market offers, to $1941 a year for an average household.
+AGL, which has 38 per cent of the retail market, cut prices by 6 per cent to $1920 a year, according to ESCOSA. The second biggest retailer, Origin (27 per cent market share), kept its price at $1900 a year.
+Kogan Energy recorded the biggest cut – down 20 per cent to $1680, while ReAmped Energy had the cheapest rate at $1650, on ESCOSA’s measure of a household using 5000 kilowatt hours a year. Only one retailer, GloBird Energy, increased prices.
+However, retailers have also reduced solar feed-in tariffs.
+In 2018, feed-in tariffs ranged from 6.8c to 20c per kWh, with most retailers paying about 17c. As at June this year, prices ranged from 2c to 22c, but most were about 8c.
+AGL offers varied from 8c to 16c, Origin from 8c to 22c, Kogan was at 2.1c and ReAmped 3c to 19c.
+In choosing a retailer, solar households should consider both the grid price and the solar feed-in tariff. They should also think about their own usage profile and how they can control appliances such as energy-hungry air conditioners, washing machines, dishwashers and pool pumps, to maximise solar usage, rather than buying from the grid at peak times, when prices can be more than double.
+All new and replacement electricity meters are smart, allowing different rates to be paid or earned at various times of day.
+Two thirds of grid prices include costs of transmission and distribution, environmental levies and retailer margins, so are far higher than feed-in tariffs, which mirror wholesale prices.
+NED-4485-Electricity – where to get the best deal
+Fees for households to earn feed-in tariffs will begin from 2025, under a rule decided upon by the Australian Energy Market Commission last month.
+Distributors must still offer a fee-free basic offer, but this would likely involve a cut to the default 5kW export limit that now applies in SA.
+Local industry expert Finn Peacock, founder and chief executive at SolarQuotes, is keen to clear up what he sees as a “huge misunderstanding” around the solar feed-in charge.
+He says that most importantly, it’s optional. If you don’t pay the annual fee, you won’t be able to earn anything for the excess power you export to the grid, but you can still use solar power in your own home to offset your power bill.
+“If you choose to pay this fee for exporting solar sometimes, you’re essentially buying the right to earn a lot more for your exports when the grid really needs it,” Mr Peacock said.
+“Now, if you haven’t got a battery, that’s going to be more of a challenge but even if you’ve just got solar on its own, there’s going to be times when the grid is really hungry for more solar and you can actually get paid a premium, and that can actually be really lucrative.
+“It can go up to $15 a kilowatt hour wholesale electricity price when the grid is really desperate for energy, during a heatwave for example, or if there’s been a big power plant shut down or during a really cold snap.”
+It has been estimated that a typical 6.6 kilowatt system owner who doesn’t change their behaviour will be about $100 a year worse off, Mr Peacock said.
+“Bear in mind that 6.6 kilowatt system in Adelaide, on current leading tariffs, is saving typically $1500 a year, so $100 from $1500 isn’t a huge drop.”
+“I suspect that savvy solar owners, even without a battery, who can manage their demand … control what they use and when will … be better off by paying the small export fee, then milking the right to the larger export fees,” he said.
+Mr Peacock said it was “indisputable” feed-in tariffs would continue to reduce.
+But “on the plus side”, electric cars were becoming increasingly common and batteries were coming down in cost.
+“And when everyone’s got an electric car, which in my opinion will certainly be in the next 10 years, this problem will kind of go away,” Mr Peacock said.
+David Sharpe, owner of the Sharpe Group at Thebarton, said installing solar now without a battery would be unwise, because the feed-in tariff would be gone within a couple of years.
+“If you put solar and a battery in now, you’re in jackpot territory,” he said.
+“Batteries are the way forward, solar will be the new backup. The days of offsetting your power based on feed-in tariffs multiplied by the solar you produce are over.
+“Solar is not a good investment without a way to harness, store and trade.”
+He disagrees with Mr Peacock about the prospect of using the car battery as the household battery within the next 10 years.
+“National wiring rules and battery regulations” would not allow a car battery to feed into the grid, Mr Sharpe said, because it would be too dangerous.
+“The car battery can be charged using excess solar power, sure, but only if you’re home during peak production periods, when most people are out.”
+AA -Switch to solar
+The state government supports consumers being able to use an electric vehicle as a home battery and is funding a project to work through the technical and regulatory issues.
+The market is expected to offer increasing variety in products for consumers.
+Distributor SA Power Networks is trialling dynamic limits in select suburbs, where most of the time the limit is increased to 10kW – allowing the householder to earn more – but can be cut when there is too much power in the grid.
+Retailers already reward homes involved in virtual power plants, where home batteries are aggregated.
+The market for demand management is developing, where households are paid to have their airconditioners or other appliances temporarily turned off or on remotely to decrease or increase demand in the grid.
+Adelaide-based IO Energy offers extremely cheap grid-supplied power during the day but expensive power in the evening peak. It recommends households buy a battery without buying solar panels, charge it up cheaply and then use the battery for peak times.
+Word count: 1281

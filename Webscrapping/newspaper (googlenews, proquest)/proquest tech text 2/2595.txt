@@ -1,0 +1,27 @@
+Today is the final day to opt out of the controversial My Health Record. So should you? TORY SHEPHERD looks at both sides IN IN the pro-MyHealth camp is a range of doctors and scientists, including most of the peak health bodies.
+They say having a national, digital record of individual health “journeys” will stop medication errors (and doctor shopping), give health specialists a heads-up on a patient when they see them for the first time, and help patients track their own treatment.
+They argue the patient will control what goes on file, and stays on file. Parents will have control over young children’s files. There will also be a stream of data that will help researchers get better outcomes.
+The Federal Government recently added extra safeguards, including stopping insurers from accessing data, further restricting access by law enforcement and government agencies, and doling out bigger penalties for improper use. A person can now permanently delete their record.
+Individual doctors have concerns they might be liable for other doctors’ mistakes, but the main industry authorities are all gung-ho.
+The Australian Medical Association argues MyHealth has improved. President Tony Bartone says it is now a “far better product” than it was.
+“Australians can be assured that it’s as good as possible,” he says. “It is going to aid in the clinical outcomes of a vast number of Australians, and prevent unnecessary medication errors, unnecessary hospital readmissions.
+“It’s going to help with mapping out the journey that is very complex through the whole health system, and hopefully become that backbone that improves the communications and connectivity that is sadly lacking in our health system at the moment.” Pharmacists say often patients don’t know the medicines they’re on – or they might be unconscious – and this can lead to errors.
+The Society of Hospital Pharmacists of Australia says it’s critical to make sure patients get the right drugs, particularly in emergencies.
+“All Australians, regardless of any illness or condition, deserve to get the highest-quality care,” chief executive Kristin Michaels says.
+Professor Hugh Bradlow, president of the Australian Academy of Technology and Engineering, says plenty of people already have access to paper records, so MyHealth is actually a “step up” in privacy.
+The Federal Government says the data will be secure and will only be accessed by healthcare workers who legitimately need it.
+People can also elect to be notified when an organisation accesses their record and see a log of every access.
+OUT IN the anti-MyHealth camp are many digital privacy experts who say the system is flawed and that any system that collects that much data on people is a tantalising prospect for hackers. Some groups are worried it could be misused to stalk someone.
+Unless people take action, from today records containing vital health information including any records of sexually transmitted diseases or mental health issues will be kept.
+Computing expert Katina Michael, from the University of Wollongong, pointed to a large-scale attack on Singapore’s health records, where 1.5 million records were breached.
+“If we have learnt anything over the last four months, it is that electronic health records are hackable,” she said.
+“Plainly … no one’s personal information is safe, no matter the measures in place.” As well as the possibility of someone illicitly accessing your records, some experts worry about secondary uses of data. Information that has theoretically been “de-identified” – had the personal details removed – will be given to researchers.
+Cybersecurity senior lecturer Associate Professor Vanessa Teague, from the University of Melbourne, said “de-identifying” the data had been shown not to work because other information such as surgery dates could be used to “re-identify” the person.
+“It is probably not possible to securely de-identify detailed individual records like MyHealth records without altering the data so much that its scientific value is substantially reduced,” she said.
+The Federal Opposition is not entirely against MyHealth – it established the electronic health record system that preceded it. But they’re taking the opportunity to have a crack at the Government. Yesterday Opposition health spokeswoman Catherine King said the already extended deadline should be extended further.
+Labor also wants an independent Privacy Commissioner review and have pledged to start one if they win this year’s election.
+Meanwhile, The Advertiser has revealed today that ambulance paramedics can’t access the record – and they’re the people most likely to need to know if you have a pre-existing issue or deadly allergy.
+The Australian Digital Health Agency, which runs MyHealth, says that access has not been activated yet. On top of that, there are complaints that bad IT setups in public hospitals mean doctors in emergency departments can’t access the records anyway.
+In the end – as Health Minister Greg Hunt said yesterday – “it’s every Australian’s choice”.WATCH THE VIDEO MY HEALTH RECORD EXPLAINED advertiser.com.au
+CREDIT: TORY SHEPHERD
+Word count: 805

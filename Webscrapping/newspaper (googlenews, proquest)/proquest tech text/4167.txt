@@ -1,0 +1,9 @@
+The World Wide Web Consortium After essentially inventing the concept of a “world wide web” in 1989, British scientist Tim Berners-Lee moved to MIT in 1994 and created the consortium that established the technical standards around browsers and websites that formed the building blocks of the modern internet.
+Email Even before the internet, tech geeks were experimenting with networks – and in 1971, MIT graduate Ray Tomlinson sent the first email between two computers, selecting the @ symbol to delineate the user and the network.
+Transistor radio William Shockley, one of the three inventors of the solid-state transistor, graduated from MIT in 1936. His invention directly led to radios, television and hearing aids.
+Wind tunnels Invented at MIT in 1896, wind tunnels are now widely used for everything from airplane testing to urban design, sports and space travel.
+The first-ever video game In 1962, Steve Russell created Spacewar! for MIT’s new DEC PDP-1 computer. The game involved two spaceships attempting to shoot each other, and directly inspired the world’s first commercial arcade games.
+Robots MIT has long been at the cutting-edge of robotics – its graduates have created everything from the Roomba vacuum cleaner to robots that perform extraordinarily precise tasks in surgery, manufacturing and the military.
+Technicolor Two MIT graduates invented Technicolor – the company that brought movies from the black and white era into full, vibrant colour. It took them 20 years to get the first colour film into cinemas but their work changed entertainment forever.
+Akamai You may not have heard of Akamai – unless you work in computer systems engineering. The company specialises in systems that move large amounts of data around the internet, and its technology now underpins up to 30% of all the world’s web traffic.Source: Boston.com, Wikipedia, MIT.edu
+Word count: 296

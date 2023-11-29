@@ -1,0 +1,31 @@
+That’s the view of South Australian farmer Andrew Sargent, who has completed a Nuffield scholarship looking at open-source software options available in the agricultural data sector and projects that could be applied in an Australian context to establish an open-data sharing and storage platform.
+“Most software and data platforms developed for agriculture are copyrighted, with very few projects offering a freely available open-source code to users,” said Andrews, whose study took in travels to the US, Canada, Netherlands, Germany and Austria as well as across Australia.
+“Though many other industries have embraced and adopted open-source culture, it is still not commonplace in agricultural technologies. As a result, the agricultural industry is restricted to costly, incompatible proprietary systems,” he said.
+Andrew said it was vital for the agricultural sector to change how agtech innovations were managed to enable open source systems to be more easily adopted.
+“We need to implement systems that put farmers in the driver’s seat, to develop and readily adopt technological solutions that would enhance efficiency and profitability,” he said.
+“If Australian agriculture is going to realise the gains promised by agtech and big data, it’s imperative we move beyond the proprietary stalemate we’re in now by championing a new era of agtech by bringing open-source solutions to farmers.”
+
+EARLY BIRDS
+ANDREW hails from a fifth-generation, broadacre cropping farm near Crystal Brook in South Australia. The farm is 100 per cent devoted to cropping with a rotation including wheat, barley, lentils, canola and oaten hay.
+In the late 1990s the Sargent business was an early adopter of many precision agriculture technologies such as yield mapping, 2cm autosteer and variable-rate technology.
+Andrew said something that had always been common to agricultural technology was “its closed nature and the reluctance of manufacturers to collaborate for fear of losing their intellectual property or market share”.
+He said this caused much frustration on their farm and was a catalyst for the creation of the Southern Precision Agriculture Association, aimed at improving the compatibility of precision agriculture equipment between brands and machines.
+“I have spent many hours troubleshooting various pieces of (precision-agriculture) equipment on our farm and have found the support for these systems is largely limited to the manufacturer, and even then only a few people have an in-depth knowledge of the systems,” Andrew said, adding that he had learned to code at a very basic level and built some basic electronic devices.
+This included setting up his own public Long Range Wide Area Network connected to The Things Network and building a sensor to measure temperature inversion conditions. He said all this was achieved by using information found on various web pages and forums.
+“This led me to pose the question: if all of this was available for users of regular technology, why was it not available for users of agtech?” Andrew said.
+“The answer is that most of these regular technology items were built on open-source platforms such as Arduino or Raspberry Pi. As such, all the information about these products was freely available so that anyone could become an expert and then share that knowledge.”
+
+RUSH FOR RICHES
+ANDREW said when he originally applied for a Nuffield scholarship he wanted to investigate the potential uses for the Internet of Things, but soon found limited applications for non-irrigated broadacre agriculture.
+He said most uses involved improving “the way we already sense our environment, not creating novel applications” adding that the proverb “if you want to go fast, go alone. If you want to go far, go together” summed up the agtech climate well.
+Andrew said there were many companies “rushing to be the first and the greatest; rushing to generate returns for their venture capital backers, and keeping their cards close to their chest in a market where many will fall by the wayside”.
+“While I was looking at IOT I found some other projects hidden behind the money-­intensive, marketing driven and VC-funded agtech start-ups,” he said. “These hidden projects were the open-source projects that had been started to solve a problem for one farmer or a group of farmers, and were quietly serving a purpose, not looking for a purpose.
+“These were groups of like-minded farmers and developers working together to solve issues that impacted them collectively.”
+These projects looked like the answer to much of the frustration I had previously experienced when dealing with our current PA equipment. I instead chose to focus on the projects that were championing a new era in agtech by bringing open-source solutions to farmers.”
+In his report recommendations, Andrew said manufacturers and software developers should adopt open-source ­ideals in their products and provide growers access to their agronomic data from a machine level, without subscriptions.
+He said farmers needed to insist they have free access to their data at the source, in a format that is open and easily transferable and should consider incorporating open- source projects on farm and contribute to those projects in some way through time, money or support.
+MORE
+THE FARMERS LEADING THE AUSSIE AGTECH MOVEMENT
+AGTECH CAN HELP FAST-TRACK AG EXPERTISE
+HOW AGTECH CAN LEAD AUSTRALIA TO A FERTILE FUTURE
+Word count: 829

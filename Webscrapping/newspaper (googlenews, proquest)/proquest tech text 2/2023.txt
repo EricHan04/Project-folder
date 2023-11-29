@@ -1,0 +1,21 @@
+HAVE you ever wondered how you’ll look in 50 years’ time?
+Will you age like a fine wine or a grape in the sun?
+The #FaceAppChallenge, using smartphone application FaceApp, has taken off among celebrities, sports stars and, well, pretty much everyone.
+Using artificial intelligence to make users look younger or older, the app has blown up social media, with most people choosing to age themselves – or others – with hilarious results.
+It’s all bit of fun, but there are serious concerns over privacy issues as FaceApp is owned by Russian company Wireless Lab.
+The Democratic National Committee has warned 2020 presidential candidates not to use the app, according to CNN.
+People have raised fears that on iPhones, FaceApp would be able to see and upload all photos, including screenshots with sensitive financial or health information or photos of children with the names of their schools in the background.
+That’s not actually true, but the scuttle serves as a good reminder to think twice before downloading new apps.
+Even large, mainstream apps routinely collect user data. But many trendy apps are guilty of mining user data as a primary purpose.
+As for FaceApp, it grabs a photo only if a user specifically selects it to see their face change, security researcher and Guardian Firewall chief executive Will Strafach says.
+The confusion comes from an iPhone feature that shows an entire photo library within the app. It is an Apple feature that lets users select a photo, but doesn’t give the app full access to the library, even though it may appear that way.
+“I’m always looking for privacy concerns,” says Mr Strafach, who used a network analyser tool to track what was happening. “When it’s not happening, it’s not happening.” There’s a version of FaceApp for Android, but those phones don’t tap photo libraries the same way.
+That’s not to say the app is not free of problems, Mr Strafach says. Photos are sent to the cloud for processing in both the iPhone and Android versions, exposing them to hacking and other problems.
+FaceApp does not explicitly tell users that the photos are being sent to the cloud.
+Its privacy policy also says it is using data from the app to serve targeted ads and to develop new products and features. It says it does not sell data to third party apps, but lists many exceptions including one that allows it to share data after removing information that identifies users.
+Wireless Lab told technology news site TechCrunch that it may store users’ photos in the cloud, but “most” are deleted after 48 hours.
+It said users could request to have their data deleted.
+Still, Mr Strafach urges people to resist the pull of the app. He says the app should have been upfront and told users it was processing photos in the cloud rather than on phones.
+“Bottom line is they were handling sensitive data and they handled it cavalierly and that’s just not cool,” he said.FaceApp – which also lets users apply beards, swap genders or wind back time – is No. 1 on the iTunes App Store charts.
+CREDIT: JESSICA AMBLER; JAMES MOTTERSHEAD
+Word count: 527

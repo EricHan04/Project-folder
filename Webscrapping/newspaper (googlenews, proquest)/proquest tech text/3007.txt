@@ -1,0 +1,19 @@
+The University of South Australia has found giving jurors a first-person perspective of crime scenes through VR headsets increases their recall of key case elements.
+Participants in the study were asked to reach a verdict in a simulated fatal road crash, with some using VR to view the scene and others relying on photographs.
+The “crime” scene was created by researchers, legal professionals, police and forensic scientists using a laser scanner.
+The study found VR jurors were 86.7 per cent more likely to choose the same verdict – guilty of causing death by dangerous driving – as their peers.
+Groups who used photos found themselves split almost 50-50 between verdicts of driving without due care and causing death by dangerous driving.
+The study, which was first announced by The Advertiser in March 2019, has won international acclaim.
+It and was rated in the top 5 per cent of presentations at this year’s Conference on Human Factors in Computer Systems.
+The conference, held in Japan in May, is considered the world’s most prestigious event in the field of human-computer interaction.
+University of Adelaide academics and forensic scientists from the Institute of Environmental Science in Auckland also took part in the study.
+Dr Andrew Cunningham, from UniSA’s Australian Research Centre for Interactive and Virtual Environments, said VR gave jurors a better way of reaching their verdicts.
+“Participants who were immersed in the scene were more likely to correctly remember the location of the car in relation to the victim at the time of the accident, whereas it was difficult for people to visualise the scene from still images.
+“This provides unequivocal evidence that interactive technology leads to fairer and more consistent verdicts, and indeed could be the future of courtrooms.”
+While it has yet to make its way into SA’s courts, virtual reality has been used in cases internationally.
+In 2019, the Bavarian State criminal office created an interactive scene of the infamous Auschwitz concentration camp to aid the prosecution of alleged war criminals.
+Lead researcher Dr Carolin Reichherzer said taking the jury to a crime scene – known as a “jury view” – remained the best way of handling such evidence.
+However, she said there were drawbacks to such an approach.
+“They are expensive – especially in remote locations – and in some cases the site itself has changed, making accurate viewings impossible,” she said.
+She said VR overcame those obstacles by reconstructing scenes as they were at the time of an alleged crime and allowing jurors to “walk through” them in person.
+Word count: 405

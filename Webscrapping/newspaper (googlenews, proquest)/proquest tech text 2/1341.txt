@@ -1,0 +1,13 @@
+A STUDY is testing whether artificial intelligence can better detect early breast cancers that cannot be seen with the naked eye.
+St Vincent’s Hospital BreastScreen service in Melbourne will next month pit five promising AI algorithms against human interpretation.
+In the laboratory, the computer algorithms can find the first signs of cancers as well or better than radiographers can.
+The hope of the $2.2m project, run from the Aikenhead Centre for Medical Discovery, is to improve accuracy of the national screening program.
+Project lead and clinical director of St Vincent’s breast screen service, Adjunct Associate Professor Helen Frazer, said while early detection saved lives, there were limitations of the current program that AI could potentially overcome.
+Each year 33,000 Australian women are recalled after their mammogram over false-positive cancers.
+And 1000 women annually get the all-clear from their breast X-ray, but develop cancer before their next check.
+Each BreastScreen mammogram is read by two radiologists – who are each interpreting one scan a minute – with any discrepancy overseen by a third expert.
+“Mammogram interpretation is challenging,” Professor Frazer said. “It’s quite a logistical exercise and it’s subject to quite wide human variability.
+“The abnormalities we’re looking for in these preclinical diseases, before a breast cancer forms a large mass, are really subtle.
+“AI has great promise because at a pixel level, an algorithm with a high level of accuracy can potentially determine an abnormality before the human eye can.” She said if successful, AI would also bring the two-week turnaround for results into an on-the-spot check, and move the current one-size-fits-all biennial X-ray towards personalised testing based on a woman’s own unique risk factors. The prospective study will test the algorithms for the first time in a real-world, high volume, low cancer prevalent setting, on the scans of 50,000 Melbourne women.
+CREDIT: BRIGID O’CONNELL
+Word count: 306

@@ -1,0 +1,47 @@
+With Christmas looming, many Australians are keen to see international borders reopen. But how do we know the right time to do so?
+Politicians have leaned on Doherty modelling to build a national plan for reopening international borders, but while mathematical models are powerful tools for predicting potential surges, their predictions are still hypothetical. They can give answers about what to prepare for when borders open, but they cannot predict the best time to open.
+Modelling in a pandemic
+Mathematical models can be used to analyse historical trends and simulate future outcomes based on different scenarios. Different assumptions – such as the population, the transmissibility of a disease, and lack or abundance of health regulations – can be fed into the model to simulate what may happen.
+These models have been heavily relied upon to make pandemic-response policies to mitigate the spread of the disease.
+Somewhere along the way, however, we may have forgotten their limitations. Models rely on assumptions, which may not always reflect a changing situation. Without other epidemiological data, they can end up informing the wrong management strategies.
+“We first used modelling back in the influenza pandemic,” says Mary-Louise McLaws of the University of New South Wales (UNSW) and World Health Organization (WHO) Health Emergencies Program Experts Advisory Panel for Infection Prevention and Control Preparedness, Readiness and Response to COVID-19. The influenza pandemic began in 1918 and killed at least 50,000 people.
+“But that was to know how many masks would be needed, not to make policies,” McLaws continues.
+“This is the first time modelling has been used this way in a pandemic. It shows the worst-case scenario so we can prepare to have enough resources, but it won’t show what is going to happen.”
+Essentially, the models help plan for the worst, but the subtleties of everyday life and culture mean that things may pan out differently.
+“We thought the situation in NSW would be much worse, and it is great that it wasn’t, but it shows that models can’t be used to predict how people will behave,” says Ivo Mueller of the Walter and Eliza Hall Institute of Medical Research.
+In other words, the models don’t predict what will happen, but predict the worst that can happen. That notion has been somewhat lost as people become used to policies and managements dictated by models.
+“We look at 70% or 80% as a target, but for what?” asks McLaws. “Modelling can’t properly show what will happen [at that target].
+“We might hear that the modelling shows that we can’t reach herd immunity. But that was obvious a long time ago. Just look at the epidemiological data.”
+What is the deal with borders?
+The decision to reopen international borders is incredibly complex, and models can help acknowledge the risk in allowing international travel, but they can’t dictate the perfect time. Instead, epidemiological information from other countries is much more important in determining what is likely to happen in a population.
+“The problem is that models leave out important cultural data,” says McLaws. “For example, Chinese Lunar New Year (25 January 2020) is an important time where people travel to see family all over the world. I think this is one of our great failures about choosing which countries to close to.
+“I learned a long time ago that you can’t use models to predict human behaviour, so I don’t use models to advise the WHO. I use epidemiology.”
+Similarly, Christmas is often seen as a reopening goal so that people can travel to see family. That means it is also a time that significant spread is likely, but the emotional burden of a lost cultural holiday can’t be measured in models, and neither can personal choices about risk.
+Surges following reopening
+All models predict a surge following border reopening because that is the very nature of models – to identify the worst-case scenario.
+A recent paper, published in The Medical Journal of Australia, found that disruptive outbreaks may still occur after international borders open, regardless of high vaccination rate.
+Researchers, led by Mark Hanly from UNSW, examined scenarios with different virus transmissibility (R0 number), vaccine rollout speed, and the number of international visitors per day, and found that increased public-health measures may be necessary to curb cases.
+Get an update of science stories delivered straight to your inbox.
+The modelling showed that COVID cases would increase after international border reopening if the circulating virus had similar transmissibility as the Alpha variant. However, the numbers of people who were hospitalised would remain low if mask wearing, social distancing and other measures were maintained.
+On the other hand, the spike would be much greater when a virus with high transmissibility remained circulating. This could lead to many more hospitalisations because the healthcare system would need to accommodate for both the local community outbreak and any extra important virus variants that cause outbreaks.
+Published models must also go through a rigorous process of peer review, which takes months. That means the model we see today is more reflective of the situation in mid-August, when it was received.
+“The paper treats Australia like it is a big Western Australia. It isn’t,” says Mueller.
+“It uses very simple assumptions. They don’t reflect the complexity of different states and regulations. This is partially because it was written back in August, and only just published after peer review now, but things change so fast that Australia just isn’t in the same situation.
+“Instead, the situation evolves so quickly that models that inform policy can’t afford the delay. Different states have different models, and these can change daily. This [paper] was based on a less infectious variant back before we were dealing with Delta, and Delta is different.”
+So should we just not open international borders?
+Well, that’s the tricky part. If Australia bases its reopening on models alone, we are basing the decision on the wrong – or at least missing – information.
+Vaccination has always been the most important aspect of managing a pandemic, but models can’t predict how quickly people will choose to be vaccinated.
+“We can see a direct correlation between lower hospitalisation in Victoria and vaccination rates,” says Mueller. “That is a very good thing!”
+While the uptake has been influenced by fear about COVID in New South Wales and Victoria, vaccines are also generally culturally accepted in Australia.
+“Australia is very good at taking up vaccines,” says McLaws. “We can just look at the childhood vaccines for under five year olds. That is around 95%. But we have to make sure the right groups are vaccinated.”
+So, Australians are willing to be vaccinated compared to other countries, but age restrictions mean that vaccines haven’t necessarily been rolled out in the right order.
+“We can look to other countries to gather epidemiological data, and this is the most important information when choosing what to do [about borders and vaccines],” says McLaws.
+“We can see that, with Delta, it spreads most through young people in their 20s – we just have to look at the UK to see that.
+“We based the rollout on compassion. First, we vaccinated our vulnerable, and they are now well-protected. But the next group needed to be the group that spreads it, and that’s the 18- to 25-year age group.
+“Except they weren’t able to do that until recently.”
+This means a target of 80% vaccine coverage can be biased towards people who are older than the group most likely to spread the virus, which will, in turn, change the outcome when borders reopen.
+“The really big problem is if a new strain that resists the vaccine comes into Australia,” says Mueller. “That’s when we won’t be able to handle it.”
+This isn’t the fault of models, but it does mean that relying on models alone is pointless.
+So, as we move towards reopening international borders, mathematical models will only help us prepare for what comes after.
+“If there is one thing I want to say, it is that we already know what will happen because we can see it happening in other countries,” says McLaws. “There will be a surge, and we don’t need a model to tell us that. But we do know that vaccination helps.”
+Everything else is up to policymakers.

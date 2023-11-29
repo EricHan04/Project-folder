@@ -1,0 +1,27 @@
+TWELVE Clare Valley-based wineries will this summer participate in the world's largest blockchain wine trial.
+Local winemaker Jeff Grosset and grapegrower David Travers will test their prototype, which combines QR code and blockchain technology to prove a wine's authenticity, integrity and provenance.
+In March, the pair was awarded $50,000 through the Premier's Blockchain Innovation Challenge to further the invention they hope will enhance Australia's reputation as leaders in wine authentication.
+Mr Grosset said the main form of counterfeit in the local wine industry came from misrepresenting the wine producer, variety or region of origin on the bottle label.
+He said through eliminating chinks in the initial production chain, from picking grapes to winery delivery, 70 per cent of false labeling cases would be solved.
+"Our platform is already able to ensure the provenance of the grapes, the authenticity of the winemaking and the integrity of the final bottle," he said.
+"We provide consumers assurance over the end to end provenance of the wine chain delivered directly via their mobile phone.
+"The combination of blockchain event management, automation and physical authentication methods is already turning heads."
+Mr Grosset said a QR code on winegrape bins would record the vineyard, the variety, the time picked and its weight, fulfilling the demands of Wine Australia's label integrity program.
+"If most producers adopted this technology, which captures all the details along the winemaking process, it would make wine fraud virtually impossible," he said.
+"During the trial, we want the 12 wineries to use it and to openly give feedback about the system."
+Mr Grosset said the Australian wine community had been a world leader in innovation, from using satellites and remote sensing to identifying individual vineyard blocks, grape varieties and disease, to the adoption of a reliable wine bottle closure.
+"It makes perfect sense that we should lead in the assurance of wine authenticity using blockchain," he said.
+"Our aim is to conduct this Clare Valley trial and then to commercialise with partners in China and other major markets."
+Mr Travers said beyond the trial, he saw the platform eventually supporting a complete range of services to the wine industry; an end to end management of the entire production process.
+"We have designed a trial with all sectors joining: growers, wineries, distributors, regulators, service providers, wholesalers and the research community," he said.
+"This will help us to understand what we should build in there."
+Mr Grosset and Mr Travers, who are both members of the Clare Valley Wine & Grape Association, hope to release a commercial product by June next year.
+Mr Grosset said wine authentication was particularly important for Australian export markets such as China.
+In 2017, a Forbes article noted that in China up to half of all wine priced over US$35 a bottle was counterfeit.
+More recently, the Drinks Business reports that in a crackdown in central Henan province near Beijing in November 2018 police in China seized more than 50,000 bottles of fake wine bottled as Australia's Penfolds and China's Changyu.
+The total value of wine involved in this case is reported to exceed RMB 100 million (US$14.4m).
+To develop the technology, Mr Travers and Mr Grosset partnered with an Estonian-based company, Guardtime.
+Guardtime chief executive officer Mike Gault said it was a "fantastic" use for his company's supply chain services platform.
+"We see the wine industry facing the same challenges that most global supply chains face today," he said.
+CREDIT: Fiona Gowers
+Word count: 573

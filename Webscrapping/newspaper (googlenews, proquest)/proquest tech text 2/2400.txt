@@ -1,0 +1,18 @@
+TEN local start-ups will spend the weekend putting the finishing touches to their pitch for $100,000 prizemoney as part of the State Government’s Blockchain Innovation Challenge.
+Having completed a two-week incubation program supported by UniSA’s Innovation Collaboration Centre, the finalists will pitch their ideas on Monday at the inaugural ADC Global Blockchain Summit in Adelaide.
+A panel of international judges will decide the winners, who will be announced at a dinner at Adelaide Oval on Monday night. They will share in a $100,000 prize pool, to go towards further development of their blockchain ideas.
+McLaren Vale grape grower Oli Madgett is one of the 10 finalists, having developed a platform to help farmers map and assess the variability of soil, identifying areas that need specific types of treatment.
+The Platfarm app was developed for grape growers but has since been extended to meat and livestock farming.
+“It’s really useful for livestock farmers who can input maps showing variability of soil,” he said. “The app then drops pins where soil sampling can independently happen.
+“In terms of carbon levels, if we follow the Clean Energy Regulators methodology, that means farmers can have the option to apply for carbon credits for improvements they make in terms of the carbon levels of their soil.” Mr Madgett is seeking to raise $1.5 million to further develop the platform and to scale up nationally. While Platfarm is not a blockchain product, Mr Madgett believes the data it collects could be pushed to other blockchain applications.
+“We’re looking at how we can use blockchain to prevent gaming of the soil carbon system through increased transparency,” he said.
+“When farmers apply for carbon credits, that’s quite a complicated process, so blockchain can also be used to make that process simpler and to lower the audit costs.” Fellow finalist Tom Reed hopes his blockchain-backed valuation platform, ValAi, will win over the judges.
+“I’ve been a valuer in the property industry for 20 years and saw the rise of automation in the industry,” he said.
+“ValAi has a valuation endorsement mechanism, where we send a valuation to the platform, which is then validated by the industry as a whole – so there’s a distribution of risk and more accurate valuations, much faster than traditional methods.” Mr Reed is hoping to secure funding from an angel investor ahead of a “bold but achievable” six-month roadmap.
+“That would allow us to leverage government funding to collaborate further with the Australian Institute for Machine Learning and build the platform out, securing clients at a national level,” he said.
+After establishing blockchain consultancy Cryptocate in 2017, Callan Sarre is hoping his planned education platform, Flying Fox, will help skill the next generation of blockchain developers.
+“One of the biggest issues we’re finding is a lack of talent and that’s where Flying Fox comes in,” he said.
+“We’re interested in high level conceptual problem solving that blockchain enables, and further down the track, it’s all about development – skilling people up in practical development.
+“We have a five-to-10-year vision and with all the forecasts for growth of the blockchain industry, we want to get kids excited about it early.”Mr Sarre is also a co-founder of SABA (South Australian Blockchain Association), which will launch at the ADC Global Blockchain Summit.
+CREDIT: GIUSEPPE TAURIELLO
+Word count: 549

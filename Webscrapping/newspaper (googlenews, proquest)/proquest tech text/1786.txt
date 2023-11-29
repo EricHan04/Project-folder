@@ -1,0 +1,18 @@
+A PARTNERSHIP between CSIRO and an agtech company could help maximise the use of irrigation water to reduce waste and lift production.
+Alongside Goanna Ag, CSIRO have been working on WaterWIde, which measures crop water stress and predicts future water needs in real time to help growers save water or produce more crop per drop.
+Goanna Ag, which produces agricultural sensing systems for water-use efficiency, will be delivering WaterWise's smart analytics as a data stream to their on-farm customers.
+Chief executive officer Alicia Garden said for Goanna Ag and its customers, being involved in this innovation means they can access brand-new, Australian-made, science-based technology and incorporate it into their existing GoField system.
+"Being able to predict when to irrigate will allow our clients - farmers - to plan based on what the plant needs," she said.
+The WaterWise system 'lets the plants do the talking' with in-field sensors that measure the canopy temperature of crops every 15 minutes.
+It then sends the data to CSIRO's sensor data infrastructure, adds in the weather forecast and uses machine learning to apply CSIRO's unique algorithm to predict the crop's water requirements for the next seven days.
+RELATED READING: Breakthrough for irrigation efficiency
+Irrigated savings pivot on precision
+WaterWise team leader Rose Brodrick said predicting the future was the real breakthrough science.
+It means for the first time, growers can see the water stress of their crops at any point and predict their future water needs.
+"Just like humans, plants have an optimum temperature," she said.
+"When things are normal it's easier to predict when a plant will need water. But when conditions change - like with a new crop, a new field, or unusually hot or cold weather forecasted - farmers want backup with their decision making.
+"The usual strategy is 'if you're unsure, just add water'. This is where using high tech can help give them data and more confidence in their decision making, because every drop counts."
+The next steps for WaterWise is to take it from in-field based canopy sensors to drones or satellites.
+Goanna Ag expects the system incorporating WaterWise will be commercially available in time for the 2020 summer cropping season.
+Start the day with all the big news in agriculture. Click here to sign up to receive our daily Stock Journal newsletter.
+Word count: 385

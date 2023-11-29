@@ -1,0 +1,28 @@
+Machines won’t replace specialists but they will help deliver more accurate treatments
+Malignant. Benign. If a picture tells a thousand words, these are the two jostling foremost in a ­patient’s mind when a radiologist scans their body for a better image of that suspicious lump or mass.
+But there is so much more a picture can tell us about cancer, particularly if we consider the possibilities of artificial intelligence.
+In 2017, US scientists ­announced they had developed an algorithm, or a computerised tool, to identify skin cancers through analysis of photographs.
+The algorithm scans a photo of a patch of skin to look for common forms of skin cancer, performing on par with board-certified dermatologists in identifying malignant melanomas (the third most common cancer in Australia) and keratinocyte carcinoma. This technology might enable skin cancer detection in country clinics and suburban GPs’ offices at the highest accuracy available.
+The critical factor, which gave the algorithm the accuracy and ­reliability required for a medical diagnostic tool, was the large volume of training data its creators used — more than 129,000 skin images, each labelled to indicate whether it contained a cancerous region.
+If Labor fulfils its commitment to provide up to six million free cancer scans, it will create an enormous dataset that can similarly be used to cheaply and accurately identify cancer.
+For a machine-learning algorithm to identify cancer and pinpoint it to the tiniest grouping of cells, millions of cancer scans represent a goldmine of learning ­material, a textbook to inform the development of new AI-driven ­diagnostic tools.
+Not limited to cancer, the data from those scans, with anonymity assured for patients, would have an array of other ­implications for health research in areas including diabetes and obesity, a fantastic boon for Australian scientists.
+There is an immediate public health benefit in giving patients the best access to cancer scans, but allowing researchers to use the scans to inform their work would be an investment in our children’s health.
+More than just a diagnostic tool, AI is playing an important role in the quest for better cancer treatments.
+Cancer evolves as it is treated, but machine learning can help doctors predict how this evolution will unfold in each patient, and indicate the best means of stopping it.
+The international race in AI ­research and development should not spark fears that machines are going to take our jobs, but discussions of how machine learning could transform our lives by assisting us.
+Machines won’t replace radiologists, but could help them deliver more accurate findings and work more effectively, making them better equipped to deal with the scale and complexity of material they have to examine.
+Doctors will have more time to spend with patients and by improving accuracy, AI can slash the rate of false positives — reducing the number of people who receive a devastating diagnosis of cancer, only to be later reassured.
+The cost-effectiveness of AI ­diagnostic tools means scans are also likely to become cheaper, and that they can be performed more often and detect cancer ­earlier.
+The federal government committed $29.9 million in the previous budget to grow the AI sector and Labor has also promised $3m for a national centre for AI.
+The centre would host discussions among stakeholders and promote research and industry ­acceleration. It is a welcome start but represents a fraction of what is needed for Australia to stay in the international competition.
+The Australian Institute for Machine Learning at the University of Adelaide is leading calls for greater collaboration and investment in a major research hub that would help Australian experts ­develop practical technology that can make a real difference to our lives.
+While machine learning is already present in many Australian homes as Siri and Google Home, we have just touched the surface of its potential.
+AI will be the big productivity driver of the next decade. It will become integral to the success and growth of businesses and has endless possibility to ­improve health and education outcomes.
+The US and China are locked in a multi-billion dollar battle for AI supremacy, competing for the best mathematics talent in the world to unlock the future of technology.
+Australia has a strong tradition of high-quality AI research, but is falling behind comparable countries and cannot sustain its position globally without significant investment and industry development.
+Without serious research investment, we will lose jobs to AI technology imported from other countries and miss the opportunity to create Australian jobs from it.
+This is a time to think strategically about how the future looks. A new technological revolution is upon us, and it’s clear AI technology will have a major role as a driver of innovation in a kaleidoscope of industries.
+Australia can step up and ­develop this critical industry, or sit back and eventually import it all at enormous cost.Anton van den Hengel is the founding director of the Australian Institute for Machine Learning, and a professor of computer science at the University of Adelaide.
+CREDIT: ANTON VAN DEN HENGEL
+Word count: 838

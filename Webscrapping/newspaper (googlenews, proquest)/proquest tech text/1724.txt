@@ -1,0 +1,30 @@
+A leading young South Australian farmer says innovation is being slowed because most software and data platforms developed for agriculture are held behind copyright walls.
+Andrew Sargent wants the walls ripped down and for Australia to adopt an open-source culture in agricultural software and data.
+He says everybody would benefit from farmers to developers, manufacturers and research corporations.
+Mr Sargent, who crops 2000 hectares of wheat, barley, lentils, canol and oats near Crystal Brook with parents Malcolm and Jane, won a Nuffield Scholarship to travel overseas last year to look at the potential of the Internet of Things (IOT) for Australian farming.
+He had initially thought Australian farmers were being left behind in the race to harness the IOT but after attending a few conferences he found they were near the head of the field.
+So he started looking at the business model behind agtech and how agriculture went about sharing software, data and collaborating on projects.
+In his just-released Nuffield Report (sponsored by the GRDC) he found the owners of agtech software, including farm machinery manufacturers, had little appetite for adopting a "sharing culture".
+"In theory the manufacturers should be on board with it (because) it would make their life easier if you could manage data between platforms without having to go through all this different processes of reformatting," he said when commenting on the thrust of his report.
+Related reading: Mapping uncovers yield problems in Mid North
+His report concluded that agetch developers and manufacturers were reluctant to collaborate for fear of losing their intellectual property (IP) or market share.
+"This caused much frustration on our farm and was the catalyst for the creation of the Southern Precision Agriculture Association (SPAA) aimed at improving the compatibility of precision agriculture (PA) equipment between brands and machines."
+The Sargents were early adopters of many PA technologies, moving into yield mapping, two-centimetre autosteer and variable rate technology in the late 1990s.
+"I have spent many hours troubleshooting various pieces of PA equipment on our farm and have found the support for these systems is largely limited to the manufacturer, and, even then, only a few people have an in-depth knowledge of the systems."
+He said the present attitude essentially locked users into a particular vendor which made it difficult for farmers to choose tools based on their merit rather than compatibility with their own systems.
+This was in complete contrast to consumer technology where a photo could be taken on a smartphone, opened in any image editing software and then printed on any printer, he said.
+"Adoption of an open source culture in agricultural software and data will increase the value of that data to stakeholders by allowing easier sharing and analysis of that data," he said.
+"This can speed research outcomes by improving researcher access to on-farm data sources through a simpler data sharing system which would enable access to a larger and more diverse data set for research use."
+Related reading: Reliable cropping technology needed: Sargent
+Mr Sargent visited about nine countries and found some open-source collaborative projects were gaining momentum.
+One was AgOpenGPS (AOG) which was started by Canadian farmer, Brian Tischler, of Mannville, Alberta.
+AOG is an open-source autosteer system that runs on any Windows tablet and allows users to set up their own autosteer system using generic off-the-shelf components to build system at a fraction of the cost of proprietary products.
+Another was FarmOS, a web-based application for farm management, planning and record keeping.
+There were now at least 200 users of FarmOS spread across at least 14 countries, Mr Sargent said.
+The system was developed by Mike Stenta of Hartford, Connecticut, while he was working on some small diversified vegetable farms in 2014.
+Mr Stenta had seen a need for a single system to record the history of all the operations carried out on these farms.
+As well, leading American university, Purdue, had set up the Open Ag and Technology Systems (OATS) centre to address the issues caused by the lack of an open source culture in agriculture
+Mr Sargent said both the developers of agtech and open-source collaborative projects needed some financial support.
+"While open source has many benefits, some things need a monetary incentive. It is not about free technology but open technology and a pragmatic approach is needed," he said.
+CREDIT: Vernon Graham
+Word count: 721

@@ -1,0 +1,19 @@
+Australian renewable developer Edify Energy on Tuesday announced it had successfully completed the project financing to build and operate a grid forming battery system in the south western New South Wales region known as the Riverina.
+The company claims the system is the “largest approved grid forming battery in the country,” though the number of projects with inverters capable of providing system strength services is rapidly gaining traction, with AGL’s 250 MW / 250 MWh grid forming battery near Adelaide already in construction.
+Edify’s battery system, which totals 150 MW / 300 MWh will be made up of three separate partitions:
+60 MW / 120 MWh Riverina Energy Storage System 1 (RESS 1);
+65 MW / 130 MW Riverina Energy Storage System 2 (RESS 2); and
+25 MW / 50 MWh Darlington Point Energy Storage System (DPESS).
+Designed and developed by Edify, these energy storage systems will use Tesla Megapacks paired with their own inverters.
+The company said it has also already gained approval from the Australian Energy Market Operator (AEMO) and network manager and operator TransGrid to operate the batteries in ‘virtual synchronous generator’ mode from the commencement of commercial operations.
+Construction of the project is set to begin in the “near future,” Edify said, with Tesla Motors Australia under contract to deliver the facility.
+The project will be completed in stages from the first half of 2023.
+Offtake
+Edify has already negotiated long term offtake agreements with both Shell Energy and EnergyAustralia for the batteries.
+Shell Energy will gain access to operational rights over the 60 MW / 120 MWh RESS 1 partition of the battery, Edify said. It added this agreement has been a “key component” in Shell securing a long-term retail contract with the NSW Government as part of its Whole of Government electricity supply process.
+Likewise, EnergyAustralia will gain access to operational rights over the RESS 2 and DPESS partitions for a combined 90 MW / 180 MWh.
+Financing
+To realise the project, Edify negotiated what it is referring to as “an industry first agreement” with Federation Asset Management. The agreement will be Federation acquire a majority shareholding of the project as the seed asset for its Sustainable Australian Real Asset fund, a “pure play” Australian energy transition fund it manages.
+Edify said it continues to maintain a long-term ownership interest in the project and will undertake the construction management and long-term asset management roles for the batteries, aligning interests with its majority equity partners.
+“Edify and Federation Asset Management’s strong track record with these projects, and the long-term offtake agreements Edify negotiated, make this an attractive and credible financing opportunity and Westpac is pleased to be a part of it,” Westpac Institutional Bank’s Chief Executive, Anthony Miller, said.
+Westpac, alongside the Commonwealth Bank of Australia and DNB have provisioned the long-term syndicated debt facility.

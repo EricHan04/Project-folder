@@ -1,0 +1,17 @@
+The second round of Accelerated Discovery Initiative (ADI) funding has been announced by Minister for Energy and Mining Dan van Holst Pellekaan, and will help fund 22 programs run by private companies.
+Flinders Prospecting and IGO Ltd were the biggest winners, receiving $400,000 across two projects including an airborne mapping project in the Copper Coast region.
+Fortescue subsidiary FMG Resources will receive $320,000 across two projects while Sinosteel Uranium SA Pty Ltd - a subsidiary of Sinosteel Australia Mining, will receive $129,000 for a geochemical sampling program.
+Barton Gold, which recently announced plans to raise $15m and list on the ASX, will be granted $300,000 towards its plans to bring Its Tarcoola gold project back into production.
+Barton acquired the asset mid-last year and intends to further prove up that project and its Tunkillia project also in SA with a view to bringing both back into production.
+China currently “is not prepared” to stop imports of Australian iron ore but they are looking for another supplier, according to Asia correspondent Adrian Brown.
+Mr van Holst Pellekaan said the projects funded reflected the changing nature of exploration, with an artificial intelligence company, SIG Machine Learning, funded to look at a proof of concept for greenfields target generation for example.
+“The successful projects will support activities and innovative technologies to generate and test new exploration ideas and increase new data sets that will help accelerate data sharing amongst the exploration sector,’’ the Minister said.
+“The initiative reflects the changing drivers in exploration, with a heavy emphasis on new technologies, scientific endeavour and upskilling to boost discovery and reduce risk.
+“It also fosters meaningful employment and upskilling of aboriginal employees and businesses by part funding exploration employment and related formal training opportunities.
+Last year the ADI funded 14 proposals to the tune of $3m, with that round including a grant to nano-satellite company Fleet Space Technologies.
+Fleet chief executive Flavia Tata Nardini said the grant allowed their large-array, remote mapping heat flow project with OZ Minerals and the University of Adelaide to accelerate at a rapid rate.
+“This grant meant we could manufacture and successfully deploy first-generation low-cost Geologic Instruments, advancing our mineral discovery project of innovative exploration and research in regional South Australia,’’ she said.
+“We are recording seismic and temperature data in-situ, processing at the node, transmitting via LoRaWAN (low power, wide area networking protocol) to our portal, and finally backhauling via satellite to Nebula where it is analysed in near real-time.
+“This is an exciting world-first trial that is gaining global attention for a future solution approach to remote monitoring with applications for mineral deposit detection and space exploration.’’
+The second ADI round was heavily oversubscribed, the government said, with 76 applications received.
+Word count: 438

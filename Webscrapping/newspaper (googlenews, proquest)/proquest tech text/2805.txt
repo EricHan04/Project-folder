@@ -1,0 +1,20 @@
+The $7-million Roseworthy solar and energy storage project was unveiled by the University of Adelaide and state government today, to celebrate the largest solar project in the university's history, which is expected to generate an average of 42 per cent of the campus's energy needs.
+The project was officially unveiled by Minister for Energy and Mining Dan van Holst Pellekaan and the University of Adelaide vice chancellor Peter Bordier Hoj.
+The Roseworthy Solar and Energy Storage project will reduce the university's peak electricity demand, reduce energy costs and increase the resilience of energy supply to the Roseworthy campus, and is supported by a $778,500 grant received from the South Australian Renewable Technology Fund.
+The solar farm will consist of 3200 solar panels producing 1.2MW of power, an upgrade of the Roseworthy campus internal power network from a low-voltage to a high-voltage support system, a hybrid battery storage solution - a combination of Tesla lithium-ion batteries and UniEnergy Technologies (UET) Vanadium flow batteries - with a capacity of 420/1200kWh and a digital microgrid, which is the operating system between the solar cells and the batteries.
+The panels charge the Tesla and UET batteries, and the microgrid controller chooses when to best charge and discharge the batteries.
+The project is now fully operational, with the solar panels generating energy and charging the batteries since late April this year.
+University of Adelaide Project Manager Rob Newcombe said he was excited when, on its first full day of operation, the solar farm offset nearly 90 per cent of the Roseworthy campus's electrical load.
+"In the simplest of terms this meant powering up the animal hospitals, teaching labs, our lecture theatres and offices, research facilities, all our computers and devices, the dining hall, swimming pool, the lights on the oval, the gym and student housing, all off the back of renewable energy.
+"Although this outstanding first day result occurred during mid-semester break, when the campus was quieter than usual, it was still an extraordinary achievement on day one."
+Roseworthy campus Dean Professor Wayne Hein said another important benefit of the project was the research and learning opportunities that would be available to researchers and students.
+"The project will be a living laboratory, providing our researchers with opportunities for projects in areas including energy management, grid segregation, low-cost fault detection systems, system resilience, and cybersecurity.
+"There will also be opportunities for students to learn, with plenty of scope to incorporate different aspects of the facility into University courses and projects for students studying everything from engineering, cybersecurity and space, through to environmental science."
+Minister for Energy and Mining Dan Holst Pellekaan said the solar farm was another project that would enable a modern energy system which would deliver cheaper, more reliable and cleaner electricity for SA.
+"This Solar and Energy Storage Project is one of many supported by the $150 million Renewable Technology Fund which is supporting next generation, renewable energy storage projects across the state.
+"The Project is another step on the path to reach 100% net renewable energy by 2030, which will help us meet both our energy needs and Australia's Paris climate emission agreements," Mr Holst Pellekaan said.
+University of Adelaide Chief Operating Officer Bruce Lines said it was the largest solar project in the university's history and a key strategy under the Campus Sustainability Plan, which outlines a commitment to decreasing the environmental impact of its operations.
+"The research and learning opportunities associated with the project will also filter out to benefit industry and the wider community, including testing the performance and reliability of battery storage technology in hot, dry conditions."
+Start the day with all the big news in agriculture. Sign up here to receive our daily Stock Journal newsletter.
+CREDIT:
+Word count: 620

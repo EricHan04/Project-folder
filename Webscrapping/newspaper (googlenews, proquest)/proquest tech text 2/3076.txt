@@ -1,0 +1,52 @@
+Source: The Conversation (Au and NZ) - By Karin Verspoor, Professor, School of Computing and Information Systems, University of Melbourne
+Victoria’s health authorities are now looking overseas for a reprieve following the federal government’s criticism of the state’s coronavirus response.
+The state government has enlisted US cloud-based software company Salesforce to administer a data management system in the health department to accelerate contact-tracing efforts.
+The government also plans to roll out five new “suburban response units” throughout Melbourne, using local insights and connections to speed up contact tracing.
+Secretary of the federal Department of Health, Brendan Murphy, on Monday said an “integrated and very effective tracing regime” could help bring Victoria safely out of lockdown.
+But the federal government’s widelytouted but unsuccessful COVIDSafe app has shown how technology alone may not be a solution for public health challenges. So what’s different about the latest digital boost for Victoria?
+Streamlined contact tracing is key
+Contact tracing involves interviewing patients who have tested positive for COVID-19, to find out who else they came in contact with while infectious.
+It’s a vital part of containing an outbreak, as it enables potentially infected people to be tested and isolated before they can infect others.
+However, it is labour-intensive, particularly when the number of cases is large. When the capacity of contact-tracing teams is exceeded, delays ensue and effectiveness drops.
+Read more: Explainer: what is contact tracing and how does it help limit the coronavirus spread?
+How could the new system help?
+Victorian Premier Daniel Andrews said the upcoming Salesforce system would run in conjunction with the state’s 2,600 contact tracers, saving time otherwise spent on manual data entry.
+US-based software company Salesforce already has more than 150,000 corporate users globally. zz/STRF/STAR MAX/IPx
+The system would provide an electronic interface on which patients and case managers can upload details about where the patient has been, as well as the names, phone numbers and email addresses of their contacts.
+The contacts can then be automatically notified by SMS or email, before being approached by the case manager for a more detailed discussion.
+The system’s data collection and storage would be targeted at known cases. It would offer several advantages, such as:
+contacts can be notified more quickly about their potential exposure to the virus and will know to stay home
+suburban response units could more efficiently coordinate their efforts by assigning contacts to specific workers and providing contact logs. This would reduce the risk of multiple case managers following up with the same contacts, or of contacts being missed.
+health authorities could have a more up-to-date view of the contact-tracing progress
+potential overlaps between cases could be identified and used to prioritise which contacts should be followed up first.
+Does the upgrade go far enough?
+While the Salesforce system will undoubtedly make contact tracing more efficient and robust, it’s only one of a series of steps that could be automated to help manage outbreaks.
+For instance, the system only starts when a person tests positive and health officials are notified. For maximum productivity, this could be done in real time by configuring pathology lab systems to automatically send test results to officials.
+This could let them assess the test results of person A against those of their close contacts to better understand how the virus is spreading. Some factors to consider may include:
+how many contacts of person A actually got sick (which means negative results matter too)
+what kinds of contacts are getting sick. For example, is it only people with whom person A spent a lot of time in close quarters, or also people who happened to be in the same place at the same time?
+Victorian Premier Daniel Andrews recently announced Melbourne’s stage 4 lockdown restrictions would be extended to September 28. James Ross/AAP
+Also, connecting the system to patient administration systems in hospitals would allow appointments to be automatically scheduled for patient follow-ups, or for testing close contacts.
+And integrating the system with electronic records in clinics and hospitals could provide critical insight into how different people respond to the disease.
+Answering questions such as “does a patient from a clinic get admitted to hospital?”, “do they have mild or severe illness?” and “how do they respond to treatment?”, would improve doctors’ ability to care for patients.
+This level of sophisticated data-sharing goes beyond the current digital capabilities of Victoria’s health-care system. But capturing case information in digital form is a first step towards this vision.
+Is it too late to change?
+Since experiencing a second wave of COVID-19, Victoria has boosted its contact-tracing workforce. Victorian Chief Health Officer Brett Sutton has reassured people the state can now reach case contacts within 24 hours.
+Andrews confirmed the state had rejected an earlier proposal from Salesforce in March, saying:
+Sometimes when you are swamped, it is not a great time to move to a new IT platform.
+However, the upcoming system is based on Salesforce’s core customer relationship management platform in development since 1999.
+It has already been used in Western Australia, South Australia, New Zealand and 35 US states. This suggests a mature product with the kinks worked out.
+Even if the system doesn’t end up being crucial in this pandemic, it could make a huge difference in future epidemics, especially as we enter what US infectious disease scientist Anthony Fauci has described as a “pandemic era”.
+Data security and earning the public’s trust
+The Robodebt saga has already made us sceptical using automated algorithms on personal data.
+To safeguard Australian’s personal data, authorities must go the extra mile to make sure the system is foolproof. Some ways to do this could be:
+requiring two-factor authentication from all parties that access the system
+putting regulations and safeguards in place to ensure data in the system is stored in Australia, only accessible to contact-tracing staff and only used only for intended purposes
+opening the system up for assessment by cybersecurity experts before it’s implemented (potentially by providing the software source code)
+keeping audit logs of who accessed the data and when, so any breach can be rapidly traced.
+If governments want the public to accept technological solutions for public health challenges, they must first show they take our data privacy seriously.
+Doing so will be a worthwhile investment – not only for outbreak management but towards digital innovation in public health.
+As of September 9, Victoria recorded a total number of 19,688 cases and 694 deaths, according to the state Department of Health and Human Services. James Ross/AAP
+Read more: Coronavirus: digital contact tracing doesn't have to sacrifice privacy
+- ref. Victoria's coronavirus contact tracing is about to get faster. Let's make it the first step in a larger digital boost - https://theconversation.com/victorias-coronavirus-contact-tracing-is-about-to-get-faster-lets-make-it-the-first-step-in-a-larger-digital-boost-145759
+Word count: 1073

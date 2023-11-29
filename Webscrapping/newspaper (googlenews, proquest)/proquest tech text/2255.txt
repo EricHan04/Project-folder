@@ -1,0 +1,37 @@
+Source: The Conversation (Au and NZ) - By John Quiggin, Professor, School of Economics, The University of Queensland
+Dean Lewins/AAP
+A crisis, as the saying has it, combines danger and opportunity. The dangers of the current electricity crisis are obvious. The opportunity it presents is to end to the failed experiment of the national electricity market.
+Having suspended the market last week, the Australian Energy Market Operator (AEMO) is now directing generators when to supply electricity. It’s also paying them lavish compensation for the financial shortfalls they suffer as a result.
+These emergency measures are unsustainable. But they provide the starting point for a restructured electricity supply industry – one that’s better balanced between markets and planning.
+Now’s the time to create a national grid that serves the Australian public and meets the challenges of a warming world. A new government-owned and operated body should take control of Australia’s electricity system. And decarbonising the grid, while ensuring reliable and affordable energy, should be its core business.
+Decarbonising the grid should be a key goal of electricity reforms. Dave Hunt/AAP A failed experiment
+The National Electricity Market is where energy generators and retailers trade electricity. It was established about 25 years ago after technological advances allowed electricity grids to be connected across all states except Western Australia and the Northern Territory.
+Before the market began, each state operated its own electricity industry with only limited interconnection. Back then, electricity companies were publicly owned. Most were also fully integrated, with one company responsible for the entire electricity supply chain, from generation to distribution and billing.
+The national grid’s arrival coincided with the peak of enthusiasm for micro-economic reform. So, instead of a unified national enterprise, state utilities were broken up into separate parts – generation, transmission, distribution and retail – with the intention they would be privatised then engage in market competition.
+Driving the trend towards privatisation was a widespread view that state-owned electricity enterprises had not performed well – particularly in investing to expand access to electricity.
+Reflecting this view, the industry became fully or mostly privatised in Victoria, South Australia and New South Wales. Other states opened electricity generation and retail to competition.
+Read more: What's a grid, anyway? Making sense of the complex beast that is Australia's electricity network
+The market was created just as the global need to reduce carbon emissions was being recognised. Despite this, the climate problem was not considered in the design of the market, which was based on a mix of coal and gas plants.
+Until AEMO suspended the market last week, bids from generators determined the wholesale price of electricity at five-minute intervals. Retailers supplied electricity to consumers at prices that shielded them from the fluctuations in wholesale prices.
+Prices typically sat around A$50 per megawatt hour. But in periods of very high electricity demand, the price can reach the market “price cap”, currently set at $15,100 per megawatt hour.
+Meanwhile, electricity distribution – getting the power to homes and businesses using poles, wires and other infrastructure – was handed to a set of regulated monopolies, which were awarded high rates of return on low-risk assets.
+The climate problem was not considered in the design of the market. Dan Himbrechts/AAP What went wrong
+The designers of the national electricity market hoped it would lead to better efficiency and more rational investment decisions. The market also aimed to lower consumer power bills and promote competitive retail offers tailored to individual needs. But none of this happened.
+In fact, consumer electricity prices – after falling for the better part of a century in real terms under public ownership – rose dramatically.
+This was partly due to high returns to private electricity distribution companies, and the need for infrastructure investment to improve reliability. A proliferation of highly paid marketers, managers and financiers were also required to run the market.
+Over time, the failures of the original design led to an alphabet soup of agencies needed to run the industry. They include AEMO, AEMC, AER, ARENA and a bunch of state-level regulators. Finally, the Turnbull government created the misnamed Energy Security Board (ESB), which sat on top of the whole process.
+All this delayed the transition from an old and unreliable coal-based system to its necessary replacement by a combination of solar, wind and storage.
+Now, this rickety system has failed to deal with a major supply crisis. The temptation is to slap on another patch and restore “normal” market conditions. The ESB’s proposal to pay coal and gas generators to be on standby if needed is one such quick fix. But much more comprehensive reform is needed.
+Read more: Why including coal in a new ‘capacity mechanism’ will make Australia's energy crisis worse
+The national electricity market has failed to achieve its key aims. Shutterstock Where to from here?
+A combination of public and private investment is now needed to secure affordable electricity and transition to renewable energy generation.
+The plethora of bodies regulating the market should be replaced by a single government agency that buys wholesale electricity from generators. This organisation could then sell electricity directly to customers or supply it to electricity retailers.
+The emergency purchasing arrangements AEMO currently has in place should be replaced by “power purchase agreements”. These are long-term contracts between a buyer and a generator to purchase energy, in which prices, availability and reliability are set.
+Within those terms, generators that consistently produce electricity at very low prices are the first to be called on. This dispatch method, known as merit order, has been shown in Germany to lead to lower prices for consumers.
+At the same time, the Australian electricity grid should be returned to government ownership and operation. And its guiding principle should be moving to a decarbonised energy system, rather than the “net market benefit” test AEMO currently uses when deciding where to approve investment.
+Labor’s Rewiring the Nation policy provides a starting point for reform. It should invest directly in the expanded transmission network needed to support the transition to renewable energy.
+Australian energy policy took a wrong turn in the 1990s. It’s time to get back on course.
+Read more: In an energy crisis, every watt counts. So yes, turning off your dishwasher can make a difference
+John Quiggin is a former Member of the Climate Change Authority
+- ref. The national electricity market is a failed 1990s experiment. It's time the grid returned to public hands - https://theconversation.com/the-national-electricity-market-is-a-failed-1990s-experiment-its-time-the-grid-returned-to-public-hands-185418
+Word count: 1043

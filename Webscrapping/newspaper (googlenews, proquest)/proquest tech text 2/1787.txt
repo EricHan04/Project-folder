@@ -1,0 +1,23 @@
+Weather-watching technology aimed at cutting power bills
+BATTERY control systems are taking the concept of smart homes to the next stage, with artificial intelligence plugged in to deliver real energy management.
+“It’s about moving away from a smart home where you can dim the lights to an intelligent home with intelligent equipment,” David Sharpe, owner of Energy Rating Systems said. “It’s really exciting.” Manufacturers Sonnen and Eguana had battery models that could tap into online data such as weather forecasts then manage energy-hungry home appliances.
+Airconditioners, hot-water systems, pool pumps and heaters, and underfloor heating could all be taken under the wing of the battery to improve performance and save money.
+“They’ll turn them on and off and adjust them according to use and the battery, it’s extremely intelligent,” Mr Sharpe said.
+Weather forecasting plays a vital role in renewable energy and a University of South Australia study aims to improve accuracy.
+A $1.2 million project will design short-term forecasting models to anticipate weather conditions from five minutes to a couple of hours ahead.
+UniSA will work with the CSIRO, University of NSW and Genex Power, which has funding support from the Australian Renewable Energy Agency.
+Professor of Environmental Mathematics John Boland said better forecasts would deliver cost savings across the electricity system.
+“Accurately forecasting the output of grid-connected solar systems is critical to increasing the overall penetration of solar and renewables,” he said.
+“Clouds can move and form very quickly, creating complex atmospheric layers which often move in different directions.
+“Existing forecasting systems for wind and solar are designed for longer-term time frames and have led to multiple issues over the years.
+“This highlights the need for reliable short-term forecasts to provide confidence to both renewable generators and the entire industry.” The project will initially focus on commercial-scale solar farms in Queensland and Victoria with flow-on benefits expected across the system.
+Global economics forecaster Bloomberg New Energy Finance expects Australia soon to overtake Japan as the country with the highest capacity of installed residential batteries in the world. Government subsidy and incentives are driving the industry now but momentum will continue.
+“While the path could be bumpy, BNEF expects Australia to continue to be an attractive market for residential sto-rage after policy support ends – thanks to its high penetration of household solar (already one in five) and high electricity costs,” it said.
+As well as battery technology, a range of digital devices is available to households wanting more centralised control, including operating lights and appliances remotely by smartphone apps.
+Devices such Amazon Alexa and Google Home enable householders to control lights, power outlets, music and the television.
+Technology company B. One has gear that will link to Alexa or Google Home and control other appliances such as airconditioner thermostats and home security. Its chief executive Anup Raghavan said a home was the biggest investment most people made, so it was worth ensuring it performed to its best.
+Clipsal, the Schneider Electric subsidiary, also has home management systems, including Nero, C-Bus and Wiser.
+SA’s largest retailer, AGL, has connected to the Amazon Alexa network. Registered households can use Alexa to monitor electricity usage.
+The Advertiser Sunday MailENERGY UNEARTHED
+CREDIT: CHRIS RUSSELL
+Word count: 533

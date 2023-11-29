@@ -1,0 +1,41 @@
+TECH Students are pushing the boundaries of what robots can, and should, learn
+Experts from around the world have been in Australia to test the limits of robots on an old farm amid kangaroos, alpacas, trapdoor spiders and pythons.
+The venue for last week’s tests was the ANU’s 348ha Kioloa campus in southern NSW, a getaway with wooden huts dotted around the property for accommodation amid abundant wildlife.
+It’s a different world for the lecturers and PhD students who have come from cities in Denmark, Finland, Spain, Germany, China and the US — countries gripped by one of the northern hemisphere’s most severe winters.
+The summer school, organised by the Australian Centre for Robotic Vision, focused on getting robots to comprehensively understand the complexities of the world around them and work out what is expected of them.
+Robots will need those skills if they are going to interact with humans and be genuinely useful in an everyday social environment, whether it’s helping people in aged care, in hospitals, as tour hosts, or as companions at home.
+Robots are not as socially clever as we’ve been told.
+Specialised machines such as industrial robots are programmed with a limited set of skills and have been with us for decades.
+ACRV director Peter Corke says the fundamental problem for social robots is “working out what’s going on around, what are people doing”.
+But object recognition is improving as robots are given multiple cameras supported by a bevy of sensors.
+“In the last five years we have been able to do astounding things. Face recognition now is quite routine. We can take an image and have a computer tell us what the objects within that image are,” Corke says.
+The centre has an underwater robot called COTSbot which searches for and destroys crown-of-thorns starfish on the Great Barrier Reef by injecting them with a chemical. The centre also provides input to the global research on robotic vision.
+It’s not difficult for robots to be hard coded with a defined skill base. A robot hotel room service waiter can be coded to look up a room location, travel there and avoid obstacles, thanks to cameras. It can make its presence known to the guest, utter polite words and provide food on a tray.
+Google Home, Amazon Echo and the like show us robots are capable of language recognition and some limited conversation.
+Researchers have typically used popular utility robots such as Pepper to hone skills. Pepper is popular in some commercial settings, such as in Japan at Hamazushi sushi restaurants, and as a tourist guide in taxis in Kobe.
+But robots find other tasks difficult. They are often tasks people find easy, such as walking, running, opening doors or stacking a dishwasher.
+The Australian Centre for Robotic Vision is focused on the next phase of social robotics, which is making robots capable of adapting to any environment without being specifically coded.
+They have to be able to perceive and respond to the surrounding environment, as humans do intuitively.
+Laura Leal-Taixe, a professor at the Technical University of Munich and a conference speaker, cites the example of a robot encountering two people having a conversation.
+“The robot has to understand that these two people are talking and they should not be bothered. This is actually extremely difficult,” she says.
+Understanding situations requires robots to combine information from multiple sensors, such as knowing an elderly patient has had a serious fall “If a person falls on the floor, you have to detect that there’s something wrong going on — because that person could be just searching for an object under a chair,” Leal-Taixe says.
+A robot would additionally read the expression on the person’s face and their demeanour to work out if it is a serious fall and how to respond.
+Traditionally you would code a robot to react to every situation you imagine possible, but there are always situations which arise that you can’t predict.
+Now robots are trained to experience the world and squirrel away that experience in “datasets” they can look up the next time something similar occurs. Robots are accessing “neural networks”, computer models that try to mimic the operation of the brain.
+Feras Dayoub, a research fellow at the centre, says the PhD students at the summer school “learn what we call imitation learning” — they learn to teach robots to learn.
+Students at the camp were teaching robots to follow a road, not by programming them with every curve and movement but by coaxing robots along the road several times so that the robot builds its own dataset and learns to travel the road. This is classic machine learning.
+There is now a proliferation of these datasets online for robots to access. Centre chief investigator Stephen Gould says the centre has used a Google dataset of categorised examples of human movement to recognise and classify what humans are doing in video.
+“We can tell if a human is brushing their teeth, scrambling eggs or pouring tea,” he says.
+PhD researcher Marike Koch van den Broek from Aalborg University in Denmark says she is studying how to make interactions between humans and robots more natural and how robots could predict what humans want from them. These skills are necessary if social robots are going to be truly interactive with ­humans and not just curiosities.
+“The whole social interaction between robots and people is going to become critical,” Leal-Taixe says.
+“We’re starting to work on it. This is going to be a huge field of study because if we want to put ­robots in society they have to interact with people.” Leal-Taixe says developing robots that move and act freely among us will take longer than people think: “It’s more like 10 years in the long run. The robots (today) are not robust enough.” Social robots are available now but they have a limited appeal. Sony’s cute Aibo dog rolls over, puts its paw out, high-fives, wags its tail and squeaks, but it’s repertoire ends there.
+Anki’s Vector, a small chatty robotic bulldozer, can tell you the weather, do arithmetic and squeak and run around to make its presence felt, but again, its range and appeal are limited.
+A social robot called Jibo can chitchat and follow you around, but reviewers say its ability to learn from its owner and develop a less superficial robotic relationship is limited.
+Some socially oriented robots achieve lots with a limited skill-set, such as Paro, a therapeutic ­robotic baby harp seal that responds to patting and rubbing. It has proven a popular aid with the elderly and dementia patients.
+Paro has proved that not every commercially oriented social robot needs to be highly sophisticated to succeed.
+Corke says people confess things to robots that they wouldn’t admit to a family member. They also take advice from a robot that they probably wouldn’t accept from a family member.
+So they definitely can have a therapeutic value.
+In all, 50 PhD and graduate students from around the world attended the summer school.
+The centre, however, has a limited life, with seven years of funding by the Australian Research Council. It closes next year.The centre comprises about 200 staff from four universities: QUT, ANU, the University of Adelaide and Monash University, with CSIRO and five international organisations taking part.
+CREDIT: Chris Griffith
+Word count: 1223

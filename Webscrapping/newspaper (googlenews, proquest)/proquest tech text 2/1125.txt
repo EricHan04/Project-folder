@@ -1,0 +1,8 @@
+A NEW artificial intelligence-based price assessment tool has launched on Punters.com.au.
+Punters Edge, which is available exclusively for Punters+ members, uses 160 different data points to rate each horse’s winning prospects in a race.
+On its first day this week, the tool successfully tipped six of eight winners at Tamworth.
+The Punters Edge tool prices up each horse to determine if there’s a value edge against the market.
+The algorithm processes the form of every horse in every race in Australia, weighting each factor according to its importance based on years of historical results.
+The Punters Price is dynamic and updates to reflect these changes right up until race time.
+It is then compared with the best available odds to determine where the value edge lies. In one glance, you can see the unders and overs on every race in the country.
+Word count: 142

@@ -1,0 +1,6 @@
+AS a software engineering lead for data and artificial intelligence start-up HyperAnna, Jarrod Wall spends his days coding, developing software and managing his team.
+It is a far cry from what he imagined studying animation after school. Diving deeper into animation at university, he discovered he needed to enrol in a few coding subjects.
+Soon enough, he saw the power of coding in automation and shifted into the AI and business intelligence industry.
+“As I had invested so much into animation, it felt like it was a waste not to use the skillset I’d built over the years,” he says.
+“However, as I went into coding, I realised that the skillset was not lost, it had just shifted focus.“We use software development platform GitHub to work collaboratively across our team, and build on existing projects that are available through its open source community, as the platform hosts millions of public code that can be leveraged to learn and create something greater.”
+Word count: 162

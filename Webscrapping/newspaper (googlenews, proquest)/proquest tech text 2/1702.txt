@@ -1,0 +1,53 @@
+FARMING without fences, joining forces with neighbours to create mega-farms and harnessing new technologies to manage and predict the effects of climate change will be central to the future of the state’s primary production sector, experts and farmers say.
+With climate change posing a massive challenge to the sector, farmers are looking at where their next big productivity gains are going to come from.
+And they are increasingly looking to computers, rather than the heavens, to help guide their next move.
+Tom Giles, senior manager of enabling technologies at the Grains Research and Development Corporation, believes machine learning could be the next big frontier for the sector.
+Machine learning is the automated creation of algorithms that can recognise patterns, classify them and then make predictions based on the data.
+“Machine learning really allows for quantitative, unemotive decision making,” Mr Giles says.
+He says one example where machine learning would have a practical and increasingly useful application is estimating crop frost damage in real time.
+Frost is a growing issue in South Australia, and while frost damage severely affects the crops’ ability to produce grain, detecting it early can help farmers make the call to instead use the crop for hay.
+“By using machine learning, remote sensing and satellite technology to detect for frost damage, a farmer could know their crop is damaged almost as soon as it happens and make the decision to go out and cut for hay,” he says.
+Such decisions could help farms boost profitability, especially if a farmer decides to cut hay early and capitalise on good prices before a flood of the usual seasonal supplies hits the market.
+Mr Giles says using machine learning to identify patterns could also help in other areas, such as the early detection of disease.
+“Machine learning also has the ability to speed up research outcomes,” he says. “There’s some really powerful technology available to researchers to help them better understand and detect patterns, which they can use in the crop-breeding process.” MURRY Mallee producer Tanja Morgan farms at Geranium with husband Adam. She also works as the program manager for the Mallee Sustainable Farming group, one of the nation’s leading farmer-driven research bodies.
+“We work across three states and cover four million hectares,” Mrs Morgan says. “The season is varied this year, with some farms getting their average (rainfall) so far and some that are really struggling with lack of rainfall for the second year.” Last year, one of the group’s farmers measured only a staggering 45mm of rainfall for the growing season, showing the extremes primary producers are grappling with.
+“We’re looking at how we can do better with what we have, rather than having to go out and buy more land and expanding,” Mrs Morgan says.
+“We believe we’ve captured all the low-hanging fruit, now we need to look at where to find the next big gains.” She says some exciting technology is coming through for the livestock sector, including virtual fencing. The CSIRO is a world leader in virtual fencing – a system which fits livestock with collars linked to sensors and wireless technology that controls their location without the need for fixed fencing.
+It allows farmers to improve their grazing and land-management systems without the cost of building and maintaining fences.
+“I think virtual fencing will be a game-changer,” Mrs Morgan says. “It will help lift feed utilisation in paddocks and prevent erosion by maintaining soil cover on vulnerable sandhills.”
+CSIRO chief research scientist Greg Rebetzke says a major focus for the organisation was helping farmers manage climate variability in a way that was still profitable.
+“The CSIRO wants to ensure that the work we’re doing not only benefits farmers, but Australia, because we rely so heavily on our rural communities,” he says.
+Dr Rebetzke believes major gains will be made through increasingly better use of drone technology. Drones have sparked the attention of the farming community, with an increasing number of producers having one, but the challenge is how to make the most of them.
+“Radars allow drones to look for weeds that need to be sprayed and parts of the field that need fertilising,” Dr Rebetzke says.
+“There is a mass of data coming off drones across the country and the CSIRO is trying to develop methods to link that data together.” Myriota, an Adelaide space industry start-up based at Lot Fourteen, the former Royal Adelaide Hospital site, deploys cutting-edge technology to provide low-cost connectivity for a range of industries including agriculture.
+The technology is being used in a number of areas, including water tank monitoring and livestock tracking.
+Business development executive Tom Rayner says is traceability is increasingly important, with consumers keen to know where their food comes from.
+“There are real opportunities to bring the consumer back to the farm, through paddock-to-plate traceability,” he says.
+“The future of farming will be more connected and more in touch with the environment, markets and the end-user of the products.” MALLEE farmer John Gladigau says if he was still farming the same way he did only 10 years ago, it was highly likely he would not have grown a crop last year.
+Farming in a marginal area, with properties between Alawoona and Loxton, Mr Gladigau says last gowing season was one of the worst for the region.
+“Last year we had 95mm of growing-season rainfall, which was the third lowest in 116 years of records,” he says.
+“Despite the very tough year, we still managed to produce about two-thirds of our average crop yield. In previous drought years, we were growing nothing.” Mr Gladigau is the joint founder of the Bulla Burra collaborative farming enterprise with fellow farmer Robin Schaefer.
+By merging their two farms, the primary producers have been able to gain economies of scale and mitigate some of their risks.
+“Our philosophy with Bulla Burra was creating the most efficient and productive farm environment possible,” Mr Gladigau says.
+A key part of ensuring their enterprise could thrive into the future was considering the changing climate and how to cope with it.
+“Whether you believe in man-made climate change or not, there’s no dispute that the climate is different now to what it was 20 years ago,” Mr Gladigau says.
+“There’s certainly much more summer-dominant rain than winter rain and tougher springs, and we have adapted our farming systems towards that.” Like more than 80 per cent of SA cropping properties, Bulla Burra operates under no-till – a system that maintains soil cover through minimal soil disturbance, rather than working up the soil, which can lead to erosion issues.
+Major dust storms were not uncommon in the state’s cropping areas in the days when farmers undertook tillage.
+“Our farming system didn’t change overnight but over time,” Mr Gladigau says. By keeping grasses out of the system through effective weed management, it has allowed crops to be sown early, which has been crucial in maximising available rain. Previously, farmers would wait for an opening rain, spray their weeds then sow into “clean” paddocks.
+“Sowing early and sowing dry was never an option previously,” Mr Gladigau says. “I remember attending a field day 20 years ago when a farmer said he sowed by a certain date and other producers just laughed. But today we’re seeding on April 15 without fail and it’s proven effective, as long as it eventually rains.
+“If we were still farming that same way we were 15 years ago, we wouldn’t have started sowing until June this year and we’d still be putting the crop in now.” Mr Gladigau said another major gain for producers had been the rise of prescription farming – targeting the use of fertilisers and chemicals to certain soil zones and types.
+“It means every square metre of a paddock gets what it actually needs,” he says. Data collection has also been key. “We have such a greater understanding of what we’re dealing with,” he says. “The amount of data collected off properties is quite mind-boggling but it’s very exciting. By knowing what the moisture levels are and what the fertility is in the ground, you can manage your decisions based on that.”
+GRAIN Producers SA chief executive Caroline Rhodes says last season highlighted the profound impact climate variability had on agriculture. There were 5.6 million tonnes of grain produced, 5.5 million tonnes less than the record 11.1 million-tonne crop only two years prior.
+“This demonstrates the volatility in farm incomes in Australia, and the need for innovation in risk-management tools from both the private and public sector,” she says.
+“SA is the driest state of the driest continent in the world, yet local grain production is entirely rain-fed with no irrigation and low crop inputs. This means the livelihood of 4500 farm businesses, most of them family farms, largely depends on rainfall.
+“That’s why we need to improve the accuracy of short-range and medium-range weather forecasting to support decision making.” Ms Rhodes says public and private investment in agricultural research is critical to the prosperity of the industry.
+A select committee, headed by Barker MP Tony Pasin, has been set up by the Federal Government to examine the future needs of rural and regional economies.
+The Government plans to boost the size and scale of agriculture, fisheries and forestry from a $60 billion industry to $100 billion a year by 2030.
+“Our regions continue to punch above their weight,” Mr Pasin says. “I want to see the select committee bring together the stories and experience of how regional economies are diversifying, how regional industries are finding their way, and how regional communities are boosting their resilience and working together to secure their future.”
+BY THE NUMBERS ● More than 80 per cent — the estimated number of cropping properties in SA that operate under no-till.
+●45 millimetres — the stunningly low growing-season rain one Mallee property had to deal with last year.
+●4500 farm businesses — the estimated number of grain producers in South Australia totally reliant on rainfall for their livelihoods.
+●$100 billion — what the Federal Government is hoping the agriculture, fisheries and forestry industry will be worth by 2030.
+ADL.FUTURE ADELAIDEfutureADL.com.au
+CREDIT: PAULA THOMPSON
+Word count: 1692

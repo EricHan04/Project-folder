@@ -1,0 +1,27 @@
+Can CEO Anthony Rose go beyond a band-aid fix?
+Bank of Queensland’s interim results highlighted the clunky nature of bank legacy technology systems and the extensive process required to bring about change.
+Band-aid technology solutions have been an easy go-to for many banks (bar Commonwealth Bank which poured in about $1.1 billion to upgrade its core banking systems).
+Short-termism has overridden the need to invest meaningful sums into technology, creating some of the issues we heard about at the Hayne royal commission.
+Part of the problem at BoQ is years of underinvestment in its retail banking systems, according to interim boss Anthony Rose. And “it is inherently slow to make change in that space”, he says.
+Among issues Rose called out in the bank’s underperforming retail bank were that mortgage lending processes were made more complex by stricter application of responsible lending requirements and that its mobile banking app was suboptimal.
+In his words the mobile app is “not delivering the outcomes that customers expect”.
+BoQ has now drawn a line in the sand and will look to at least make some fixes and upgrades to ensure it is not completely left behind in the technology stakes.
+That includes what it is calling “foundational must-do investments” including improvement to core infrastructure and an end-to-end mortgage transformation program.
+The bank will go to a “hybrid cloud” model with the help of technology partner DXC.
+Like many of its rivals moving away from paper-based processes and using automation, robotics and technology that can better scrape and utilise data is top of mind.
+Part of the issue at BoQ, which Rose plays down, is that the bank has undertaken a series of acquisitions over the last decade which has brought in different systems and technology. It bought CIT Vendor Finance in 2010 and more recently acquired Virgin Money and Investec’s local professional and asset finance businesses.
+Over at Virgin Money, which has continued to acquire customers, Rose is in the process of setting up a new cloud-based digital bank. The first tranche of that program will cost $5 million.
+That comes after regional peer Bendigo and Adelaide Bank last year kicked off a pure play digital bank dubbed Up.
+With digital banks like Volt and others scaling up, there is no time for BoQ to waste. Especially as Rose yesterday conceded, the bank has also had to introduce new account products in an attempt to better resonate with younger customer cohorts.
+Millennials won’t tolerate technology that doesn’t have the functionality they know is available elsewhere and is difficult to navigate.
+More broadly BoQ’s capital expenditure is coming in at $60m to $70m per year. Analysts are also keeping a keen eye on BoQ’s software intangible balance and the level of amortisation which will increase as investment rises.
+Only time will tell whether BoQ has outlaid enough to ensure it goes beyond the band-aid technology fix.
+Chronican’s push Over at National Australia Bank acting chief executive Phil Chronican appears to be rolling up his sleeves to ensure the bank gets on the right trajectory until its next CEO has entered the building.
+It’s a hands-on approach that goes beyond what one would expect from someone acting in the role.
+Last week, Chronican is said to have overseen a session with the bank’s top 100 managers where it was stressed they had to focus on delivering better performance and culture at NAB. Tellingly, there were no external speakers and the message was clear around executing on the top five priorities in the bank’s self-assessment to the prudential regulator.
+Among those are strengthening risk management and systems, raising the intensity to fix complex issues, closing the gap identified by Commissioner Kenneth Hayne on culture and listening more to customers.
+On the last point, Chronican is also said to have held meetings with longstanding aggrevied NAB customers on the sidelines of parliamentary hearings in Canberra last month.
+At that hearing he branded the royal commission a “wake-up call” for NAB, and said he was adding 150 people to the ranks of those overseeing repayments to aggrieved customers.
+NAB’s paid remediation tally since June is $110m.The noise is all pointing in the right direction at NAB but in banking changing the direction of a large ship, when seas are still choppy, is far from easy.
+CREDIT: JOYCE MOULLAKIS; NET INTEREST
+Word count: 723

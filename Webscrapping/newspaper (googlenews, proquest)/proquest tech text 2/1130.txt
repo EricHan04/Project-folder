@@ -1,0 +1,8 @@
+A NEW smartphone app developed by Melbourne researchers claims to detect Parkinson’s disease in just 10 seconds.
+The screening app records the user’s voice and can identify the illness quickly, enabling early diagnosis and treatment. Voice changes are the main indicators of Parkinson’s.
+Researchers from RMIT University are using artificial intelligence to conduct the screening test. Lead researcher Professor Dinesh Kumar, from RMIT’s School of Engineering said the first phase of clinical trials of the VoiceDiag app had been completed with more than 70 per cent accuracy.
+“It identifies people with Parkinson’s disease very well … One of the main advantages of our app is that it is a non language dependent so anyone from around the world can use it,’’ Professor Kumar said.
+Diagnosis for Parkinson’s is currently usually done by a neurologist’s evaluation test, which takes up to 90 minutes.
+“Early detection, diagnosis and treatment could help manage these illnesses, and so making screening faster and more accessible is critical,” Professor Kumar said. The research results are being published in IEEE Journal of Translational Engineering in Health and Medicine.
+CREDIT: IAN ROYALL
+Word count: 184

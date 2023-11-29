@@ -1,0 +1,34 @@
+Massive ‘honey pots’ of government data mean the risk of foreign interference in our democracy has never been greater. As the federal election looms, experts warn that Australia’s hearts and minds face manipulation by shadowy forces. TORY SHEPHERD reports
+DEMOCRACY is not just about the sausage sizzle on election day. It is – as United States President Abraham Lincoln once put it – “government of the people, by the people, and for the people”.
+So what happens when some other people – Russian, maybe, or Chinese – mess with our democracy?
+As political parties gear up to fight an election in May, Australia’s spy agencies and the Australian Electoral Commission are bracing to fight foreign interference.
+The extent of Russia’s interference in the US election that saw Donald Trump installed in the White House is still being explored, but cybersecurity experts say there’s a range of ways that people can fiddle with the system, and they expect attempts to compromise our democracy at May’s election.
+The US itself is worried about our election – a Republican Party strategist said in February that Australia had to step up its awareness of “information warfare”.
+Defence Minister Christopher Pyne said yesterday that some states – particularly Russia – “almost brag about their capability to disrupt elections in the west”.
+“We will always be monitoring … any country that seeks to influence the outcome of an Australian election,” he said, pointing to the Government’s foreign interference laws and boosted investment in cybersecurity through the Australian Signals Directorate.
+Three ways that the system could be corrupted are through hacking, fake news and manipulation.
+FAKE NEWS “Fake news” is a term wrongly used by politicians to describe news they don’t like, but its meaning in cyber terms is when meddlers plant false stories on social media to influence people’s voting behaviour.
+Research has shown that Mr Trump may owe his 2016 victory to “fake news” – A YouGov post-election survey found Russian-origin news stories and unverified WikiLeaks content probably had a substantial impact on people’s decisions.
+People read false stories about Hillary Clinton – such as that she was really sick, or sold weapons to ISIS – and switched their vote.
+The Australian Electoral Commission is more worried about “fake news” that gives people the wrong date for the election in order to disrupt voting.
+Dr Alana Maurushat, a Professor of Cybersecurity and Behaviour at Western Sydney University, recently took part in “Cyber Storm” – a Federal Government exercise to run through how attacks pan out and how to respond to them – and particularly how to respond to fake news.
+“It’s gotten to the point where the threat is serious enough where we are practising against the threat for upcoming elections,” Prof Maurushat said, adding that attempted interference has always happened – but now it is automated. State actors can use bots or artificial intelligence to spread fake news faster than it has ever happened before.
+Asked whether she thought the upcoming Australian election would be affected, she said it was “a high likelihood”.
+“We’d be naive to think this won’t happen with the next election,” she said during an Australian Science Media Centre briefing this week.
+HACKING A couple of weeks ago, Australia’s Parliament House computer system was hacked by what Prime Minister Scott Morrison described as a “sophisticated state actor” – generally thought to be China. The Labor, Liberal and National parties were targeted.
+While the Government said nothing was “stolen”, David Vaile from the University of New South Wales’ Allens Hub for technology, law and innovation, says that’s “misdirection” because the point is their security is too weak.
+He says governments are creating “honey pots” – massive stores of data that attract hackers.
+“They can’t admit they have a problem,” he said, adding the idea of information being secure is “basically over”.
+“The hack of the parties is just the latest in a never-ending series of massive attacks and breaches,” he said.
+“No one can promise to keep out a ‘motivated intruder’.” Hacking the parties could yield information gold – information on electorates, party politics, donors.
+MANIPULATION University of Canberra senior research fellow Michael Jensen says “fake news” can be hard to define, while the best propaganda is factually true, but used in ways that manipulate voters.
+The parliamentary hack “raises concerns that a foreign adversary may be intending to weaponise, or strategically release documents, with an eye towards altering the 2019 election outcome”, he said.
+The information gleaned could be used to inflame religious and ethnic differences, or to embarrass the major parties to drive votes to minor parties.
+Foreign interests might be trying to push voters towards parties more favourable to their agenda, he wrote in The Conversation, or to generally disrupt society and democracy. Russia and China want to see our major alliances weakened, which could happen if our politics becomes more chaotic and divided.
+Strategic leaks of information might push people toward One Nation, or the Greens – either side of the divide.
+Mr Jensen said ads were also used to manipulate voters in the US election and unregistered content on Facebook aimed to influence specific voters. The Australian Electoral Commission has been trying to find out who was putting up political ads on social media sites that target left-wing groups and political parties. Ads were popping up without proper authorisation.
+The AEC is working with the ASD, and cybersecurity is a top priority for the government as they work to stop interference and minimise the chances of hacking Facebook and Twitter are working on ways to stop or delete fake news before it goes viral.
+There are also ways individuals can resist fake news and manipulation. Voters should be aware that there are parties out there trying to trick them, and Prof Maurushat says there has been research showing people are starting to identify fake news and call it out.
+“Always make sure that you find an external source,” she advises people. “Before you click and share and have an opinion, take five minutes to do a little bit of research on your own.” She suggests crosschecking stories with reputable news outlets.“We need to turn the regular individual into the journalist,” she said.
+CREDIT: TORY SHEPHERD
+Word count: 1040

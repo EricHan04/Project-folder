@@ -1,0 +1,9 @@
+IT is hard to believe that a tech business with clients like Twitter, Deloitte, Lonely Planet and Adidas could be run by three guys operating out of Brisbane’s suburbia.
+The start-up, SecAlerts, was the brainchild of three former workmates in the media – Louis Stowasser, Tim Madden and Giulio Saggin – who saw a gaping hole in web security for business.
+In 2017, they began work on a service that matches businesses’ software to security vulnerabilities in that software – identified by “ethical hackers” – which are released publicly on the US government’s vast National Vulnerability Database (NVD).
+After two years of development, SecAlerts’ service quickly took off in the US market and the trio now count Twitter, Adidas, Deloitte and BET365, as well as a number of the world’s top universities and overseas government departments among more than a thousand global clients.
+Mr Stowasser said given the increasing risks of cyberthreats, businesses must be on top of security.
+“It was predicted that a ransomware attack would occur every 11 seconds in 2021, and that’s expected to drop to every two seconds within ten years,” he said. “It’s important that every business, no matter its size, keeps across its vulnerabilities, given the potential repercussions.” Previously, the job of matching up security alerts to businesses was left up to teams within individual organisations, leading to the possibility of missing some of the flaws in their software.
+The automated method removes this margin of error and is less labour intensive for the business. Despite SecAlerts’ success, the self-funded business is still very much in its early stages. This year the founders hope to scale up the business, which currently has annual revenue in the low hundreds of thousands of dollars.
+CREDIT: TECHNOLOGY MACKENZIE SCOTT
+Word count: 292

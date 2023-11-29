@@ -1,0 +1,12 @@
+USING artificial intelligence and machine learning, Adelaide research is finding new ways to predict bushfires and to make better use of firefighting equipment.
+Following recent success at the Bushfire Data Quest 2020, the Australian Institute for Machine Learning at the University of Adelaide is creating a new app to feed the AI even more data.
+Advanced Reasoning and Learning director Professor Javen Shi said the “citizen scientist app” would capture photo evidence of fuel loads, dryness and structure of forests.
+“AI is a super machine brain that can handle a lot more than a human brain and can predict the future much more accurately,” he said.
+“Human experience and intuition is not very reliable, but the AI can advise you on how to stop the fire, how to intervene, with limited resources.” The app called NOBURN (National Bush Fire Resilience Network) has won an Australian Government Citizen Science Grant of almost $500,000 to support its development over the next four years.
+The institute is working with forestry experts at the University of the Sunshine Coast.
+Together they plan to identify communities most at risk ahead of the fire season.
+Their winning Bushfire Data Quest team developed a fast and accurate way to predict bushfire burn areas using “deep neural networks” to capture complex patterns in data.
+PhD candidate Mahdi Kazemi said the model was “able to allocate a risk factor, a burn probability, for every single pixel of an image captured by a satellite”.
+“Our model was also able to predict with 88 per cent accuracy the burn area of a fire.”
+GREEN ZONE FUTURE ADELAIDE INITIATIVE
+Word count: 268

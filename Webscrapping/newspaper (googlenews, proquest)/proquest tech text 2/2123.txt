@@ -1,0 +1,18 @@
+There is a common perception that farmers have been slow to adopt precision agriculture tools.
+But one industry expert and farmer believes it depends on how you define precision agriculture, and either way, adoption is on the rise.
+Moree, NSW, farmer and PCT AgCloud product manager Ben Boughton is uniquely qualified to weigh in on the debate, having completed a Nuffield Scholarship exploring the role of precision agriculture in farming and founding the successful satellite imagery company, Satamaps, which was integrated into PCT AgCloud last year.
+Mr Boughton said precision agriculture was about being able to measure and record variability, activities, inputs and outputs on a farm in a spatial manner so that management decisions could be made on a smaller scale, ultimately resulting in increasing returns. He also said it was about encompassing the technology that enabled the precise application of inputs.
+"Precision agriculture has allowed us to add a spatial component, giving the ability to micro manage within a paddock," he said.
+"I often use digital agriculture interchangeably with precision agriculture, in my mind they have to integrated.
+"Many of the tools come bolted onto the tractor now, we can't forget those."
+Mr Boughton said there were many quick wins in the area of precision agriculture and these already had high adoption rates.
+"Obviously auto-steer delivered benefits to farmers and was highly adopted, it was a big win," he said.
+"Auto shut-off on the sprayer is fantastic, depending on how many point rows you can be saving a stack of chemical inputs, with added benefit of no overlap on residual herbicides for crop safety. An added benefit from getting a RTK base station is that you have extremely accurate elevation data that can be used for farm design.
+"Satellite imagery is cheap insurance, you can monitor your fields, see what is going on and make sure you aren't missing anything."
+Mr Boughton said the influence of agronomists was driving accelerated uptake of precision agriculture.
+"Historically one of the issues with the adoption of precision agriculture was companies tried to skip over the trusted adviser or agronomist and market straight to the grower," he said.
+"We are seeing more uptake now because the precision agriculture supply chain, when done right, now involves the soil and plant scientists - the agronomists."
+Mr Boughton said farmers could expect an exponential improvement in satellite technology and algorithms.
+"I think in the next few years we will see more affordable, high resolution imagery available," he said.
+CREDIT: Sharon O'Keeffe
+Word count: 416

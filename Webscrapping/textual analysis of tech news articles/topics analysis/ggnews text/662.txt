@@ -1,0 +1,20 @@
+Image: Cisco
+The City of Adelaide has picked TPG Telecom to replace its free Wi-Fi network at a cost of AU$4.8 million.
+Since 2014, the network was built and run by hometown telco Internode, with Internode's parent winning the contract for an initial five years.
+TPG is set to replace the "current mix of mesh-wireless, fibre, and copper-based technology" with a fibre network built on the Ten Gigabit Adelaide network that TPG built, and increased the number of access points by 25%, taking the total over 250.
+"ADL Free powered by TPG will be an integral service for the community as Adelaide prepares to welcome back more tourists and international students, whilst also servicing the needs of all city users and residents," Lord Mayor Sandy Verschoor said.
+"Not only will the new Wi-Fi assist businesses in the CBD and help position Adelaide as a leading centre of investment."
+The funding for the network upgrade is co-funded by the Commonwealth and City of Adelaide under the 10-year AU$699 million Adelaide City Deal, and work will commence in early 2022.
+Late Tuesday night, it was announced a AU$60 million digital technologies academy was approved at Lot Fourteen under the Adelaide City Deal.
+"At a time where more and more high-tech jobs are coming online here in South Australia, it's absolutely vital we can train the talent to take these jobs," Premier Steven Marshall said.
+"South Australia is unashamedly the space, defence and cyber state -- it's my aim to create a pipeline of jobs in these industry's [sic] so we can put the brain-drain behind us and be the country's beacon for major companies in these areas."
+Construction is pencilled in for commencing in late 2023.
+Last week, TPG landed a five-year deal with Qantas to handle fixed and mobile voice services.
+That deal included new fibre to carry voice and data between the airline's head offices, and airport terminals in Sydney, Melbourne, Canberra, Adelaide, Perth, and Darwin. The telco has already shifted the airline's 1300/1800 inbound customer support numbers to its mobile network. TPG said it already handles 90% of the mobile services for Qantas.
+On Tuesday, TPG reshuffled and reduced its executive structure, with 11 positions being cut down to seven.
+The company announced it was merging its fixed and mobile networks, IT, and digital functions under a CTO, with Giovanni Chiarelli to fill the role in January.
+Heading out the door is TPG Telecom new business development executive and former TPG COO Craig Levy, whose responsibilities are parked under the consumer function led by Kieren Cooney; CIO Rob James will depart; as will TPG Telecom wholesale executive and former Vodafone Australia chief strategy officer and director of corporate affairs Dan Lloyd.
+"By bringing networks and IT into the same department, we will create a better end-to-end technology experience for our customers," TPG Telecom CEO Inaki Berroeta said.
+"Migrating customers off the NBN and onto our own infrastructure is one of our biggest opportunities, and now that 4G and 5G home wireless has launched across our brands, business development will find a natural home in the consumer unit where we will continue to expand and innovate.
+"Wholesale will come under Jonathan Rutherford, who is currently leading the enterprise and government function."
+Related Coverage

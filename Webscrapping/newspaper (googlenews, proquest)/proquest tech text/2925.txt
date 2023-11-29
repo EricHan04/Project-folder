@@ -1,0 +1,15 @@
+AN SA-based aerial mapping company has launched a new tool to help collect data for regional councils to manage local green spaces, such as forests.
+Aerometrex, used laser-based light detection and ranging technology to create the new solution.
+Mounted in the body of a specially fitted out aircraft, LiDAR emits laser pulses from the plane to ground-level as it flies over a target survey area, with the pulse reflected back to sensors within the aircraft.
+The data can then measure the exact location of trees, their height, the breadth and density of their canopies, the structure of branches, the height of canopies from the ground, and the type and density of the ground level vegetation around the trees.
+The tool will be used to manage private, government and community land, as well as bushfire-related issues.
+Given the accuracy of the data, Aerometrex's managing director Mark Deuter believed it could replace costly and time consuming land-based surveys taken out by regional councils.
+"This LiDAR-derived tool is a breakthrough which takes managing our forests out of the 1950's foot patrols into a leading edge, data driven outcome," he said.
+"Critically, the data can be generated in 3D images and direct comparisons made between flight readings taken say a year ago, and today, so that loss, or growth, in tree numbers and canopy spread, is readily identifiable."
+Mr Deuter also said the technology would allow greater relevant problem areas to be identified, particularly to meet growing public expectations communities need to be "greener rather than browner".
+Aerometrex geospatial innovation manager Fabrice Marre said urban forests deliver positive economic, social and environmental benefits, including mitigating water run-off and are an obvious source of food and shelter for wildlife.
+"It actually takes lot of knowledge to manage trees, including correct selection of locations for new plantings, the types of tree that need planting, whether they are a species best able to deliver a required canopy spread, and whether they potentially increase of decrease an area's fire risk," he said.
+"Councils and government agencies have 'greening' targets that have to be reached. LiDar takes the guesswork and potential mismanagement out of it by providing wide-scale but real-time data that shows an exact percentage of treed areas and canopy cover."
+RELATED LINK: Logged native forests significantly more fire prone
+Start the day with all the big news in agriculture. Sign up here to receive our daily Stock Journal newsletter.
+Word count: 402

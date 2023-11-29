@@ -1,0 +1,27 @@
+The South Australian Premier's department has been deleting QR check-in data after 28 days, but SA Health has been holding onto the information it receives for contact tracing indefinitely, according to a report by the state's auditor-general.
+The state government requested the auditor-general conduct a review into the management of COVID-Safe QR check-in data after the system was brought in last December.
+South Australians have checked in more than 400 million times since then, with more than 2 million individual check-ins recorded on the system's busiest days.
+The auditor-general found the data was consistently deleted by the Department for the Premier & Cabinet (DPC) after 28 days, as required under legal directions.
+"Our testing found that people's contact details are effectively destroyed from the production database, which is the database accessible on a day-to-day basis," the report said.
+"This is an automated process that checks for records older than 28 days."
+But the report found the data was being retained in the department's back-up IT systems.
+[graph] 'Risk' of breach in event of IT system failure
+The auditor-general's report stated backup systems were "vital for the recovery of critical systems in the event of a disaster or system failure".
+But it found there was a "risk" of the department breaching the deletion direction in the event of a system restoration.
+"DPC advised us that it intends to destroy all backups when contact tracing in the state is no longer required," the report stated.
+"Until this time, data restorations are possible, although controls exist to protect the data from any unauthorised restorations.
+"There is a risk that if backups are restored, the restored information may contain people's contact details captured through the COVID‐Safe Check‐In app that are older than 28 days."
+In responding to the Auditor-General's report, the Department for the Premier & Cabinet stated it had "updated its backup restoration procedure" & had "included an additional requirement to verify that once restored, no data exists that is over 28 days".
+A spokesperson for the department said it would be "automatically deleted upon restoration" if the IT system had to be restored after a failure.
+SA Health holding data 'indefinitely'
+SA Health receives a "subset" of QR code check-in data from DPC when needed for contact tracing processes.
+But the Auditor-General's report stated SA Health's data storage systems did not fall under the same directions governing DPC, but rather under the Health Care Act.
+"SA Health advised us that it intends to retain all data received indefinitely under the Health Care Act 2008," the report stated.
+"The act makes detailed provisions for the protection & confidentiality of information."
+The report found SA Health's approach was "not consistent" with an order made by State Records of South Australia that all check-in data collected should be "destroyed as soon as practicable when no longer required … or immediately following the declaration of the end of the pandemic".
+"It would be helpful if SA Health's public communications included advice that it retains all requested COVID-Safe check-in app data indefinitely," it stated.
+In its response to the report, SA Health agreed to review its data retention practices, & "ensure alignment with all relevant legislation".
+SA Health said it would aim to "reflect" its data retention practices on its website & other digital platforms by November.
+A spokeswoman for the department confirmed it was holding on to QR check-in information but said it would only be released for "official contact tracing purposes or for managing the COVID-19 pandemic".
+[Click through to send us your questions about COVID-19]
+Word count: 591

@@ -1,0 +1,33 @@
+(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)
+You need to sign in or create an account to save
+We are seeking a Post- Doctoral Research Fellow Level B to join the Australian Institute for Machine Learning, at the University of Adelaide for a fixed term contract for 12 months.
+Attractive remuneration package, including 17% super and excellent employee benefits available.
+The successful candidate will work as a medical machine learning postdoc at the Australian Institute for Machine Learning to engage in a collaborative, multi-disciplinary project involving the University of Adelaide, Flinders University, Flinders Medical Centre and the Women’s and Children’s Hospital.
+Work will involve developing deep learning computer vision models with clinical applications spanning neurology, neurosurgery, maxillofacial surgery, and spinal surgery. The position is supported by The Channel 7 Children’s Research Foundation, South Australia Medical Imaging, and MS Australia.
+The University of Adelaide is a member of Australia’s prestigious Group of Eight research-intensive universities and consistently ranks in the top 1% of universities worldwide and The Australian Institute for Machine Learning (AIML) is Australia’s pre-eminent research institute in machine learning, AI and computer vision. It is also the country’s largest, with over 150 members, including academics, research staff and students.
+Our world-renowned researchers have established a culture of innovation and a strong track record of publication in the top venues, particularly in the area of computer vision. We're committed to delivering fundamental and commercially oriented research that’s highly valued by our local and global communities.
+This is an outstanding opportunity to advance your medical machine learning research career with a world-class institution and Hospital in a world-leading environment.
+To be successful you will need:
+Programming experience and expertise in Matlab, Python, or C++ or other relevant language.
+Experience and demonstrable expert knowledge in one or more of the following areas: Multimodal learning and representation. Medical image processing and segmentation. Contrastive learning and unsupervised/weakly-supervised learning. Deep learning and neural networks.
+Experience collaborating with clinicians and/or medical researchers.
+Track record of publications in top-tier Computer Vision, Artificial Intelligence or Medical Imaging conferences and/or journals, commensurate with experience and opportunity.
+A strong work ethic, with the ability to work independently, and as a member of a broader team, including industrial partners.
+The successful candidate will have a PhD in Computer Science or a related discipline with equivalent industry experience.
+You will work in one of the world’s most talented and creative machine learning teams, with constant research–engineering collaboration. You’ll use state-of-the-art technology and you’ll be based in the heart of one of the world’s top 10 most liveable cities.
+To learn more about working at AIML, visit: adelaide.edu.au/aiml/
+Your faculty's broader role
+The Faculty of Sciences, Engineering and Technology is a multidisciplinary hub of cutting-edge teaching and research. Many of its academic staff are world leaders in their fields and graduates are highly regarded by employers. The Faculty actively partners with innovative industries to solve problems of global significance.
+Learn more at: set.adelaide.edu.au
+If you have the talent, we'll give you the opportunity. Together, let's make history.
+Click on the ‘Apply Now’ button to be taken through to the online application form. Please ensure you submit a cover letter, resume, and upload a document that includes your responses to all of the selection criteria for the position as contained in the position description or selection criteria document.
+Applications close 11:55 pm, 20 July 2022.
+For further information
+For a confidential discussion regarding the opportunities currently available at AIML, or that we could potentially create for you, please contact:
+Dr Kathy Nicholson
+Operations Manager
+Australian Institute for Machine Learning
+E: Kathy.nicholson@adelaide.edu.au
+T: +61 (8)831 39258
+M: +61 449 833 241
+The University of Adelaide is an Equal Employment Opportunity employer. Women and Aboriginal and Torres Strait Islander people who meet the requirements of this position are strongly encouraged to apply.

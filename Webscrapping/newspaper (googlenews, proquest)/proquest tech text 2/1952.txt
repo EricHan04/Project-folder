@@ -1,0 +1,11 @@
+1. Artificial intelligence specialist (getting machines to ‘learn’ and take autonomous action)
+2. Cyber security specialist (keeping computer information systems secure)
+3. Marketing automation specialist (combining marketing skill and creativity with technical nous to connect with customers and develop markets)
+4. Robotics engineer (developing software to automate mundane tasks)
+5. Site reliability engineer (keeping apps and websites running smoothly)
+6. Customer success specialist (understanding what clients want and need and helping organisations proactively deliver those things)
+7. Data scientist (a combination of computer scientist and mathematician, data scientists gather valuable insights from data to inform important decisions)
+8. Data engineer (building, testing and maintaining the processing systems that data scientists scrutinise and then use to gather insights)
+9. Growth manager (using data insights and business development skills to spot new product opportunities )
+10. Chief strategy officer (developing strategies that deliver growth across a business)(Information from Linkedin 2020 Emerging Jobs Report Australia)
+Word count: 153

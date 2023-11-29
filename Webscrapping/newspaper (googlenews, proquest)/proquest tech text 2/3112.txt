@@ -1,0 +1,12 @@
+Privacy advocates have raised new concerns about the federal government's coronavirus tracing app on the eve of a debate in Parliament on jail terms and fines for those who breach its safeguards.
+The civil liberties groups want the government to change the design to ensure personal data is not stored on a central database, arguing this increases the danger from a single cyber attack.
+The government reported 5.5 million downloads of the app by yesterday afternoon but it is yet to reach its download target.
+Attorney-General Christian Porter has discussed last-minute changes to the privacy bill with Labor legal affairs spokesman Mark Dreyfus, clearing the ground for bipartisan support this week.
+Privacy expert Malcolm Crompton, a former Commonwealth privacy commissioner, said the exposure draft of the bill was "pretty good" but the overall design needed to be improved.
+Mr Crompton said the government should commit to more funding for the Office of the Australian Information Commissioner, the federal authority empowered to hear any complaints about privacy breaches with the app.
+The councils for civil liberties in NSW, Queensland and South Australia issued a joint statement backing the case for tracing but calling for stronger safeguards.
+"More needs to be done to ensure that the app does not compromise data protection and thereby increase the risk of illegal and inappropriate use of data or surveillance of Australians," they said. "It is also disappointing that the government has opted for centralised data storage ... rather than adopting the widely supported and more privacy-friendly decentralised option.
+"Cyber attacks and accidental and illegal data breaches will continue to occur on Australian government databases. This storage choice creates a real risk of such breaches and will undermine users' confidence as to the safety of their private data."
+The bill imposes jail terms and a $63,000 fine for every privacy breach and makes it an offence to hold data on a database outside Australia following concerns that global company Amazon Web Services will manage some of the project.
+CREDIT: David Crowe
+Word count: 335

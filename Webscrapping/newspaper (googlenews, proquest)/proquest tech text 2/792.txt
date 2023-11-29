@@ -1,0 +1,14 @@
+The prototype of a handheld micron-measuring device will be tested out on farms across Australia in coming months.
+Researchers Vicky Staikopoulos and Ben Pullen are behind Adelaide-based start-up Woven Optics, which began development of the device in 2018.
+Now the company is looking for early adopters to provide feedback on the micron reader.
+Ms Staikopoulos said the second iteration of their prototype should be finished by the end of August and they would then be looking to do some in-field testing.
+"We've done some initial testing on our first device just to make sure the hardware was working and now we're trying to incorporate all the hardware and software together into one component," she said.
+"The only current limitation is that because it is a prototype and the budget that we have, it's got a 4G chip in it so it means that it has to be able to connect.
+"Therefore we need to start with farms that have 4G connectivity on site, however this will be remedied in future interations of the device."
+She said in a single week they had been contacted by 28 people from all over Australia and New Zealand interested in testing the product.
+"In the end, it will come down to accessibility, connectivity on site and our budget limitations, in order to have a technician be able to travel and make sure we can get the maximum amount of data during the first round of field testing," she said.
+"Because we're building this in consultation with farmers, the field testing is also about getting feedback from the users, whether it's farmers, brokers, whoever has put their hand up to say what the usability, ergonomics and other features are like.
+"There have been a lot of farms who have identified that they have already done testing using other methods and I think that will be important for us so we can benchmark against the measurements they are getting using OFDA or LaserScan."
+She said they were seeking further funding to help with the product's launch.
+CREDIT: Victoria Nugent
+Word count: 343

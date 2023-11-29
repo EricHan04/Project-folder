@@ -1,0 +1,11 @@
+AUSTRALIANS’ personal information is being harvested by Google from eight out of 10 of the country’s most popular websites, the consumer watchdog has warned.
+The search engine is also mining information from nine out of 10 Android apps, while Facebook is receiving personal information from the users of four in every 10 of the most-popular Android apps, even if those people do not use the powerful social network.
+The Australian Competition and Consumer Commission revealed the tracking in its first six-monthly update looking at digital platforms in Australia.
+The report also found Australians had flooded online messaging services from Facebook and Apple to stay in touch during the coronavirus pandemic, raising more privacy concerns.
+But one of its biggest findings related to the use of Australians’ personal information, which it found was being “extensively tracked” by Google and Facebook.
+The ACCC employed data privacy firm AppCensus to analyse the extent of user tracking and profiling on the top 1000 websites and Android apps in Australia.
+It found Google’s third-party digital trackers were on more than 80 per cent of the most-popular websites, while Facebook’s trackers were found on more than 40 per cent, followed by Amazon and Microsoft.
+“The ACCC considers that many consumers would be unaware that these platforms and other businesses involved in the supply of advertising services are receiving user information in this way,” the report noted.
+The interim report also flagged the increasing use of voice-activated smart speakers and augmented-reality apps as areas for greater data collection from consumers. ACCC chairman Rod Sims, pictured, said his staff were closely monitoring those new areas.
+CREDIT: JENNIFER DUDLEY-NICHOLSON
+Word count: 270

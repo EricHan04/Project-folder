@@ -1,0 +1,9 @@
+ARTIFICIAL intelligence could help thwart one of the biggest threats to Australia’s Great Barrier Reef, potentially saving huge areas of coral from devastation by crown of thorns starfish.
+Tech giant Google teamed with scientists from the CSIRO to create AI software that could identify the dangerous pests on the Queensland reef, which are one of the natural wonder’s three biggest threats. And the new approach – which uses footage from an underwater camera to identify starfish outbreaks – not only replaces an old, laborious method but early results show it could correctly identify more of the dangerous pests, preventing outbreaks.
+Google CEO Sundar Pichai said he was excited about the company’s commitment to the reef project and the potential for future scientific partnerships in Australia.
+“We are investing in engineering talent in Australia and we are committed to doing that and will be doing more work around AI there,” he said.
+“Our goal with our AI research teams is to strike partnerships with academic institutions, non-profits and governmental institutions to show the benefits of what’s possible.” CSIRO coral reef ecology expert Professor Russ Babcock said Google’s AI technology, developed over 18 months, could be trained to identify crown of thorns starfish more efficiently than the old method developed in the 1970s.
+That system, which was used until recently, involved towing a diver behind a boat, suspended by a floating board, and stopping every two minutes to record how many starfish and coral they have identified.
+Google Australia managing director Mel Silva said the starfish program was part of the company’s $1bn Digital Future Initiative. The company is also working with Australian researchers to use AI to track endangered dugongs, turtles, dolphins and sharks.
+CREDIT: JENNIFER DUDLEY-NICHOLSON
+Word count: 286

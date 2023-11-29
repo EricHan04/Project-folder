@@ -1,0 +1,23 @@
+Geopolitical flux, economic uncertainty and demographic shifts are affecting all of us. Times can feel uncertain. And I know that the hundreds of Australians affected by last month’s decision to shutter the much-loved Holden brand understand this all too well.
+What feels different to many people is the sheer pace and scale of change. Entire industries are transforming in front of us. Certainly, technology is one of the many drivers of change, but I believe it is also the means by which individuals can become more empowered and societies evolve for the better.
+Cloud computing, artificial intelligence, the Internet of Things, blockchain, mixed reality, edge computing and quantum computing are the building blocks of what seems like a very different world.
+Yet with this transformation comes great opportunity. New innovations and breakthroughs will be achieved: from precision medicine and agriculture, to connected manufacturing and homes, to personalised education and retail.
+A recent study by PwC predicts that by 2030 AI could boost global GDP by up to 14 per cent — contributing $US16 trillion ($24.5 trillion) to the global economy.
+When McKinsey & Co released its “Australia’s Automation Opportunity” report last year, it noted that automation and AI could deliver a $4bn boost to the local economy, but also warned of the risk if people were not properly prepared for the transformation.
+With every digital advance we have a responsibility to ensure that everyone is empowered and that it creates the opportunity for equitable growth. People in jobs that will be affected by a data-driven economy need to be equipped with the skills that will prepare them for a completely different future.
+While there will be an increased need for data scientists and software developers, there are also new opportunities for people employed in retail, manufacturing, travel and hospitality.
+What’s clear is that all ­employers, workers and policymakers must become more flexible, attuned to the impact of technologies such as AI.
+What this means from a practical point of view are two things: ­investment in education and a commitment from all of us to lifelong learning.
+Australian children who entered kindergarten or prep classes earlier this year have taken their first step on that journey. The knowledge that they accrue during school, then in college or university, will be critically important as they enter the workforce. So, too, the skills that they develop.
+At Microsoft we are investing deeply in supporting educators, schools, teachers and universities to optimise learning outcomes and ­create truly inclusive learning environments where people of all abilities can shine.
+Last week I attended a hackathon with some students from Kingsgrove North High School as part of the Microsoft AI for Good Schools Challenge, which is designed to give all high school students the opportunity to develop solutions that use AI to make a positive impact in the world.
+For all students it’s important to recognise that on entering the workforce learning doesn’t stop. If anything, it’s just the beginning.
+If we are to close the skills gaps in the rapidly growing fields of AI, cloud and data engineering, machine learning, data science, and more, we need a society built around ongoing education and training.
+As an example: to help address the 100,000 ICT skills shortfall that Australia faces, Microsoft now has its Traineeship Program operating in NSW, the ACT, South Australia and Victoria.
+Fifty companies have signed up for the program and are employing more than 100 trainees.
+Some of these trainees are school-leavers but others are mums and dads who are looking to return to the workplace and build a new career.
+All of us need to develop the growth mindset: open to learning and not content to “know it all”. Developing this mindset, along with providing the right tools and training will equip every worker with the capability to use modern technology and to apply data in intelligent ways.
+In this scenario, people can become workplace “citizen developers” creating new apps and processes using modern no-code or low-code tools.
+The changes being wrought by digital transformation and AI-­infused innovation are profound and will affect industries and ­nations in subtly different ways. There are clear social, economic, industry and education challenges ahead, but at Microsoft we believe digital technology and lifelong learning will combine to fuel future economic prosperity and drive opportunity — let’s leave nobody behind.Jean-Philippe Courtois is Microsoft’s EVP and president, global sales, marketing and operations
+CREDIT: Jean-Philippe Courtois
+Word count: 737

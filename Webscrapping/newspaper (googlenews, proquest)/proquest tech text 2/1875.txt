@@ -1,0 +1,43 @@
+Media release distributed by Medianet.
+
+8 July 2022
+World first self-calibrated photonic-chip:an interchange for optical data superhighways
+
+Research led by Monash and RMIT Universities in Melbourne has found a way to create an advanced photonic integrated circuit that builds bridges between data superhighways, revolutionising the connectivity of current optical chips and replacing bulky 3D-optics with a wafer thin slice of silicon.
+This development, published in the prestigious journal Nature Photonics, has the ability to warp-speed the global advancement of artificial intelligence and offers significant real world applications such as:
+Safer driverless cars capable of instantly interpreting their surroundings
+Enabling AI to more rapidly diagnose medical conditions
+Making natural language processing even faster for apps such as Google Homes, Alexa and Siri.
+Smaller switches for reconfiguring optical networks that carry our internet to get data where itâ€™s needed faster
+Whether itâ€™s turning on a TV or keeping a satellite on course, photonics (the science of light) is transforming the way we live. The photonic chips can transform the processing capability of bulky bench sized utilities onto fingernail sized chips.
+Dr Mike Xu from Monash University's Department of Electrical and Computer Systems Engineering and now at Beijing University of Posts and Telecommunications, Professor Arthur Lowery from Monash University's Department of Electrical and Computer Systems Engineering,Â  and Dr Andy Boes who conducted this research while at RMIT and has recently taken up a position at the University of Adelaide, conceived the experiment under a joint Australian Research Council Discovery Project.Â 
+Professor Arnan Mitchell and Dr Guanghui Ren engineered the chip so it was ready for the experiment demonstration.
+The projectâ€™s lead investigator, Monash University ARC Laureate Fellow Professor Arthur Lowery says this breakthrough complements the previous discovery of Monash Universityâ€™s Dr Bill Corcoran who, in partnership with RMIT in 2020, developed a new optical microcomb chip that can squeeze three times the traffic of the entire NBN through a single optical fibre, regarded as the world's fastest internet speed from a single fingernail-sized chip.
+The optical microcomb chip built multiple lanes of the superhighway, now the self-calibrating chip has created the on and off ramps and bridges that connect them all and allow greater movement of data.
+â€œWe have demonstrated a self-calibrating programmable photonic filter chip, featuring a signal processing core and an integrated reference path for self-calibration,â€ explains Professor Lowery.
+â€œSelf-calibration is significant because it makes tunable photonic integrated circuits useful in the real world; applications include optical communications systems that switch signals to destinations based on their colour, very fast computations of similarity (correlators), scientific instrumentation for chemical or biological analysis, and even astronomy.
+â€œElectronics saw similar improvements in the stability of radio filters using digital techniques, that led to many mobiles being able to share the same chunk of spectrum: our optical chips have similar architectures, but can operate on signals with Terahertz bandwidths,â€ he comments.
+This breakthrough has been three years in the making.
+New internet-reliant technologies like self-driving cars, remote controlled mining and medical equipment, will require even faster and increased bandwidth in the future. Bandwidth increase is not just about improving the optical fibres in which our internet travels through, it's about providing compact switches of many colours, going many directions, so data can be sent down many channels at once.Â 
+â€œThis research is a major breakthrough â€“ our photonic technology is now sufficiently advanced so that truly complex systems can be integrated on a single chip. The idea that a device can have an on-chip reference system that allows all its components to work as one, is a technological breakthrough that will allow us to address bottleneck internet issues by rapidly reconfiguring the optical networks that carry our internet to get data where itâ€™s needed the most,â€ says Professor Arnan Mitchell from InPAC.
+Photonic circuits are able to manipulate and route optical channels of information, but they can also provide some computational ability, for example, searching for patterns. Pattern searching is fundamental to many applications: medical diagnosis, autonomous vehicles, internet security, threat identification and search algorithms.Â 
+Rapid and reliable reprogramming of the chips enables new search tasks to be programmed speedily and accurately. However, this manufacturing needs to be precise to the degree of a tiny wavelength of light (nanometres), which is currently difficult and extremely expensive - self-calibration overcomes this problem.Â Â 
+A key challenge of the research was integrating all the optical functions onto a device that could be â€˜plugged inâ€™ to existing infrastructure.Â 
+â€œOur solution is to calibrate the chips after manufacturing, to tune them up in effect by using an on-chip reference, rather than by using external equipmentâ€, says Professor Lowery, an ARC Laureate Fellow. â€œWe use the beauty of causality, effect following cause,Â  which dictates that the optical delays of the paths through the chip can be uniquely deduced from the intensity versus wavelength, which is far easier to measure than precise time delays. We have added a strong reference path to our chip and calibrated it. This gives us all the settings required to â€˜dial upâ€™ and desired switching function or spectral response.â€
+The method is a critical step to make photonic chips practically useful. Rather than searching for a setting, akin to tuning in an old radio, the researchers could tune the chip in one step enabling the quick and reliable switch of data streams from one destination to another.Â 
+Reliable tuning of photonic chips opens up many other applications, such as optical correlators, which can almost instantaneously find patterns of data in data streams, such as images - something the group has also been working on.Â 
+â€œAs we integrate more and more pieces of bench-sized equipment onto fingernail-sized chips, it becomes more and more difficult to get them all working together to achieve the speed and function they did when they were bigger. We overcame this challenge by creating a chip that was clever enough to calibrate itself so all the components could act at the speed they needed to in unison,â€ says Dr Andy Boes from the University of Adelaide.
+Read the paper here: https://www.nature.com/articles/s41566-022-01020-z
+DOI: 10.1038/s41566-022-01020-z
+Images are available.
+-ENDS-
+Media Enquiries
+Sue Smethurst - Senior Media Adviser
+Monash University
+T: 0418 643 520 Â  E: sue.smethurst@monash.edu
+Michael Quin
+RMIT University
+T: 0499 515 417 E: michael.quin@rmit.edu.auÂ 
+https://www.medianet.com.au/news-hub-post/62c629b138720f63300b5318SOURCE: Monash University
+
+Word count: 1044

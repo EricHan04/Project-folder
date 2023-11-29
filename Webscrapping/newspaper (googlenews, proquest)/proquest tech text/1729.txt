@@ -1,0 +1,29 @@
+After years of hype around livestock tracking technologies, Dr Mark Trotter, says these systems are now becoming a reality.
+Dr Trotter, Associate Professor in Precision Livestock Management at Central Queensland University, has been working with "smart tag" developers for about a decade and says the commercial release of these technologies is closer than ever, but more testing still needs to be done.
+Dr Trotter will be presenting at the Elders Present Livestock Innovations forum on September 30.
+He will join experts from Murdoch University, the University of Adelaide and Elders in an interactive session offering insight into research on the cusp of delivering gains for farmers, including the role of melatonin in boosting lamb survival rates, genetic selection for meat quality and forage sorghum safety.
+Thomas Elder Institute head Michael Wilkes said Elders Presents participants would be able to pose questions to researchers about the on-farm value of the projects and how their findings could be implemented.
+Dr Trotter led a team that explored the value proposition behind smart tags, cutting through the hype to understand exactly how producers could make money from these devices and then how much they could afford to pay for them.
+He said the key was a better understanding of what stock were doing at either mob or individual level.
+"When the dairy industry started using smart tags years ago, there was one clear-cut benefit farmers could take to the bank and that was detecting oestrus for better timing of artificial insemination but, for other livestock producers, it's a host of uses that all add up," he said.
+"Although there are a couple of big, low-hanging fruits, in terms of value.
+"If you look at northern Australia, knowing where your cattle are for mustering efficiency and reducing helicopter time, that's a very big win."
+But there were plenty more benefits, too, like monitoring water consumption, grazing optimisation, and even exploring the behavioural differences between a mob's top performers and the tail.
+Sometimes, it made sense only to tag certain animals, like a ram or bull, particularly in single-sire matings.
+"You can see a shift in behaviour when a bull breaks down and stops working properly," Dr Trotter said.
+"There may also be some interesting ways we can optimise the percentage of bulls that are put out based on understanding their behaviour in real time.
+"In the middle of the season, we can see what's actually happened with those bulls; how many are working, how many aren't, and it's the same thing with rams."
+The hardware that would allow commercial adoption had been a long time coming, Dr Trotter said.
+"For the last however long, there's been a whole bunch of commercial companies talking about bringing a smart tag to market," he said.
+"And, certainly, a lot of producers have been dreaming about it for years and I'm probably no different as a researcher.
+"We've been looking at this last 10 years and trying to partner with commercial developers to get something to market.
+"But it's actually a really difficult task to develop a piece of hardware that can sense the location and activity of an animal and then transmit that data in real time via radio link, all powered by a little battery and solar panel, it's just a really difficult technical problem.
+"Like just about any other technology that enters the agricultural market, there's always a lot of hype around something, particularly if producers can see the value of it. And I think that's the case with this technology."
+Asked why farmers could feel more confident smart tags suitable for beef and sheep operations would become a reality soon, Dr Trotter said surging interest in agriculture had spurred investment.
+"I have a couple of these tags sitting on my desk in front of me," he said.
+"These tags have gone through several iterations already and they're being rolled out on properties across Australia.
+"Commercially, it's well and truly on its way.
+"The key will be for producers to adjust their expectations around the performance of the tags. There's lots of opportunities to get involved in testing these tags, but that's just it, we are still testing them out and the commercial developers will need to refine them more to make sure they realise the potential value they have for the industry."
+The next Elders Presents event will be held online on Wednesday September 30 from 5.30pm. Book at https://eldersrural.com.au/tech-services/elders-presents-ag-tech/
+CREDIT:
+Word count: 736

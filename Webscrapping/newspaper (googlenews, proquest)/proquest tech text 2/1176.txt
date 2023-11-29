@@ -1,0 +1,20 @@
+So it’s perhaps poetic that the Adelaide company has brought artificial intelligence to bear, to crunch the numbers on the Tetris-like task of getting hundreds of thousands of containers per year on and off ships, and on their way to the end user.
+Flinders has been working with Adelaide AI company Complexica for the past 18 months on optimising container movements through the Adelaide Container Terminal.
+The process has been largely manual to date, for while there is digital tracking of containers themselves, the decisions about where they would go in the yard, have until now been left up to humans.
+Flinders chief financial officer and the executive charged with driving the company’s digitisation agenda, Keith Halifax, said the organisation had identified a simple, albeit not easy to solve, problem.
+“We’re consistently looking at how do we ultimately manage cost and improve service to every trucking company, every transport handler that has to go through what is the only container terminal in the state,’’ Mr Halifax said.
+“One of the things we’re most conscious of is running that precinct as efficiently as we can so as to manage the cost in the supply chain for all South Australians.
+“One of those (problems we identified) was simple in concept - can we optimise the way that we move containers within the yard?
+“When a vessel comes in and drops 1000 boxes or 1400 containers, where do we put them in the yard?
+“They tend to dwell for anywhere from one to three days and then a truck will pick it up from the gate or it will get put on a train and taken to the next part of the supply chain.
+“The concept is very simple - how can we touch that box less times, how can we handle it less, and ultimately do more with less.’’
+Mr Halifax said the equivalent of 400,000, 20 foot containers went through the precinct each year, and several variables dictated the best way to handle each one through the yard.
+These included for example which of two berths it needed to go to, what time trucking arrived, and what contents were involved.
+“It felt very much like a problem that AI had the potential to add value to,’’ Mr Halifax said.
+For the team at Complexica, it was a classic scenario, well-suited to an AI solution, where the amount of data was simply well beyond human capacity to absorb, managing director Matthew Michalewicz said.
+“I think this represents one of those problems where you have scale, you have complexity, and you have velocity. Things are happening very quickly, and it’s physically impossible for any team of human experts to be considering all the combinations, all the forward scenarios and in real time be making optimised decisions, second-in, second out.
+“It’s ideally suited for algorithmic technology like the one we’re deploying for Flinders. It’s the perfect problem.’’
+Mr Halifax said the project was about halfway to being fully implemented, with digital dashboards for users in the yards and also for management to both give instructions on what needed to be done on the ground, as well as to monitor how well it was working.
+Complexica recently announced it plans to list on the ASX next year, with a $25-$50 million capital raising likely to be considered.
+Some of its other customers include Pernod Ricard, Metcash, Dulux, Pfizer, Arnott’s, PFD Food Services, and Costa Group.
+Word count: 552

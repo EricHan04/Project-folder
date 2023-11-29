@@ -1,0 +1,52 @@
+Source: The Conversation (Au and NZ) - By Katja Ignatieva, Associate Professor, UNSW Sydney
+Shutterstock
+News about the energy crisis engulfing Australia’s east coast seems inescapable. Terms such as “grid”, the “National Electricity Market” and “transmission” are being tossed around alongside the frightening prospect of soaring power bills – but what does it all mean?
+Here, I break down a few of the terms and ideas underpinning this unprecedented event to help you make sense of it.
+Read more: Why did gas prices go from $10 a gigajoule to $800 a gigajoule? An expert on the energy crisis engulfing Australia
+What is the electricity grid and how does it work?
+An electricity grid doesn’t refer to any specific location, but is a network that delivers electricity from producers to consumers through a series of poles and wires spanning the continent.
+The National Electricity Market is one such interconnected grid. Contrary to its name, it doesn’t cover the entire nation, only Australia’s east and south: New South Wales, the Australian Capital Territory, Queensland, South Australia, Victoria and Tasmania.
+Each time you switch on the light, heater, or toaster, you’re using electricity that arrives to your home via this network.
+Power is carried from electricity generators (coal-fired power stations, gas plants, wind and solar farms) to retailers (the company charging your power bills) to your home or business via “inter-connectors” (high voltage towers, undersea cable).
+Inter-connectors are particularly important when the demand for electricity in a region is higher than what a local generator can supply, such as during cold snaps or heatwaves. Then, a supplier in a neighbouring region can step in to fill demand using the inter-connectors.
+Neighbouring suppliers can also step in if their electricity prices are lower than local suppliers’.
+Read more: Want a solution for the energy crisis gripping Australia's east? Look west
+Why do energy prices fluctuate throughout the day?
+Energy prices rely heavily on demand. The more electricity is needed, the more expensive it is. And clearly, demand fluctuates throughout the day.
+During cold winter months electricity demand is expected to increase as people switch on their heaters. During hot summer months, switching on air conditioners also leads to increased electricity demand.
+The winter demand typically experiences two daily peaks: in the cold morning and evening hours, when most people use their heaters. The demand during the day, when the outside temperatures are relatively high, drops to a lower level.
+Likewise, the summer demand usually peaks during hot afternoon hours, when most people use their coolers and air-conditioners.
+Energy prices are higher in the morning and evening in winter when more people use their heaters. Shutterstock How are energy supply and prices determined?
+The National Electricity Market is not only a physical grid, but also plays the role of a wholesale market which facilities the exchange of energy between generators and retailers.
+Because electricity can’t be stored easily, energy supply and demand is matched instantaneously, in real time.
+Generators submit their offers to supply the market with a certain amount of energy for a certain period of time. The Australian Energy Market Operator then decides which generators to deploy, starting with the cheapest.
+Read more: Australia's National Electricity Market was just suspended. Here's why and what happens next
+Retailers buy energy from generators at a wholesale price, which is extremely volatile because of sharp unpredictable increases in energy demand and, therefore, price.
+Retailers then resell the electricity to businesses and households. Consumers pay a more-or-less fixed price for power. But since retailers need to mitigate their risks related to the extremely volatile wholesale prices, they incorporate this risk into consumers bills.
+Indeed, wholesale prices have historically represented around 35% of the final bill for households.
+But retailers can’t go overboard – energy prices in the National Electricity Market are regulated by state and federal laws. Though, retailers are allowed to make a reasonable margin.
+I have rooftop solar. How am I affected by the current price spikes and shortages?
+By installing a rooftop solar, households are expected to escape any sharp increases to their energy bills, and even save around 30% to 60%.
+This results in return on investment into rooftop solar system in three to seven years, depending on the location, and usage time, shading, roof direction and inclination.
+So it’s not surprising soaring power prices have led to increasing demand for solar panels.
+Households can make the most of their solar panel system by adding battery storage – technology that allows you to store any extra electricity your rooftop solar generates – to maintain electricity supply during grid blackouts. Batteries, however, are expensive, which means this option might not be very cost-effective just yet.
+Installing rooftop solar can offset the price hikes in electricity bills. Shutterstock Could price gouging be impacting energy prices?
+The increase in energy prices is mainly driven by the increasing global cost of fossil fuels, inflation, and supply chain disruption. But it’s also likely electricity generators are taking further advantage of the situation by price gouging in the National Electricity Market.
+This is a situation when generators try to withhold some supply to get higher payments later, making so-called “windfall” profits. It is the energy regulator’s responsibility to look closely into this issue.
+Read more: Australia already has a UK-style windfall profits tax on gas – but we'll give away tens of billions of dollars unless we fix it soon
+Can electricity prices in Australia go down in the short term?
+The outlook isn’t very optimistic and we probably won’t see electricity prices decline in the next few weeks or months.
+The challenging global environment (largely due to Russia’s invasion of Ukraine), the shutdown of coal-fired power plants in Australia, limited generating capacity, and the colder than usual start to winter, are creating extreme demand conditions.
+These challenges aren’t going away any time soon, and will likely result in even larger price spikes in the future.
+Fortunately, the Australian Energy Market Operator has taken the extraordinary measure to bring some stability to the energy sector by temporary suspending the normal market operations.
+This will reduce the risks of blackouts or supply shortfalls. It will also provide transparency on how generators operate, preventing them from price gouging.
+Once we reach some stability, ensuring uninterrupted power supply to Australians, ways to reduce energy cost should be explored. This will take a number of months.
+Transmission towers carry electricity around the country. Shutterstock Would having more renewable energy help?
+The Labor government plans to significantly increase the share of renewables in the National Electricity Market, to 82% by 2030.
+More renewable energy in the grid could certainly reduce energy prices in the medium to long term – it’s the most cost-effective way to generate electricity, and as Australia’s produces its own renewable energy, we’ll be better shielded from global market issues.
+But transitioning from fossil-fuel generation to renewables will be difficult, as it requires building significant new infrastructure, which takes time.
+So while Australia transitions to clean energy, it’s imperative to set up a short-term strategy to ensure the sector is sustainable. This could include government investment in dispatchable generation – energy that can be dispatched to consumers on demand.
+Read more: 5 policy decisions from recent history that led to today's energy crisis
+Katja Ignatieva does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+- ref. What's a grid, anyway? Making sense of the complex beast that is Australia's electricity network - https://theconversation.com/whats-a-grid-anyway-making-sense-of-the-complex-beast-that-is-australias-electricity-network-185127
+Word count: 1224

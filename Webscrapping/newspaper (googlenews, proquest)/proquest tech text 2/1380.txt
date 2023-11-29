@@ -1,0 +1,8 @@
+A NEW smart refrigeration platform has been developed by an Adelaide technology start-up to help microbreweries improve their productivity and reduce energy consumption.
+Newly launched product development house Katana has developed the Frigid platform, which uses Internet of Things (IoT) and cloud computing technologies to provide craft brewers with real time information and the ability to control the chilling process remotely.
+The platform was launched following a pilot program with Stepney-based Little Bang Brewery.
+Katana co-founder Jassa Amir-Lang said the Frigid platform enabled craft brewers to optimise their energy use in the brewing process, and offered access to detailed information that had previously been available to only the large multinational brewers.
+“Frigid was born after significant conversations with the team at Little Bang Brewery and finding out what problems they had and how technology could potentially help,” he said.
+“After a lot of trial and error and user testing, we have created a part cloud platform, part hardware solution, that integrates with existing infrastructure and instantly provides access to logs, remote monitoring and real cost savings.” The Frigid platform is built on top of the Amazon Web Services cloud system, and there are plans to add artificial intelligence and machine learning components.
+CREDIT: GIUSEPPE TAURIELLO
+Word count: 205

@@ -1,0 +1,38 @@
+Source: The Conversation (Au and NZ) - By Sophie Adams, Research Fellow, School of Humanities and Languages, UNSW
+Shutterstock
+Almost a third of Australia’s estimated ten million households now have solar on the roof. But as the nation moving fastest to produce energy on our homes, we are also encountering teething problems, such as “curtailment” of output.
+This issue will be one we have to overcome as ever more Australians install solar. Our grids were designed primarily for large fossil fuel power stations transmitting electricity in one direction, while solar households both consume and export power.
+That means in some conditions, household solar may contribute to spikes in voltage levels outside of the acceptable range, especially as voltage levels are typically already high.
+To counter this, your solar system can stop exporting to the grid or even shut down temporarily if voltage levels are too high. This is called “curtailment”.
+The rush for solar shows no signs of slowing – but curtailment could be a stumbling block. Shutterstock So what’s the issue?
+The average solar household lose less than 1% of its power production to curtailment – and even less for those with home batteries. While that sounds minor, an unlucky few households are losing as much as 20%.
+Why the drastic difference? It depends on factors like the house’s location, the local electricity network equipment, home wiring, the number of solar systems in the area, and the size of a solar system and inverter settings, which can vary depending on the date of installation.
+These findings are from our scoping study in South Australia, conducted in partnership with AGL, SA Power Networks and Solar Analytics as part of the RACE for 2030 research centre.
+We analysed two out of three modes of automatic curtailment, with further research underway to assess the third mode, which may account for greater overall curtailment.
+Read more: Now they want to charge households for exporting solar electricity to the grid — it'll send the system backwards
+This issue is set to get bigger, as more and more solar systems are installed and export to the grid at the same time.
+Given the different ways solar households experience curtailment, this research also raises issues of fairness.
+Our research interviewed and ran focus groups with South Australians who have solar. We found most participants didn’t know about curtailment and hadn’t experienced it or noticed it.
+But when we described curtailment, most people found it off-putting and questioned whether rooftop solar owners should be made to absorb any losses, given the contribution of rooftop solar to the renewable energy transition.
+Not only that, our participants told us they believed the issue could slow down the adoption of solar and potentially undermine faith in the system.
+Australia’s rapid renewable transition means challenges to overcome for the grid. Shutterstock Is this a problem for solar uptake?
+The issue of curtailment means people may not get everything they expect out of their solar system. But this may not be a deal breaker, given earlier research and our study both show that people hope to benefit in many different ways from installing a solar system.
+For instance, some want to reduce their reliance on fossil fuels and contribute to a cleaner grid. Others want to be less reliant on electricity providers and enjoy producing and using their own energy. And some just want cheaper electricity, and don’t mind whether they get these savings through selling their power or just buying less of what they need from the grid.
+Read more: Solar panels on half the world's roofs could meet its entire electricity demand – new research
+The good news is that as the solar sector matures, new ways are emerging of maximising value from our solar, including:
+home energy management systems letting us time the use of appliances such as hot water tanks for daytime periods, when solar generates most power
+batteries letting us store power for use in the home when it is needed, such as in the evening
+virtual power plants enabling households to be paid for allowing their solar and battery systems to help stabilise the electricity grid.
+While attractive in their own right, these options can also reduce how much your solar system is curtailed, and have the potential to help tackle challenges at a grid scale.
+Other changes to electricity and grid access and pricing could also help us better manage curtailment.
+Flexible export limits being trialled in South Australia and elsewhere would mean households could export electricity to the grid when it is needed, while occasionally being prevented from doing so when the network does not have capacity.
+Flexible export limits also mean households can install larger solar systems regardless of their location within the network. They could stop curtailment affecting solar households in unexpected and uneven ways.
+Other responses include programs to reward households for having their export curtailed, recognising it as a service to the market and the network.
+There is no single solution to the issue of curtailment. But the different solutions described above may contribute to the successful integration of more rooftop solar energy and pave the way for a more renewable grid.
+Now is the time to talk about the future of solar in Australia, and the ways we can value it, use it and manage it when abundant.
+Sophie Adams receives funding from the Cooperative Research Centre (CRC) program, Reliable, Affordable, Clean Energy for 2030 (RACE for 2030), an Australian Government initiative. She has also received an Artificial Intelligence (AI) for Earth grant from Microsoft. Project partners include AGL, South Australia Power Networks and Solar Analytics.
+Baran Yildiz receives funding from the Cooperative Research Centre (CRC) program, Reliable, Affordable, Clean Energy for 2030 (RACE for 2030), an Australian Government initiative. He has also received an Artificial Intelligence (AI) for Earth grant from Microsoft. Project partners include AGL, South Australia Power Networks and Solar Analytics.
+Naomi Stringer receives funding from the Cooperative Research Centre (CRC) program, Reliable, Affordable, Clean Energy for 2030 (RACE for 2030), an Australian Government initiative. She has also received an Artificial Intelligence (AI) for Earth grant from Microsoft. Project partners include AGL, South Australia Power Networks and Solar Analytics.
+Shanil Samarakoon receives funding from the Cooperative Research Centre (CRC) program, Reliable, Affordable, Clean Energy for 2030 (RACE for 2030), an Australian Government initiative. He has also received an Artificial Intelligence (AI) for Earth grant from Microsoft. Project partners include AGL, South Australia Power Networks and Solar Analytics.
+- ref. Solar curtailment is emerging as a new challenge to overcome as Australia dashes for rooftop solar - https://theconversation.com/solar-curtailment-is-emerging-as-a-new-challenge-to-overcome-as-australia-dashes-for-rooftop-solar-172152
+Word count: 1072

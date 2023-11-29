@@ -1,0 +1,20 @@
+QUT researchers will apply their artificial intelligence (AI) system that uses drones and infrared imaging in a collaborative project to count Kangaroo Island's surviving koala population after the recent devastating bushfires.
+See: New high-tech koala count begins on KI
+This innovative technology combination will scan the trees at night to identify their signature body heat across unburnt patches and known koala locations across Kangaroo Island.
+QUT ecologist Associate Professor Grant Hamilton leads the QUT team which developed the artificial intelligence that underpins the high-tech combination, which includes an algorithm that identifies koala heat signatures in the trees.
+"The drones will fly approximately 30 metres above the tree canopy of known koala habitats on Kangaroo Island and use onboard thermal cameras to collect data on koalas," Professor Hamilton said.
+"The data can then be downloaded and analysed to provide an entire population count much more quickly than traditional ground surveys.
+"Our research has shown this technology and method is a faster and more accurate way to count koalas and monitor population changes over time."
+"This rapid process of data collection, analysis and providing results enables improved management of wildlife, particular after catastrophic events such as bushfires"
+The drone thermal surveys will be carried out by private firm Airborne Data Acquisition contracted by the Department for Environment and Water and analysed by Professor Hamilton's team.
+Professor Hamilton in bushfire damage on the Sunshine Coast.
+Wildlife and Habitat Bushfire Recovery Taskforce Chair Dr Felicity-ann Lewis said, before the bushfires about 50,000 koalas were estimated to live on Kangaroo Island, having grown from a population of 18 that were introduced to the island in the 1920s.
+"Earlier this year it was estimated that around 5,000 to 10,000 koalas remain on Kangaroo Island and the new survey will now confirm the population number," Dr Lewis said.
+"About 85 per cent of their habitat was bushfire-affected, including most of the blue gum plantations where many koalas lived.
+"Using innovative technology such as drones and infrared cameras we will be able to undertake a new count which will allow us to better understand the remaining population density and distribution.
+"This will help National Parks and Wildlife Service South Australia to plan a way forward and ensure the sustainability of one of Australia's most iconic and much-loved animals on Kangaroo Island."
+A final population count is expected later this month.
+Last year, Professor Hamilton co-authored a study with PhD student Evangeline Corcoran and Dr Simon Denman from QUT, and John Hanger and Bree Wilson from Endeavour Veterinary Ecology, that was published in Nature journal Scientific Reports, that detailed a technique for locating koalas using drones that can detect heat signatures.
+To contribute to Professor Hamilton's work in this area, go to https://alumni-and-friends.qut.edu.au/giving/save-the-koalas
+All funds donated will go towards improved monitoring to assist with wildlife recovery.
+Word count: 467

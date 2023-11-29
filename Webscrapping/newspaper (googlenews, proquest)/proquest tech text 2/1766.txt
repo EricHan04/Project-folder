@@ -1,0 +1,17 @@
+A NEW, SA-developed diagnostic tool could help manage pest outbreaks in the horticulture industry, among its uses.
+Created by GoMicro, the combination of the microscope and smartphone has previously been used in a kit to diagnose leishmaniasis in war-torn nations as well as in schools as a teaching tool.
+But it is now being tested as one part of an AI diagnostic package to identify anything that is visible but requires magnification.
+The Adelaide-based company, which was spun out of the New Venture Institute at Flinders University, is looking to raise funds to commercialise the system, which has numerous potential applications across all industries.
+Company adviser and former SARDI head Rob Lewis said the GoMicro platform was an example of the successful integration of key technologies such as mobile, microscopy, machine learning and interpretive data analyses.
+"This is the front end of a developing machine learning diagnostics system with multiple uses," he said.
+GoMicro chief executive officer Sivam Krish said the company was in the mid of proving the concept by identifying Qld fruit flies, a pest that threatens SA's $1.25 billion horticulture industry.
+Through SARDI, Mr Krish distributed 200 microscopes to farmers in SA and used the images they sent back to create a database for the machine-learning engine to compare.
+Mr Krish said the key achievement was the ability for the device to create consistent laboratory conditions in the field by simply placing the specimen in the high-quality imaging microscope attachment.
+The quality of the images, according to Mr Krish, significantly reduced the number of images the AI engine needed to achieve 90 per cent accuracy in tests to determine if a fly was male or female, which enables scientists to track breeding.
+"We created the entire database in a day because of the imaging device and training methods, so we can race through samples," he said.
+"The potential is for anything that is visible that requires some level of magnification, such as soil or sand in mining or leaf disease in agriculture."
+Mr Krish said testing was underway on cloud and app interfaces as potential methods to share the field data with the AI engine and provide users with advice and solutions to their pest problems.
+GoMicro uses advanced manufacturing technologies to prototype and manufacture the microscopes and the Tensorflow AI-engine developed by Google to make predictions.
+"The platform is also an excellent teaching aid aimed at Australia's future researchers, farmers and those wishing to find out more about the natural environment," Professor Lewis said.
+CREDIT: Jim Plouffe
+Word count: 421

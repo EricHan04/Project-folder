@@ -1,0 +1,65 @@
+Lethal. Cheap. Smart. Australia’s air force will become one of the first in the world to put ‘killer robots’ in the skies alongside its combat pilots. But are we opening a Pandora’s box? JAMIE SEIDEL reports
+Unmanned weapons are the hottest thing in the defence industry right now, and Australia may have snatched an early lead.
+At the 2019 Avalon Airshow and Defence Expo, Boeing Australia unveiled its “Loyal Wingman” unmanned combat air vehicle (UCAV).
+It’s an interesting name for a killer robot.
+“It sounds like it’s reliably flying alongside a human, and, in that case, we’re less concerned because there will be a person in command of it,” University of NSW Professor of Artificial Intelligence Toby Walsh told The Advertiser.
+But the reality of killer robots on the battlefield, he fears, will be quite different.
+“They would be impossible to defend yourself against. Once the shooting starts, every human on the battlefield will be dead.” Designed and built in Australia, this particular weapon is expected to take to the skies for the first time next year.
+It’s intended to fly in the company of manned aircraft but not be controlled by them.
+It’s intended to save lives – and take them.
+And that raises some serious questions.
+“Its primary role is projecting power forward, while keeping manned platforms out of harm’s way,” argues Australian Strategic Policy Institute (ASPI) analyst Dr Malcolm Davis.
+The proposed Boeing drone is smaller and cheaper than a combat jet. It doesn’t need the complex life-support equipment necessary for a pilot.
+But on board will be all the bells and gizmos one would expect – such as surveillance and electronic warfare equipment – as well as a suite of missiles and bombs.
+Loyal Wingman is touted as having a long range: some 3700km, enabling it to fly over the South China Sea from RAAF Tindal near Darwin.
+Mostly, the Wingman will be able to fly autonomously – not remotely. It doesn’t need a human to tell it what to do.
+Dr Davis outlines a scenario where a swarm of such Wingmen will fly ahead and apart from Australia’s stealthy F-35s, which will still provide a “human-on-the-loop” component for their networked mission. Further behind still will be manned Wedgetail surveillance and control aircraft.
+“On the loop means “oversight” – a human gives broad direction to the UCAV and then the UCAV takes care of the rest, Dr Davis told The Advertiser.
+The expendable and replaceable Wingmen can, therefore, open up a safe passage through which the piloted F-35, and less stealthy fighters such as the Super Hornet, can pass.
+It’s a scenario where each autonomous machine will be responsible for fulfilling the mission assigned to it. It must make its own decisions. It must decide when, where – and who – to shoot.
+Which means it must have a mind of its own.
+But what about a conscience – a code of ethics?
+And can it be hacked?
+They’ve been the stuff of science fiction for more than a century, but the prospect of killer robots is now very real. “Learning to operate manned and unmanned systems as a network – a ‘system of systems’ – is crucial,” Dr Davis says.
+“The key is not just resilient data links that maintain networks, but also the development of trusted autonomy so that platforms like Loyal Wingman don’t have to depend on human control.
+“That aspect may generate controversy.” Exactly that erupted last week in the US.
+The Pentagon announced the first flight of its own autonomous drone, the Valkyrie, and a call for a new AI-controlled “rob-tank”.
+It soon found it scrambling to reassure a nervous public and Parliament. “All uses of machine learning and artificial intelligence in this program will be evaluated to ensure that they are consistent with DoD legal and ethical standards,” a hastily updated “request for information” to manufacturers reads.
+Prof Walsh says such nervousness is justified. “You’ve got to realise that very quickly you’ll be on the receiving end of such weapons – and that makes them far less attractive,” he says.
+He warns they could be quite destabilising in a world already in a delicate geopolitical power balance.
+“And it’s not like we’re going to keep a technical lead on anyone,” Prof Walsh says.
+“The history of military technology is one where you never have a technical lead on your opponents for very long”.
+Dr Davis agrees: “We will be in a race to develop these capabilities. The Chinese and the Russians will be watching the XQ-58A Valkyrie and Loyal Wingman UCAVs and already are developing similar systems. But if we stop, they won’t do likewise.” But Prof Walsh says he joined thousands of his colleagues working in the AI field in 2015 to send an open letter to the UN because of just such an arms race.
+“The problem is once you get one of these arms races, and your opponents don’t apply the same standards, then it is very tempting to enter a race to the bottom,” he says.
+“It’s actually quite clear what the future could be.
+“It could look like one of these terrible Hollywood movies because machines have no moral compass with which to apply international humanitarian law.” And while the idea may be to have human oversight “on the loop”, such machines will find themselves isolated through electronic jamming or hacking.
+This is where the Hollywood portrayal of Artificial Intelligence as though it was artificial sentience becomes a problem. They’re not the same thing.
+“We don’t have anything like sentience or consciousness in machines. It’s not clear we ever will,” Prof Walsh says.
+For them to be capable of moral judgment, AI, such as that in the Wingman, would have to be self-aware.
+They must understand the social and legal worlds they operate in. “And that, arguably, is a prerequisite to giving machines the ability to decide who lives and who dies,” Prof Walsh says.
+But Dr Davis believes AI can be made to be ethical. And just because we have AI-controlled weapons doesn’t mean we will use them indiscriminately.
+“Conversely, our adversaries see no need to hold to the same legal and ethical standard and they may very well use them indiscriminately,” he says.
+“Look at how the Russians used air power over Syria as an example. So the ethical and legal problem is not on this end – it’s with our opponents, who, as authoritarian states, are not answerable to anyone.” Autonomous weapons systems are, in themselves, not new. It’s just their role and complexity that is changing.
+Warships carry Phalanx close-in Gatling guns designed to automatically detect, track and destroy an incoming supersonic missile within a window of opportunity measured in mere seconds.
+“I’ve got no concerns about that,” Prof Walsh says.
+“It saves people’s lives. You turn it on, it protects the airspace about a ship. “It looks for missiles and is unlikely to ever shoot down a civilian airliner or anything like that. It’s acting in a defensive role, it’s not deciding to target individuals.” He argues AI can adopt similar lifesaving roles, such as minefield clearance, battlefield transport and logistics.
+“There’s no reason anyone should risk an IED (Improvised Explosive Device) – we can send in autonomous trucks and trailers,” he says.
+“It’s quite a different kettle of fish to build a drone that loiters above a battlefield and would actually identify and select targets to engage and destroy – all of its own volition.” Machines cannot be held accountable for what they do.
+So who is responsible when AI makes a bad call? The manufacturer? The coder? The owner?
+Prof Walsh says we have no answers for this. And finding one won’t be easy. AI uses machine learning so it can adapt to change.
+It teaches itself based on training and experience, shaped by the algorithms that give it context.
+Thus the coder can say it’s not their fault. The trainer can say it’s not their fault. The builder can say it’s not their fault. And all could be technically correct.
+So is the genie already out of the bottle? Is the march of AI inevitably towards killer robots? Prof Walsh doesn’t believe so.
+“It’s like chemical weapons,” he says.
+“We control chemical weapons, if not perfectly. But it’s largely speaking a very simple technology that we all learn at high school. It’s by making it morally unacceptable. It’s the international normal that you do not use chemical weapons.
+“And if they do get used, there’s universal condemnation and repercussions.” Dr Davis isn’t so certain: “The Chemical Weapons Convention is already fraying as a result of Syrian and Russian use of nerve gas – and our adversaries have no need to answer to international legal or ethical judgment when it comes to autonomous systems,” he says. “So we could end up ‘banning ourselves’ but not our adversaries.” But the pressure to restrict AI is growing.
+Human Rights Watch last year asked an IPSOS poll to find out how many people were against autonomous weapons. The figure came back as 61 per cent – up from 56 per cent a few years earlier.
+“We must decide collectively that it’s not acceptable to let the machines do this to us,” Prof Walsh says.
+Dr Davis argues Australia must resist calls for projects such as Loyal Wingman to be cancelled on ethical or legal grounds. “The platforms will depend on trusted autonomy, with humans ‘on the loop’, and any use of force will be made with human oversight,” he says. “Unlike our adversaries, who don’t need to adhere to legal and ethical constraints ... Western liberal democracies will always need to operate systems like Loyal Wingman with the laws of armed conflict in mind.” How that is to be achieved, however, is unclear. But it is weighing heavily on the minds of defence industry businesses and employees, who are now working on AI weapons that will appear within the next 10 years.
+Dr Davis says Australia’s military already makes such ethical calls every day of the year in operations across the world. “Occasionally we get it wrong, but we make every effort to avoid civilian or collateral casualties and we rigidly stick within laws of armed conflict,” he says.
+But Prof Walsh believes autonomous weaponry will almost inevitably backfire. “Machines are not going to have the right moral judgment, they’re not going to be able to make the distinctions required under international law, such as the principles of proportionality and not targeting non-combatants,” he says.
+“They wouldn’t be able to do that at all.” Does Australia risk finding itself on the wrong side of history? Dr Davis believes not.
+“We will have to incorporate autonomous systems into our armed forces with these values, ethical norms and legal constraints in mind,” Dr Davis says.
+Prof Walsh disagrees. “I do think we will eventually see these as terrible weapons just as we see chemical weapons, biological weapons, nuclear weapons, cluster munitions … as ones we should try and limit,” he says.“My fear is that we will only do that once we’ve seen the horror of them actually being used against civilians.”
+CREDIT: JAMIE SEIDEL
+Word count: 1862

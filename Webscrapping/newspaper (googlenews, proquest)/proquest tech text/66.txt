@@ -1,0 +1,14 @@
+Researchers may have found the answer to Australia's seasonal fruit picker shortage by developing a robotic apple harvester.
+A research team led by Chao Chen from Monash University's Department of Mechanical and Aerospace Engineering has developed an autonomous robot capable of identifying, picking and depositing apples in as little as seven seconds at full speed.
+The robot clasps the apple in a set of suction-aided jaws, twists the fruit to break the stem and then drops it into a basket.
+During trials earlier this year in Vic, the robot harvested more than 85 per cent of all reachable apples in the canopy as identified by its vision system.
+Dr Chen said less than 6pc of the fruit were damaged due to stem removal. Apples without stems can still be sold, but don't necessarily fit the cosmetic guidelines of some retailers, he said.
+With the robot limited to half its top speed, the median harvest rate was 12.6 seconds per apple, but in streamlined pick-and-drop scenarios, the time was cut to about 9 seconds.
+By using the robot's top speed, individual apple harvesting time can drop to 7 seconds.
+"Our developed vision system can not only positively identify apples in a tree within its range in an outdoors orchard environment by means of deep learning, but also identify and categorise obstacles, such as leaves and branches, to calculate the optimum trajectory for apple extraction," Dr Chen said.
+Robotic harvesting of fruit and vegetables required the vision system to detect and localise the produce.
+To increase the success rate and reduce damage to produce during harvesting, information on the shape and stem-branch joint location and orientation were also required.
+To counter this problem, researchers created a state-of-the-art motion-planning algorithm featuring fast-generation of collision-free trajectories to minimise processing and travel times between apples, reducing harvesting time and maximising the number of apples that can be harvested at a single location.
+View the picker in action at stockjournal.com.au
+CREDIT: Vernon Graham
+Word count: 327

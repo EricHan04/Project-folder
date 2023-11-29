@@ -1,0 +1,39 @@
+Two years after the 2019-20 bushfires that devastated swathes of eastern and south eastern Australia, McGowan, a geographer and severe weather researcher, has joined up with tech giant Google in a major partnership to develop a world-first, real-time bushfire hazard detection and warning system using artificial intelligence (AI).
+AI software will be used to trace the movements of bushfire embers and deliver “nowcasts” of hazards.
+Researchers envisage locations up to 30km downwind of a fire front could be forewarned of ember attacks.
+McGowan, a professor of atmospheric sciences working out of the School of Earth and Environmental Sciences at the University of Queensland, won a $US1m grant from Google.org – the philanthropic arm of Google – with his proposal to use a mobile weather radar to “see through” bushfire smoke.
+His aim, simply, is to save lives and property with more accurate predictions of hazards and greater warning times.
+McGowan is widely published for his work on atmospheric interactions including the water temperatures of coral reefs, dust storms and thunderstorms and has established himself as something of a storm chaser.
+Despite regularly getting his feet dirty out in the field observing severe weather, he doesn’t really like the wild Hollywood, car-speeding-away-from-a-tornado-in-the-rearview-mirror connotation that may spring to mind.
+McGowan, who has led research projects investigating meteorology in locations as diverse as the McMurdo Dry Valleys in the Transantarctic Mountains and the Simpson Desert in Central Australia, is, first and foremost, a scientist.
+He has been researching severe thunderstorms since 2013 as part of a PhD project by one of his students, Joshua Soderholm, who is now a radar meteorologist with the Bureau of Meteorology. McGowan’s thunderstorm research has now extended into bushfire meteorology – how bushfires interact with the atmosphere to generate pyrocumulonimbus clouds or bushfire- triggered thunderstorms and tornadoes.
+His research has been recognised internationally for the use of a mobile dual-polarised Doppler X-band weather radar – called UQ-XPOL – that allows researchers to get “up close and personal” to severe weather events.
+As part of the Google.org collaboration, the radar will be used to “see through the smoke” of a bushfire for a closer, more detailed view of what is happening.
+“It’s a world first in having the capability to take weather radar on to a fire ground, get up close and personal with a large bushfire and understand in real time how that fire is behaving,” McGowan says.
+“We are using the radar to see through that smoke and identify what is happening in terms of wind speed, wind direction, the transport of burning embers. Most of those processes are hidden from view.
+“At the moment, what is being seen is very coarse, coming from reports on the ground and maybe some aircraft that are able to use thermal cameras to get some idea of the transport of burning embers.
+“But it’s a bit like looking at your hand … with our technology, we are actually getting down to looking at the fingerprints.”
+The Google partnership will give McGowan dream access to software development and engineers who are experts in computer science, AI and programming.
+Weather has perhaps never been more important.
+McGowan’s research comes at a time when he says there is “unmatched interest’’ in weather and climate and the impact humanity is having on the atmosphere.
+With climate change brought to the forefront of global attention at the 2021 United Nations Climate Change Conference in Glasgow last month and with more extreme weather events including bushfires worldwide, the benefits of understanding and predicting the behaviour of the atmosphere have never been greater.
+Add to that ever-evolving AI technology – already widely used in many everyday applications, such as real-time translation, driving directions, video lighting in virtual meetings and efficiency of traffic lights – and you have yourself a hot-button topic of research.
+The University of Tasmania’s Menzies Institute for Medical Research found smoke-related health costs from the 2019-20 bushfire season reached $1.95bn, with 429 smoke-related premature deaths, 3230 hospital admissions for cardiovascular and respiratory disorders and 1523 emergency attendances for asthma.
+UQ’s proposal to Google to use AI to better understand bushfire data collected by the mobile radar – with the ultimate intent to save lives, properties, wildlife and the environment – was immediately appealing.
+Google Australia engineering site lead Daniel Nadasi, who was on the review board that decided to back McGowan’s UQ proposal, says the project has huge potential.
+“The dream is to save lives,” Nadasi says.
+“We are all tragically impacted by bushfires in various different ways in this country.
+“At the end of the day, through having a better understanding of when and where new bushfires are going to seed, we’ll then be able to take protective measures – make sure people are out of their houses, predict when property and animals are at risk.
+“We all know how fast these bushfires move in Australia. There is tinder dry bushland and fires spread fast enough to catch vehicles on the road. It’s really terrifying and it speaks to how much time is of the essence.
+“This project is a very good demonstration of how you can use these cutting edge technologies to benefit society at large – something we are all about.”
+Brisbane-based McGowan, 54, grew up on a cropping farm in South Canterbury, New Zealand, and has always been fascinated by the weather. He is often out in the field, taking advantage of the natural thunderstorm “hotspot” of South East Queensland.
+“I learnt from an early age the value of observing, forecasting and understanding weather – whether it be drought, floods, wind storms, wildfires or hail,” he says.
+“We get out and get our feet dirty so to speak. Severe weather is exciting, dynamic and fascinating. You can only be amazed at the power of the atmosphere when confronting large storms or similar atmospheric phenomena.
+“Our research requires us to be in the field, so at times we are working in proximity to some of the most powerful and dynamic weather systems that occur.
+“You can’t sit behind a computer all the time and model what you think reality is.”
+The 60kg UQ-XPOL radar, towed on a trailer behind a 4WD, allows McGowan and his team to observe weather and bushfires up to 50-60km away.
+In the lead up to the Google collaboration, McGowan observed bushfires in Queensland and Victoria with another PhD student (Nicholas McCarthy, who now works for the Country Fire Authority in Victoria).
+Working with fire agencies, they could position themselves as close as five to 10km upwind of a fire front, where it was safe to do so.
+He likens the radar to “lifting the cloak and peering through the smoke of large bushfires” to understand the processes that are happening within those fires and the thunderstorms they often trigger.
+“The power of AI is something I’m looking forward to working on and seeing what we can achieve. I think we should be able to achieve a hell of a lot, to be honest.”
+Word count: 1130

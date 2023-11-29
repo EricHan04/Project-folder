@@ -1,0 +1,5 @@
+SMALL interactive robots are proving useful in helping people develop and implement healthy lifestyle plans, showing they can support weight loss and healthy habits, a new trials has found.
+The research trial, led by Monash University’s Dr Nicole Robinson, placed 26 social robots with participants to deliver a multi-session behaviour-change treatment pro-gram around diet and weight reduction. The robots interact with users and guide them through their program by providing audible prompts.
+Results found the robot-delivered program helped people reduce snacking by 50 per cent and lose an average of 4.4kg.
+The trial also found an autonomous robot-delivered program might be as effective as a human clinician delivering a similar intervention. “There has been previous work in digital health and wellbeing programs using smartphones and web-based digital applications,” Dr Robinson said. “We were interested to see how a social robot might be able to support health and wellbeing.”
+Word count: 149

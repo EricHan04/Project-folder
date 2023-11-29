@@ -1,0 +1,33 @@
+Telco industry alliance Commpete has released a comment and flagged serious concerns with the proposed Telstra-TPG merger under review by the ACCC.
+TPG Telecom said Optus, ATN, and Commpete failed to provide rational arguments to support their claims that the proposed regional sharing agreement could detrimentally affect competition, CommsWire reported last 15 July.
+TPG Telecom said the telcos mischaracterised the arrangement as a merger of two entities, based their arguments on factual error, and sought regulatory outcomes unrelated to the proposal.
+TPG Telecom general manager external affairs James Rickards clarified that the deal was not a merger.
+{loadposition kenn}
+“To suggest otherwise is an attempt to mislead the public, industry and key stakeholders in the hope of creating controversy where none exists. This is an infrastructure sharing agreement in the interests of all Australians,” he said.
+TPG said it will also provide current mobile virtual network operators (MVNO) customers with access to the additional regional coverage obtained under the proposed arrangement on the same terms as the rest of TPG’s network coverage.
+“Claims from lobby groups and minor industry players the sharing arrangement will not benefit MVNOs, suggests they have not read or are deliberately ignoring the information provided,” Rickards said.
+Rickards said the Commpete submission claims there is not sufficient competition in the wholesale access for MVNOs but failed to recognise MVNOs “will be one of the key beneficiaries of the network sharing agreement.”
+Commpete’s side
+However, Commpete insists the deal is a merger, disputing “it will ruin competition in the 17% Regional Coverage Zone — reinforced by the 2028 low bandwidth spectrum auction, in which TPG will be discouraged from bidding.”
+Commpete believes Telstra will re-carve out a monopoly to the detriment of competition and digital development in Regional Australia.
+“The proposed TPG-Telstra network sharing merger runs counter to Commpete’s core purpose. It is the view of Commpete that the proposal will not be in the long-term strategic interest of the Australian public,” it commented.
+Commpete referenced the proposal as merger in its submission to the ACCC.
+Commpete reasoned: “This is because the proposal applicants are seeking merger authorisation of the use by Telstra of spectrum held by TPG (pursuant to the Spectrum Authorisation Agreement), which is deemed by section 68A of the Radiocommunications Act 1992 to be an acquisition for the purposes of section 50 of the Competition and Customer Act 2010 (the Act). Commpete has responded accordingly to this public consultation which is procedural processes under formal mergers by the Competition Commission.”
+Commpete made it clear that the proposal for infrastructure sharing detailed by the applicants is significantly different to the infrastructure sharing arrangements for pro-competition outcomes increasingly seen overseas, which are structured as joint ventures, giving the parties joint ownership and control of the network assets (both passive and active elements).
+It cited Mobile Broadband Network, a joint venture between UK’s Everything Everywhere and Hutchinson’s Three, and Cornerstone Telecommunications Infrastructure, a joint venture between Vodafone and O2 in the UK.
+In contrast, the application makes it clear that Telstra will retain ownership and control of its RAN (regional advisory network), leaving TPG with only “a high degree of participation…in setting the technical and operational framework…through the development of agreed key documents…”(para 142).
+The application is also significantly different to a neutral host network. Commpete defines neutral hosting as a model whereby an independent party owns both passive infrastructure (such as mobile towers) and also has access to spectrum and RAN, and provides access to these assets on an open access basis to MNOs and MVNOs.
+Commpete says neutral hosting has many natural advantages in regional areas. It has the potential to improve competition and use of infrastructure in areas where it is not economically efficient to duplicate infrastructure – and ‘expand’ geographic coverage.
+“Neutral hosting is emerging rapidly as an important model in international jurisdictions and the NSW Regional Connectivity Program has recently invested in a program to explore neutral host RAN sharing in regional NSW.”
+According to Commpete, there are key differences between neutral hosting and the applicants proposal, where ownership is concentrated in the hands of a single provider.
+“This is almost certain to stymie choice for Australians, who will miss out on the benefits of a competitive telecommunications market as it will further entrench ownership by a single, already dominant, market player.”
+Commpete believes there is a high risk that both Telstra and TPG will seek to limit access to the RAN by MVNOs or to only provide access at greater costs.
+Commpete claims TPG receives an initial short-term cash injection, however it appears TPG is under both a fixed charge, and a consumption-based model (i.e., variable charge per user, per GB within the 17% Regional Coverage Zone and will want to pass them on wherever possible).
+“In other words, this pricing model is a red flag that the proposal is arguably imbalanced towards Telstra, and is not an incentive-based model to stimulate competition and deliver the optimal value, flexibility and choice to consumers.”
+“There is a genuine risk it would not be in Telstra’s nor TPG’s commercial interests to provide better access to an MVNO (than the other is willing to provide) without regulation of wholesale access.”
+Commpete is concerned that with Telstra’s entrenchment as the dominant mobile service provider will be further reinforced by the timing of upcoming low bandwidth spectrum auction in 2028.
+The 10-year term of the arrangement between Telstra and TPG will discourage TPG from competing in the 2028 spectrum auction “because it will have already committed to service its mobile customers under the MOCN (Multi-Operator Core Network).”
+TPG’s potential non-involvement in the 2028 auction will result in its likely removal as an MNO in the 17% Regional Coverage Zone.
+“TPG and all customers will have little choice of supplier and will be beholden to the commercial terms dictated by Telstra, and this will get passed down to the consumer.”
+“At that time, TPG will have less bargaining power, and Australian consumers on its network are under threat of being absorbed directly by Telstra in a single buyout, as a monopoly operator.”
+This first appeared in the subscription newsletter CommsWire on 18 July 2022.

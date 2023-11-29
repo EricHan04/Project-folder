@@ -1,0 +1,28 @@
+The Australian Energy Market Operator (AEMO), which oversees power distribution across the country, has suspended the wholesale market.
+Saying that it's "become impossible to continue operating the spot market while ensuring a secure and reliable supply of electricity for consumers", AEMO has halted spot-market trading in the National Electricity Market (NEM), which is responsible for generating and selling power to Queensland, NSW, ACT, Victoria, South Australia and Tasmania.
+While AEMO has suspended parts of the market before, this is the first time it's ever stopped these operations in the whole NEM.
+This means that instead of electricity providers generating enough electricity in short time to match bids from electricity retailers, AEMO has temporarily taken over the whole process.
+Related: How do rising gas prices affect your electricity bill? How does electricity get from the source to your home? How do rising fossil fuel prices affect your electricity bill Generators will need to supply AEMO with their availability ahead of time.
+"We're creating one single place where generators can put their availability, be dispatched in a methodical way and have a simple, clear process for them to recover their costs," Daniel Westerman, CEO of AEMO, said at a press conference.
+Mr Westerman says AEMO will review the suspension daily, and restore the market in each region when it's confident they can operate the market again without providers withdrawing their ability to generate.
+While it doesn't guarantee that there will be no blackouts, and people in NSW are still being urged to conserve power if it's safe to do so, AEMO has taken this step to improve electricity reliability in the ongoing energy crisis.
+How did we get here? Electricity prices have skyrocketed in recent weeks for several reasons: the war in Ukraine putting pressure on international fuel supply, eastern Australia's exposure to the global gas market, unexpected outages from ageing coal stations, and a cold snap driving up demand.
+To account for rising costs, AEMO earlier this week used its regulatory powers to introduce price caps in four states.
+"An administered price cap of $300/MWh was implemented by AEMO initially in Queensland but then shortly followed in NSW, Victoria and South Australia in response to a sustained run of high wholesale electricity prices occurring over the last several days," said Dr Phillip Wild, a senior research fellow at the Centre for Applied Energy Economics and Policy Research at Griffith University.
+The pricing caps then caused some providers to stop generating electricity, because it wasn't making them money.
+"The withdrawal of gas generation capacity [was] in response to the recently introduced administered cap price, which was below the price they needed to break even given the current high domestic spot price of gas," said Dr Wild.
+More from Cosmos Magazine: Should Australia invest in electric car technology? Will hydrogen technology be the answer to Australia's emissions woes? Do dogs have facial expressions? This led to predicted shortfalls, meaning that in some places there would be less energy supplied than could meet demand. AEMO has another regulatory lever to manage this situation too - which it's been pulling.
+"AEMO subsequently used its powers under the National Electricity Law to direct previously withdrawn gas plants to commence generating electricity to balance high morning and evening peak demands as well as covering the possibility of unexpected outage of operational generators or network infrastructure," said Dr Wild.
+This worked on Tuesday evening (June 14), meaning there weren't large-scale outages. But AEMO had to direct so many generators to come back online that the situation became "impossible to manage".
+"Prior to suspending the market today, AEMO had issued over 5000 megawatts of directions, and that's roughly 20 per cent of demand," said Mr Westerman.
+"It is simply not possible to continue to operate the market in this way."
+What does AEMO's choice mean for the future of the electricity market? AEMO has made this move in hopes it will improve short-term energy security. How can we expect prices and generators to respond in the long term?
+"Competition among generators is good as it's meant to keep prices in check, but what happens if a few get together and simply refuse to bid? You have a big problem with blackouts becoming reality and not just threats," says Dr Lurion De Mello, a senior lecturer in applied finance at Macquarie University and co-chairperson of the Australasian Commodity Markets Conference.
+"If AEMO must step in and beg generators, you have a major problem with the whole electricity regulatory and generation system."
+Just as the faults causing this crisis have been years in the making, there's no short-term fix.
+"Following over 10 years of divisive and incoherent energy policy, the electricity market is showing the strain of ineffectual policy incentives," says Dr Liam Wagner, an associate professor in energy and environmental economics at the University of Adelaide.
+"The focus of our attention now should be on the rapid expansion of renewable energy and a range of storage options that will provide greater certainty for energy users.
+"The security of supply of electricity is paramount to maintaining our modern society, and without it, we will endure severe economic consequences. In the coming months we are likely to see increasing electricity costs which will compound the issues we currently face from petrol and diesel prices."
+Originally published by Cosmos as Explainer: National Energy Market suspended by the Australian Energy Market Operator
+CREDIT: Ellen Phiddian
+Word count: 901

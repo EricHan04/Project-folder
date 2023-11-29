@@ -1,0 +1,42 @@
+Source: The Conversation (Au and NZ) - By James Ha, Associate, Grattan Institute
+In the global effort to transition from fossil fuels to clean energy, achieving a “100% renewables” electricity system is considered ideal.
+Some Australian states have committed to 100% renewable energy targets, or even 200% renewable energy targets. But this doesn’t mean their electricity is, or will be, emissions free.
+Electricity is responsible for a third of Australia’s emissions, and making it cleaner is a key way to reduce emissions in other sectors that rely on it, such as transport.
+So it’s important we have clarity about where our electricity comes from, and how emissions-intensive it is. Let’s look at what 100% renewables actually implies in detail.
+Is 100% renewables realistic?
+Achieving 100% renewables is one way of eliminating emissions from the electricity sector.
+It’s commonly interpreted to mean all electricity must be generated from renewable sources. These sources usually include solar, wind, hydro, and geothermal, and exclude nuclear energy and fossil fuels with carbon capture and storage.
+But this is a very difficult feat for individual states and territories to try to achieve.
+The term “net 100% renewables” more accurately describes what some jurisdictions — such as South Australia and the ACT — are targeting, whether or not they’ve explicitly said so.
+These targets don’t require that all electricity people use within the jurisdiction come from renewable sources. Some might come from coal or gas-fired generation, but the government offsets this amount by making or buying an equivalent amount of renewable electricity.
+A net 100% renewables target allows a state to spruik its green credentials without needing to worry about the reliability implications of being totally self-reliant on renewable power.
+East coast states are connected to the National Electricity Market. ShutterstockSo how does ‘net’ 100% renewables work?
+All east coast states are connected to the National Electricity Market (NEM) — a system that allows electricity to be generated, used and shared across borders. This means individual states can achieve “net 100% renewables” without the renewable generation needing to occur when or where the electricity is required.
+Take the ACT, for example, which has used net 100% renewable electricity since October 2019.
+The ACT government buys renewable energy from generators outside the territory, which is then mostly used in other states, such as Victoria and South Australia. Meanwhile, people living in ACT rely on power from NSW that’s not emissions-free, because it largely comes from coal-fired power stations.
+This way, the ACT government can claim net 100% renewables because it’s offsetting the non-renewable energy its residents use with the clean energy it’s paid for elsewhere.
+SA’s target is to reach net 100% renewables by the 2030s. Unlike the ACT, it plans to generate renewable electricity locally, equal to 100% of its annual demand.
+At times, such as especially sunny days, some of that electricity will be exported to other states. At other times, such as when the wind drops off, SA may need to rely on electricity imports from other states, which probably won’t come from all-renewable sources.
+Read more: More coal-fired power or 100% renewables? For the next few decades, both paths are wrong
+So what happens if all states commit to net 100% renewable energy targets? Then, the National Electricity Market will have a de-facto 100% renewable energy target — no “net”.
+That’s because the market is one entire system, so its only options are “100% renewables” (implying zero emissions), or “less than 100% renewables”. The “net” factor doesn’t come into it, because there’s no other part of the grid for it to buy from or sell to.
+How do you get to “200% renewables”, or more?
+It’s mathematically impossible for more than 100% of the electricity used in the NEM to come from renewable sources: 100% is the limit.
+Any target of more than 100% renewables is a different calculation. The target is no longer a measure of renewable generation versus all generation, but renewable generation versus today’s demand.
+Australia could generate several times more renewable energy than there is demand today, but still use a small and declining amount of fossil fuels during rare weather events. Shutterstock
+Tasmania, for example, has legislated a target of 200% renewable energy by 2040. This means it wants to produce twice as much renewable electricity as it consumes today.
+But this doesn’t necessarily imply all electricity consumed in Tasmania will be renewable. For example, it may continue to import some non-renewable power from Victoria at times, such as during droughts when Tasmania’s hydro dams are constrained. It may even need to burn a small amount of gas as a backup.
+This means the 200% renewable energy target is really a “net 200% renewables” target.
+Meanwhile, the Greens are campaigning for 700% renewables. This, too, is based on today’s electricity demand.
+In the future, demand could be much higher due to electrifying our transport, switching appliances from gas to electricity, and potentially exporting energy-intensive, renewable commodities such as green hydrogen or ammonia.
+Targeting net-zero emissions
+These “more than 100% renewables” targets set by individual jurisdictions don’t necessarily imply all electricity Australians use will be emissions free.
+It’s possible — and potentially more economical — that we would meet almost all of this additional future demand with renewable energy, but keep some gas or diesel capacity as a low-cost backstop.
+This would ensure continued electricity supply during rare, sustained periods of low wind, low sun, and high demand, such as during a cloudy, windless week in winter.
+Read more: Carry-over credits and carbon offsets are hot topics this election – but what do they actually mean?
+The energy transition is harder near the end — each percentage point between 90% and 100% renewables is more expensive to achieve than the previous.
+That’s why, in a recent report from the Grattan Institute, we recommended governments pursue net-zero emissions in the electricity sector first, rather than setting 100% renewables targets today.
+For example, buying carbon credits to offset the small amount of emissions produced in a 90% renewable NEM is likely to be cheaper in the medium term than building enough energy storage — such as batteries or pumped hydro dams — to backup wind and solar at all times.
+The bottom line is governments and companies must say what they mean and mean what they say when announcing targets. It’s the responsibility of media and pundits to take care when interpreting them.
+- ref. A '100% renewables' target might not mean what you think it means. An energy expert explains - https://theconversation.com/a-100-renewables-target-might-not-mean-what-you-think-it-means-an-energy-expert-explains-160619
+Word count: 1054

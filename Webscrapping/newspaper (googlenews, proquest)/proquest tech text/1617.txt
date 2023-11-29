@@ -1,0 +1,26 @@
+Momentum is building across regional industries led by agriculture to better harness digital technologies such as artificial intelligence (AI) and machine learning.
+The push is coming at the local project level through to new joint venture funds to back agtech start-ups right the way up to a bid for the creation of a Smarter Regions Co-operative Research Centre (CRC).
+Aussie agtech startup The Yield is partnering with global robotics leader Yamaha Motor Company and premium wine giant Treasury Wine Estates to use an unmanned vehicle in trials aimed at improving autonomous crop spraying and better predicting wine grape yields with growth stage data.
+The 18-month trial will bring together Yamaha's robotic vehicles with The Yield's microclimate sensors, software, analytics and AI platforms.
+And just weeks ago specialist agriculture and food tech venture capital firm Tenacious Ventures closed its first VC fund with $35 million to invest in Aussie agtech entrepreneurs making an impact on a global scale.
+The fund was created by Sarah Nolet, founder of agrifood tech advisory firm AgThentic, and Matthew Pryor, co-founder of agtech startup Observant.
+Ms Nolet said Australia was great at agricultural research but not so great at commercialising the results.
+The bid for the Smarter Regions CRC has been headed by business development manager at the Australian Institute for Machine Learning (AIML) Dr Paul Dalby.
+Dr Dalby, who is based at the University of Adelaide, said regional industries produced about two thirds of Australia's export earnings.
+"Our international competitors are rapidly adopting digital technologies and Australia risks getting left behind if we don't make a concerted effort to keep up," he said.
+Dr Dalby said regional industries were highly motivated to lead an Australian AI revolution.
+"They're exposed to the global export market, they produce two thirds of our exports with a third of the population."
+Dr Dalby said he discovered an enormous appetite for the adoption of AI technologies in regional industries while leading the development of the Smarter Regions CRC bid.
+"Normally the challenge with CRC proposals is to get enough investment. We raised $90 million no problem."
+Opportunities for AI and machine learning to support the mining, farming, forestry and fisheries industries were being actively explored in Australia, he said.
+"South Australian wine growers are already experimenting with using computer visioning to monitor the growth of grape vines to predict the size of their crop.
+"They are collecting data on climate and weather and setting up early warning systems on pests and diseases.
+"In the timber industry we could use satellite technology to monitor tree growth from seedlings all the way up to production.
+"We could identify individual trees from satellite imaging and track timber from harvest through to final product, through the tree-grain, which is as individual as a fingerprint.
+"With AI you can do full optimisation and performance management of the whole supply chain."
+The Smarter Regions CRC final submission, which is about to be lodged wi8th the federal government, is a partnership of 35 companies, 11 regions (including 40 regional organisations) and eight universities.
+Its model of partnering with entire regions instead of individual businesses is to rapidly build an ecosystem of capability and know-how within a region that can then feed off itself.
+'What we are doing through the CRC is developing capabilities that multiple organisations want but are unable to invest in on their own,' Dr Dalby said.
+"But time is of the essence. If Australia doesn't invest in locally produced AI software in the next five to 10 years, and instead buys it from overseas, we not only lose data sovereignty but we also miss out on the economic benefits."
+CREDIT: Vernon Graham
+Word count: 608

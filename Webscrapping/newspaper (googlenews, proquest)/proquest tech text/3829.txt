@@ -1,0 +1,39 @@
+Nicolas Lyons is a dairy leader at the NSW Department of Primary Industries, with expertise in dairy science, robotic milking, technology, pasture and data management.
+He is also leader of the Milking Edge project, which aims to enable better decision-making around the consideration, purchase and implementation of automatic milking systems and builds upon the decade of research and development undertaken by the Future Dairy project.
+He went through some of his experiences undertaking this work, including myths, challenges and success stories with robotic dairy technology, at the 2021 DairySA Central Conference in Victor Harbor in a presentation called 'Robotic milking: expectations vs reality'.
+"Today, there is about 31,000 robotic dairy farms across the world, with 48 farms in Australia and at least another four signed up/installing," he said.
+Survey gives insight into tech adoption
+Dr Lyons said the growth of AMS installations in Australia had been slower than expected.
+"It prompted us to conduct a survey (of 200 farmers and 1000 service providers) to better understand current and expected adoption of technology," he said.
+"Of the 57 farms that commissioned robots since 2001, now there were only 48 operating.
+"We had nine cease - some went back to a conventional dairy and some left the industry entirely - which is a common figure observed across the world.
+"The are multiple reasons for this, and every case is different, but it basically comes down to things like expectations weren't met; some couldn't make it work; some didn't have a good relationship with the equipment provider; and some didn't achieve what they had hoped."
+MYTH: ONLY SUITED TO SMALL FARMS Dr Lyons said one myth was that robots were not suited to large farms.
+"The largest pasture-based robotic farm in the world is located in Tas, where they milk 900 cows with 16 robots in a split calving, pasture-based system," he said.
+"The world's largest indoor farm is in Chile, where they have 72 robots milking 4400 cows.
+"Robotic milking is not only for small farms. Yes, the world average is about two robots per farm, but that's because 95pc of the installations are in Europe. But there are large farms in Asia, Australia, New Zealand, South America, the United States and even Europe."
+Some people also think because robotics are voluntary, cows will be underfed, he said.
+"The reality is that you use feed as an incentive to make cows come to the dairy," he said.
+"Total cow and herd requirements do not change, you will need to tweak the way you feed, in order to achieve cow traffic targets."
+Dr Lyons said farmers were also concerned about not seeing every cow every day.
+"The reality is you can see every cow every day, but you will see her through the data," he said.
+"You will need to learn about what happens through numbers, tables and graphs.
+"There are roughly 120 measurements captured when a cow walks into a robotic dairy - production, weight, times, traffic, age, days in milk - all that ends up in the computer.
+"However you don't spend all day on a computer - the average robotic farmer spends roughly 40 minutes per day on the computer and that is not all in one go."
+Dr Lyons said there would also be a change in health management.
+"Because you are not seeing every cow, every single milking, you will have to detect health issues through sensors and the software," he said.
+"And if anything, the data helps you to pick up on the cows that you need to see.
+"The cow you need to fetch from the paddock is the one that isn't walking to the dairy on her own.
+"Research has shown that in a well-managed farm, most of the common cow health issues - mastitis, fertility and lameness - are all improved with AMS.
+"Lameness often comes from cows standing on concrete for long periods of time - in a robotic dairy, cows don't wait, because they don't have the rest of the herd in front of them.
+"The cows that are doing what they are meant to be doing just move along, you don't see them, you just see the data."
+MYTH: EXPENSIVE "There is a lot of misconception about how much a robotic milking system costs - people think it's into the millions, and let me tell you it is not," Dr Lyons said.
+"But it is also hard to do the maths if you are trying to compare it to an old conventional dairy - you can't, it's like comparing apples with donkeys.
+"We did five years of economic analysis in Australia and compared 14 robotic dairies with 100 conventional dairies that had up to 400 cows.
+"It showed the cows produced the same amount of milk, utilised the same amount of pasture and farms had similar labour efficiency.
+"Despite the robotic farms having on average higher overhead costs, such as depreciation and repairs and maintenance, total overall profitability was very similar to conventional dairies.
+"Opportunities for improving pasture utilisation, labour efficiency and robot utilisation could improve productivity and profitability of these systems, and therefore increase the interest of this technology."
+Dr Lyons said Milking Edge was creating a tool that helped farmers who were considering robotics.
+More: stockjournal.com.au
+CREDIT: Alisha Fogden
+Word count: 880

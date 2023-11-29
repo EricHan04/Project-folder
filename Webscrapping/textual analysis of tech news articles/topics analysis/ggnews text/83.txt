@@ -1,0 +1,26 @@
+Professor Anton van den Hengel, Director of the Centre for Augmented Reasoning, University of Adelaide
+A new research centre that focuses on next-generation artificial intelligence (AI) technology has been established at the University of Adelaide with $20 million in funding from the Australian Government.
+Launched by the Premier of South Australia, Steven Marshall, the Centre for Augmented Reasoning will develop the high-calibre expertise Australia needs to compete in the coming machine learning-enabled global economy.
+The new centre is headquartered within the internationally regarded Australian Institute for Machine Learning (AIML) at the University of Adelaide, which was jointly established with the Government of South Australia at Adelaide’s Lot Fourteen innovation precinct.
+Augmented reasoning is a new and emerging field of AI which combines an advanced ability to learn patterns using traditional machine learning, with an ability to reason.
+The four-year investment by the Department of Education, Skills and Employment in people and research will train a new generation of experts in machine learning – the AI technology driving real economic impact today – and support the growth of new high-tech jobs at the University and Lot Fourteen.
+A $3.5m innovation fund for AI commercialisation will provide seed funding to launch new start-ups, as well as support local collaboration opportunities, strategic development programs, and new business ventures.
+The centre will lead the research and development of new augmented systems, and improve machine learning technology across a range of applications, which might include:
+machines that continually learn new things while interacting with the environment;
+machines that work with data analysts to optimise business processes;
+machines that can ask people questions in ways that are more natural and easier than filling in forms;
+robots that can understand and follow instructions from people;
+factories where people and machines work seamlessly together without the need for constant reprogramming of software.
+“Centres like this cement Lot Fourteen as the innovation centre of the nation,” said Steven Marshall, Premier of South Australia.
+“Nowhere else can you find a site which presents collaborative opportunities for so many high-tech and high-growth sectors, creating jobs and boosting the economy.”
+“I am pleased to have played a part in delivering this centre for South Australia. It will be a major drawcard for the smartest young minds in the state to stay here in SA,” commented Senator Rex Patrick, Senator for South Australia.
+“AI is a critically important emerging technology that Australia must embrace. The jobs of the future will incorporate AI, not be replaced by it.
+“Governments should be working to greatly increase Australia’s technological capabilities, all the more so as we work our way out of the COVID-19 disrupted economy and this Centre should play a big part in this.”
+Professor Peter Høj AC, Vice-Chancellor and President of the University of Adelaide said: “The Centre for Augmented Reasoning is a vital new hub within the University’s Australian Institute for Machine Learning, for Australia’s high-calibre machine learning expertise.
+“Building on the University’s existing research strengths at AIML, the centre will support high-performance machine learning research, provide valuable scholarship opportunities, support AI commercialisation initiatives, and become a leading voice in Australia’s AI landscape.
+“AI is already having an impact on every academic area of the University. Just as computers are now the standard tool in all workplaces, machine learning will soon become a new standard for every industry. It’s a critical part of the future.”
+Professor Anton van den Hengel, Director of the Centre for Augmented Reasoning, University of Adelaide said:
+“Artificial Intelligence is right now being used to improve the productivity of every industry sector. If Australia wants to participate in a future AI-enabled global economy, we need to be applying AI to improve our productivity. That's the way that we maintain Australian jobs.
+“In every industry, the jobs that AI supports aren't AI jobs. They’re jobs in mining, agriculture, building and service industries. All of those industries will be impacted by the productivity gains from AI.
+“By using AI to improve their efficiency, productivity and quality, Australian businesses will remain competitive in an increasingly automated global economy.
+“If Australia is too slow in adopting new technology, then our industries will not be able to compete against regions that have already embraced the changes brought about by AI.”

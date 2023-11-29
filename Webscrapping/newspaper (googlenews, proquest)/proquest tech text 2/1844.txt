@@ -1,0 +1,21 @@
+Doctor Michelle Perugini knows only too well the emotional and physical toll that fertility issues can take.
+Perugini co-founded IVF startup Life Whisperer after she struggled to conceive for 2½ years.
+"I was on a whole range of fertility treatments and was booked in for IVF but in the end I got pregnant just before my appointment," she says. "What people don't realise is that even getting to the point you need IVF is very stressful for people who are trying to have children."
+Life Whisperer uses artificial intelligence to assess embryos for their likelihood of success in IVF and is one of a number of start-ups in the health sector harnessing the power of machine learning.
+The Adelaide-based start-up recently raised $4.5 million in funding for its product that assesses two-dimensional or microscope images of embryos and provides a confidence score on how likely an pregnancy will result.
+The "embryo ranking system" was built by training the artificial intelligence using thousands of images where it was known whether the pregnancy was successful or not. Life Whisperer provides an alternative to visual assessment by embryologists, which has the potential for human error, and genetic screening through cutting away part of the embryo.
+"We think it can have a huge impact on the fertility sector particularly from a patient's perspective," Perugini says. "Selecting the healthiest embryos first time will reduce the number of rounds patients need to go through. For the clinics it is likely to improve their success rates. From a cost perspective for the patient, if they are doing fewer IVF cycles, obviously it is a massive cost reduction for them."
+In international clinical trials across 12 clinics in four countries, including Australia, Perugini says Life Whisperer improved accuracy by 25 per cent compared to world-leading embryologists.
+"The actual process of IVF itself is very emotional and very financially taxing," Perugini says. "Our whole concept around the products we develop is software-based scaleable AI technology we can deliver globally at a low cost."
+The start-up is being utilised by Ovation Fertility in the US and Ovation's laboratory and operations director Tex VerMilyea says Life Whisperer removes the subjectivity of embryo viability.
+"Life Whisperer has the potential to revolutionise the field of IVF by making embryo selection a non-invasive, dependable and affordable activity," VerMilyea says.
+Another start-up harnessing artificial intelligence is skin cancer detection start-up MetaOptima.
+MetaOptima's DermEngine uses an image recognition algorithm trained on thousands of images of already identified skin cancers. Co-founder Maryam Sadeghi says DermEngine has begun trials in Australia and the US.
+"So many industries are using AI and healthcare is always the last to adopt but AI can provide so many solutions in this area, it's really untapped," she says. "The technology is proven. We all know the potential is all there; we all know it is going to help, now it is all about implementation."
+Sadeghi says the key issues in implementation are ethics and bias.
+"It is really interesting when you see in real-life settings how you deal with these problems, now that we have technology and machines to help us, we need to make sure they are in good hands," she says.
+"One simple thing is patient's choice - one person may be comfortable with having assistance in a diagnosis, another might not."
+The Canadian-based start-up has received $US6.5 million ($8.6 million) investment from Australian venture capital fund Airtree andScott Farquhar and Kim Jackson's investment fund Skip Capital.
+AirTree co-founder Craig Blair says Australia has the ability to lead the world in several areas applying artificial intelligence to the health sector. "Australia is in an unique position in many ways, we have really large data sets, some of the largest in the world that are labelled and ripe for machine-learning application," he says. "Examples of where we have seen that is melanomas, lung cancer detection, IVF embryo selection, even to gut biomes. We can create exciting world-class companies like the Cochlear and ResMed of tomorrow."
+CREDIT: Cara Waters
+Word count: 666

@@ -1,0 +1,54 @@
+For a brief, heady moment during the pandemic, people in some parts of the world, especially the Philippines, were turning to video games for work rather than pleasure.
+The "work" was flexible, could be done remotely on a smartphone, & appeared at a time when COVID-19 was devastating people's lives & incomes.
+These were not professional e-sports players, or people who make a living live streaming their gaming exploits on Twitch.
+Shealtielle Blaise De Jesus describes herself as an "average player" who turned to gaming for one reason: money.
+"I decided to play [the game] Axie Infinity as I needed extra money as a student," the 20-year-old Filipina said.
+Learning to play was a challenge, but during her most successful playing period, Ms De Jesus said she was able to earn around 1,500 pesos ($37) a week — a decent additional income for a student.
+A gaming gig economy?
+So-called "play-to-earn" games incorporate blockchain technology, which allows players to earn tokens they can exchange for real currency.
+Ben Egliston, a postdoctoral research fellow at Queensland University of Technology, said some investors characterised Axie Infinity as a flexible way to make money at home during the COVID pandemic.
+"It's really framed as how a lot of gig-economy-style companies talk about themselves, as offering people flexible working arrangements … [and the possibility of] making as much money as you want theoretically," Dr Egliston said.
+But like the gig economy, Dr Egliston said, play-to-earngames were deeply exploitative in practice, especially when it involved low-income players in the developing world.
+To play Axie Infinity, the most well-known play-to-earn video game, gamers had to purchase NFT (non-fungible token) characters with real currency that last year cost hundreds of dollars.
+Players who couldn't afford to buy their own characters could rent them off investors who owned characters and would then take a cut of the in-game currency they earned.
+These players were known as scholars, & the investors who rented their assets were known as managers.
+"Investors have said, 'what if we just start buying these assets & leasing them out to low-income players'," Dr Egliston said.
+"You've got these sorts of wealthy 'whales', essentially, who own these crypto assets, who are then leasing them out to these other players who are receiving a cut."
+A spokesperson for Sky Mavis, the developer behind Axie Infinity, said it was not a play-to-earn game.
+However the Axie Infinity website teaser states "join the blockchain gaming play to earn revolution with Axie Infinity!"
+The company also references "play to earn" elsewhere on the site.
+The spokesperson said the ability for players to earn tokenised resources & sell them on an open marketplace enabled some players "to earn a living from the game".
+He said the game allowed players who were "scholars" to generate resources without taking on any risk.
+The usual split between manager & scholar was 70:30, he said.
+"Without any risk to the scholar, where is the exploitation," he said.
+The spokesperson said a new version of the game, Axie:Origins, would be released soon, & players would be able to join for free "without having to use a middle-man".
+'Blessed & stressed'
+In 2021, as well as trying play-to-earn herself, Ms De Jesus investigated the experiences of Axie Infinity players in the Philippines as part of a university research project.
+"Mostly, our participants answered that they were really blessed, really lucky to have this opportunity because when the COVID-19 pandemic struck a lot of people lost their jobs, or they couldn't go outside," she said.
+"So, they were really thankful for [Axie Infinity] & they didn't mind the stress as long as they were earning money."
+The stress experienced by the 20 players Ms De Jesus interviewed derived from the relationship players [scholars] had with their managers, she said.
+Ms De Jesus said players worried they could not meet the minimum daily quotas set by their managers if they suffered a losing streak.
+A lack of sleep & irritability after long hours spent in front of a screen also took its toll on players, Ms De Jesus said.
+While the term play-to-earn might be new, Dr Egliston said the ethical concerns around potential labour exploitation within crypto gaming hierarchies was not new.
+Emerging in the early 2000s, players of games like World of Warcraft could earn in-game currency & sell it via a third-party exchange for real currency to players who did not want to spend the time amassing it themselves, Dr Egliston said.
+This practice led to "gold farming", where an emerging digital working class, most of them in China, played games for hours on end to generate in-game currency which was then sold for real money to wealthier players.
+"It was basically a case of outsourcing labour to poor rural areas in China, as well as incarcerated people in some instances, to just sit at their computers & generate these kinds of in-game assets," Dr Egliston said.
+"There are real lessons that we can learn, looking back at the much earlier era of play-to-earn games, even if it wasn't really called that," Dr Egliston said.
+Too good to be true?
+Ms De Jesus said she stopped playing Axie Infinity because of the recent crypto currency crash.
+"I lost my excitement to continue playing because of the SLP [in-game currency] value," she said.
+"I noticed that the players on multiple communities were converting their SLP into cash as soon as possible … [there was] panic selling."
+According to Bloomberg, Axie Infinity had around 2.7 million daily users at its peak in April 2021.
+Last week, the game had around 111,000 active players.
+But the recent cryptocurrency crash is not the only force behind the drop in value & declining player numbers of Axie Infinity.
+In March, hackers stole almost $921 million in cryptocurrency linked to Axie Infinity.
+"There's also fundamental problems with the economics of these games, which haven't quite been solved yet," Paul Delfabbro, a professor from the University of Adelaide's School of Psychology, said.
+As players generated more & more in-game currency, the value of tokens decreased because the act of generating more tokens from nothing was inflationary, Dr Delfabbro said.
+"People suddenly discover that the returns they get from the games go down over time & that's been the experience with some of those other popular games like Axie Infinity, which have emerged in the last two years," he said.
+Dr Delfabbro said critics had rightly labelled such games Ponzi schemes because they can only succeed when more players buy into the game.
+The Sky Mavis spokesperson denied Axie Infinity was a Ponzi scheme & referred the ABC to the economy & long-term sustainability section of the company's white paper.
+The spokesperson also said the company had conducted "economy-balancing efforts" within the game to ensure more of the in-game currency was "burnt" — spent in-game — while playing Axie Infinity rather than exchanged for real-world currency.
+This could reduce the inflationary effect of players generating tokens.
+Dr Delfabbro said many game developers were trying to solve these issues to create sustainable play-to-earn models, & "tokenised" activities would continue to emerge in many contexts.
+"It's a whole movement towards using tokens & credit systems to reward different behaviours, some of which may be positive, some of which are more extrinsically motivated to earn money," he said.
+Word count: 1222

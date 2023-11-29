@@ -1,0 +1,22 @@
+GLOBAL interest is growing in a software system that uses artificial intelligence and satellite imagery to map every vineyard in Australia.
+Developed by Consilium Technology in Adelaide, the Geospatial Artificial Intelligence for Agriculture analysis algorithm scans high-resolution satellite images of Australia's wine regions to identify exactly where vineyards are located and how many vine rows are planted.
+Funded by Wine Australia, the scan is the first of its kind in the world and replaces the old Australian Bureau of Statistics paper-based sector survey, last published in 2015.
+The locations of all 75,961 Australian vineyard blocks detected have been mapped, providing information that can be used for emergency biosecurity responses.
+The new method has also measured vine row length, making it possible to assess planting densities by GI region and sub-region for the first time.
+The multi-spectral imagery from Maxar's WorldView-2 satellite and GAIA technology can also be used to provide insights into vine health such as assessing weather-related damage.
+Consilium Technology has so far been working in a private beta version with 24 customers including Treasury Wine Estates, DeBortoli Wines, Brown Family Wine Group and a number of viticultural consultancies.
+An interactive GAIA app will be launched at the Australia Wine Industry Technical Conference in Adelaide next month to allow grape growers and winemakers across Australia identify and annotate their own blocks.
+Consilium Technology chief technology officer Sebastien Wong said one part of the technology was the automatic identification of crops and the other was the ability to monitor crop health.
+He said GAIA could be used across a range of high value agriculture industries such as almonds, avocados and citrus and had generated a lot of international interest.
+"Wine is our first focus because the technology is ready to go and we've had good interest from international wine industries including North America," Dr Wong said.
+"This is a world first - people do crop health monitoring but there's no one automating the location of crops for the wine industry.
+"It's the second continent-scale satellite project. The first one was also in Australia but it focused mainly on finding things in urban environments such as solar panels and buildings."
+Dr Wong said Consilium Technology was seeking more lead clients similar to Wine Australia while consolidating its offering to the Australian wine industry.
+"Every single Wine Australia levy payer, winemakers and grape growers, will be able to log in to GAIA so they can view the results in a map and from that we are offering additional value added services that look at the health of their crops," he said.
+"There's huge potential and we're working with other IOT sensor companies and database providers to create a connected ecosystem because we don't want to be a standalone piece of kit, we want to work with companies that specialise in things like soil moisture, weather and spray diaries to help people value add and visualise what's going on in a spatial manner rather than just relying on traditional methods."
+The first National Vineyard Scan covered 5 million hectares and revealed:
+Australia has 146,128 hectares of vineyards; the total length of vine rows (463,718km) is enough to wrap around the Earth 11 times; SA accounts for 51 per cent of national plantings; the Riverland is the largest geographic identification region with 21,058ha of vines; plantings in the Barossa Valley have increased by 1560ha since the 2015 survey. Wine Australia Chief Executive Officer Andreas Clark said the National Vineyard Scan was very accurate, with 95pcmatching of vineyards compared with human identifications in test samples.
+"This scan provides the sector with a very good baseline for follow-up surveys that will be carried out over the next two years," he said.
+This story was originally published on The Lead. Start the day with all the big news in agriculture. Click here to sign up to receive our daily Stock Journal newsletter.
+CREDIT: Andrew Spence
+Word count: 648

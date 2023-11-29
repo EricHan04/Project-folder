@@ -1,0 +1,17 @@
+A PROOF of concept trial driven by the South Australian Dairyfarmers' Association is aiming to improve the traceability of milk products right through the supply chain and strengthen industry integrity and transparency.
+Blockchain and distributed ledgers technology will be used to track and record milk and milk products from cow to consumer.
+Details including the cow and dairy the milk originated from, and the subsequent transport of the product, will be recorded, time-stamped and geo-located with the information logged on a digital platform.
+The data would be made available to consumers through the use of data-carrying technology, like QR codes, stamped on the final products on supermarket shelves.
+SA companies Fleurieu Milk and Golden North will take part in the trial, which is fully funded by the SA Dairy Industry Fund, with the technology aspect being handled by Datahash.
+Datahash director David Travers said the traceability system would ultimately give consumers certainty about the origins of their milk and create a full supply chain of transactional data.
+"It's about ensuring integrity within the supply chain," he said.
+"At the moment a centralised database is prone to corruption, there's a lot of fake milk and fake milk powders circulating in other parts of the world.
+"This will enable consumers to be assured that their milk came from a certain farm in a certain place."
+Mr Travers said the information recorded would be stored on an independent, verifiable site.
+SADA Dairy Action Plan officer Ashleigh Pulford said the technology would also allow farmers to see where their milk was headed after leaving the farmgate.
+"Until now, labelling has been the source of trust for consumers in Australian and international markets, but this technology will allow all participants in the supply chain - including consumers - to track the milk from the farm to the product they hold in their hand," she said.
+SADA policy officer John Elferink said the trial would not only allow the SA dairy industry to govern its own supply chain, but demonstrate the worth of this technology to the national dairy sector and other industries.
+Primary Industries Minister David Basham said the trial was an exciting step for the state's dairy industry and had the potential to re-establish the connection between consumers and producers.
+"SA's dairy industry punches well above its weight and this traceability trial is another shining example of that and we look forward to seeing the results," he said.
+CREDIT: Quinton McCallum
+Word count: 407

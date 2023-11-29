@@ -1,0 +1,92 @@
+With specialists' fees making headlines, Kate Aubusson looks at the costs. What are out-of-pocket expenses? Who decides on the prices? When are specialists gouging patients?
+Massive and unexpected costs can hobble low-income families, especially when patients need long-term medical care.
+And surprise gap payments are enough to make many people wonder why they bother paying for private health insurance at all, and why crowd-funding sites are flooded with hundreds of patients pleading for donations to pay thousands of dollars in specialist fees.
+So why do we have out-of-pocket costs for specialist services? Who decides what patients pay? Why the huge variations? What's an appropriate fee and when are specialists gouging patients with egregious charges?
+They're tricky questions, made all the more so by Australia's complex healthcare system where Medicare, private health funds and specialists themselves all help determine just how big your gap will be.
+How much are we paying out of our pockets?
+Fewer than one-third of specialists bulk-billed in 2017-2018, Medicare data shows. Patients paid just shy of $80 on average for an out-of-hospital specialist service, up from $65.73 in 2014-2015.
+For in-hospital services only, more than one in 10 come with gap fees (12.5 per cent), according to the quarterly private health insurance report from the Australian Prudential Regulation Authority (APRA) published in May. Another 7.5 per cent had a known gap. That leaves one in 20 in-hospital services (5 per cent) for which patients paid unexpected out-of-pocket fees.
+Plastic and reconstructive surgeons were responsible for the biggest out-of-pocket payments. More than one in three of their patients paid an average gap of $385.
+Yet the average gap (where a gap was paid) is falling, according to APRA. It was $155.42 in the quarter up to March 2019 - 6.9 per cent lower than March 2018.
+This data doesn't include out-of-hospital specialist fees, and even with this overall drop, we know some specialists are charging egregiously; up to tens of thousands of dollars in out-of-pocket costs (we've seen the bills).
+These brazen billers may be the minority but that's cold comfort for the patients slapped with a surprise fee.
+We also know many Australians delay or avoid seeing a specialist because of the cost. Then there are the more nefarious billing practices known as booking fees and bill-splitting that Medicare and APRA data won't pick up (more on this later).
+What is the gap?
+A gap fee, or out-of-pocket cost, is the difference between the fees charged by a doctor and what Medicare and a patient's private health fund will pay for.
+Specialist consultations out of hospital usually come with out-of-pocket charges. About 72 per cent of patients had out-of-pocket costs for specialist services in 2016-2017 (5.3 million people). If you're a private patient in hospital, every medical specialist you come in contact with can charge you a fee on top of your hospital fees, which can include out-of-pocket costs.
+The Australian government subsidises specialist services through the Medicare Benefits Schedule (MBS), and sets a schedule fee for consultations and various procedures. The schedule fee is the amount the government considers appropriate for each service. With the exception of some GP services, MBS rebates don't cover the full cost of medical care.
+Some health policy experts and the Australian Medical Association (AMA) argue government rebates are set too low and some bear no resemblance to the true cost of the service.
+The MBS rebates typically cover 85 per cent of out-of-hospital specialist services and 75 per cent for private patients in hospital. That means patients - and their private health fund - pay the difference for in-hospital fees.
+Private health insurers must top up a Medicare payment by at least 25 per cent of the MBS schedule fee for in-hospital services. But health funds can exclude some procedures and treatments. For instance, some policies might not offer any cover for hip or knee replacements. By law, private health insurance can't help pay for out-of-hospital specialist fees.
+No-gap v known-gap
+Most health funds offer no-gap arrangements, where doctors agree to charge the same amount an insurer has agreed to pay for a specific in-hospital medical service - meaning patients won't pay an out-of-pocket fee. A known gap is where a doctor charges a fee set above the amount an insurer will pay and the patient pays a "known" rate out of pocket. A typical known gap is $500.
+These no- and known-gap schemes offer patients benefits greater than the 25 per cent of the MBS fee that health funds are required to cover by law. They vary among insurers. Some specialists use them routinely. Others use them for concessional patients.
+But specialists don't have to stick to the MBS of 'known gap' fees, and this is how out-of-pocket costs can blow out significantly. If your specialist charges even $1 over the known-gap fee you are no longer eligible to claim under the gap scheme. Your health fund will drop back down to covering only 25 per cent of the MBS fee and you will need to pay the rest out-of-pocket.
+Gap rates can also vary dramatically depending on a patient's private health insurance cover. A doctor can charge the same fee for the same procedure to two different patients: one who has no gap, and one who pays thousands in out-of-pocket costs, depending on what their health fund is willing to pay and what procedures their policy covers.
+Who decides what specialists charge?
+Specialists are free to set their own prices. Their charges aren't regulated, which sets Australia apart from other countries with fee-for-service systems, like Canada and France, which set some limitations.
+The government is prohibited from regulating fees under the constitution.
+Health policy experts have floated several reforms to curb excessive specialist fees, including direct government regulation, introducing financial incentives such as the GP bulk-billing incentive, stopping specialists from accessing Medicare rebates if they charge exorbitant fees, or an opt-in Medicare system only for doctors who agree to certain fee restrictions.
+But the more likely route will be government measures to make specialist fees more transparent.
+What about the MBS and the AMA's fee list?
+The AMA has long argued that the MBS undervalued medical services and that Medicare rebates are inadequate. The Medicare freeze has a lot to answer for when it comes to high out-of-pocket costs, according to the peak doctor's group. MBS rebates stagnated for five years, despite inflation and the rising costs of delivering healthcare.
+A doctor's fees need to cover her personal income, staff wages, accreditation, indemnity insurance and practice costs (including rent, equipment and medical supplies), which are rising year-on-year well above the MBS schedule.
+From July 1 rebates for surgery and other procedures will start to be indexed again, but the indexation won't be backdated, so MBS rebates will still be well below the true cost of providing specialist services, according to the AMA. But it's unclear how much impact this will have on extreme out-of-pocket costs if those specialists continue to charge what the market will bear.
+The AMA publishes a fees list for its members (non-member doctors can pay for access). It's a pricing guide - not a mandatory directive - that reflects what the AMA believes specific specialists should be charging for their services on top of the Medicare subsidy.
+The fees list is indexed by less than 2 per cent every year, but there are specialists who charge significantly higher than the AMA's guide. It's often about supply and demand, with some specialists charging what the market can bear. For instance, if their private rooms are located in affluent areas, or they face little competition, they could charge much more than the national average.
+Other specialists might have little reason to keep their prices competitive because they benefit from established relationships with referring GPs and local hospitals.
+Then there are the rock-star specialists who market themselves as the best in the business and charge premiums for their supposed superior skill. (There is no robust evidence suggesting the more you pay for a specialist the better your outcomes.)
+How big could the variations in bills be?
+There can be huge variations in the fees doctors charge within the same specialty. A 2015 study published in The Medical Journal of Australia found specialists could charge up to five times more than their colleagues.
+The study found 10 per cent of patients are paying cardiologists less than $23 out-of-pocket while another 10 per cent are paying more than $127 with no clear justification for the variation - for instance, significant differences in the cardiologist's experience or performance outcomes.
+A 2017 Medibank study found patients were paying as much as $10,700 in gap fees for prostate cancer surgery while others were charged no gap.
+A patient's condition will also influence their cost. For instance, do they have other co-morbid conditions or complications that require more complex treatment?
+Where you live matters too. In NSW, urology surgeons charged on average $7049 in out-of-pocket fees, compared to $4110 in Victoria and $1579 in Tasmania. Paying for a return flight to Adelaide for a hip or knee replacement could be cheaper in many cases than seeing a Sydney or Melbourne surgeon, according to the Medibank report.
+And in the affluent area of North Sydney, where 83 per cent of specialist patients paid a gap, the median out-of-pocket cost was $87, almost double the median gap for specialist patients in country South Australia ($47).
+How common are the egregious billers?
+A ministerial expert advisory committee concluded that in recent years "a minority of medical specialists have been charging very large fees, including to patients with low incomes". Specialists raking in exorbitant out-of-pocket fees have been denounced by many in their own profession, and the government is taking measures to crack down on the practice.
+The extreme end of egregious billing seems to be fairly uncommon. We're talking the headline-grabbers charging $17,000 out-of-pocket for prostate cancer surgery, upfront gaps of $5000 for breast cancer surgery or hip replacements for 80-year-old pensioners.
+Worst offenders aside, national surveys consistently show patients are alarmed by their growing out-of-pocket costs. Then there are the hidden fees.
+What are booking fees and bill splitting?
+A ministerial expert committee had serious concerns about "hidden" out-of-pocket charges known as "booking fees" and "bill-splitting". They aren't disclosed to Medicare or private health insurers and circumvent the requirements of the "no" or "known" gap arrangements between doctors and health insurers. Booking or administration fees are upfront, non-refundable, out-of-pocket charges to secure an appointment with a specialist - and come on top of the fee that patients pay to cover the cost of the consultation.
+The more notorious form of a "booking fee" is when a specialist sends two separate bills to a patient's private health insurer and the patient themselves. The insurer will pay the higher no-gap or known-gap rate for a procedure, under the impression that this is all the patient has paid, when in fact the patient has been given a separate, potentially exorbitant "booking fee" bill from their specialist.
+Another bill-splitting tactic involves specialists with close relationships (for instance, a surgeon and anaesthetist) taking advantage of extended Medicare safety-net workarounds to find extra Medicare item numbers, and then charge patients up to 45 times the MBS anaesthesia fees, and up to 16 times the MBS surgical fees.
+These practices have been condemned by the AMA with some members advocating moves to name and shame specialists who use them.
+There are some legitimate reasons that specialists charge booking fees. One example is a pregnancy management fee (that has an MBS item number) for obstetricians who see their patient many times over months ahead of a birth.
+And there is an argument in favour of allowing booking fees, which warns that banning the practice altogether could increase out-of-pocket costs for some patients under no-gap and known-gap arrangements.
+Say, for example, the 100 per cent MBS fee for a procedure is $1000 and the health fund has agreed to a no-gap fee, as long as the specialist charges $1500. But if the specialist fee is $2000 (that is, more than the agreed threshold) the insurer will pay only 25 per cent of the MBS fee ($250) leaving the patient $1000 out of pocket.
+The specialist can get around this by sending one invoice to the insurer with the no-gap amount of $1500 (fully covered by Medicare and the health fund) then sending a separate invoice to the patient for a booking fee of $500, reducing their out-of-pocket by half.
+But this tactic has attracted heavy criticism as an excuse for high specialist fees.
+Others argue its a clear sign the MBS schedule fees must be raised, and incentives provided to insurers to increase their no- and known-gap agreement cut-offs.
+What's the government doing ?
+In March, Health Minister Greg Hunt announced the federal government would publish the fees of individual specialists on a searchable website to help patients avoid "bill shock" and as part of a crackdown on doctors charging exorbitant sums.
+It's a voluntary scheme; specialists would have to supply their fee information. Professor Bruce Robinson, chair of the Medical Benefits Schedule review taskforce, says if a surgeon is noticeably absent it should be a red flag to patients.
+The site will list the fees for consultations for the top 80 per cent most common specialist services. The expert committee also recommended the website include the cost-related services, such as anaesthetist and assistant surgeon fees.
+But the website won't include information about how much Medicare will cover, whether a patient is covered by their health fund for a specific procedure, how much their health fund is willing to pay, nor if their specialist or hospital has an arrangement with their insurer. All these factors (plus where a patient lives, and their overall prognosis) can affect out-of-pocket costs.
+AMA president Tony Bartone said without this detail the website was asking patients to make decisions "with one eye shut".
+The government also promised to develop a new national education campaign to focus on warning patients, families and GPs about exorbitant out-of-pocket costs, stressing that higher fees do not translate to higher quality care.
+But it's clear patients and GPs need easier access to information about what specialists charge before that first costly consultation, which might have been booked weeks or months in advance.
+What can you do?
+The best defence against exorbitant out-of-pocket fees and bill shock is understanding the system, asking questions and making sure you can give informed financial consent.
+Know you can shop around. You are not "locked into" a financial relationship with a specialist simply because your GP referred you to them. Once you've been given a fee estimate, there's no harm in asking if they can offer you a better price. Specialists will often adjust their fees for patients who would struggle to cover the cost.
+What can I ask my specialist?
+- What are your fees?
+- Is this an estimate?
+- Are there any other costs, or fees for other doctors (anaesthetists or assistant surgeons)?
+- Will I have any out-of-pocket costs?
+- What are the MBS item numbers for the services you are going to perform? (You can look up the MBS schedule fee for these later.)
+- Do you have a no-gap or known-gap arrangement with my health fund?
+- If the cost changes, when will you let me know?
+- How will you bill me?
+- When will I need to pay?
+- Can I get this in writing?
+What can I ask my health fund?
+- Am I covered for this procedure and MBS item?
+- How much will my policy cover?
+- How much am I likely to have to pay myself (including excess)?
+- Can you confirm this in writing? (if there is time)
+- Does my insurer have a no-gap or known-gap arrangement with my doctor and hospital?
+This article was in response to reader Laurine Hurley, who requested that we explain how medical specialists' fees work in Australia.
+If you want something explained, email explainers@ smh.com.au
+CREDIT: Kate Aubusson
+Word count: 2680

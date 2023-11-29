@@ -1,0 +1,16 @@
+NDIS software start-up Lumary has secured a $2 million investment from venture capital firm Equity Venture Partners (EVP).
+The Adelaide company will use the funds to accelerate the growth of its workflow management platform, which has been developed to support disability and aged care providers operating in the NDIS program.
+Lumary chief executive Joseph Mercorella said he and business partner Matthew English established Lumary two years ago after identifying a need for new software to manage the complex relationships between providers, consumers and others participating in the NDIS.
+“The investment has come at a time for us to expand our offering to support more of the market,” he said.
+“The first two years were about listening, learning and developing both software and a framework to support the consumer, carer and provider.
+“By establishing this solution we have helped to develop a commercially competitive environment, which is what’s best for the consumer.” Developed on the Salesforce Lightning cloud platform, the Lumary stakeholder management and business workflow system provides users with scheduling, resourcing, accounting, document management, communication and reporting tools.
+The company says the platform managed around $750 million in NDIS funds last financial year.
+Sydney-based EVP typically invests $500,000 to $5 million in tech start-ups, and currently manages investments worth around $60 million across two funds. As part of the deal with Lumary, EVP director Daniel Szekely will join the company’s board.
+He said the aged care and disability sector was calling out for new technologies to support the fledgling NDIS environment.
+“With the rising tide of the Government’s $43 billion NDIS commitment, and an industry calling out for technology driven efficiency tools to keep up within this landscape, Lumary is fast becoming an integral part of the Australian healthcare ecosystem,” he said.
+“The founders intimately understand the technology needs of this evolving industry and they have built a best in class product to service this need.
+“The unbundling of dominant, horizontal platforms like SAP and Salesforce into deep vertical platforms like Lumary is a core thematic for EVP.” Lumary employs 45 staff in Adelaide and at satellite offices in Sydney and Brisbane.
+Mr Mercorella said the company had plans to roll out similar technologies overseas, starting in the Asia Pacific region. “Our first priority is addressing the needs of the Australian market today but we see the problem globally and our strategy is to take the framework we have built and apply this abroad,” he said.
+Innovation Minister David Pisoni welcomed EVP’s investment in the growing local start-up. “The Marshall Liberal Government’s vision is to make South Australia a global leader in entrepreneurship by creating the right culture and improving capability to mobilise capital,” he said.“This is great news for Lumary who are attracting investment and developing solutions for a growing industry.”
+CREDIT: GIUSEPPE TAURIELLO
+Word count: 466

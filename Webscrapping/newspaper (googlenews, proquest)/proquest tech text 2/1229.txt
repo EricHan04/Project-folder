@@ -1,0 +1,61 @@
+We found them by looking for the five best-performing, early career researchers in each of the eight main disciplines of research. To identify them we use a methodology based on their annualised H-index, a measure which considers both their volume of research output, as well as the impact it has in their field. To ensure we only consider early career researchers we look only at researchers who are in the first ten years of their career.
+In each discipline we briefly describe the work on one of the researchers.
+Business, Economics & Management
+Hossein Rizeei, McGregor Coxall (ex University of Technology Sydney), Emergency Management
+This geospatial scientist researches data-driven support systems with applications for harmonising built and natural environments and managing natural disasters. “From data capturing techniques that simulate the natural behaviour of nature, to finding practical solutions that widen humanity’s perspective over our planet, this ‘work’ is my castle in the sky.”
+Alexander Newman, Deakin University, Human Resources & Organisations
+Nik Steffens, University of Queensland, Human Resources & Organisations
+Jun Wen, Edith Cowan University, Tourism & Hospitality
+Mingming Cheng, Curtin University, Tourism & Hospitality
+Engineering & Computer Science
+Shariful Islam, Deakin University, Medical Informatics
+His research focuses on global health and using innovative mHealth, sensors, wearable devices and artificial intelligence for improving cardiovascular and metabolic health.
+“My interest includes understanding the influence of risk factors on diseases, how they change over time, developing new markers and novel approaches to prevention and management.”
+Seyedali Mirjalili, Torrens University, Artificial Intelligence
+Wanli Ouyang, University of Sydney, Computer Vision & Pattern Recognition
+Derrick Wing Kwan Ng, UNSW, Computer Networks & Wireless Communication
+Hwai Chyuan Ong, University of Technology Sydney, Sustainable Energy
+Chemical & Material Sciences
+Anthony Vasileff, University of Adelaide, Materials Engineering
+He received his PhD in chemical engineering at the University of Adelaide in 2020, and researches the reaction fundamentals of key energy conversion processes like water electrolysis and CO2 reduction to fuels in order to develop catalyst design strategies. He aims to provide innovative solutions for a green economy.
+Xiaoguang Duan, University of Adelaide, Chemical Kinetics & Catalysis
+Dongliang Chao, University of Adelaide, Materials Engineering
+Zengxia Pei, University of Sydney, Materials Engineering
+Dawei Su, University of Technology Sydney, Materials Engineering
+Physics & Mathematics
+Peyman Mayeli, Monash University, Electromagnetism
+One of this PhD student’s most recent papers dealt with rotary electromagnetic energy-harvesting shock absorbers. He describes his research as the development and application of computational algorithms that can solve fluid and thermal convection challenges, and the use of optimisation techniques for thermo-flow system design.
+Lu-Xing Yang, Deakin University, Physics & Mathematics (general)
+Junqi Zhang, UNSW, Computational Mathematics
+Nghia Nguyen Trong, University of Adelaide, Electromagnetism
+Ran (Daniel) Zhang, RMIT University, Acoustics & Sound
+Health & Medical Sciences
+Fiona Charlson, University of Queensland, Psychiatry
+At the Queensland Centre of Mental Health Research she uses psychiatric epidemiology and health services research to address the most challenging global mental health research questions, including the mental health impacts of climate change and conflict. “My ultimate goal is to improve mental health outcomes, particularly in vulnerable populations.”
+Felix Ogbo, Western Sydney University, Neurology
+Simon Rosenbaum, UNSW, Psychiatry
+Janni Leung, UNSW, Addiction
+Loïc Yengo, University of Queensland, Genetics & Genomics
+Humanities, Literature & Arts
+Crystal Abidin, Curtin University, Communication
+She is a sociocultural anthropologist of vernacular internet cultures, particularly young people’s relationships with internet celebrity, self-curation, and vulnerability. She is program lead of Social Media Pop Cultures and founded the TikTok Cultures Research Network. Her research has contributed to policy updates for Facebook, Google, and Instagram.
+Matthew Fuller-Tyszkiewicz, Deakin University, Gender Studies
+Miriam Forbes, Macquarie University, Sex & Sexuality
+Kelly-Ann Allen, Monash University, Religion
+Axel Constant, University of Sydney, Philosophy
+Social Sciences
+Emily Corner, Australian National University, Diplomacy & International Relations
+She researches how mental health and personality affect terrorist decision-making, drawing on criminology, psychology, psychiatry, sociology, and terrorism studies. “I want to understand why people become terrorists; expanding research and knowledge, influencing policy and practice, and offering insight into enacting meaningful behavioural changes in those at risk of offending.”
+Zaheer Allam, University of Western Australia, Urban Studies & Planning
+Sefa Awaworyi Churchill, RMIT University, Environmental Law & Policy
+Rebecca Collie, UNSW, Educational Psychology & Counseling
+Patrick Brandful Cobbinah, University of Melbourne, Urban Studies & Planning
+Life Sciences & Earth Sciences
+Mohsin Tanveer, University of Tasmania, Botany
+He is a plant physiologist who explores and improves crop performance under climate change conditions such as uncertain precipitation, high soil salinity and heavy metal pollution.
+“We need to revolutionise our way of thinking, and give our crops the ability to survive on their own once more.”
+Babar Shahzad, University of Tasmania, Botany
+Xianbo Zhao, CQUniversity, Sustainable Development
+Jinxing Ma, UNSW, Environmental Sciences
+Qinglin Chen, University of Melbourne, Environmental Sciences
+Word count: 730

@@ -1,0 +1,5 @@
+TRAVEL A TEAM of Australian data analytics experts have used their downtime during the Covid-19 pandemic to develop a world-first tool for travellers to quickly assess the risk of their journey.
+Called GOPASS Global, the platform has already been rolled out to a number of travel industry heavyweights including Lufthansa, Sabre and Global Travel Network.
+Covering 3900 airports in 240 countries, and 260 aircraft types across 732 airlines, the platform uses information from 35 data sources to calculate the level of Covid-19 risk to a traveller throughout their trip. GOPASS chief executive Mark Radford said the product aimed to fill the need for “risk management” for travellers in a pandemic world. As well as delivering a risk rating between one (low) and 10 (extreme), the platform provided travellers with up-to-the-minute information about their health and legal obligations.
+CREDIT: Robyn Ironside
+Word count: 141

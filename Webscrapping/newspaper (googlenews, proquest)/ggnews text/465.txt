@@ -1,0 +1,31 @@
+The Houston-based Innovation Institute of the Texas Medical Centre (TMC) – the world’s largest medical centre – has announced it will help accelerate the launch of Adelaide-based tech company Personify Care’s mobile patient monitoring platform into the lucrative US market.
+Personify Care is one of only 25 companies selected worldwide by the Institute following a competitive international selection process.
+TMC consists 54 medicine-related institutions, including 21 hospitals, eight specialty institutions, eight academic and research institutions, four medical schools, seven nursing schools, three public health organisations, two pharmacy schools and a dental school. More than eight million patients present annually at TMC and a surgery is performed every three minutes.
+The TMC Innovation Institute’s TMCx accelerator program pairs the resources of the medical centre with the innovative horsepower of entrepreneurs working in the areas of digital health and medical devices.
+“We have had our sights on the US market from the very beginning, so this is a significant step for us,” said Personify Care’s CEO, Ken Saman.
+Personify Care is easy to use software that allows nurses, specialist practices and hospitals to detect when a patient is at risk of a complication and intervene before their condition (and associated cost) escalates.
+What is the story behind Personify Care?
+Saman said the idea for the platform was formed following a hospital stay of his own. “I was being driven home after my second ACL (Anterior Cruciate Ligament) knee reconstruction and frustration was my overriding experience.”
+“Despite having been through it before, I was having trouble recalling some basic information I’d been given during my hospital stay. I’d been bombarded with well-meaning advice, but the questions I wanted answered only seemed to come to mind after I was discharged“.
+Working with technology veteran Ivan Peevski, Saman began exploring how he could apply some of what he’d learnt in the ecommerce world to make it easier for patients to manage their recovery and allow clinicians to spend more of their time caring for their patients. He also set about building a team supported by an experienced clinical advisory board and strategic advisors from the US and Australia.
+Saman’s early career was spent working with Motorola in Australia, Germany and the US developing mobile phone software. He later spent 7 years leading Engineering and Account Management for YourAmigo, a high growth tech company which became a leader in the ecommerce space deployed in over 30 different countries for many of the world’s top 100 e-commerce companies.
+The patient engagement market is estimated to be worth $13.9 billion by 2019 with a compound annual growth rate of 20%. “Within its target markets of Australia and US, there are over 132,000 patients having surgery every day,” Saman said.
+“Evidence shows that patients only recall 25% of what they’re told as they’re leaving hospital. We also know the nurse-led follow up can reduce hospital readmissions by 23%. The problem is that most patients don’t get the follow up they need it because we’re still using paper forms and phone calls to deliver these protocols.”
+“Meanwhile, patients are being discharged earlier as hospitals reduce the length of stay; and hospitals are becoming increasingly accountable for complications or readmissions in the weeks after a surgery.”
+How is Personify Care doing so far?
+With the Personify Care system, discharged patients receive regular text messages from their nurse over a 6-8 week period with information about their recovery and assessments that monitor the risks associated with a complication.
+“Patients get information when they need it most and are called with advice if their recovery isn’t as is expected. Patients are reporting their pain levels, rating their experience and sharing images of their wound for the clinical team to review” Saman said.
+Following comprehensive trials, St Andrews Hospital in South Australia has announced a hospital-wide rollout of Personify Care’s platform in collaboration with Bupa, for patients across all surgical procedures.
+St Andrew’s CEO, Stephen Walker said the hospital was delighted to be rolling out the Personify Care service in collaboration with BUPA across all speciality areas.
+“Our experience has been that by using the Personify Care platform we have been able to improve patients’ experience of care, identify potential risks early and more effectively target interventions if required,” he said.
+The hospital-wide rollout followed a thorough evaluation of the platform through pilot studies at St Andrew’s Hospital and surgical practices since 2015, with results being presented last year at the Royal Australian College of Surgeons Annual Scientific Meeting and the Health Informatics Society of Australia national conference.
+Results include:
+Patients monitored eight times more often without increasing nurse workload
+Early detection of clinical risks
+96% patient response rate
+95% of patient satisfaction
+86% of patients felt better supported in their recovery (as a result of accessing the service.)
+“We are building a platform that scales across the entire patient journey and in the future could be applied to clinical trials or recovery from work injuries. We started with hospital discharge because we saw a clear gap in the market. Huge investments were being made on technology inside the hospital but the moment the patients walked out the hospital, the visibility to their recovery was typically limited to one phone call.”
+But the company’s vision goes beyond a more efficient experience of healthcare.
+“We are building an extremely rich data set. As we start to track protocols against health outcomes we’ll be in a position to start to identify the key drivers for better health outcomes, such as improved survival rates or reduced complications. In time we’d like to provide clinicians with the data to better inform clinical best practice.”
+“We don’t believe in a healthcare future where technology replaces the patient doctor relationship – but we do believe that technology can free up valuable time so that patients get the care they need when they need it most,” Saman said.

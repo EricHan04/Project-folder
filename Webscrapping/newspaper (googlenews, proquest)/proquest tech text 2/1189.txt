@@ -1,0 +1,26 @@
+The unusual assignment has resulted in a pale ale created entirely by artificial intelligence (AI), which is now available in pubs and independent liquor stores in South Australia.
+The craft beer, developed by University of Adelaide’s Australian Institute for Machine Learning (AIML), in partnership with Barossa Valley Brewing, is proving popular with customers.
+“It’s only been available in pubs for about five weeks and they’ve already run out of kegs,” Barossa Valley Brewing’s founder Denham D’Silva says. “There are only cans left and even those are running out the door very quickly.”
+Not surprisingly, the idea for an AI beer was initiated by D’Silva and AIML founder Anton van den Hengel as they brainstormed over a few beers.
+“Anton is a big craft beer fan and I’m an AI geek,” says D’Silva.
+“We were spit-balling over beers and Anton said wouldn’t it be great if we could create an AI beer and how would it work, so we came up with the idea. It was one of probably millions of ideas that are generated over beers but not many of them are actioned.”
+To create the beer, two AIML interns from the University of Adelaide, Jash Vira and Christopher Fusco, built a sizeable dataset using more than 260,000 craft beer recipes before creating a neural network that was able to learn how to make a beer by analysing the recipes.
+“It was a fun project and it was very easy to get students and engineers involved,” AIML director Simon Lucey tells The Australian.
+“They used AI to go through all the beer recipes that are available online to determine which one would be best for the specific type of beer they were trying to make, which in this instance was a pale ale. It analysed recipes and ingredients.
+“But at the end of the day we still needed the master brewer to make the final decision, so we’re not ceding the role of brewing over to machines. AI is an enhancement, a way to make this more efficient.”
+The beer was named the Rodney AI2PA to honour Rodney Brooks, an Australian robotics pioneer and founder of iRobot, the company which developed the Roomba vacuum cleaner.
+D’Silva says AI will become an integral part of the Barossa Valley Brewing’s business, as it enables the company to refine a product’s flavour or create new beers based on customer feedback.
+“This is not a one-off marketing thing. My intention is to embed AI into all facets of the business. This is a legitimate way to augment our business model,” he says.
+“Our customers are literally involved in creating a pathway for how this beer is going to evolve. Instead of us doing R&D and surveys and then doing test brews and testing those recipes, we have a neural network that is collecting real-time data so we can tweak the recipe based on customers’ feedback. That is really new.
+“The team is currently assessing the feedback and formulating the next recipe.”
+Research brand reveal 1
+D’Silva argues that for too long use of AI has been limited to large conglomerates. He argues that the beer project is just one example of how small and medium enterprises (SMEs) can apply AI to become more competitive.
+“A tonne of data is being collected by massive companies – Google, Amazon, Facebook, Tesla – and that data is used for marketing purposes and to manipulate purchasing habits,” he says.
+“But a small and nimble company like us can actually take this data, feed it into machine learning and use it to alter the product.
+“The big brewers can’t do that. So it really gives SMEs the ability to compete.”
+Lucey agrees: “In Australia we often have the idea that AI is only for big multinationals, not for small to medium enterprises, and this was a great example of how Australian AI expertise could really help SMEs and get them on the international map.”
+Lucey returned to Australia in 2020 after 12 years working in Pittsburgh, where he was associate professor at Carnegie Mellon University’s Robotics Institute and principal scientist at Argo AI, a company that builds technology for self-driving cars.
+He believes that compared with Europeans and Americans, Australians are yet to realise the improvements in productivity and the competitive advantage that AI can provide, especially on the international stage.
+“That’s what’s really exciting about (innovation precinct) Lot Fourteen and unique about Adelaide,” Lucey says.
+“We have this critical mass of AI resources that are globally counted, not just best in Australia but globally ranked.”
+Word count: 733

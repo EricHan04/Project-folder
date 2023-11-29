@@ -1,0 +1,20 @@
+Viewpoint
+WAYNE COLLIER LiveCorp chief executive officer THERE is a seemingly endless amount of ag-tech being produced in Australia and throughout the world.
+The developers have a huge amount to offer. But it is also fair to say there are many products that are a solution in search of a problem.
+With finite resources, you simply can't afford to try everything on offer. You must be targeted about who you're going to partner with. That is why it is so important to look beyond the excitement of flashy new apps and gadgets.
+To be successful in the agriculture space, there has to be a deep understanding of the operating environment and the people - and getting this understanding remains a barrier for many. For me, it is best to start by identifying and understanding the problem.
+That means knowing and talking to the industry, and its stakeholders - those who will end up using the technology - as well as the people who decide whether to change their business practices and/or spend money.
+For instance, when developing a new system to collect animal welfare data on live export ships, we talked to the stock handlers and veterinarians who are responsible for that reporting.
+The information we gained through this process allowed us to build user journeys, meet people, form relationships and hear directly about their processes, concerns and desires. These user interviews also allowed us to identify the two key adoption hurdles for the project - compatibility and capability.
+This knowledge informed decisions throughout the project, from whether we built an app or a spreadsheet to how much backwards software compatibility we built in, and what our roll-out support looked like.
+In the end, we rolled out an Excel spreadsheet - with one-on-one training - to help stockies and vets transition to a digital and standardised collection form, which is now in use across the industry.
+The realities of the industry were also critical for projects relating to the development of automated sheep counting technology using artificial intelligence, and a trial to tackle the issue of connectivity on ships.
+In both cases, we started by identifying and understanding the problems we hoped to solve by engaging with our members and the industry.
+Then we shifted focus to finding skilled experts who were good collaborators and who had products or skills that seemed likely to contribute to a solution.
+We ended up looking outside of the normal agriculture circles - finding expertise in video-based AI and connectivity products focused on maritime safety.
+When we first met with the chosen teams of experts, neither knew much about livestock exports or the operating environment - and, in turn, we knew very little about their areas of expertise.
+Through joint effort, we bridged that gap and lifted our collective understanding, ultimately enabling the informed conversations that let us decide it was worth working together.
+Our earlier efforts allowed us to scope out and initiate better targeted and informed projects, and to bring in key industry stakeholders once again to deepen the practical understanding of the operating environment.
+Whether it is developing new products or adapting existing ones, I believe the ability to share knowledge and balance the expertise in both 'ag' and 'tech' will create better outcomes and lead to greater adoption.
+CREDIT:
+Word count: 549

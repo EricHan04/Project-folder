@@ -1,0 +1,42 @@
+Software shaping decision-making
+What does the future of farming look like?
+For DroneDeploy chief executive officer Mike Winn, he imagines a world where drones are able to autonomously monitor farms from the sky and collect data.
+This data can be compared with previous days in order to identifies issues. Data will then be sent to a ground robot that can take immediate action.
+Thanks to companies like DroneDeploy, this future is edging closer to reality.
+DroneDeploy was founded in 2013 by South Africans Jono Millin, Nicholas Pilkington and Mr Winn.
+It is a world-leading drone software provider with its products used by a variety of industries, including construction, mining and renewable energy.
+But the company's origins lie in the agricultural sector.
+"We were sitting in California, there's a lot of agriculture there, it's actually the biggest agricultural market in the United States," Mr Winn said.
+"So we started in that market; we got very quickly brought into the Midwest to focus on corn and soybeans.
+"There's over 35 million hectares of corn just in America and these farmers have huge fields, it's really hard to know what's going on, and the bird's eye perspective is incredibly powerful."
+DroneDeploy's software is mainly being used by seed and chemical company representatives and agronomists in the agricultural industry.
+Among its big customers is Corteva Agriscience, which has more than 1000 drones in its fleet.
+Australia is the company's second biggest market after the US and in July 2010 a Sydney office was opened to better service the region.
+Farm monitoring In a nutshell, Mr Winn said they were able to conduct crop scouting with a drone instead of a person having to walk the paddock.
+One of the benefits of DroneDeploy's product is it provides in-field, real-time data without connection to the internet.
+Its two main features - live map and stand count - are processed on a smartphone and tablet.
+Users can select an area for the drone to fly in the app to create real-time maps. The video stream captured while flying is used to formulate a map of the ground below.
+Mr Winn said the maps created were measurable and geolocated so users could fly the same area and see changes across time.
+"We don't measure it in minutes, it's measured in hertz, every second that map is updating and you can see exactly what's going on," he said.
+"With that, it's not just an image in RGB that you can see, but we also use a whole bunch of vegetation indices to help you pinpoint problems and get the size of those problems.
+"We provide a whole set of analytical tools that an agronomist, or the farmer, or the rep that sells chemicals, can leverage and discern exactly what the scale of the problems are and you can do that without having to walk every square metre of the field."
+The stand count tool can be used to assess the germination rate of a crop or to count plant population after an adverse weather event.
+Mr Winn said for farmers who had been impacted by flooding, deciding whether to plow a crop in and replant was a big decision point.
+"The way that's currently done is a person walks out in a field and starts counting," he said.
+"Instead of a human count, we fly the drone over the field, it flies at about 25 metres, and it takes photos every 30 metres or so and does a plant population count in each photo.
+"It's a really cool application of machine learning."
+What's on the horizon Mr Winn said the next step in the journey is to enable farmers to take action.
+He said this was where ground robotics could play a big part, not just in capturing data but in using robots to deliver the actions that need to be taken.
+In August, DroneDeploy accelerated its development of software solutions for ground robotics with the purchase of New Zealand company Rocos.
+"We're the leader in aerial robots for industry, people are flying over a million flights a year with our technology," Mr Winn said.
+"But at the same time as there's the dimension in the air, there's also the dimension on the ground, and the technology there is improving very rapidly.
+"We're seeing the same need, there's lot of players building great hardware but there's very few players actually building software for industry to make these things into useful, scalable tools."
+One of the biggest barriers it has come up against is regulations.
+"Right now you can't just fly a drone autonomously out of a box, you need a person to be there," Mr Winn said.
+"That's the biggest one in the drone industry, the technology is pretty close but the regulations are not yet enabling it.
+"We've built our company from the ground up to support a future where the drones do not need babysitters, that they're actually robots following a schedule every day."
+Mr Winn said providing insights from the air and the ground could help drive better decisions that increase the yield of farms but also reduce costs and inputs.
+He said this could make businesses more profitable but also address some of the sustainability concerns held about modern farming.
+"One thing we learned coming into the space is that farmers really care about their land, and about how they use it, and the inputs they put in because they own it," he said. "It's theirs, it's got to produce for their generation and the next."
+CREDIT:
+Word count: 922

@@ -1,0 +1,17 @@
+The steel city of Whyalla has flipped the switch on South Australia's first solar-powered Bitcoin mining centre.
+Operated by Lumos Digital Mining, the 5 megawatt data centre will be used to mine bitcoins, a type of energy-hungry cryptocurrency that requires computers to solve complex maths problems for financial reward.
+Bitcoin is the world's biggest cryptocurrency. At a time when the world is desperately trying to reduce energy consumption, Bitcoin uses more energy each year than medium-sized nations such as Argentina.
+State minister for trade & investment Nick Champion said the fact that the plant could run off solar power showed that bitcoin generation could be more environmentally friendly.
+"This is important for decarbonising blockchain, which is a very energy-intensive industry," he said.
+"I think it's the beginning of a new economy out here at Whyalla."
+Energy-intensive mining
+A recent White House Office of Science & Technology Policy report showed that US crypto production alone represented as much as 0.3 per cent of global greenhouse gas emissions.
+Mr Champion said he hoped to see more facilities mining crypto currency using renewable energy.
+"There will be demand for blockchain, but also carbon-neutral blockchain so I think we will see more & more facilities like this," he said.
+Lumos Digital Mining's Angelo Kondylas said the facility could produce about 100 bitcoins a year, depending on power availability.
+However, Mr Kondylas also said the company could potentially onsell generated power to others who wanted to take advantage of blockchain technology.
+While the site was primarily solar powered, Mr Kondylas said it could ramp up production to draw more power from the grid on the days when electricity generation was high.
+"[Energy generators may be] spending $10 million because they have to switch off that day because there's too much on the system," he said.
+"We're basically like a sponge; we soak up the excess that's not used."
+Lumos Digital Mining has said it planned to eventually double the size of the facility.
+Word count: 328

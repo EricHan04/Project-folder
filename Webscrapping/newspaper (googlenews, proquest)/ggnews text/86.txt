@@ -1,0 +1,10 @@
+Automation and electrical systems manufacturer Schnieder Electric has partnered with Adelaide software developer AZZO to incorporate its expert solutions into the company’s power monitoring systems.
+A manufacturer’s electrical power system incorporates millions of dollars worth of equipment and hundreds of data points, but making sense of it all and keeping power flowing safely and efficiently is an increasing problem.
+AZZO, which is based at the Tonsley Innovation District, has integrated its Energy Usage Analysis dashboard gadgets (pictured) into Schneider’s EcoStruxure Power Monitoring Expert (PME).
+The software collects and organises data gathered from a facility’s electrical network and presents it as meaningful, actionable information via an intuitive web interface.
+Schneider Electric develops building automation systems in Adelaide as well as manufacturing commercial equipment and the Clipsal range of consumer electrical products.
+Founded in 2005, AZZO designs metering and monitoring systems, including systems accessible via the cloud, to help companies become more energy efficient.
+According to AZZO: “We think locally and act globally to create and deliver innovative solutions that deliver practical results and significant cost savings.
+“Our solutions enable customers to take control of their power and energy costs.”
+Picture: AZZO
+Subscribe to our free @AuManufacturing newsletter here.

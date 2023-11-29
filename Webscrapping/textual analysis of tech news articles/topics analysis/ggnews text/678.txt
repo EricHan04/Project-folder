@@ -1,0 +1,20 @@
+Millions of Australians have been left with no phone or internet service after a massive telecom failure brought down services including Telstra, iiNet and TPG on Wednesday night.
+Optus and Internode were also showing escalating issues on the downdetector.com.au website.
+Sydney suburbs including Mascot, Ultimo, Hornsby, Gladesville, Rouse Hill and Baulkham Hills are said to have been among the worst affected.
+Furious users took to social media to complain about the unexpected outage.
+'If only you fixed issues as quickly as you respond to social outrage,' said one.
+Millions of Australians have been left with no phone or internet service after a massive telecom failure brought down services including Telstra, iiNet and TPG on Wednesday night (Pictured a stock image of a woman on her laptop)
+The problems with iiNet internet began around 7.20pm and quickly escalated before peaking shortly before 9pm when reports began to ease
+Melbourne mobile phone users were also reported to be having issues.
+'Hey @Telstra, I’m located in south Melbourne 3205 and am barely running in 3G atm what’s the deal,' tweeted one user.
+The problems with iiNet internet began around 7.20pm and quickly escalated before peaking shortly before 9pm when reports began to ease.
+Melbourne was hit hard by the iiNet problems, but reports were also coming in of issues in Adelaide, Canberra and parts of New South Wales including Sydney.
+Adelaide and Tasmania were harder hit by the TPG outage which started earlier in the evening around 6.40pm, with services gradually coming back online after 9pm.
+Adelaide and Tasmania were harder hit by the TPG outage which started earlier in the evening around 6.40pm, with services gradually coming back online after 9pm
+Most of the online issues appeared to be NBN-related with hundreds of reported outages on the high speed internet backbone.
+Some users reported they were having DNS issues on their internet connection, which was overcome by switching their ISP DNS servers to Google's DNS servers in their network settings.
+DNS servers act as the traffic managers of the internet and direct online traffic from homes to websites in the most efficient method.
+They are vital to the smooth running of the internet and usually have back up servers in case of failure. However the back ups also appear to be failing with the ISPs suffering the outages.
+Customer service lines were flooded by users looking for support, with waiting times in the call queue said to be more than an hour.
+'Our IT and network teams are working hard to resolve an issue which is impacting some TPG, iiNet and Internode fixed services,' said a TPG spokesman.
+'Some customers may be experiencing issues while trying to browse the internet. We are sorry for the impact this is having on customers.'

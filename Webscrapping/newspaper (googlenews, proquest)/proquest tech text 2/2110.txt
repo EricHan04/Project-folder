@@ -1,0 +1,11 @@
+CAMERAS on phone towers could spot smoke in scrub using “deep learning” technology, then ping a control centre to send a firefighting drone to stop fires before they spread.
+That’s just one of a range of new bushfire technologies the national satellite centre is looking at.
+The University of South Australia’s Professor Andy Koronios has just been confirmed as the chief executive officer of the SmartSat CRC, and the centre has moved in next to the Australian Space Agency in Adelaide.
+As well as detecting bushfires as soon as they start, new satellite technology will also ensure mobile phones keep working in the middle of an emergency.
+And the Internet of Things will see people able to put sensors on their property to track and predict a fire’s spread.
+Prof Koronios says these technologies already exist, but it’s the next-generation satellites being sent into orbit that will integrate them.
+He says the smoke-detection technology will be much faster than someone calling triple-0, especially when they don’t know exactly where the fire is.
+“The on-ground communications might be destroyed, but you would have the satellite systems all integrated and they then communicate with the incident response centre, which could send planes or drones,” he said.
+“The faster you detect fire, the better it is.”Drones can locate hot spots with infra-red cameras and other equipment, guide firefighters out of danger by spotting safe routes, and can even drop water or retardant.
+CREDIT: Tory Shepherd
+Word count: 243

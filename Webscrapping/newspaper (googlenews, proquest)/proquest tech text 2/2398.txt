@@ -1,0 +1,9 @@
+Value of trust WHILE there are several early adopters working with blockchain concepts in agriculture, universities have recognised that there is a demand for better information about blockchain, what it offers and the pitfalls.
+This year RMIT is offering an undergraduate minor in blockchain studies as part of the Bachelor of Business course.
+RMIT's Darcy Allen said a key challenge using the technology in agriculture would be ensuring that each part of the blockchain was correct with reliable and verified information that ensured the supply chain could be trusted.
+"If that information gets better we think that Australian producers will get much more premium prices for their produce," Dr Allen said.
+"We are in an early experimental phase. But certainly I think Australian producers should be thinking about this as the future of proving the authenticity of their produce."
+KPMG's Ben ven Delden agrees that in agricultural food supply chains, blockchains will play a key role in the future.
+But like Dr Allen from RMIT, he sees the issue for the future being the quality of information being provided in the blockchain.
+"Who are we going to trust to put information into that system? And trust in terms of not just valid use of where it's come from, but accurate, quality data," he said. "I think that, as we see more of these blockchains come to light, you will find there will be a higher standard of entry and rules of the game, or code if you like."
+Word count: 248

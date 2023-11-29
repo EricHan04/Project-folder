@@ -1,0 +1,5 @@
+A TEAM of students from Adelaide University has won a $US75,000 ($102,000) prize in a robotics competition organised by NASA.
+The 40-person team, which came third in a competition involving 113 entries from around the world, had to design code to remotely control robots on the moon.
+The robots would have to excavate, load and transport water ice and other substances and make a delivery to a lunar landing craft.
+“The NASA engineers recognised the team’s particularly novel solution to critical challenges currently confronting NASA as they prepare for lunar surface operations in the next several years,” Associate Professor John Culton said. He said the code could be used in NASA’s Artemis human spaceflight program.
+Word count: 116

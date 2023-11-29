@@ -1,0 +1,45 @@
+SWARMFARM AND GOLDACRES
+Ballarat agricultural spray equipment manufacturer Goldacres, in partnership with Queensland’s SwarmFarm Robotic Agriculture and French precision spraying experts Bilberry, are on the cusp of launching their driverless robot to NSW and Western Australian grain growers next year.
+It would not only be a first for robotic agriculture but also for so-called “green-on-green” precision spraying technology, which detects and sprays only the weeds and not the crop.
+The SwarmFarm Robot tows the Goldacres spray unit, which can detect and individually spray weeds in a growing crop, technology that is not yet commercialised in Australia.
+The developers believe it will be the world’s first fully autonomous green-on-green sprayer on the market.
+“Green-on-brown” precision sprayers, which can detect and spot spray weeds in fallows have been commercially available for some years.
+Precision spot sprayers can detect individual weed plants in the paddock and then trigger a burst of spray directly from the nozzle it is connected to, on to the plant as it passes.
+It means only the weeds are sprayed and not the entire ground, as in the case of continuous or blanket spraying.
+Not only does it ensure every weed is hit, but it cuts the amount of herbicide used and minimises spray drift.
+The combination of a precision sprayer with an autonomous towing vehicle — and its potential continuous operation without a physical operator, — promises substantial cost savings for farmers.
+The robot was going through the final stages of testing and tweaking that would allow it to detect the multitude of potential weeds in a range of crops in Australian conditions, Goldacres Product Specialist David Tuppen said.
+The unit comprises a SwarmBot “Uniform”, a fully autonomous robot powered by a Hatz four-cylinder diesel producing 83hp, towing a custom-built Goldacres 2500L 18m Prairie Special set up with Bilberry’s Weedetect spot spraying system. The robot is programmed to steer a set course and can automatically adjust to changing conditions or obstacles in real time.
+The robot has a hydraulic drive with articulated steering and a top speed set to 10 km/hr.
+The sprayer features a Programmable Logic Controller controlling 16 boom sections, four 1.5-metre sections and 12 one-metre sections with six cameras mounted three metres apart. The Weedetect features green-on-green or green-on-brown camera technology with the added ability for blanket spraying when required.
+The high-resolution video cameras “inspect” the crop and detect the weeds, which then trigger the nozzle it is paired with, to spray the weed.
+CLAAS AND AGXEED
+Earlier this month, Claas announced a collaboration with start-up company AgXeed, which has expertise in autonomous agricultural vehicles.
+The German manufacturer has bought a minority shareholding in AgXeed, which has developed several driverless tractors or field robots called AgBot, due to be released to the European market next year.
+The two companies will co-operate on development and commercialisation of autonomous farm machinery, combining Claas’s long experience in designing and building hi-tech precision agriculture machines, with AgXeeds’ expertise in autonomous agricultural vehicles.
+AgXeed’s AgBot system comprises multiple models of field robots powered by diesel-electric motors capable of delivering up to 156hp.
+Each six-tonne unit can be fitted with a suite of peripherals for operations including broadacre, pastures and speciality crops. Standard features include real time kinematic (RTK) steering guidance, electronic hazard and obstacle detection, adjustable track width, loadsensing hydraulics and a three-point linkage with a lift capacity of eight tonnes.
+Options include crawler tracks with belt widths from 300-910mm, an electric PTO and external high-voltage connections.
+It’s not clear yet when the machines will become available in Australia.
+RAVEN INDUSTRIES AND CROPLANDS
+In late May, spraying specialist Croplands announced an exciting partnership with Raven Industries to bring its OmniDrive and OmniPower products to Australia.
+“We already have a package being developed for the Australian market well under way,” Croplands portfolio manager Steve Norton said. “We’ve been working on this for years, there’s work going on literally right now.”
+OmniDrive is an aftermarket kit that transforms an existing tractor into a driverless machine, allowing it to be monitored and operated from the cab of another machine with an iPad or other tablet.
+The technology is compatible with Case IH Magnum CVT (2014-20), New Holland CVT (2014-20), John Deere 8Rs Powershift and IVT (2010-on) tractors and grain-cart implements, with other tractor and implement applications to follow.
+OmniPower is a self-propelled power platform that’s compatible with various implements – currently a sprayer and spreader, but others are coming soon – and can conduct its missions either in fully autonomous mode or be controlled directly from the tablet.
+A key pillar of Croplands’ partnership with Raven includes the integration of WEED-IT optical spot-spraying technology into the OmniPower platform.
+“If ever there was a job that’s tedious and slow, it’s optical spot spraying,” Mr Norton said. “One of the nice things about autonomous is you can dial things down to 13-14km/h and just have it out there all night long covering a lot of country.
+“Here in Adelaide, the engineering department I head up is well and truly into the design of the Australian spraying configuration. It will be 36m with an 8500-litre twin tank on it and be able to do both blanket spraying and optical spot spraying or spot spraying only.”
+Croplands is due to receive its first OmniPower platform some time during the coming summer and will put it through an exclusive testing and validation program ahead of a market release.
+“We’ve just got to make sure we’ve got all the bits and pieces right,” Mr Norton said. “We’ve got to confirm the engine-cooling package is adapted to the Australian climate, we’ve got the check whether the horsepower configuration is appropriate for our heavy soils, like the black soils up north, and we’ve got to make sure it’s suited to Australian controlled traffic.”
+The upcoming autonomous sprayer is just one of three Omni projects on the go at Croplands.
+While it is keeping the details of the other two close to its chest for now, one will be something new for the spraying specialist – hay and grain carting, likely using the OmniDrive kit.
+“We may have something else ready for the hay-carting and grain-carting season,” said Mr Norton. “We have that happening this coming spring – we will be testing one unit and we will be testing it initially in hay carting because if some of the crops get frosted, they’ll be cutting and baling well before they’re harvesting and grain carting.”
+XAG R150
+At the mass-market end of the spectrum, drone specialist XAG Australia announced in June the coming of its first unmanned ground vehicle — the XAG R150 — which will be available to consumers later this year. Manufactured in China and assembled locally, the R150 is an agricultural robotic platform that can complete tasks including spraying, spreading, mowing and transportation. XAG Australia sales manager Bryce Dimec called it a “world first”.
+“There’s nothing else available here like this at the moment,” he said.
+MORE
+ELECTRIC, AUTOMATED TRACTOR LAUNCHED IN US
+THE AUSSIE MOVEMENT TO AUTOMATE AG
+FARMERS FLOCK TO PADDOCK-TESTED AGTECH
+Word count: 1131

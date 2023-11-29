@@ -1,0 +1,57 @@
+Skin-tight & embedded with wires, the virtual reality (VR) suit looks like the ones from Ready Player One — the 2018 science fiction film where much of humanity spends their time in a virtual world to escape the real one.
+When the man wearing the suit straps a VR headset across his eyes, he enters a game of computer dodgeball — but one where his body can feel the impact.
+Meanwhile, an audience watches the game from his perspective, on a big screen projected above his head.
+The man on stage, Jeremy Orr from the Queensland company VirtuReal, ducks and weaves to avoid the virtual missiles being thrown at him by the virtual opponent, even wincing as they strike his legs & arms.
+"I felt that one," Mr Orr tells the audience, his mouth beneath the VR headset fixed in a grin.
+"We'll let you get hit once more," the emcee says.
+This was just one of the virtual reality displays presented at the SingularityU Summit, held in Sydney last week.
+Each time Mr Orr's avatar was hit, the suit delivered a carefully engineered pulse of electrical current to the equivalent area of his physical body, simulating touch – a technology called "haptic feedback".
+By varying amplitude, frequency, & amperage, delivered via a fine web of electrodes arrayed over the body, a suit like this can give the wearer a long list of different sensations, called "haptic animations".
+While a VR headset provides a startlingly real simulation of the world we can see & hear, a full-body haptic feedback suit does the same for the world of touch & sensation — hot & cold, rough & smooth, pleasure & pain.
+Or at least that's the idea.
+Suits like this are yet to reach the mainstream —and are rarely seen in public.
+Most are still tucked away in research labs, where engineers work on fine-tuning their haptic animations to simulate anything from a warm hug to the impact of a bullet to the chest.
+So how real does it feel?
+Simulating everything from raindrops to being shot
+Mr Orr is one of the few owners of a full-body haptic feedback suit in Australia.
+And this one is called a Teslasuit, named after the Belarus-based start-up that created it.
+Teslasuit is one of a handful of companies working on this technology, and has given VirtuReal access to a suit in order to develop applications for its use — the same way a phone company releases its hardware in advance, for software developers to invent apps.
+According to Mr Orr, the haptic animations range from the brutal impact of a bullet to the body, to the delicate & complex sensation of standing in a downpour.
+In effect, "someone running a feather down the outside of your arm" can be re-created in an editor program & then stored in a library, where it can be downloaded & played by anyone with a suit.
+Turned up to its highest intensity setting, the suit can deliver a shock powerful enough to make muscles involuntarily contract.
+"Say we were in a [virtual] boxing arena & we were playing together & you punched me in the stomach; that can actually cause all my stomach muscles to activate, as though I'd actually been punched," Mr Orr said.
+At its lowest setting, it can simulate cuddles.
+"There's rain … there's hugs."
+Why would anyone want to simulate being stabbed or shot?
+For training purposes, Mr Orr said.
+"There's got to be some immediate negative feedback & consequences of failure.
+"Not only can you feel the environment around you, but you take it seriously."
+VirtuReal is developing haptic feedback virtual simulations intended to train "first responder personnel", such as police or military.
+Mr Orr assured the suit "is not meant to cause pain or injury".
+"But it can cause varying levels of those deep impacts & discomfort at times," he said.
+Emailed questions to Teslasuit about the applications of its technology went unanswered, though its co-founder, Dimitri Mikhalchuk, told the summit about training firefighters & a new project with Volvo.
+"We're merging the human body with the digital interface," he said, appearing via video call from Scotland.
+Volvo engineers working on self-driving cars are in their driving simulators.
+Teslasuit wouldn't say how much its suit cost, though back in 2016, when it launched its Kickstarter, it was several thousand dollars.
+For the moment, the technology appears too expensive to go mainstream.
+According to Mr Orr, the handful of electro-stimulus haptic feedback suits in Australia belong to developers.
+"Most people keep their heads down, just doing R&D with it," he said.
+The future of haptic technology
+Full-body haptic feedback suits are just one of many haptic technologies being developed, according to Ross Smith, director of the Wearable Computer Laboratory at the University of South Australia.
+"For a long time we’ve been inspired by this idea of being able to touch & feel things in VR," he said.
+"It brings an extra dimension of reality to us."
+For the moment, their use is limited to gaming & training, but in future we may see haptic feedback technologies being added to everyday clothing, Dr Smith said.
+In fact, most of us would be familiar with one early use of haptics: when your phone alerts you to a call or message by vibrating.
+"The Teslasuit technology can be brought into everyday clothing," Dr Smith said.
+Mr Orr agrees that this could happen "eventually".
+"It'll just be like putting on a watch at the beginning of your day.
+"You put it on and you forget it's even there."
+The everyday uses of haptic technology are not yet obvious, although haptic feedback gloves that can accurately simulate touch could be very useful for medical training or remote surgery, Dr Smith said.
+He & others recently developed a glove that in VR environments.
+Dr Smith added that while developing this technology, researchers have discovered an interesting fact: the simulation of touch doesn't have to be 100 per cent.
+"It doesn't have to be perfect to deliver usable sensations. The brain fills in a lot of those gaps."
+Meanwhile, the organisers of SingularityU Summit have an ambitious plan to deliver a VR glove to the International Space Station, so that an astronaut in orbit can "shake hands" with someone down on Earth.
+SingularityU co-CEO Christina Gerakiteys said this may take place next year.
+"It's all about trying to naturally immerse the individual in virtual reality," she told the summit audience.
+"I can hand you a pen & you can reach out & grab that pen."
+Word count: 1096

@@ -1,0 +1,17 @@
+More collaboration among technology suppliers holds the key to the quicker and wider uptake of agtech in Australian agriculture.
+Thomas Elder Institute head Michael Wilkes said the agtech adoption worked well where businesses were openly collaborating with one another and not trying to "rule the entire world, particularly in terms of data integration and dashboards".
+Speaking during a Western Union Business Solutions webinar on how digitising data could improve decision-making along the agriculture supply chain, Mr Wilkes said the best outcomes were occurring when agtech companies worked together and shared data.
+He said farmers installing digital tools, such as a remote tank monitor or a weather station, had a range of options for how the technology was powered and how the data was transmitted and needed to choose what best suited them.
+This provided an opportunity for tech providers, who had their own niches and specialities, to work together to find the best solution.
+Mr Wilkes said getting the full benefit of technologies such as RFID livestock tags had been slowed by a lack of efficient digital platforms to manage the information and also the amount of processing needed to "clean" raw data by skilled advisors to remove any anomalies.
+He also said when it came to technology, farmers shouldn't be persuaded to buy "shiny gadgets", but instead think carefully about the solution they were chasing and how to achieve it in a sound and reliable way.
+Elders technical services head Graham Page told the same webinar people shouldn't invest in new digital technology until they understood their business and had a strategy outlining their objectives.
+He agreed that a lack of collaboration was holding back agriculture's adoption of agtech.
+"I get to deal with a number of suppliers in the agtech space who are bringing new technologies to the marketplace. They are all working independently of each other," he said.
+"As an industry we are starting to realise now we need to get more collaboration and more systems talking to each other so we can get the true value from this data and this information that is being generated."
+But Mr Page said if the whole industry was going to share in the benefits of data being generated at the farm level, then the costs of implementing it should also be shared by participants along the supply chain.
+Telstra Enterprise connected supply chain head Neriman Kara said the COVID pandemic had driven home the need to better manage supply chains through the collection and sharing of key data.
+She said a major problem with data sharing was that companies were sucking information out of their sophisticated computer systems and emailing it in excel spreadsheets, which created more work for the recipients and increased the risk of errors.
+"We (Telstra) are trying to solve that problem (sharing data more easily)," she said.
+CREDIT: Vernon Graham
+Word count: 475

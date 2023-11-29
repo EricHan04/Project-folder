@@ -1,0 +1,46 @@
+Space technology already supports in-flight wi-fi, broadband services and emergency communications, and it's getting a big boost from investors and governments.
+Going to the moon is a fun project but space technology also matters closer to home.
+Satellites are used for everything from in-flight wi-fi, weather reports and crop management to emergency communications during bushfires, floods and cyclones.
+Critical space technologies and advanced communications also feature in the blueprint released by the Morrison government as a launching pad for jobs and high-tech growth.
+The Australian Space Agency's mission is to build a $12 billion industry by 2030.
+Australia’s leading space company, Adelaide-based Fleet Space Technologies, is already building a constellation of 140 small satellites.
+The nanosatellites in a low earth orbit are combined with ground-based networks, providing a way to use Internet of Things (IoT) enabled devices beyond the reach of current cellular systems.
+The idea of a network of smart devices has been evolving for decades and is now used in industry and for home automation as well as in sectors such as health, transport, building and agriculture. 
+Flavia Tata Nardini, chief executive and founder of Fleet Space, said the technology will save organisations billions of dollars, preserve precious resources and reduce carbon emissions
+"We are ready to scale and realise the full potential of IoT technology to secure planet-wide coverage of millions of industrial devices," she said. 
+The homegrown Australian technology has the backing of institutional investors, who this month chipped in another $A36.5 million in capital to take the company's valuation beyond $A170 million.
+Fleet Space is also leading the Seven Sisters’ Australian space industry consortium in support of NASA’s Artemis program.
+The program aims to land the first woman and next man on the moon by 2024 and create a sustainable human presence for later crewed Martian exploration. 
+Beginning in 2023, the Seven Sisters missions are designed to find accessible water and other resources on the moon. 
+Back on earth, consumers and businesses simply want faster broadband as Australia remains outside the world's top 50 on internet speed.
+Some parts of the country are hundreds of times slower than the big cities.
+More than 8.5 million residential broadband services are now on the NBN, and more than 75 per cent of them are on so-called high speed services. Demand will only increase, 
+The Sky Muster satellite network is a crucial part of the national infrastructure, according to NBN Co.
+Qantas' in-flight wi-fi service also uses the Sky Muster connection.
+The network is designed to provide access to fast and reliable broadband services to mainland Australia and Tasmania, as well as remote areas including Norfolk Island, Christmas Island, Lord Howe Island and the Cocos (Keeling) Islands.
+Using the satellite network and ground infrastructure, they deliver a high frequency Ka-band - mainly used for communications with satellites - service for telecommunications service providers and wholesale business and consumer plans. 
+"Spot beam architecture means high capacity and extensive coverage, especially in remote and regional areas of Australia," an NBN Co official told AAP.
+The first Sky Muster satellite launched in October 2015 and Sky Muster II was launched in October 2016. 
+Both orbit at approximately 35,000km above the earth’s surface and cover most, but not all, of Australia.
+More than 100,000 Australians are currently connected to the network.
+The NBN satellites also play a critical role in support for agencies and communities in times of natural disaster, such as providing connectivity to evacuation centres and emergency-response field operations.
+Smaller, more nimble players are needed to plug any gaps.
+The Critical Technologies Action Plan covers many space technologies, including advanced optical communications and radiofrequency communications, satellite positioning and navigation, and advanced robotics.
+Also in the plan are autonomous systems operation technology, small satellites for earth observation and communications networks, and space launch systems.
+“The Australian Space Agency is working across government to deliver on the commitment to build an industry around reliable and trusted access to critical space technologies," Minister for Science and Technology Melissa Price told AAP.
+"Whether it’s through direct investment in Australian businesses or working together with our international partners."
+The agency is tasked with its own array of 'road maps', including two expected by the end of the year - Earth Observation, and Robotics and Automation on Earth.
+Three more are due within sixth months - Space Situational Awareness, Access to Space, and Position Navigation and Timing.
+A space working group with Quad partners India, Japan and the United States will share satellite data for peaceful purposes including climate change, disaster response and preparedness, and sustainable uses of oceans and marine resources.
+Australia's $150 million Moon to Mars initiative, under the space agency's wing, supports Australian businesses and researchers to be part of NASA’s mission.
+While Fleet Space is tapping into international capital markets, there are projects within the taxpayers' orbit supported through the space agency.
+Inovor Technologies in Adelaide's growing space hub is developing a satellite manufacturing capability for the future Moon to Mars supply chain.
+Propellant manufacturer and launch service provider Black Sky Aerospace, based in the Queensland town of Jimboomba, is looking at a new booster using solid rocket fuel.
+University of Western Australia is working on optical communications support for NASA Artemis and beyond.
+Space start-up Spiral Blue, founded by Taofiq Huq, Henry Zhong and James Buttenshaw, is developing commercial space edge computing to process data for clients and support the NASA mission.
+Telstra boss Andy Penn sees space as "an important ingredient" - both the technological advancement of traditional geo-stationary high-orbital satellites and also the increase in the volume and number of low-orbital satellites for communications coverage.
+"It will continue to grow in importance and significance as it becomes a more prevalent form of technology," he told the National Press Club.
+While specific space legislation has not yet been launched, all are subject to the telecommunications sector security regime and critical infrastructure laws.
+The Department of Home Affairs has listed space as a sector fundamentally important to Australia’s economy, security and sovereignty.
+CREDIT: Marion Rae
+Word count: 1004

@@ -1,0 +1,39 @@
+Source: The Conversation (Au and NZ) - By Gottfried Lechner, Associate Professor and Director of the Institute for Telecommunications Research, University of South Australia, University of South Australia
+Satellites are becoming increasingly important in our lives, as they help us meet a demand for more data, exchanged at higher speeds. This is why we are exploring new ways of improving satellite communication.
+Satellite technology is used to navigate, forecast the weather, monitor Earth from space, receive TV signals from space, and connect to remote places through tools such as satellite phones and NBN’s Sky Muster satellites.
+All these communications use radio waves. These are electromagnetic waves that propagate through space and, to a certain degree, through obstacles such as walls.
+Each communication system uses a frequency band allocated for it, and each band makes up part of the electromagnetic spectrum – which is the name given to the range of all types of electromagnetic radiation.
+But the electromagnetic spectrum we are able to use with current technology is a finite resource, and is now completely occupied. This means old services have to make room for new ones, or higher frequency bands have to be used.
+While this poses technological challenges, one promising way forward is optical communication.
+Communication with lasers
+Instead of using radio waves to carry the information, we can use light from lasers as the carrier. While technically still part of the electromagnetic spectrum, optical frequencies are significantly higher, which means we can use them to transfer data at higher speeds.
+Read more: Twisted light could dramatically boost internet speeds
+However, one disadvantage is that a laser cannot propagate through walls, and can even be blocked by clouds. While this is problematic on Earth, and for communication between satellites and Earth, it’s no problem for communication between satellites.
+On Earth, optical communication via fibre optic cables connects continents and provides enormous data exchanges. This is the technology that allows the cloud to exist, and online services to be provided.
+Optical communication between satellites doesn’t use fibre optic cables, but involves light propagating through space. This is called “free space optical communication”, and can be used to not only deliver data from satellites to the ground, but also to connect satellites in space.
+In other words, free space optical communication will provide the same massive connectivity in space we already have on Earth.
+Some systems such as the European Data Relay System are already operational, and others like SpaceX’s Starlink continue to be developed.
+But there are still many challenges to overcome, and we’re limited by current technology. My colleagues and I are working on making optical, as well as radio-frequency, data links even faster and more secure.
+CubeSats
+So far, a lot of effort has gone into the research and development of radio-frequency technology. This is how we know data rates are at their highest physical limit and can’t be further increased.
+The first CubeSats were launched in 2003 on a Russian Rockot launch vehicle. Jared/Flickr, CC BY-NC
+While a single radio-frequency link can provide data rates of 10Gbps with large antennas, an optical link can achieve rates 10 to 100 times higher, using antennas that are 10 to 100 times smaller.
+These small antennas are in fact optical lenses, and their compact size allows them to be integrated into small satellites called CubeSats.
+CubeSats are not larger than a shoebox or toaster, but can employ high speed data links to other satellites or the ground.
+They are currently used for a wide range of tasks including earth observation, communications and scientific experiments in space. And while they’re not able to provide all services from space, they play an important role in current and future satellite systems.
+Read more: The problems with small satellites – and what Australia's Space Agency can do to help
+Another advantage of optical communication is increased security. The light from a laser forms a narrow beam, which has to be pointed from a sender to a receiver. Since this beam is very narrow, the communication doesn’t interfere with other receivers and it’s very hard, if not impossible, to eavesdrop on the communication. This makes optical systems more secure than radio electromagnetic systems.
+Optical communication can also be used for Quantum Key Distribution. This technology allows the absolute secure exchange of encryption keys for safe communications.
+What can we expect from this?
+While it’s exciting to develop systems for space, and to launch satellites, the real benefit of satellite systems is felt on Earth.
+High speed communication provided by optical data links will improve connectivity for all of us. Notably, remote areas which currently have relatively slow connections will experience better access to remote health and remote learning.
+Read more: How new technologies are shaking up health care
+Better data links will also let us deliver images and videos from space with less delay and higher resolution. This will improve the way we manage our resources, including water, agriculture and forestry.
+They will also provide vital real-time information in disaster scenarios such as bushfires. The potential applications of optical communication technology are vast.
+Banding knowledge together
+Working in optical satellite communication is challenging, as it combines many different fields and research areas including telecommunication, photonics and manufacturing.
+Currently, our technology is far from achieving what is theoretically possible, and there’s great room for improvement. This is why there’s a strong focus on collaboration.
+In Australia, there are two major programs facilitating this - the Australian Space Agency run by the federal government, and the SmartSat Cooperative Research Centre (CRC), also supported by the federal government.
+Through the SmartSat CRC program, my colleagues and I will spend the next seven years tackling a range of applied research problems in this area.
+- ref. We're using lasers and toaster-sized satellites to beam information faster through space - http://theconversation.com/were-using-lasers-and-toaster-sized-satellites-to-beam-information-faster-through-space-126344
+Word count: 937

@@ -1,0 +1,19 @@
+South Australian artificial intelligence company GoMicro is rolling out its new grain assessment technology in Australia, paving the way towards more consistent quality controls and stable grain and pulse prices.
+Based at Flinders University's high-tech New Venture Institute in Adelaide, GoMicro chief executive officer Sivam Krish says the multi-grain assessor gives growers and markets a quick and better way to grade crops, accurately testing more than 1200 grains in one sample - compared to the existing scanner-based method, which assesses about 200 well-separated grains at a time.
+"GoMicro relies on the excellent quality of phone cameras and Amazon web services to deliver low-cost, high-precision quality grain and other produce assessments to farmers worldwide," he said.
+GoMicro's grain assessment technology is also being trialled in wheat grown in India, corn in Ghana and negotiations are well advanced to expand the assessor rollout with a large Indian agtech company to use on grain, corn and soy procurement.
+"Accurate verifiable assessment will greatly reduce quality-related assessment risks for all parties in the supply chain," Dr Krish said.
+The new system reduces the risk of wasted production and trade disputes, which often involves more subjective human quality assessment.
+"This direct digital manufacturing facility, at Flinders, is working with Qld grain, seed and pulse trader PB Agrifood to assess the quality of soybeans sold by local farmers," Dr Krish said.
+In the first Australian trial, PB Agrifood field officer Kate McIntyre says the Toowoomba-based company hopes the GoMicro Assessor will be "very useful in day-to-day operations", making digitisation solutions accessible to the company as well as growers to produce fair pricing based on objective assessment.
+"When PB Agrifood heard about Go Micro and the use of AI technology to classify grain and pulses, we thought about how this technology could improve efficiency and accuracy in our intake of soybeans," she said.
+"We believe that the implementation of the technology developed by Go Micro will allow us to establish the quality of the soybeans at intake more quickly and accurately."
+RELATED READING: Intercropping offers pulse frost protection
+RELATED READING: Grower help needed to monitor Bluegreen aphids
+PB Agrifood has several uses for soybeans including whole beans, flour, kibble and meal. Each of these require different standards of soybeans. Currently, PB Agrifood staff manually categorise these soybeans based on the relevant standards.
+The Go Micro technology assesses the soybeans into five categories and creates a table of results for each defect, including the percentage of defective beans in each category.
+"It will enable us to match these percentages to our intake standards and categorise the beans," Ms McIntyre said.
+"We are still implementing the technology into our intake process with a few changes to be made, but we hope that the technology will result in growers getting a fairer and faster categorisation of their soybeans."
+Dr Krish says the Go Micro technology has shown the potential for farmers to capitalise on low-cost, high-quality grain assessments to "transform entire harvests into digital assets that can be traded online".
+CREDIT:
+Word count: 501

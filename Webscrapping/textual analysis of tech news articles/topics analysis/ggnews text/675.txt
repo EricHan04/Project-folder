@@ -1,0 +1,17 @@
+Iñaki Berroeta (TPG Telecom) Credit: Supplied
+TPG Telecom has struck a deal to acquire additional 5G spectrum holdings in the 3.6 GHz band from Dense Air, a move that will increase the larger telco’s 3.6 GHz spectrum holdings from 60 MHz to 90 MHz in Adelaide and 95 MHz in Brisbane, Perth and Canberra.
+In Sydney and Melbourne, TPG Telecom will acquire 5 MHz of 3.6 GHz spectrum, increasing its holdings to 65 MHz as part of the transaction.
+Dense Air was one of five local telcos, including TPG Telecom subsidiary Mobile JV, that successfully bid for and secured the rights to radio spectrum in the 26 GHz band, considered an optimal ingredient for delivering 5G services in Australia, in April.
+TPG Telecom said the transaction to acquire additional spectrum involved a “wholly owned subsidiary” acquiring all the shares of an Australian subsidiary of Dense Air Limited, which holds 3.6 GHz spectrum licences acquired at auction in 2018.
+Subsidiaries of TPG Telecom and Dense Air have also entered into a separate agreement under which TPG Telecom will sell its 2.6 GHz spectrum band licences to Dense Air Networks Australia.
+From TPG Network’s perspective, Dense Air’s 3.6 GHz spectrum is a much better complement to the telco’s existing spectrum portfolio than the 2.6 GHz, while the 2.6 GHz offers Dense Air national spectrum which, along with Dense Air’s 26 GHz spectrum, better enables Dense Air’s neutral host model.
+TPG Telecom CEO Iñaki Berroeta said the spectrum acquisition will mean an enhanced 5G experience for mobile customers of the entity resulting from the landmark $15 billion merger of TPG and Vodafone Australia.
+“For our mobile and home wireless customers, this additional mid-band 5G spectrum will mean a significant boost in speeds through increased capacity,” Berroeta said.
+“This spectrum acquisition will enhance our 5G customer experience and set us up for future customer growth as we roll out our 5G home internet service to meet customer demand for NBN alternatives.
+“As this spectrum is immediately adjacent to our existing 5G spectrum holdings, it can be deployed quickly and without significant cost,” he added.
+TPG Telecom’s 5G network is currently being rolled out to selected areas in Sydney, Melbourne, Brisbane, Adelaide, Canberra, Perth, the Gold Coast, Newcastle, the Central Coast and Geelong.
+The agreements for both the 3.6 GHz spectrum transaction and the 2.6 GHz spectrum transaction remain subject to carious conditions, including that the two transactions are completed concurrently, and receive approval by the Australian Competition and Consumer Commission.
+Following satisfaction of the conditions, the transactions are expected to complete in September 2021.
+The deal represents the latest step in TPG Telecom's ongoing efforts to consolidate its mobile telco spectrum licence holdings.
+Last month, TPG Telecom and Telstra revealed they had teamed up to ‘restack’ two bands in their combined radio spectrum holdings in a bid to boost data speeds for customers.
+Broadly, the project involved the defragmentation of TPG Telecom and Telstra spectrum holdings within the 2100MHz and 1800MHz bands to achieve contiguous holdings for each of the two operators in Adelaide, Brisbane, Perth, Canberra, Darwin and Hobart.

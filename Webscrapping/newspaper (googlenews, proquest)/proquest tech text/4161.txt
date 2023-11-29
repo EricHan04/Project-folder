@@ -1,0 +1,8 @@
+DRAKES Supermarkets has overhauled the IT system at its new $125 million distribution centre at Edinburgh North.
+The new infrastructure, supplied by US cloud computing company Nutanix, supports the advanced robotics, warehouse management, point of sales and enterprise resource planning systems in use at the automated facility.
+The independent grocer worked with Nutanix and Adelaide-based IT partner Nuago to replace its ageing IT system.
+Drakes IT manager Phillip Romano said the investment was timely given the increased pressure on supply chains resulting from the coronavirus pandemic.
+“We’ve seen our warehousing and IT requirements more than double in the past few weeks, but we’ve maintained 100 per cent availability across all of our systems,” he said.
+Drakes brought its distribution in-house last year, with the aim of reducing the average family’s annual grocery bill by $1000. The 50,000sq m distribution centre was opened in September. The company is also planning to introduce another Nutanix platform into its stores, using artificial intelligence and video analytics to create “personalised experiences” for customers.
+“While consumers are currently flooding into supermarkets, the retail industry as a whole continues to experience unprecedented levels of pressure, competition and consolidation,” Mr Romano said.“To remain competitive and retain customer loyalty, we need to drive efficiency and create personalised experiences.”
+Word count: 211

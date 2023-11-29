@@ -1,0 +1,13 @@
+CAMERAS on phone towers could spot smoke in scrub using “deep learning” technology, then ping a control centre to send a firefighting drone to stop fires before they spread.
+That’s just one of a range of new bushfire technologies being investigated by the national satellite research centre, SmartSat CRC.
+As well as detecting bushfires as soon as they start, new satellite technology will also ensure that mobile phones keep working in the middle of an emergency. And the Internet of Things will see people able to put sensors on their property to track and predict a fire’s spread.
+The University of South Australia’s Professor Andy Koronios, who has just been confirmed as the chief executive officer of the Adelaide-based SmartSat CRC, said these technologies already existed, but it was the next-generation satellites being sent into orbit that would integrate them.
+He said the research centre was one of the “engines” that will power up Australia’s space industry. It has joined more than 100 industry members to develop “the next generation of satellite communications”.
+Prof Koronios said the smoke detection technology would be much faster than someone calling triple-0, especially when they didn’t know exactly where the fire was.
+“The on-ground communications might be destroyed but you would have the satellite systems all integrated and they then communicate with the incident response centre, which could send planes or drones,” he said.
+“The faster you detect fire the better it is.” The Los Angeles Fire Department has been using firefighting drones since 2017. They can locate hot spots with infra-red cameras and other equipment, guide firefighters out of danger by spotting safe routes, and can even drop water or retardant.
+A big issue, particularly in the devastating New South Wales bushfires, is that a fire can destroy mobile towers, or the power networks that fire them up.
+But plans to send more cubesats into lower Earth orbit will mean everyone’s personal mobile phone is effectively a satellite phone.
+“(In NSW) they weren’t able to get anything,” Prof Koronios said. “They could be driving straight into the fire instead of identifying an optimal route to get out.” A third way satellites will help during bushfires in the not-too-distant future is when Australia gets its own Earth observation satellites, that authorities will be able to point directly at fires to get more information.The role of satellites in bushfires will be a topic at the first International Space University conference in Adelaide starting January 31. The ISU, based in France, will host space industry professionals and academics, tour the city’s Space Agency and discuss the future possibilities of satellites.
+CREDIT: Tory Shepherd
+Word count: 438

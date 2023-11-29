@@ -1,0 +1,30 @@
+Queensland police are preparing to begin trials of an artificial intelligence system to identify high-risk domestic violence offenders, and officers intend to use the data to “knock on doors” before serious escalation.
+The “actuarial tool” uses data from the police Qprime computer system to develop a risk assessment of all potential domestic and family violence offenders.
+The algorithm has been in development for about three years and practical trials will begin in some police districts before the end of 2021.
+“With these perpetrators, we will not wait for a triple-zero phone call and for a domestic and family violence incident to reach the point of crisis,” acting Supt Ben Martain said.
+“Rather, with this cohort of perpetrators, who our predictive analytical tools tell us are most likely to escalate into further DFV offending, we are proactively knocking on doors without any call for service.”
+Martain says new system would mark a shift towards more preventive policing, like early interventions or diversionary programs in high-risk situations. It could not be used for Minority Report-style arrests, or as evidence in court.
+“We [have] found perpetrators outside the point of crisis, when not in heightened emotional state or affected by drugs or alcohol, were generally more amenable to recognising this as a turning-point opportunity in their lives,” he said.
+In the domestic and family violence space, many high-profile cases have followed familiar and predictable patterns of escalation, prompting criticisms of systemic “failures” to recognise those patterns and intervene.
+Some domestic violence victims’ advocates – though cautious about the use of artificial intelligence – say a data-driven approach could prevent cases where those patterns exist from falling through the cracks.
+“The system does need to be better able to identify and respond to high-risk offenders, especially those who go from relationship to relationship,” says campaigner Angela Lynch.
+“We do need innovative responses in terms of how we deal with them, but it does have to be done so safely.
+“You’d have to be really careful and you’d want to look at what the impacts are, particularly on groups that may be particularly vulnerable.”
+Concerns about potential ‘feedback loop’
+The use of artificial intelligence in policing remains fraught – evidence that predictive policing systems ultimately reduce crime is thin – and experts warn there are significant potential pitfalls.
+One of the biggest concerns about predictive policing is the potential to create a “feedback loop” that reinforces bias in historical data, rather than countering it. That is particularly acute in the complex domestic violence space, where victims have been often misidentified by officers.
+Australia’s National Research Organisation for Women’s Safety has found that “racism, poor relationships with local communities, misogyny, and the patriarchal culture of the police service” were ongoing concerns.
+Prof Lyria Bennett Moses, the director of the Allens Hub for Technology, Law and Innovation at the University of NSW, says a similar “knock on doors” approach in NSW resulted in Indigenous youths being targeted.
+Bennett Moses said any artificial intelligence model “must be transparent” and subject to independent evaluation.
+Martain said Queensland police were “acutely aware” of the potential for model bias that disproportionately represented people from Indigenous or minority communities.
+“[The] QPS considered the lessons learnt in other jurisdictions and have developed a model monitoring tool that aims to regularly monitor and address bias within the model,” he said.
+“For the pilot, QPS removed raw data that had the direct attributes of ethnicity and geographic location before training the model.”
+He said police were also involved in a research project on bias mitigation in such systems, which would develop a framework about monitoring and managing models before they are rolled out.
+Domestic and family violence accounts for one in four calls for police assistance.
+“The intention is to have perpetrators engage … with one of more than 350 partner organisations and seek support to change their offending ways,” Martain said.
+“We know that this relatively [small] cohort of perpetrators are disproportionately responsible for a great deal of harm and volume offending in our communities.
+“Through proactively targeting these perpetrators and either changing the behaviours through diversionary options … we can significantly reduce both community harm and the current demand on the QPS when responding to domestic and family violence.”
+Martain said theoretical trials of the algorithm – using historical data – had “largely confirmed what experts / research says are causal factors”.
+It has also yielded “previously unrealised” insights into predictors of domestic and family violence, such as offences related to risk-taking behaviour and a disregard for the safety of others.
+Police say data-driven approaches do not represent a silver bullet, and that the majority of family violence homicides occur in situations where police have “no prior visibility” or interaction with offenders.
+“The purpose of this model is not to replace the professional judgment of officers, but to assist in better informing decision making through collating patterned and objective data,” Martain said.

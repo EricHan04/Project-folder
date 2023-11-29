@@ -1,0 +1,38 @@
+(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)
+You need to sign in or create an account to save
+(Level A) $89,610 - $96,007 per annum plus an employer contribution of 17% superannuation applies.
+A fixed-term position, offered for a period of 3 years, commencing at a mutually agreeable time. Any extension beyond the 3 years would be contingent on future funding, which cannot be guaranteed at this time.
+The University of Adelaide High Energy Physics group has an available position for a postdoctoral research associate to work on the GAMBIT project for a period of 3 years commencing in 2022. The research associate will be jointly supported by the ARC Centre of Excellence for Dark Matter Particle Physics and the Pawsey Centre for Extreme scale Readiness (https://pawsey.org.au/pacer/).
+GAMBIT – the Global and Modular Beyond-the-Standard-Model Inference Tool – is an open-source software code for performing global fits of new physics models. The position will involve working on optimising the GAMBIT code, whilst also leading studies that apply the tool to topics in dark matter physics. We are thus seeking a phenomenologist in particle physics or particle astrophysics with very strong computing skills. A deep knowledge of C++, Python and/or FORTRAN would be advantageous. Through the ARC Centre of Excellence for Dark Matter Particle Physics and the GAMBIT collaboration, there will be opportunities to work extensively with national and international researchers in collider and dark matter physics. The Pawsey Centre for Extreme scale Readiness provides access to an outstanding national team of high performance computing experts who will assist with code optimisation work.
+The School of Physical Sciences at the University of Adelaide hosts strong groups in high energy physics working on the ATLAS, Belle II, CTA, HESS, IceCube, LIGO, Pierre Auger and SABRE experiments. Close collaboration between theorists and experimentalists is actively encouraged within our group.
+More details can be found at the following link: https://physsci.adelaide.edu.au/hep/
+To be successful you will need:
+A PhD or equivalent degree (or thesis submitted) in theoretical particle physics in an area of relevance to particle astrophysics.
+A commitment to research excellence in theoretical particle physics and a demonstrated publication track record in leading scientific journals.
+Demonstrated ability to conduct independent research and to work effectively as a member of a research team.
+Very good verbal, written, communication, interpersonal, organisational and time management skills.
+Advanced analytical and computational skills, including familiarity with Python, C++ and/or FORTRAN.
+A background in code optimisation, or a strong desire to learn.
+Optional: existing knowledge of the GAMBIT code would be useful, but is not an essential requirement.
+Enjoy an outstanding career environment
+The University of Adelaide is a uniquely rewarding workplace. The size, breadth and quality of our education and research programs - including significant industry, government and community collaborations - offers you vast scope and opportunity for a long, fulfilling career.
+It also enables us to attract high-calibre people in all facets of our operations, ensuring you will be surrounded by talented colleagues, many world-leading. Our work's cutting-edge nature - not just in your own area, but across virtually the full spectrum of human endeavour - provides a constant source of inspiration.
+Our culture is one that welcomes all and embraces diversity consistent with our Staff Values and Behaviour Framework and our Values of integrity, respect, collegiality, excellence and discovery. We firmly believe that our people are our most valuable asset, so we work to grow and diversify the skills, knowledge and capability of all our staff.
+We embrace flexibility as a key principle to allow our people to manage the changing demands of work, personal and family life. Flexible working arrangements are on offer for all roles at the University.
+In addition, we offer a wide range of attractive staff benefits. These include: salary packaging; flexible work arrangements; high-quality professional development programs and activities; and an on-campus health clinic, gym and other fitness facilities.
+Learn more at: adelaide.edu.au/jobs
+Your faculty's broader role
+The Faculty of Sciences, Engineering and Technology is a multidisciplinary hub of cutting-edge teaching and research. Many of its academic staff are world leaders in their fields and graduates are highly regarded by employers. The Faculty actively partners with innovative industries to solve problems of global significance.
+Learn more at: set.adelaide.edu.au
+If you have the talent, we'll give you the opportunity. Together, let's make history.
+Click on the link below for a copy of the position description and to apply:
+https://careers.adelaide.edu.au/cw/en/job/510121/postdoctoral-research-fellow-a-school-of-physical-sciences
+Please ensure you submit a cover letter, resume, and upload a document that includes your responses to all of the selection criteria for the position as contained in the position description or selection criteria document.
+Applications close 11:55 pm, 22 July 2022.
+For further information
+For a confidential discussion regarding this position, contact:
+Professor Martin White
+Dept of Physics, School of Physical Sciences
+E: martin.white@adelaide.edu.au
+You'll find a full selection criteria below: (If no links appear, try viewing on another device)
+The University of Adelaide is an Equal Employment Opportunity employer. Women and Aboriginal and Torres Strait Islander people who meet the requirements of this position are strongly encouraged to apply.

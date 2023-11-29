@@ -1,0 +1,46 @@
+1. LATERAL VISION The brother and sister team of Laura and Alex Tolson creates interactive and immersive 360-degree experiences for virtual tours using the latest technology, such as virtual reality, augmented reality and aerial solutions including drones.
+“We love all things technology and finding ways to get the most out of the current technologies available, always with an eye to the future. Our team are experts in user experience, 360-degree capturing ... and all things mixed reality,” they say.
+lateralvision.com.au 2. PROHAB Bluetooth data-enabled device to help physiotherapists and athletes monitor and adjust rehabilitation.
+It helps sporting professionals to enhance their strength training and testing. The Prohab tool attaches to exercise equipment to measure and record forces being applied by a user, for example when they’re undergoing specialist strength training following an injury.
+Data is relayed in real time to the Prohab app, to help guide the athlete and health professionals during an exercise session.
+The final result is an agile, accurate and intelligently crafted rehabilitation plan that helps decrease recovery time and improve performance.
+To test their ideas and designs, Prohab needed to create various prototypes of their groundbreaking device.
+They had a basic, handmade prototype, but changing designs as much as they needed was proving costly and slow.
+They needed a way to make cheap, fast prototypes while keeping the correct form, function and feel of the device.
+With assistance from Flinders product design expert Professor Sandy Walker and resources within the university, they were able to use additive manufacturing to create various designs and implement changes quickly.
+Prohab explored the various capabilities available to them at Flinders, and were able to manufacture covers for the device, assorted tools and components. They also conducted fitness trials and athlete testing.
+Using the university’s high end 3D printer, they created an accurate mock-up of the device.
+With help from Flinders University, they were able to launch their product on time and successfully at the Commonwealth Games on the Gold Coast in 2018.
+prohab.ai 3. PREPD HYDRATION Flinders University start-up Preserve Health has raised more than $500,000 in seed capital to launch its hydration sports drink to market this year.
+The project is backed by more than 20 years of innovative medical research at Flinders University, and is led by Global Gastrointestinal Health Distinguished Professor Graeme Young. It originally focused on improving severe dehydration in children living in developing countries.
+Research identified a special resistant starch to promote fluid absorption in the gut, tapping into an unused hydration potential in the body to absorb up to 6 litres of fluid a day.
+That discovery spawned PREPD, a new range of hydration-boosting drinks set to revolutionise endurance sports performance.
+The two-part hydration system includes one drink called PRIME and another called RECOVER to replenish fluid faster.
+Funding has come from high net-worth individuals, including investors with experience in sports and beverage industries.
+prepdhydration.com.au 4. SEED TERMINATOR This is a machine that pulverises weed seeds as grain crops are harvested. Kangaroo Island farmer Dr Nick Berry (pictured above) founded the company with his uncle Mark Ashenden.
+The third-generation machine launched in May and full commercial rollout is imminent.
+The machine can be retrofitted to the popular harvesters, including second-hand models.
+As the weed seeds are crushed, the debris is spread behind the machine and provides a fertiliser and mulch to improve soil.
+Testing has focused on rye grass seeds because they are tiny and difficult to eradicate. Results showed 95 to 97 per cent of weeds were killed.
+Inventors have trialled 32 prototypes across SA, NSW, Victoria and WA, customising them to the different soils, crop types and environments over the past two years.
+seedterminator.com.au 5. JOEY CROWD This is a crowd funding website where people can raise money to get their projects off the ground.
+The technology helps entrepreneurs make connections with high profile influencers across a range of industries.
+Joey Crowd’s ‘Future Store’ enables entrepreneurs to continue selling products within the platform.
+Founded by Kalif Auditore and Nick Boniciolli, the company has received seed funding from angel investors in Italy, Singapore, the US and Australia.
+joeycrowd.com 6. TCPINPOINT A cloud-based workflow platform that manages the multitude of tasks, communications, documents and reporting required by retailers.
+Founded by Rachel Kidwell, now based at Tonsley.
+After more than a decade working on fit-out details with Woolworths, Precision Group and the Adelaide Airport, Rachel’s business has helped replace excel sheets with a single digital dashboard.
+It helps retail centre owners run their tenancy schedules efficiently through a management software.
+One of TCPinpoint’s major paid projects was working with the District Docklands set up in Melbourne, following trials at Rundle Place and the Adelaide Central Plaza.
+tcpinpoint.com 7. DESIGNED IMMERSIONS This company provides immersive virtual reality experiences that bring education to life.
+It works closely with teachers and other educators to create bespoke learning experiences linked to the Australian National Curriculum. It can deliver virtual reality experiences to individual classes, entire schools or other community groups.
+Designedimmersions.com 8. PING SERVICES An acoustic engineering start-up monitoring the “heartbeat” of a wind turbine. Founded by Matthew Stead, Ping is a world-first software and service platform created for the acoustics sector.
+From noise-mapping drones collecting data in previously impossible locations, to software which calculates, automates and graphically represents multiple data sets in a stunning way, the software is being adopted by consultancies and engineers over the world to shave thousands of project hours.
+ping.services 9. PHONELABS PhoneLabs designs and creates devices and apps to transform phones into artificial intelligence infused labs.
+One such invention is GoMicro, a 60x microscope attachment that can be fitted to handheld devices, such as mobile phones.
+By combing the rich array of phone sensors, data processing, connectivity and display capabilities of phones, the company is creating new possibilities in education, research and medical analysis.
+gomicro.co 10. ORBIT A “serious gaming control device” changing the lives of people with limited hand function, such as those with cerebral palsy or recovering from stroke.
+It has been created through three different institutions: Flinders University, UniSA, and the Women’s and Children’s Hospital led by Flinders biomedical engineer David Hobbs.
+Most children with cerebral palsy will undergo extensive rehabilitation throughout their lifetime, with many experiencing difficulty in detecting and sensing touch with their hands.
+Wanting to make a difference, Mr Hobbs set about developing a novel and accessible computer gaming system that would allow people with limited hand control and/or co-ordination to play computer games.Flinders has 15 of the devices which it is testing in its lab.
+Word count: 1090

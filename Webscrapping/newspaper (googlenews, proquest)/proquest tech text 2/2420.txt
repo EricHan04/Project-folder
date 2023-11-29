@@ -1,0 +1,21 @@
+THE developers of a blockchain-based start-up agribusiness believe the technology can play a big role in limiting graingrowers' counterparty risk.
+Emma Weston, chief executive of Agri-Digital, a business that offers blockchain-based transaction and storage solutions, said a move to instant payment terms made sense for the grains industry.
+"When you pick up your morning coffee on the way to work, you pay the barista as you receive your flat white, not one month later," she said.
+Ms Weston said the traditional industry practice of delayed payment terms of up to 60 days made it tough on farmers.
+"Upon delivering their grain to site, title to the asset is transferred to the buyer, and the farmer is left waiting potentially up to 60 days to receive payment," she said.
+"These actions significantly impact cash flow and liquidity and means making ends meet can be incredibly challenging."
+But Ms Weston said AgriDigital's commodity management system created a solution to payment delays.
+Blockchain technology, which allows users to instantly transfer value or assets among themselves without the need for intermediaries, is used to create a system where all participants in the transaction share a ledger.
+Once authenticated, using the designated rules, a block is created that cannot be altered, creating a trail that can be easily traced, reducing the risk of fraudulent transactions.
+Ms Weston said while it was complicated technology, the overall message was simple - all the transaction is contained in one piece of data.
+"The system works around creating one single source of data - one single source of truth," she said.
+The big plus from a grower perspective, she said, was that the transfer of ownership title was instantaneously sent across to the buyer at the same time that the payment goes to the seller.
+Ms Weston said the AgriDigital technology had worked well in a number of real-world trials, including with Fletcher International Exports and CBH's Blue Lake Milling business.
+The Fletcher's pilot scheme saw a farmer deliver grain, with the quality of the grain recorded at the weighbridge and authenticated against a contract on the AgriDigital platform.
+The contract verified the buyer had sufficient funds available in their digital wallet to pay for the grain and then secured them against the farmer's name.
+Once delivery of the grain was complete on-site, the digital title transferred to the buyer and payment was made to the farmer simultaneously.
+The Blue Lake trial was slightly different in that the payment was not made for seven days.
+But in that interim period, the farmer retained ownership of title to the grain.
+"This therefore means growers retain security over their asset until they've been paid," Ms Weston said.
+CREDIT: Gregor Heard
+Word count: 449

@@ -1,0 +1,25 @@
+The rapid take-up of electric vehicles in some parts of Australia comes with a major risk of which very few members of the public are aware, but which has firefighters quietly concerned.
+It's an issue called thermal runaway.
+While battery fires from electric vehicles (EVs) are rare, fire authorities around the country are ramping up their knowledge of how to attack them with a recent workshop in Adelaide entitled "Lithium-Ion Battery Fires - The Emerging Risk", hosted by the Institute of Fire Engineers and attended by firefighters from around the country.
+The risks and hazards associated with lithium-ion battery fires has been known for a number of years but the most effective means of fighting these types of fires is still a subject of much international study.
+Since July this year, Fire and Rescue NSW has been leading a collaborative research program on the Safety of Alternative and Renewable Energy Technologies (SARET) to look at such issues as "best practice fire brigade response, end-of-life lithium-ion battery hazard management, electric vehicle fires in structures, and fire propagation in battery energy storage systems".
+However, what is known from experience elsewhere in the world - particularly in the US where Tesla began its volume production in 2008 and since become the biggest single global EV manufacturer - is that extinguishing them can be very difficult and requires lots and lots of water.
+The UK's Fire Investigation Special Interest Group - experienced fire engineers who closely examine emerging issues - has revealed how if a lithium-ion battery is exposed to excessive heat, or there is a penetration in the battery case, "then an internal short circuit causes heat that triggers a chemical reaction and a process called thermal runway".
+The potential is for EV fires to burn hotter and for longer than those involving petrol-engine vehicle fires. Hot enough, in some cases, to melt the roadway under the car.
+Electric vehicle manufactures are aware of the thermal runaway issue and now have onboard diagnostic software which detects any battery module abnormalities which could trigger a short circuit.
+Manufacturers such as General Motors and Hyundai learned this lesson the hard way. GM failed to build diagnostics into its Bolt EVs produced between 2017 and 2019 and had to recall 69,000 cars after five of them caught fire, one setting a house on fire.
+GM said it took "hundreds of engineers working around the clock" to build in the new diagnostic software which it has now adopted across all its new EV models.
+Defects in battery manufacturing - as is the case with Hyundai, which sources its batteries externally - can also present potential fire triggers. In February last, an investigation by South Korea's transport ministry revealed fire-triggering anode faults in cells manufactured by LG in China and used in the Kona and Ioniq EVs. Hyundai's international recall, which involved over 800 cars in Australia, cost it about $850 million.
+"[A short circuit] can lead to ignition, or in some cases even explosion. Although these fires remain rare, when they do occur, they can be extremely dangerous," the UK's fire engineering investigation group revealed in its study.
+"During an electric vehicle fire, over 100 organic chemicals are generated, including some incredibly toxic gases such as carbon monoxide and hydrogen cyanide.
+"Once the fire has been extinguished, the problem remains that electric vehicle fires can reignite hours, days or even weeks after the initial event, and they can do so many times, making disposal and storage of a fire-damaged vehicle a challenge."
+PPE (personal protection equipment) and breathing equipment is mandatory for fighting these fires.
+The ACT's fire and rescue teams have not been called to attend an EV fire in the territory yet but given the hundreds which are joining our roads each month, it's a matter of not if, but when there is an incident.
+In a working paper released in May, the Australasian Fire and Emergency Service Authorities Council (AFAC) were told of the challenges of fighting a "fire that keeps on burning".
+IN OTHER NEWS:
+A separate issue for first responders to EV crashes, and rarer than that of thermal runaway, is that of so-called "stranded energy".
+In a safety report released two years ago, the National Transportation Safety Board in the US revealed how "crash damage and resulting fires may prevent first responders from accessing the high voltage disconnects in electric vehicles".
+"The energy remaining in a damaged high-voltage lithium-ion battery, known as stranded energy, poses a risk of electric shock and creates the potential for thermal runaway that can result in battery reignition and fire.
+"Damaged HV [high voltage] batteries can retain lethal levels of DC [direct current] electricity, commonly referred to as stranded energy."
+CREDIT: Peter Brewer
+Word count: 787

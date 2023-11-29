@@ -1,0 +1,8 @@
+A NEW international study shows an artificial intelligence machine outperformed doctors in identifying genetic disease from a person’s selfie photo, in a field where Queensland leads the way.
+Queensland scientists are breaking down barriers in the area of “machine vision”, where algorithms are used to analyse images to determine an accurate diagnosis.
+“At the University of Queensland there are different research groups using AI in medicine and biology,” UQ’s Dr Peter Stratton, computing neuroscientist and artificial intelligence researcher said.
+The success of the “selfie” study, out today in the journal Nature Medicine, sparks the debate that the “human touch” could be lost in a man-versus machine future. Programmers ran through more than 17,000 images of patients with hundreds of distinct genetic syndromes with the AI.
+The machine was able to detect genetic syndromes such as foetal alcohol, Rett and Trisomy 18 with higher accuracy than clinicians.
+“AI techniques tend to be adopted very quickly when they work well, however, it seems this research is still in the ‘proof of principle’ stage,” Dr Stratton said.The researcher believes Queensland is many years away from AI being the first point of contact for patients and that doctors’ jobs are safe.
+CREDIT: JACKIE SINNERTON
+Word count: 201

@@ -1,0 +1,13 @@
+A NEW approach to analysing mammograms using ­artificial intelligence could drastically improve the detection of women at risk of ­developing breast cancer.
+It could also help reduce the overall burden of cancer screening and inform women how regularly they need to have a check-up.
+Researchers claim the breakthrough – which uses AI to look at the “brightness” and “texture” of traditional mam-mograms – is more effective than all other risk-factor analysis, including breast density and genetics.
+The discovery is the work of teams at the University of Melbourne, BreastScreen Victoria and the Cancer Council, which wanted to find new ways of determining breast cancer risk.
+“These other aspects of the (mammogram) image are ­predicting breast cancer in the future and doing it very well, so much so that it’s a better test of your future risk than genomics,” Professor John Hopper from the University of Melbourne said.
+Women with denser breasts, which show up on a mammogram as whiter or brighter areas, are more likely to be diagnosed with breast cancer. They are also more likely to go undiagnosed, because cancer spots shown on the scans are also white.
+Prof Hopper and his team, including post-doctorate ­student Dr Kevin Nguyen, have now discovered two more personalised measurements – called “cirrocumulus” and “cirrus” – to predict the ­disease. They found that by taking a closer look at the bright areas of a mammogram and then using computer algorithms to analyse the texture, a more comprehensive risk profile could be reached for both high and low-risk women.
+“What this means is it will be easy to identify large groups of women at very different risks – it’s like lining women up and deciding where you are on the range,” Prof Hopper said.
+The approach, which could be used in conjunction with traditional measures, has already piqued interest from cancer groups and clinics.
+Clinical director of St Vincent’s BreastScreen Melbourne Adjunct Associate Professor Helen Frazer said being able to warn women about their risk at the ­earliest stage could be “game-changing”.
+Natalie Vujovich, 54, pictured, has a family history of cancer and is considered a “high risk” of developing breast cancer herself. “Having the reassurance of this test to give you a better determination … could make it a lot easier for a lot of women,” she said.
+CREDIT: ALANAH FROST
+Word count: 389

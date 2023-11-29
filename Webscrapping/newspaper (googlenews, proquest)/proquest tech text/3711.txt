@@ -1,0 +1,32 @@
+How bad are the banks? So bad, apparently, that their earnings shrink even when they’re profiteering.
+Early next month, when National Australia Bank closes out the full-year profit reporting season for the major banks, cash profit for the sector is likely to have fallen by 8-9 per cent from $29.5bn to about $27bn.
+Some milestones — the kind of markers that chief executives prefer to avoid — will have been passed.
+There’s a better than even chance that Westpac, which is capital-lite ahead of APRA’s enforcement next January of its 10.5 per cent unquestionably strong benchmark, will slash its final dividend.
+It last did so in the teeth of the financial crisis, announcing an interim 2009 dividend of 56c, down from 72c in the previous half.
+Westpac boss Brian Hartzer has already taken the scythe to the bank’s 15 per cent return-on-equity target he inherited from predecessor Gail Kelly.
+That was in 2016 when the major banks soaked up billions of dollars from investors in the never-ending spiral of capital demands from regulators.
+Westpac’s ROE slumped 185 basis points to 14 per cent, as Hartzer reset his target to 13-14 per cent. While a dividend cut is more likely, it’s conceivable that the target could be lowered again to 11-12 per cent — a more realistic and achievable objective in the current ultra-low interest rate environment.
+At ANZ, which kicks off the season on Thursday, Shayne Elliott has already demonstrated a willingness to tighten the dividend tap.
+In his first result as CEO in May 2016, Elliott unveiled an interim 2016 payout of 80c, down from 86c in the preceding half.
+The stock was initially marked down 4 per cent before it closed 5.5 per cent higher in a remarkable tribute to Elliott’s willingness to make a difficult call at the first opportunity.
+An encore performance, however, would surely be out of the question. ANZ’s neighbour in Docklands, NAB, joined the austerity program last May, slashing the interim dividend from 99c to 83c.
+Capital conservation is now the mantra, less than a year after buybacks and capital management dominated the conversation.
+Payments platform After almost a year of management input, the board of NPP Australia signed off last week on a three-year road map to take the $1bn-plus real-time payments network to its next stage of market penetration.
+Since launching in February 2018, the new payments platform has devoted most of its energy to single or person-to-person payments, which account for less than 20 per cent of the overall market.
+The road map signals a switch in emphasis, with NPPA now targeting business-to-business applications. Two new features are expected to exponentially increase the volume of transactions on the platform.
+The first is deeper use of the NPP’s message format, which is built for much richer data than the 18 characters currently available for direct entry payments.
+With more than 1400 data fields to choose from, additional information can be provided with the payment, or through a link to externally-hosted documents.
+NPPA has developed message guidelines for payroll, tax, superannuation and e-invoicing payments, effectively standardising how these payments will pass across the platform.
+Payroll providers, cloud accounting software providers such as Xero and employers will be able to incorporate the NPP standards into their products and services so they can send payroll, tax, super and e-invoicing payments via the NPP by December next year.
+Additional messaging standards will be developed for other payments according to market demand.
+The second feature is the one that the NPPA is most often asked about — a mandated payments service, or the ability to initiate payments from a customer’s account such as a direct debit.
+Potential uses from the December 2021 implementation date include subscription-type payments, e-commerce, and “on behalf of” services like a company using a cloud accounting software provider to do its payroll run.
+The point to note about both features is that the implementation dates are mandatory, which means participating institutions can be fined if they don’t meet the deadline.
+The introduction of penalties was the NPPA’s response to criticism from the RBA earlier this year about a slower-than-expected rollout of NPP services by banks.
+The RBA blamed complexity of bank IT systems and an “underestimation” of the scale of investment needed to meet delivery time frames.
+While the road map requires further investment in the platform, it will be internally funded by the NPPA without an extra call on its 13 shareholders.
+Use of the network generated $43m in operating revenue in 2019. Since launch, 85 banks, credit unions, building societies and fintechs have connected to the NPP, including the neobanks 86 400 and Bendigo and Adelaide Bank-owned Up.
+More than 66 million account holders can now make and receive payments through the NPP — equivalent to about 90 per cent of reachable accounts — and about 3.6 million PayIDs have been registered by customers wanting to receive real-time payments to their bank account via their PayID.
+According to the RBA, NPP adoption has been as fast — if not quicker — as similar platforms offshore. As at mid-October, it was processing an average of 750,000 payments worth an average of $750m a day.gluyasr@theaustralian.com.au Twitter: @Gluyasr
+CREDIT: FOUR PILLARS; RICHARD GLUYAS
+Word count: 871

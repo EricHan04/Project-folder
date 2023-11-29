@@ -1,0 +1,33 @@
+Converting kurri gas peaker to green hydrogen won't be cheap
+FROM P1 The previous federal government announced construction of the 660 megawatt gas-fired peaking plant in 2020 to ensure stability of the energy grid following the closure of Liddell power station.
+Labor and environment groups slammed the project as unnecessary and highlighted its impact on greenhouse gas emissions.
+Labor then committed in February this year to introducing green hydrogen, which is produced from renewable energy, into the generator's fuel mix as soon as possible.
+It also announced the additional goal of running the plant on 100 per cent green hydrogen by 2030.
+It provided the project's proponent Snowy Hydro with an additional $700 million to achieve the transition.
+Energy experts told the Newcastle Herald this week that they doubted $700 million would be enough to cover the significant engineering challenges associated with the green hydrogen conversion.
+Mr Broad said he did not know if the additional investment would be enough.
+"We have got a lot of work to do. But I want to reaffirm that, where possible, we are keen to inject hydrogen into the project," he said.
+"Presently the economics (of hydrogen) are a long way from working but you have got to keep pushing the boundaries and we are happy to be part of that."
+Despite the focus on hydrogen, Mr Broad said the project's top priority remained ensuring the generator was ready to commence operating in late 2023.
+It will initially be fuelled by diesel while a gas lateral from the Sydney to Newcastle gas pipeline is completed.
+"We have got to ensure the lights stay on," Mr Broad said. "If the European energy crisis has proved anything, it is the importance of gas.
+"If this transition is going to work everything needs to run in parallel.
+"The technologies have to overlap."
+The plant's two turbines, which are being manufactured by Mitsubishi in Japan, will be capable of running on a 85 per cent gas, 15 per cent hydrogen mix from the start of the plant's operation.
+They can be upgraded to run on a richer hydrogen mix at a later date.
+"It could be that we commission the introduction of hydrogen in phases like 5 per cent, 10 per cent etc," Mr Broad said.
+It was initially suggested that hydrogen could be transported to Kurri via a gas pipeline, however, updated technical advice shows this is not possible.
+Planning is now focused on how to produce and store the fuel on site, primarily from solar.
+CSIRO researchers and a US-based team are providing advice on the issue.
+Knowledge is also being shared with teams working on the development of similar power projects in South Australia and the Tallawarra B power project on the state's south coast.
+Former chief scientist and advisor to the Australian government on low-emissions technology, Alan Finkel, said the economics of long-term green hydrogen storage remained challenging.
+"The transition to a renewable energy electricity system, which we have to have, is very dependent on adequate storage," Dr Finkel said.
+"That storage needs to address short, medium and long-term durations. If you can get the storage sorted everything else will work."
+Mr Broad said Snowy Hydro was also keen to engage with the various Hunter stakeholders, such as the Port of Newcastle and the University of Newcastle, which make up the region's evolving hydrogen network.
+"There are about five different groups up here. We want to find a way to galvanise them," Mr Broad said.
+"We need to work our way through who is doing what and put in realistic timeframes about what can be delivered and when."
+Hunter Hydrogen Technology Cluster (NewH2) manager Clare Sykes said the cluster aimed to support the development of the hydrogen supply chain, reduce overlaps and identify gaps in the development, deployment and commercialisation of new hydrogen-focused technologies.
+"The Hunter region has always been and will remain an energy, research and innovation powerhouse," she said. "Our region is host to some of the most sophisticated manufacturing and export supply chains in the world. It is with this foundation and a platform of collaboration that I have every confidence we will tackle a range of technical challenges related to hydrogen production and use.
+"NewH2 is collaborating with Hub proponents to bring about our vision for the Hunter region to be globally recognised as a one stop shop across hydrogen production, use, manufacturing, technology, skills and services - and with that enjoy strong employment participation across the entire hydrogen supply chain."
+CREDIT:
+Word count: 752

@@ -1,0 +1,11 @@
+AN app that claims to detect the most common signs of skin cancer in less than a minute has been registered by the Therapeutic Goods Administration.
+While it does not provide a diagnosis, it can help prompt people to visit a doctor to get their skin checked.
+SkinVision uses an artificial intelligence-based algorithm to determine whether spots on the skin could be cancerous, but research has found many apps miss cancers.
+There are more than 30 skin cancer detection apps on the market but Melbourne GP Dr Dipankar Chakraborty said he used this one because spots that were flagged as problematic were reviewed by a dermatologist within 48 hours.
+“I’ve seen the reports come in from the dermatologist saying yes we confirm the diagnosis and request you to go and see your doctor in the next six weeks or three weeks, or, the dermatologist may say no this looks normal so disregard the AI findings,” Dr Chakraborty said.
+The service is offered free to some health fund members but costs about $90 a year or about $12 for a one-off check of a suspicious spot.
+The patient chooses a ­location on the body map in the app then uses the camera to get instant risk assessments. Cancer Council chief executive Tanya Buchanan said the best thing people could do was actually to know their skin.
+Mum Robyn Musolino, 50, used the app to check her skin after it was offered free by her health fund. It detected a potential skin cancer on her shoulder and recommended she have it checked by a professional.
+“It was a basal cell carcinoma – one of the most common but least dangerous types of skin cancer,” she said. “If you have any concerns, you need to check them with your doctor even if you’ve used an app and we shouldn’t be substituting apps for clinical diagnosis.” In 2020, the TGA reviewed app-based medical technologies and reported that studies had found one in five patients under the age of 50 had used a smartphone to help diagnose a skin problem.
+CREDIT: SUE DUNLEVY
+Word count: 349

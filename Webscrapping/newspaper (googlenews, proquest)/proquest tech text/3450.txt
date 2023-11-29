@@ -1,0 +1,79 @@
+It was the best of times, it was the worst of times.
+It was a year that Facebook began with bold plans to develop an "Instagram for Kids", and ended with the company in retreat mode, rushing out new safety features for younger users & responding to leaked internal reports showing its product was harming teenagers.
+It was a year that began with promises to crack down on anti-vaccine misinformation & disinformation, & ended with more of the stuff on the platform than ever before, the moderators overrun, & a top executive blaming the problem on users.
+It was a year that began with violent far-right politics being amplified on social media, as die-hard Donald Trump supporters used Facebook (and other platforms) to rally before storming the US Capitol.
+It ended with Facebook asserting it would leave the material realm and develop a new kind of "embodied internet" and virtual-reality "metaverse" (violent mobs presumably not allowed).
+There were some bad times for Facebook in 2021.
+But on the other hand, the companymade a lot of money.
+Facebook smashed analysts' expectations & earned billions more per quarter than in 2020. (Yes, it's now called Meta, the new umbrella company of the Facebook platform, as well as Instagram and WhatsApp. To avoid confusion, we'll stick with the more familiar name Facebook.)
+So, what happens now?
+Around the world, Facebook is facing unprecedented scrutiny from regulators & lawmakers, the general public is less & less trusting of its assurances around privacy & misinformation, & its own employees are voicing dissatisfaction with company leadership.
+Will the company that once had the internal motto "move fast & break things" be forced to slow down & mend its ways?
+A short recap of (another) annus horribilis
+Facebook has had other bad years — 2017 & then 2018 were successively named "annus horribilis" — without too much consequence.
+To recap, 2018 was the year the Cambridge Analytica story broke, of the campaign, of CEO Mark Zuckerberg's apology tour, & of the UN blaming Facebook for spreading hate in Myanmar & fomenting a possible genocide against the Rohingya minority.
+But this year was particularly bad:
+* Storming of the US Capitol: The January 6attack demonstrated the unchecked problem of online hate & misinformation
+* Anti-vaccine misinformation: The company has been unable to deliver on its promise to crack down on anti-vaccine misinformation & disinformation
+* News media bargaining code: The decision to temporarily block Australian users from accessing Australian "news pages", including critical emergency services, was deeply unpopular
+* Messy banning of Donald Trump: Facebook's own oversight board criticised the company's lack of clear protocols around banning users who hold public office
+* Frances Haugen's whistleblower testimony: The former employee told US Congress the social network harms young users & fuels division in the relentless pursuit of profit
+* Rohingya refugees file $US150 billion ($212 billion) lawsuit: They allege Facebook failed to stem hate speech on its platform, exacerbating violence against the Myanmar minority
+How bad was Facebook's 2021 compared to previous years?
+Since 2016, Facebook's relationships with government & public opinion "have only been moving in the one direction," said Damien Spry, a digital media expert at the University of South Australia.
+"We thought 2018 was a bad year, but things keep getting worse for them," he said.
+Tama Leaver, a professor of internet studies at Curtin University, said by most measures, 2021 "should be Facebook's worst year".
+For Terry Flew, a professor of digital communications at the University of Sydney, 2021's series of unfortunate events is the consequence of a relentlessly disruptive corporate culture, that was baked into the company many years ago (i.e. "Move fast & break things").
+The profits & the disasters go hand in hand.
+"The culture of living on the edge has kept catching up with the company as it's grown in size.
+"And I don't think they've resolved that by changing the name of the brand."
+Will governments & regulators do anything?
+In Australia, the US, the UK & Europe, governments & regulators are talking tough about regulating social media.
+"This time, something's going to happen," Deputy Prime Minister Barnaby Joyce told ABC's PM program in October.
+"The motivation is now there at the federal level in Australia, at the highest level in the United States, in other corners of the globe, to say: 'We've had enough, you can't treat us like fools. You think we're joking, we're not.'"
+The feeling among countries may be mutual, but their approaches are different, Dr Spry says.
+In Australia, regulation is often justified as the defence of national sovereignty (see Mr Joyce's comments above).
+"The political rhetoric is we won't let these big multinationals come over here & tell us what to do," Dr Spry said.
+In the US, there's more talk about busting Facebook's alleged monopoly to create competition & foster innovation (though Australia's own competition watchdog is calling for this too).
+For years, the US Federal Trade Commission has accused Facebook of breaking anti-monopoly laws by gobbling up smaller social media start-ups that threaten to be competition.
+Facebook has successfully defended itself, but the competition watchdog is not giving up, & recently lodged a lawsuit demanding that Facebook sell off Instagram and WhatsApp.
+In the EU, there's strong rhetoric around personal privacy & data ownership.
+"There's almost global agreement that kids' rights & kids' privacy has to be fixed most urgently," Professor Leaver said.
+"Children's rights & privacy on social media platforms will be the battleground of 2022."
+What new rules are being proposed exactly?
+Here's the Australian regulatory action to look out for in 2022 (there's a lot):
+* The government is expected to introduce to parliament proposed changes to defamation laws that would make social media companies liable for the content they publish from users
+* From January 23, the eSafety Commissioner will have the power to force social media companies to take down posts that amount to online bullying, & fine the companies that hosted the alleged abuse
+* By the end of 2022, the Commissioner will outline how the government will require all sites to verify the age of users if they host adult content
+* The government has proposed requiring parents' consent when signing up children under the age of 16 to social media sites
+* In 2021, Twitter, Facebook, Google & other social media companies launched a voluntary code for dealing with online misinformation & disinformation. If the government isn't happy with how the code is being implemented, it could move to a mandatory one
+* The Australian competition watchdog has recommended tighter regulation of Facebook & Google to limit their dominance in online ads
+And that's just in Australia.
+In the UK, the US & Europe, there are calls for greater accountability & external regulatory oversight, including the ability to scrutinise the secret algorithms that tailor the content that a user consumes.
+Perhaps the most important of these measures is the UK's online safety bill, which promises to be a landmark piece of legislation.
+In its draft form, this bill imposes a duty of care on social media companies to protect users from harmful content, with a fine of up to 18 million British pounds ($33.5 million) or 10 per cent of annual global turnover (in the case of Facebook, that would be more than 8 billion British pounds).
+A UK parliamentary committee has recently proposed introducing named safety officers at big digital businesses who would face criminal prosecution (i.e. potentially jail time) if their employers break the law.
+Why all the regulation now?
+One reason for the Australian government's "flurry of action" with regulation is next year's federal election, Dr Spry says.
+"The government is seeking new policy ideas that will be popular."
+The fact it believes something as potentially dry as regulating social media will be popular points to a change in the electorate.
+The "quiet Australians" are starting to care about all the things that digital media academics & other experts have been wringing their hands about for years.
+Or at least the government has been taking a bet on this, says Professor Flew.
+"The argument against greater regulation, which is that it would hinder innovation, is not as persuasive as it once was.
+"There are pervasive concerns about privacy, misuse of data, polarisation of debate, online misinformation — those issues are bubbling beneath the service & are drivers of regulation."
+Another reason for the flurry is Frances Haugen.
+The former employee turned whistleblower has been urging lawmakers & regulators around the world to take action.
+The documents Ms Haugen leaked painted a picture of a company that was failing to act on its own volition to keep users safe.
+Internal reports showed that Facebook had played a greater role than previously realised in fomenting the violence of January 6, 2021, & that it had apparently done nothing after learning that Instagram use was harming teenagers & even leading some to have suicidal thoughts.
+"It's one thing to be caught out by investigative journalists, but it's another if your own senior people are prepared to speak out against you," Professor Flew said.
+"There's been a growing tension within all of the tech companies between sections of their staff & the organisation overall.
+"Partly that stems from tension that exist between companies founded on idealistic principles & the corporate practices that drive the bottom line."
+Will Mark Zuckerberg stay?
+There have been calls this year, including from Ms Haugen, for Facebook boss Mark Zuckerberg to resign, but there's been no sign of the founder budging.
+As long as Facebook is making money, he won't be forced out, Professor Leaver says.
+"To have a shareholders' revolt or revolt inside the company, it would have to be in a context where Facebook's market position is in jeopardy, not just its moral compass or soul.
+"The only time he'll relinquish that power is if he chooses it. I don't see that happening next year."
+On that front, Facebook's share price has more than doubled since the end of 2016.
+"We keep saying Facebook is worse than ever, but they’re making more money as well," Professor Leaver said.
+"We've said that for five years, & every year their profit has gone up."
+Word count: 1705

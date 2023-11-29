@@ -1,0 +1,5 @@
+A NEW system using artificial intelligence to assess MRI scans will make breast cancer readings 10 per cent more accurate and leave less to chance, University of Adelaide research reveals.
+Project researcher Gabriel Maicas said the previous system that assessed the MRI breast scan was too complex and only allowed cancer detection in “suspicious areas”.
+“If you miss one of these suspicious areas, you might miss the cancer,” Dr Maicas said. But using AI, the entire breast can be scanned making the reading more accurate, following the success of a study led by Professor Gustavo Carneiro at the Australian Institute of Machine Learning.Dr Maicas said it would be particularly beneficial to younger people with possible hereditary breast cancer, leaving less to chance.
+CREDIT: DIXIE SULDA
+Word count: 126

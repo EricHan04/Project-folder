@@ -1,0 +1,20 @@
+In the wake of the Black Summer worst ever bushfires, environment outfits WWF Australia and Conservation International will use cameras to figure out just how many animals survived.
+Scientists will begin hiding 100 cameras before Christmas in each of the state’s three most bushfire-ravaged habitats including the Blue Mountains, northeast NSW inland from Port Macquarie, and southeast NSW inland from Bega and Eden.
+A further 300 sensor cameras will be installed between Victoria’s East Gippsland, South East Queensland and South Australia’s Kangaroo Island.
+There are grave fears for animals not seen since the devastating bushfires that burned intensely through 5.3 million hectares of the state. A WWF funded study has estimated three billion animals to have been killed, injured or seen their habitat destroyed by the fires.
+Of particular concern is the endangered Hastings River Mouse, which has not been seen since fire tore through 89 per cent of the small rodent’s habitat in northern NSW.
+The brush-tailed rock wallaby has been sighted since its home in the Blue Mountains was torched but scientists do not know how many survived despite a desperate ploy to keep them fed by dropping carrots and sweet potato from helicopters.
+Other animals incapable of quickly escaping flames that scientists are especially worried about include the spotted tail quoll, New Holland mouse, long-nosed potoroo, echidnas, and ground-dwelling birds like the lyrebird.
+“Smaller species – if they have survived the fire – will find it hard to find shelter or cover from cats, foxes and native birds of prey,” WWF Australia ecologist Darren Grover said.
+The cameras will be hidden in scrub to avoid being detected by the animals or curious passers-by and will roll constantly for the next two years.
+Cameras already set up on Kangaroo Island in South Australia have made a major breakthrough, capturing photos of the tiny marsupial known as the Kangaroo Island dunnart first feared to have been completely wiped out.
+Scientists will use cutting edge artificial intelligence technology never before used in Australia to identify which animals are caught by the cameras.
+Google’s software can identify animals 3000 times faster than human experts – capable of analysing 3.6 million photos an hour compared to the best trained eye that can only analyse between 300 and 1,000 images an hour.
+“Cameras are fantastic but they take thousands and thousands and thousands of images, which can take months to go through them all,” Mr Grover said.
+“Sometimes the animal you’re looking for might only be on one or two of all those thousands of pictures.
+“What would normally take months to analyse those images can be done in no time with the latest artificial intelligence.”
+Google’s AI technology has been used to identify more than 800 species across the globe but this will be the first time it has been trained on Australian wildlife.
+To teach the machine what to look for, WWF Australia is calling on professional scientists and amateur naturalists to send in photos captured by sensor cameras of animals in different positions.
+Scientists will accept sensor camera images from as far afield as Western Australia, as they will all help the software recognise Australian animals.
+Anyone with sensor camera images can share them with WWF Australia at eyes@wwf.org.au
+Word count: 521

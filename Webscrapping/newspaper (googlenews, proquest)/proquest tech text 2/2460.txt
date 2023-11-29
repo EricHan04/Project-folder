@@ -1,0 +1,36 @@
+The big pushback by global regulators against the Facebook-led cryptocurrency project Libra has prompted a much closer examination by central banks of the pros and cons of issuing their own digital currencies.
+With Facebook’s massive reach, the great fear was that Libra could spread rapidly — in contrast to volatile virtual currencies like Bitcoin — and erode central bank control over money.
+As Reserve Bank governor Philip Lowe has argued, stability of the system could suffer if it’s easier to switch from commercial bank deposits to digital banknotes than withdrawing physical banknotes.
+A central bank digital currency (CBDC) would be a central bank liability rather than a commercial bank liability.
+Regardless, Lowe saw no reason to introduce a CBDC for households if it would facilitate a run on a bank.
+That judgment, however, is to be kept under review.
+Other central banks have pursued an alternative path to the RBA, reflecting their different circumstances.
+The Bank for International Settlements found in a survey of 66 central banks last month that 80 per cent were engaged in some kind of CBDC work, for wholesale or household use.
+While one in 10, covering about 20 per cent of the world’s population, said it was likely to offer digital currencies in the next three years, this proportion almost doubled when the time was extended to six years.
+Emerging market economies were the most advanced on implementation of a CBDC — of the 10 per cent of respondents to have progressed from conceptual research to pilot projects, all were in emerging markets.
+A CBDC is regarded by many of those countries as a vehicle for financial inclusion, or a convenient way to avoid the long lead time and costly infrastructure of a modern banking system.
+China, which has been working on its much-anticipated digital yuan since 2014, already has an advanced payments infrastructure controlled by Alipay and WeChat Pay after the local banks sat on the sidelines.
+The country’s determination to be ahead of the game on a CBDC could reflect a desire by policymakers for some meaningful competition.
+Australia, in contrast, has no large-scale financial exclusion problem, and its payments system is relatively modern and efficient with the introduction of the bank-owned new payments platform.
+The RBA said in its submission to the Senate inquiry into financial and regulatory technology that it was possible there would be little demand for a CBDC, given there was already access to digital money in the form of deposits held by commercial banks, which provided payment services.
+The customer also received interest and the deposits were protected up to $250,000 per account by the financial claims scheme.
+If demand was strong, on the other hand, commercial bank deposits would decline, slashing the amount of funds available for household and business lending.
+“Accordingly, the implications of a CBDC for the structure of the financial system would need to be carefully considered,” the RBA said.
+Another option was for the RBA to issue a digital currency for use by wholesale market participants in specialised payment and settlement systems.
+Possible benefits included payments in real time if the CBDC were integrated into a blockchain platform.
+Other developed economies share similar attributes to Australia, which is why the announcement in January of a central bank group to assess potential cases for CBDCs took some by surprise.
+The rich-country central banks involved were the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank, the Swiss National Bank, and the Sveriges Riksbank (Sweden’s central bank).
+They will join the Bank for International Settlements to assess economic and technical design issues.
+One observer said central banks were in regular contact about CBDCs, and it was difficult to see how the group would offer much more than an opportunity to formalise an existing dialogue.
+Sweden, however, was in a different category, with the country’s central bank starting work on its e-krona pilot program in 2017 after a steep decline in cash usage.
+McEwan casts wide net The rubber hits the road this week on new National Australia Bank chief executive Ross McEwan’s decentralisation of the group’s strategy development.
+Kicking off in Darwin yesterday, McEwan will tour the country for two to three weeks, visiting branches, meeting SME customers, attending customer events, hosting town hall meetings and conducting Q&A sessions.
+The former Royal Bank of Scotland boss wants to cast the strategy net widely, believing that the bank’s Docklands headquarters in Melbourne is not the sole repository of wisdom.
+After Darwin, it’s on to Adelaide, Bunbury, Perth, Rockhampton, Brisbane, Newcastle, Hobart, Launceston and Geelong.
+Sydney and Melbourne also get a look in.
+It’s not to say that everything in the bank is broken.
+McEwan told investors at December’s annual meeting that NAB started “from a very good position and an enviable position in areas like business banking”.
+“We’ve got a very good corporate and institutional bank and we’ve actually got a lot of work we could do on the retail bank to actually make that a stronger player,” he said.
+Against that, there was still a lot of work to do to rebuild lost trust and respect.gluyasr@theaustralian.com.auTwitter: @Gluyasr
+CREDIT: FOUR PILLARS; RICHARD GLUYAS
+Word count: 863

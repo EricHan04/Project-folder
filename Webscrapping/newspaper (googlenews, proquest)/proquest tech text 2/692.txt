@@ -1,0 +1,10 @@
+SOME of Australia‘s top venture capital investors have teamed up to give a new tech start-up one of the country’s biggest ever seed investment rounds, with Blackbird Ventures, Tidal Ventures and Mike and Annie Cannon-Brookes’ investment office Grok pouring money into new Sydney outfit Carted.
+Carted started life as a way for consumers to buy products via TikTok, and now has bold ambitions to redefine global e-commerce.
+It has raised a $13m seed round as it moves to connect app developers to millions of merchants via a single application programming interface (API), and expand its reach from its Surry Hills offices to across Australia and the US.
+Founder Holly Cardew said Carted’s universal API would allow for commerce experiences anywhere on the internet.
+Consumers, for example, would be able to purchase whatever they had just viewed, whether via video, social media post, TikTok, or anything else.
+“We want to build solutions for the next generation of commerce,” she said. “We started building some tech last year to make TikTok videos shoppable, and what we realised was that it was going to take a lot of time to integrate every single merchant to give that functionality to influencers and brands.
+“We wanted to give that functionality to everyone. We’re basically turning any content platform into a commerce platform.” Ms Cardew, who previously founded e-commerce outfit Pixc, did not disclose Carted’s valuation but said there were “huge expectations” around what the company can do.
+She’s teamed with Shopify and Culture Kings executive Mike Angell to start the company, which is now hiring engineering, product and design roles to build out its platform. The $13m round was led by Blackbird Ventures, with other backers including Streamlined Ventures and Lightspeed Ventures’ scout fund.
+CREDIT: DAVID SWAN
+Word count: 293

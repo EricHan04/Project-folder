@@ -1,0 +1,14 @@
+South Australian farm satellite technology firm Myriota has teamed up with Davey Water Products to start monitoring remote tank water levels on a mass scale.
+The partnership will see Myriota's strategic low-cost internet connectivity technology linked with Davey's TankSense product range, enabling farmers to receive water level data direct to their mobile phones.
+The new product will be the first mass market water-level sensor connected via Myriota's earth-to-satellite transmission technology.
+Farmers will be able to remotely monitor water usage and livestock water supplies from their homestead or anywhere they can receive mobile phone reception via the link with a satellite, about the size of a wine bottle, circling 550 kilometres above the earth.
+Water sensors, costing about $1000, each will be mounted on tanks in paddocks transmitting about 20 bytes of data direct to the satellite four times a day.
+Myriota chief executive officer Alex Grant said the Davey partnership would deliver real benefit for farmers who previously faced exorbitant costs for satellite connectivity or struggled to reliably monitor their water systems via existing radio or landline-linked devices.
+Alternatively, they rely on time consuming manual inspections, often involving hours of paddock driving or aerial inspections.
+"Our technology removes the need for farmers to rely on cellular networks with patchy coverage, or spend large sums of money to connect to high cost satellites," Dr Grant said.
+"This partnership will lower water management costs in locations which until now have had no cost-effective way of retrieving data."
+Davey's sensors have been bolstered by an inbuilt artificial intelligence capability that uses algorithms to bolster the accuracy of predictions about when a tank will run out of water.
+Davey innovation general manager Joel Gresham said combining TankSense with Myriota's technology provided a world-first in terms of communicating with regional locations.
+"Thanks to this Myriota satellite technology, farmers who traditionally needed to manually check their tanks will be able to monitor their assets seamlessly from any location," he said.
+CREDIT: Andrew Marshall
+Word count: 327

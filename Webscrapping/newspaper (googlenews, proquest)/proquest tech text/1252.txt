@@ -1,0 +1,7 @@
+The 40-strong team was the only Australian competitor and took on rivals from other top universities as well as corporate and private entrants in a virtual competition aimed at advancing robotic software and autonomous capabilities for space exploration missions. The virtual challenge was undertaken in a NASA simulation of the lunar south polar region.
+The team, which also won an Innovation Award, had to design code to control a fleet of varying lunar robots in locating, excavating, loading, and transporting water ice and other volatile substances to a lunar landing craft.
+“The NASA engineers recognised the team’s particularly novel solution to critical challenges currently confronting NASA as they prepare for lunar surface operations in the next several years,” Andy Thomas Centre for Space Resources director John Culton said.
+“The code that the team developed could be used in NASA’s Artemis human spaceflight program, which aims to send people to the Moon by 2024, to make its surface rover fleet more autonomous.
+“[It] could also be used on Earth for autonomous mining operations, disaster response and recovery, robotic agriculture, construction, and other applications.”
+The challenge involved making it though a qualifying round last year against 113 other teams, from which 22 were selected to compete for the first prize. Adelaide’s core team comprised primarily masters, PhD, and honours students.
+Word count: 213

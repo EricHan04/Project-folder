@@ -1,0 +1,14 @@
+Tracking livestock in remote Australia and even detecting unlawful boat arrivals are applications possible with artificial intelligence-charged satellite software being developed by Australian ­researchers.
+Eighty-four organisations are combining to build AI-charged software systems for satellites, ­including the explosively growing low-orbit satellite industry.
+The closer proximity of small satellites at 500km instead of 35,000km above Earth means faster Earth-satellite communications, less delay or latency in transmissions and easier interaction with the ground.
+Researchers say the satellites are capable of delivering gigabit broadband speeds to remote and regional Australia.
+The University of South Australia, which leads the research body, and Macquarie University yesterday announced inception of the Co-operative Research Centre for Smart Satellite Technologies and Analytics. It has $190 million in investments and cash from industry and $55m from the federal government.
+The industry around these small toaster-sized satellites travelling in low orbits from 500km to 1500km above Earth is blossoming. SpaceX’s Starlink, Amazon and Facebook are among organisations wanting to launch “constellations” of dozens of these satellites. London-headquartered OneWeb launched the first four of its satellites in February.
+Researchers see an opening for Australia to develop AI-charged smart software used in low-orbiting satellites with high-resolution image cameras. The proximity of the satellites will aid the system’s ability to identify smaller objects.
+But instead of sending screeds of data for researchers to unravel on the ground, the satellites could use image recognition to identify objects and alert staff on the ground to what matters.
+SmartSat chief executive Andy Koronios said identifying diseases in vegetation, shipping including unlawful boat arrivals, and the movement of livestock around a property in remote Australia could be enhanced by AI.
+Backers include Nova Systems, Optus, Shoal, and FrontierSI, along with global companies with an Australian presence such as Airbus, BAE, MDA, Northrop Grumman, Saab, SciSys, Dassault Systems, and Thales.
+Professor Koronios said global space technologies and industries were worth more than $500 billion but that success had been underpinned by serious global investment in research.
+TECHNOLOGY P24-25
+CREDIT: Chris Griffith
+Word count: 334

@@ -1,0 +1,16 @@
+TWO Australian farm machinery companies and their overseas partners are joining forces to produce what they claim will be the world's first fully-autonomous green-on-green weed spraying unit.
+They have fitted a Vic-made Goldacres Prairie Special trailing sprayer with green-on-green weed detection technology and then hooked the machine to a Qld-built SwarmBot robotic tractor.
+SwarmBot autonomous tractors are manufactured by SwarmFarm, headquartered at Gindie, Qld, and are now being used in a number of commercial agricultural pursuits.
+Goldacres technical guru David Tuppen said initial testing of the spraying unit had gone well.
+The partners have fitted a custom-built Goldacres 18-metre Prairie Special with Weedetect spot spraying green-on-green (weeds in crop) or green-on-brown (weeds in fallow) camera technology.
+The sprayer is being pulled by a fully-autonomous FarmBot Uniform tractor powered by a Hatz four-cylinder diesel producing 61.8 kilowatts (83 horsepower).
+The tractor has a hydraulic drive with articulated steering and a top speed of 10 kilometres an hour.
+The sprayer is equipped with a United States-built Raven controller with RCM (rate control module).
+Weed detection camera technology fitted along spray booms that can identify weeds in-crop offers substantial reductions in chemical use and cropping costs.
+In a statement, Mr Tuppen said the Goldacres engineering team had invested many hours in the six Weedetect cameras which are mounted 3m apart.
+Getting the three systems provided by Bilberry, Raven and Goldacres to work together had been a challenge.
+Bilberry is a French agtech startup founded in 2016 by Guillaume Jourdain, Hugo Serrat and Jules Beguerie to harness artificial intelligence to solve agricultural problems.
+They have developed a camera-mounted intelligent spot spraying system to spray weeds in-crop.
+Bilberry chief executive officer Guillaume Jourdain said his team now had the algorithms ready for detecting broadleaf weeds in wheat, oats and barley.
+CREDIT: Vernon Graham
+Word count: 298

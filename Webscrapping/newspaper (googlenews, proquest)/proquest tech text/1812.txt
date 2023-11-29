@@ -1,0 +1,14 @@
+ARTIFICIAL intelligence for mobile fruit fly detection is within reach thanks to start-up company GoMicro.
+The company’s versatile clip-on microscope for smartphones, originally developed for educational purposes, is now finding applications in agriculture.
+GoMicro founder and chief executive Dr Sivam Krish is excited about the possibilities.
+“We can build an app for anything that requires magnification in next to no time and next to no cost, all we need is funding,” he said.
+“When news of the recent fruit fly outbreak came in, we adapted our microscope to take photos of flies in a single day. The first version that we designed and 3D printed worked marvellously.” The team then sourced 200 dead flies, including the feared Queensland fruit fly, from the South Australian Research and Development Institute.
+That day they took lots of photos and let a computer learn how to tell the difference between Queensland fruit flies and other flies.
+Dr Krish said the results were “shocking”, in a good way. The computer got it right every time. It could even tell male fruit flies from females about 90 per cent of the time.
+Researchers in the New Venture Institute at Flinders Tonsley used freely available “open source” software known as a Tensorflow AI-engine that was originally developed by Google.
+The plan now is to develop a smartphone app that will send the technology into the field, where growers, quarantine inspectors and even the general public can put it to good use.
+Dr Krish said GoMicro could also be used to identify other pests and diseases. Last year SARDI bought and distributed 100 GoMicros to farmers across Australia. They have been very popular.
+Former executive director Professor Rob Lewis is a key adviser to GoMicro. “The GoMicro platform is an exciting example of the successful integration of key technologies: Mobile, microscopy, machine learning and interpretative data analyses, to deliver next-generation agtech solutions aimed at improving Australian agriculture’s biosecurity vigilance and protection,” he said. “The platform is also an excellent teaching aid.” The State Government spends $5 million each year to keep fruit fly and other pests out of SA.
+An outbreak of Queensland fruit fly was declared in Loxton on December 6 after seven flies were detected in the area.Quarantine and suspension areas will remain in place until at least April 29.
+CREDIT: CLARE PEDDIE SCIENCE REPORTER
+Word count: 390

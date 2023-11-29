@@ -1,0 +1,20 @@
+BRANDING and ear tagging may soon be a thing of the past.
+The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher.
+For his PhD research, University of New England scientist Ali Shojaeipour has created artificial intelligence that is capable of identifying individual cattle via their muzzle patterns with greater than 99 per cent accuracy.
+In the same way facial recognition can unlock smartphones, the algorithm Dr Shojaeipour has written paves the way for 'touchless' identification - not only a massive production efficiency on-farm but a boon for animal welfare in that it is entirely non-invasive.
+Further, the technology is non-falsifiable and does away with the problems of lost tags.
+The world-leading technology draws on the fact that small variations in shape and patterns make muzzles as distinct as the human fingerprint.
+Indeed, the theory is even twin calves would have different facial features, although Dr Shojaeipour says the research is still in its early stages and there were many areas, including twins, that still needed to be fully investigated.
+Using the technology across other livestock species would also be a further step, he said.
+He is in the process of collaborating with companies to take his existing proof-of-concept to commercial application, with feedback from them saying this technology could revolutionise livestock handling.
+Dr Shojaeipour is presently building a smartphone app that can identify individual cattle via the phone's camera.
+The research was complex - and involved extensive data collection that certainly put the scientists in the field.
+"We used images of 300 head, mostly Angus, Hereford and Simmental and crossbred feedlot cattle," Dr Shojaeipour said.
+"I had to rope many colleagues, and even my wife, in to help collect that data.
+"The first step in using AI (artificial intelligence) in any application is a large data set on hand and that will be the big part of taking this work to new species."
+As a result, life-size images of cattle faces adorn the walls of his workspace.
+The software first detects cattle muzzles, and then uniquely identifies the animal using its muzzle pattern.
+The process then enables biometric identification of different cattle, capable of continually adapting as new cattle are entered onto the database.
+Getting the technology to work with moving cattle, as well as dirt and other distractions, will require substantial work but Dr Shojaeipour believes it is possible.
+CREDIT: Shan Goodwin
+Word count: 431

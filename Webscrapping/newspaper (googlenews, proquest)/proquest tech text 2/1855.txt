@@ -1,0 +1,33 @@
+Source: The Conversation (Au and NZ) - By Anthony Elliott, Dean of External Engagment and Executive Director of the Hawke EU Jean Monnet Centre of Excellence, University of South Australia
+The idea of robots taking our jobs is not radically new.
+But artificial intelligence (AI) is now completely reorganising the global economy. Some estimates of productivity-driven economic growth conclude that AI will contribute approximately $US16 trillion to the global economy by 2030.
+Read more: When AI meets your shopping experience it knows what you buy – and what you ought to buy
+Unfortunately – compared to the European Union, Japan, United States and United Kingdom – Australia has been relatively late in turning to address the challenges of AI, and creating the right policies to deal with its many implications (good and bad).
+For our economy to thrive, what we need now is the right mix of governance, regulation, civil society participation, industry support and business compliance – as well as the development and deepening of digital literacy throughout Australian communities.
+So how can we make that happen? A report launched today is designed to help.
+Euphoria versus cataclysm
+New developments in AI are very different from previous forms of automation. Technologies today are mobile, situationally aware, adaptive and in real-time communication with other intelligent machines.
+Machine learning has been especially important in speeding up the spread and efficacy of AI. Machine learning encompasses smart algorithms that improve their performance unsupervised, often through sorting and classifying big data sets. Applications include weather prediction, medical diagnostics and personalised marketing (such as ads through Facebook).
+Klaus Schwab, founder of the World Economic Forum, said the AI revolution is “unlike anything humankind has experienced before”.
+The consequences of our increasingly automated global world involve a shattering of political orthodoxies. We have to be much more agile and prepared to change fast. Our policies and approaches should allow us to cope with the unexpected, unanticipated shifts coming from the digital revolution.
+Read more: Your period tracking app could tell Facebook when you're pregnant – an 'algorithmic guardian' could stop it
+I have been pondering these massive global changes over the last nine months while working as a member of the Australian Council of Learned Academies Expert Working Group on Artificial Intelligence in Australia. The ACOLA Report, launched today in Canberra, considers the full spectrum of issues arising from AI.
+One big challenge we faced was to distinguish between euphoric and cataclysmic visions of AI. Another big task was to chart the public policy “sea change” arising from AI. Neither challenge was easy to confront.
+Leveraging AI for Australia
+The ACOLA Report lays out how we can improve Australia’s economic, societal and environmental well-being while taking into account the ethical, legal and social issues linked with AI.
+It highlights the importance of finding a balance between innovation and risk, and how we can weigh up the promise of unprecedented technological transformation of manufacturing, infrastructure and the economy on the one side, and the growing risks of technological unemployment and autonomous weapons (“killer robots”) on the other.
+Read more: Why it's so hard to reach an international agreement on killer robots
+The plan outlined in the report focuses on education, business operations, governance and regulation, social implications, research and skills.
+In terms of education, for example, increased automation of routine tasks means people will be freed up in the workplace. This means there’s likely to be an increased demand for employees with strong interpersonal skills and critical thinking.
+The social sciences, humanities and creative arts have a big role to play in promoting ethical AI. Science, technology, engineering and mathematics are vital in advancing the next generation of AI researchers.
+AI will demand new skills and capabilities, and adaptability, in our workforce. Micro-credentialing (a form of education in which “mini-degrees” are achieved in specific subject areas) is likely to become useful for certifying basic education and digital literacy in AI.
+Schools, the vocational education and training (VET) sector and universities should encourage broad-based training and lifelong learning in AI development.
+The ACOLA report also addresses the need for new policy relating to data harvesting and invasions of privacy (for example, involving tech giants Facebook and Google) and geopolitical concerns, especially where the spread of fake news has been powerfully weaponised by Russia and other countries.
+Read more: Teachers and trainers are vital to the quality of the VET sector, and to the success of its learners
+Everything to play for
+Getting the balance right between opportunity and risk arising from the AI revolution will be essential to the future fabric of Australia. However the ACOLA report is only the start of the process of public engagement – much more needs to be done.
+What is now urgently needed, I think, is a national summit on AI – involving politicians, policymakers, business leaders and industry representatives and people from the broader community. This can help us consider how Australia might best fashion a common framework for the ethical development of AI, both in our country and internationally.
+Australia has come to this global policy debate somewhat later than some, but in terms of the AI revolution there’s everything still to play for.
+The arguments developed in this article are the author’s own views, and not representative of ACOLA or the panel that contributed to the horizon scanning report on AI.
+- ref. How Australia can make AI work for our economy, and for our people - http://theconversation.com/how-australia-can-make-ai-work-for-our-economy-and-for-our-people-113744
+Word count: 880

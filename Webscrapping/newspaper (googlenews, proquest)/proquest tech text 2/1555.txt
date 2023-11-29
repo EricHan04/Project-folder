@@ -1,0 +1,18 @@
+AN Adelaide company’s integral role in helping the Australian Taxation Office to filter huge volumes of internal and external data, including the Panama and Paradise Papers leaks, for compliance and other assessments, has helped it secure another three-year contract.
+Frisk’s new multimillion-dollar contract continues a six-year association with the ATO.
+Frisk’s software as a service helps the ATO to collect, organise and filter huge volumes of information, including structured data like names, birth dates and addresses and semi/unstructured information, including phone call notes and email exchanges, attachments and images to provide a “complete picture”.
+Frisk’s software is able to process more than a billion documents and records from many different data sources within the ATO, with 2.75 million documents updated every day to provide information to decision-makers securely within seconds.
+Frisk said it played an “integral role” in many international tax jurisdiction projects, enabling faster assessment of data related to high-profile cases such the Panama and Paradise papers, but could not detail the work done due to its confidential nature.
+“Frisk is not just about indexing all the information, but also our ability to do so across different forms of data, filtering through it and augmenting that in a way that helps decision-makers,” Frisk chairman and managing director Cliff Garrels, pictured, said.
+“Our solution supplies more than 12,000 staff with answers in seconds, so they can provide improved client experiences and optimise their decisions in a timely manner,” he said.
+“Frisk has operated seamlessly with the ATO’s IT environment to make accessible more than 1.2 billion records and documents that were previously hidden within Oracle Siebel CRM and many other ATO systems.
+“What that means is we’ve been able to deliver efficiencies and significant annual savings to the ATO – and Australian taxpayers – across multiple business units.” He said the extension of its contract with the ATO will see Frisk working across more business units, with a mandate to create agile solutions to solve a growing range of diverse business challenges and deliver those solutions on time and on budget.
+Mr Garrels is co-founder of Olicc, a commission-tracking system for financial planners, which was bought by Macquarie-owned Coin in 2007.
+He bought into Frisk when he saw the potential similarities between Olicc’s ability to track huge volumes of data for specific information and Frisk’s solution to help clients search and retrieve electronically-stored documents.
+Frisk is now an agile data intelligence company providing artificial intelligence, data augmentation and decision optimisation to financial organisations, including the big four banks.
+Frisk has clients across the defence and mining industries, but the opportunity is wide across businesses who have legacy systems and huge volumes of information to analyse.
+“It’s all about putting the right information in the hands that need it and enabling data democratisation in a secure way,” Mr Garrels said.
+“And that means we’re able to give clients far greater and simpler sight into the powerful – and often under-utilised – information that sits within their systems.
+“We have proven that we can deliver extraordinarily powerful insights from often hidden treasure troves of data. “We believe there are real opportunities in further supporting both Federal and State government departments, and exciting future opportunities in sectors like defence and mining.”
+CREDIT: VALERINA CHANGARATHIL
+Word count: 542

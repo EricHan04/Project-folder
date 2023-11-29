@@ -1,0 +1,16 @@
+AUSTRALIAN researchers have found a way to detect prostate cancer even before symptoms appear.
+Experts at Melbourne’s RMIT University and St Vincent’s Hospital are using artificial intelligence to analyse CT scans in just seconds.
+It can be used when patients are having CT scans for other reasons. The method could be a breakthrough in detection because Australia does not have a screening program for prostate cancer, the second most common cancer in Australian men and the third most common cause of all cancer deaths.
+This year alone, about 18,110 new cases of prostate cancer will be diagnosed nationwide.
+RMIT’s Dr Ruwan Tennakoon, pictured, said the technology looked for signs of prostate cancer, something even a well-trained human eye struggled to do.
+Researchers studied scans of patients with and without prostate cancer, then trained the AI software to look for features of the disease in scans.
+“The AI has shown it can identify subtle variations that the human experts cannot pick up,’’ Dr Tennakoon said.
+“It’s like training a sniffer dog – we can teach the AI to see things that we can’t with our own eyes, in the same way a dog can smell things human noses can’t.” And the more scans and data input into the software, the more accurate it became at detection.
+Head of CT in Diagnostic Imaging at St Vincent’s Mark Page said early intervention for prostate cancer was vital.
+“Australia doesn’t have a screening program for prostate cancer but, armed with this technology, we hope to catch cases early in patients who are scanned for other reasons,” Dr Page said.
+“For example, emergency patients who have CT scans could be simultaneously screened for prostate cancer.
+“If we can detect it earlier and refer them to specialist care faster, this could make a significant difference to their prognosis.” The experts said CT imaging was not suitable for regular screening because of the high radiation doses involved but was useful when scanning a patient with a lower body injury or ailment.
+RMIT’s head of AI Professor John Thangarajah said the study demonstrated how AI could be used for the public good.
+“Our health sector needs smarter solutions and AI can help, but we’re only scratching the surface,” Prof Thangarajah said. Latest figures show there were 19,305 new cases of prostate cancer diagnosed in Australia in 2016.
+CREDIT: IAN ROYALL
+Word count: 393

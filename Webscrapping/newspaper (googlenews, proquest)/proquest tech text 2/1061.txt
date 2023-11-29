@@ -1,0 +1,7 @@
+BRAIN surgeons are turning to artificial intelligence to tell them which patients will struggle after removal of ­tumours so they can be better helped in their long-term recovery.
+By using computers to sift through huge amounts of data from hundreds of cancer ­patients, the Royal Melbourne Hospital neurology team is building up a world-first virtual crystal ball into the likely ­future of their patients.
+The unprecedented advanced warning about which patients are set to suffer debilitating impacts allows the hospital to focus physical therapy and psychological services to preserve their quality of life.
+Initial trials have found the artificial intelligence is so sensitive it can already detect 87 per cent of the low-grade brain tumour patients set for a significant decline, long before any of the impacts occur.
+But its creator Roshan Karri expects the process to become significantly more effective over the next decade as more patient data is added to improve its forecasting. “We use an AI algorithm, which predicts how the ­patient’s quality of life is going to change in the one to five years after their surgery,” Dr Karri said. “No one’s ever done this for brain cancers in the world.”
+CREDIT: GRANT McARTHUR
+Word count: 198

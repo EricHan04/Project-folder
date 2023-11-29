@@ -1,0 +1,32 @@
+When science-fiction writer Isaac Asimov famously wrote the Three Laws of Robotics in the 1940s, he probably wasn’t picturing military drones. TORY SHEPHERD reports on the new ethics of artificial intelligence
+ARTIFICIAL Intelligence is a powerful and growing force.
+Governments around the world are spending billions of dollars on their AI activities.
+They’re using it in health and in war. In driverless vehicles, on factory floors and in robots.
+Employers are using AI in recruitment processes, while some researchers are looking at whether it could predict the likelihood a child will be violent by analysing their behaviour and language. There is hope that one day that powerful computing could pick out a school shooter, for example, before they pick up a gun.
+CSIRO’s Data 61 project, in partnership with the Department of Industry, Innovation and Science, has released a discussion paper called Artificial Intelligence: Australia’s Ethics Framework.
+It talks about the “enormous potential” AI has to improve society, and warns of the risks if it’s not done properly.
+“As Australia’s national science agency, a focus on ethics, social licence to operate, and clear national benefit have always determined how we apply science and technology to solve Australia’s greatest challenges,” CSIRO chief executive Larry Marshall said.
+“The draft framework contextualises these age-old ethical considerations in the light of new technology, so everyone can have a say in inventing the future we need so our children can keep pace with emerging technologies like AI.” Almost 70 years ago, Science-fiction writer Isaac Asimov came up with a series of rules to guide the ethical development of robots.
+But the CSIRO report says today – and even in the 1940s and 50s – “it was clear that four rules would be insufficient to handle the philosophical and technical complexity of the task”. The report defines AI as “a collection of interrelated technologies used to solve problems autonomously and perform tasks to achieve defined objectives without explicit guidance from a human being”.
+It focuses on civilian applications, although there are other agencies in Australia looking at the military uses, such as the deployment of armed drones, where having a “human in the loop” is critical.
+But we have to be careful. There are deep privacy concerns about AI sucking up people’s data. Social media keeps getting in strife for using its algorithms to harvest information for commercial use.
+In the home, AI is listening through your personal systems, and reportedly recording information.
+AI is using data to judge people and to predict things about them. And it can turn ugly. Tay, an AI bot by Microsoft, turned racist within hours of its release in 2016. As it interacted with people on Twitter, and “learnt” from them, it started to imitate them and posted tweets that can’t be repeated here.
+The CSIRO report points to a case in the United States where AI was used to assess teachers and even fire them, without them knowing how the decision was made.
+A sentencing tool in the US called COMPAS analysed data about whether potential parolees would reoffend to inform judges.
+It was more likely to ping African-Americans, because it was using data from the inherently biased existing system where racial profiling is rife and black people tend to be given harsher sentences.
+To overcome these issues, the CSIRO says AI has to be developed to deliver benefits greater than any cost; to do no harm (well, in a civilian setting, anyway); to comply with laws and regulations; to protect privacy; to be fair and transparent; and it must be accountable and subject to being challenged by humans.
+It’s about making sure AI is designed with “ethical and inclusive values”. That sounds a little airy fairy for data-based software, but it’s humans who are designing the machine. Flawed humans, who can then insert their own flaws to be magnified and replicated.
+The Industry Department is now taking submissions on AI, and will produce a report later this year based on the feedback.
+Australia’s Chief Scientist Alan Finkel has suggested a “Turing Certificate” could be one answer to ensure AI is used ethically.
+In a major speech last year, he acknowledged that AI made many people feel uneasy because most of us don’t understand how it works. As a homage to computer scientist and cryptanalyst Alan Turing, he said all AI should be independently assessed for fairness and awarded a certificate if it complies.
+Professor Anton Van Den Hengel is the director of the University of Adelaide’s Australian Institute for Machine Learning. He points out that Canada is expecting 16,000 new AI jobs after hundreds of millions of dollars were invested. China will spend $150 billion to win the AI race, while Germany is pumping in $3 billion in its attempt to become an AI “powerhouse”.
+He said many people were concerned AI would replace human workers. But the reality is jobs will be created.
+“Australia needs to engage in this technology,” he said. “We could build a brand in trustable Australian AI. What’s most likely instead is we’ll just import this stuff. We will wind up a digital banana republic.” The experts seem to agree that we need to be smart about how we handle artificial intelligence. To ignore its potential would be unforgivably stupid.
+DEFINING LAWS FOR ROBOTS In his book I, Robot, science-fiction writer Isaac Asimov introduced his Three Laws of Robotics; a set of rules to stop robots from hurting humans.
+The laws have featured in many books, films and TV series since the 1950s and have also influenced the real-world field of robotics.
+1 A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+2 A robot must obey the orders given it by human beings, except where such orders would conflict with the first law.
+3 A robot must protect its own existence as long as such protection does not conflict with the first or second laws.Later, Asimov added the overarching “Zeroth Law”: “A robot may not harm humanity, or, by inaction, allow humanity to come to harm.”
+CREDIT: TORY SHEPHERD
+Word count: 1018

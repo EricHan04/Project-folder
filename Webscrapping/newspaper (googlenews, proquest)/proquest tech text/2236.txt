@@ -1,0 +1,48 @@
+Source: The Conversation (Au and NZ) - By Trivess Moore, Senior Lecturer, School of Property, Construction and Project Management, RMIT University
+Shutterstock
+The required energy-efficiency rating of new housing in Australia will increase from 6 to 7 stars from October next year. Some claim this will greatly increase housing costs. But is this true?
+Costs for new home owners are the sum of three things:
+capital costs to build the home
+costs to heat, cool and live in the home
+mortgage costs.
+The focus has been on the upfront capital costs of new homes – over a million are expected to be built over the next three years. The costs of living in the home and impacts on mortgage payments are neglected. Given the move to 7 stars will cut energy use for heating and cooling by about 24%, the cost savings will outweigh any increase in mortgage repayments in many circumstances.
+And there are simple ways to achieve a 7-star rating on a budget, as we’ll explain.
+How will the new standards be applied?
+The recently announced improvements to Australian housing performance standards were the most significant in a decade. As well as the 7-star standard – on a scale from 0 (worst) to 10 (best) – a whole-of-home energy budget will be introduced. It’s based on the performance of a “benchmark home”, including the building shell, heating and cooling equipment, water heating and lighting.
+A dwelling will be compliant if it has the same societal cost of operating as the benchmark home. Societal costs here relate to the wider financial costs of infrastructure (e.g. energy networks) and the environment (e.g. carbon emissions).
+If one element performs worse than the benchmark, it will need to be offset by outperforming the benchmark in other areas, or by installing on-site renewable energy sources such as solar panels.
+These changes are an important first step towards more sustainable housing. Future changes in 2025 and 2028 will likely improve performance to near-zero emissions.
+Read more: 7-star housing is a step towards zero carbon – but there's much more to do, starting with existing homes
+What does the evidence say about costs?
+The regulatory impact statement provided for the ministers modelled the changes. For detached housing and townhouses it estimated an average capital cost increase of A$1,704 to achieve the higher standard. The figure varied from $545 in Queensland to $3,275 in the Northern Territory.
+For apartments, the average increase is $2,051. Queensland was again lowest at $464, with Western Australia the highest at $2,975.
+These increases amounted to 0.1-0.8% of total capital costs. Energy bill savings generally outweighed any increase in mortgage repayments. However, the analysis does find in some locations, such as Brisbane and Sydney, the move to 7 stars may not be cost-effective based upon the conservative assumptions it applied.
+These costings are broadly in line with research findings over the past decade. Our 2012 research estimated the cost of moving from a 6 to 7-star detached dwelling in Victoria at $3,012, but as low as $400 in some cases. A 2015 analysis estimated achieving 7.5-star performance in South Australia would cost $3,500. And 2018 Climateworks Centre research put the cost of moving to 7 stars at between $650 and $3,000.
+In some cases, this could be done for almost no extra cost. In a 2012 analysis of 20 dwellings across eight climate locations in Australia, Sustainability House found the average cost could be as low as $37!
+Did costs rise with previous code changes?
+In the past, improving energy efficiency added little to new home costs. Reserve Bank analysis shows the construction cost inflation rate barely changed when 5-star (2006) and 6-star (2011) standards came in.
+In fact, CSIRO research found prices dropped in 2006. New houses built to a 5-star standard or above were cheaper on average than lower-rated houses by about $5,000 in Melbourne and Adelaide and $7,000 in Brisbane. Other reviews found the move to 6 stars cost less than predicted.
+Government assumptions tend to be conservative. They often overlook the capacity of designers, builders, manufacturers and consumers to find cost efficiencies. International evidence shows costs for higher performance have been over-estimated and fall more quickly than policymakers and industry predict.
+How to achieve 7 stars on a budget
+One reason costs have been less than expected is because construction prices depend on design. When the 5-star standard came in, houses became more compact. External walls and windows (which cost more per square metre than walls) were reduced.
+Orientation makes a big difference too. Research has found a difference in performance of 1-2 stars between best and worst orientation. Simply ensuring your dwelling faces the right way (north) can greatly improve performance, or cut the costs of achieving compliance.
+Read more: People are shivering in cold and mouldy homes in a country that pioneered housing comfort research – how did that happen?
+House size also affects construction and running costs. Star ratings express the energy demand per square metre, so a big 7-star home will cost more to heat and cool than a smaller 7-star home.
+Australian homes are among the largest in the world. New home buyers should think about the number and size of their rooms and corridors if they wish to keep costs low.
+Other basic and low-cost things you can do include adding more insulation (ceiling, floors, walls) and external shading. Windows are also important and the cost of high-performing double-glazed windows will fall as they become the norm.
+We don’t have to reinvent the wheel to get to 7-star homes. Online resources such as Your Home already have freely available 7-star house plans.
+And we can easily exceed 7 stars. Real-world examples include Lochiel Park, Cape Paterson ecovillage and Nightingale Housing.
+Read more: Low-energy homes don't just save money, they improve lives
+More than capital costs
+Capital costs are just one element of the whole-of-life cost. Running costs depend on:
+thermal performance of the building envelope – walls, windows, doors, roof, air-leakage gaps
+efficiency of heating and cooling appliances
+daily electricity and gas tariffs.
+Higher-performing dwellings and all-electric homes with heat pumps will save money and be more resilient in a changing climate. Increasing research shows their financial, social and environmental benefits.
+Read more: Heat pumps can cut your energy costs by up to 90%. It’s not magic, just a smart use of the laws of physics
+We need to move beyond the narrow focus on capital costs, which are often overstated. We should think about how higher standards improve our quality of life and liveability.
+For example, a growing body of research suggests improved energy efficiency can produce more comfortable temperatures and reduce mould, improving respiratory health. And, if that doesn’t convince you, improving a home’s sustainability greatly increases resale value, outweighing any extra capital costs!
+Trivess Moore has received funding from various organisations including the Australian Research Council, Australian Housing and Urban Research Institute, Victorian Government and various industry partners. He is a trustee of the Fuel Poverty Research Network.
+Nicola Willand receives or has received funding for research from various organisations, including the Australian Research Council, the Victorian State Government, the Lord Mayor’s Charitable Foundation, the Australian Housing and Urban Research Institute, the Future Fuels Collaborative Research Centre and the Australian National Health and Medical Research Centre.
+- ref. Will 7-star housing really cost more? It depends, but you can keep costs down in a few simple ways - https://theconversation.com/will-7-star-housing-really-cost-more-it-depends-but-you-can-keep-costs-down-in-a-few-simple-ways-189627
+Word count: 1200

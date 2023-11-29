@@ -1,0 +1,51 @@
+5G is coming. This is the technology that will revolutionise internet access, change how you work and play online, and might even kill the NBN. But what is it? TORY SHEPHERD answers the key questions
+Q What is 5G?
+A 5G is the network that will deliver ultra-fast internet to your phone or any other device. Right now, your smartphone is probably on 4G or 3G.
+With 5G, it could be 10 times faster. 5G means the fifth generation; it’s the fifth generation of network that lets you connect to the internet when you don’t have WiFi.
+It uses radio waves on a different frequency that will work more efficiently, supported by “small cells” on existing poles instead of mobile phone towers. When it launches next week, Australia will become the third in the world to get it.
+That, in turn, will spark different ways of using the internet. Billions of devices will be connected – that’s the Internet of Things, which is already transforming industries (more on this below).
+It will replace the need for the NBN, for WiFi, for some – but not all, not yet. A couple of weeks ago, Telstra’s chief customer officer John Ieraci told an Adelaide conference that the network would underpin a $12 trillion economy and support 22 million jobs.
+“The fast speeds that 5G offers will give people the ability to download huge amounts of data,” he said. That means downloading movies in seconds. It means driverless cars being able to map routes, and avoid accidents. Nimble delivery drones. It will make immersive virtual reality a … reality.
+And it shouldn’t be more expensive. In fact, Telstra says data should be even cheaper. But the new phones you’ll need may be more expensive.
+Q What will be different?
+A 5G is capable of delivering 20 gigabytes a second, though tests so far show it’s closer to 3gbps.
+But even at its slowest, it’s still faster than the best 4G speeds. Everything will be faster.
+Back when we first had dial-up internet, and watched single web pages load line by line, it was impossible to imagine where we’d be now, with smartphones and tablets.
+4G brought us into the world of streaming from our phones; of Netflix and Spotify.
+So it is with 5G, the next giant leap.
+That speed, that ability to upload and download huge am-ounts of data, will allow new technologies to flourish.
+Driverless cars will use 5G, because it’s so quick and every millisecond counts if there’s a pending accident and a decision needs to be made. It will have health applications, such as remote surgery – where you really don’t want to deal with buffering.
+All that speed and rich data will see virtual reality become lush and more available.
+It will really kick off the Internet of Things.
+And then there are things yet to be imagined.
+Q What’s the Internet of Things?
+A It’s a mysterious-sounding phrase that is actually very literal. Things connecting to the internet. We usually just think of people connecting but more and more objects are being connected.
+Farmers can put sensors on their stock to track where they are and even their health. Huge logistical exercises – say, building a submarine – become easier if you can track where all the parts are.
+In agriculture, it can be used to monitor soil moisture, to know when to water. It’s how we’ll have smart, interconnected cities.
+But it’s also already happening in homes. You might have a smart fridge, your kids might have smart toys. Gradually, more and more things will be connected to the internet.
+Q How do I get 5G?
+A You need both 5G coverage, and a 5G device.
+There is already some 5G coverage in place. Telstra projects that by the end of next month, there will be patches of coverage around the city, at Thebarton, and other spots here and there.
+Optus will follow, and said in February that Old Reynella, Reynella East and Trott Park would be among the first suburbs to get access. There is a lot of space between those patches where 4G is still the network – and in some places, 3G.
+Next week, Samsung will release a 5G smartphone, while Telstra will release a hub, or hot spot.
+Telstra chief executive Andy Penn said that was the moment 5G would become a reality.
+“This is just the start,” he said.
+“The rollout of 5G coverage is ongoing, and as 5G develops, there will be more devices and more technologies to come.” If you get a 5G-enabled device, it will seek out the 5G network and if it finds it, you’re in. 5G will appear on your phone where 4G does now.
+But don’t worry – if you don’t have a 5G device, you’ll still get 4G, in the same way you sometimes now drop down to 3G.
+So you’ll be able to do everything you’re doing now. Telstra says the new base stations will help make 4G faster, too.
+Q Will I still need broadband?
+A 5G has been called the “NBN killer”. Australia’s beleaguered National Broadband Network has left a swath of frustrated people in its wake.
+The dream of a super-fast national internet quickly dissipated. There were compromises over the technology and there have been delays in rollouts and in connections. The speeds have been slower than promised. People have had issues with their landlines after getting connected.
+Now, more people may delay hooking up to the NBN until they see whether they can get by with 5G – using their phone deal to connect all their streaming and smart devices. And many may realise they don’t need the NBN at all. Some have referred to 5G as the equivalent of “fibre to the phone”.
+But don’t ditch your home internet until you’ve done your research.
+Q What happened with Huawei?
+A Technology giant Huawei is accused of spying for the Chinese Government, so the Federal Government put the kybosh on it building the 5G network. Other countries have also limited the Huawei infiltration. Australia is already riddled with Huawei gear; people have Huawei phones and tablets, and Huawei has built all sorts of communication systems, mobile phone base stations, and antennas.
+But the 5G network would pose a massive risk to Australia if it was compromised. An enemy could use it not just for spying but to take down critical infrastructure.
+The Australian Signals Directorate chief Mike Burgess has warned that 5G will give people control over everything from power to water supplies. An operative could wreak devastation on the financial markets.
+Huawei, of course, denies any espionage accusations. It says it wouldn’t let anyone break local laws or put in backdoors – ways for the Chinese Government to access data.
+Q Does it matter?
+A Banning Huawei matters in the trying-not-to-annoy our biggest trading partner stakes but it also might matter for 5G. There are not a lot of people who can do such an enormous job, and do it cost effectively. Other companies are now stepping up, and they might be slower and more expensive.
+Q The upshot?
+A5G is coming, you’ll probably end up using it, and chances are you’ll think about the 4G world the way we now think about the days before TV streaming services.
+CREDIT: TORY SHEPHERD
+Word count: 1225

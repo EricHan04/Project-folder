@@ -1,0 +1,6 @@
+MACHINES are taking over, even venturing into the dark art of beer brewing, in an ­artificial intelligence experiment in Adelaide.
+Using the computer power at the Australian Institute for Machine Learning, two Adelaide University students trawled through 260,000 recipes for craft beer and filtered results for what the crowd liked.
+Then they collaborated with Barossa Valley Brewing to actually make the stuff. The first taste-testing was served up by a robotic bartender built by AIML engineers. The robot detects an empty glass placed on the bar and automatically refills it.
+“It tastes like the future – no, seriously, it’s a fruit-driven IPA, which I’m very proud of,” Barossa Valley Brewing founder Denham D’Silva said. The two computer science intern students, Christopher Fusco and Jash Vira, used AI to design a delicious beer, which they said was quite difficult. “We had to come up with our own mathematical formula using statistics from original recipes,” Mr Fusco said.
+CREDIT: Chris Russell
+Word count: 160

@@ -1,0 +1,13 @@
+Marking a first for Australia, Telstra and TPG Telecom have worked together to re-stack their mobile network spectrum holdings to improve network speeds.
+The two companies have the shared aim of providing customers in Adelaide, Brisbane, Canberra, Darwin, Hobart and Perth a better network experience, according to a statement.
+Telstra and TPG have defragmented and re-stacked their respective 1800MHz and 2100MHz spectrum bands in these cities, resulting in overall Telstra 4G speeds improving by between 10 and 20%.
+This is the first time ever that two mobile network operators in Australia have agreed to mutually re-stack their spectrum holdings in the absence of regulatory direction.
+The 1800 MHz band was restacked by all operators in 2012, however that was due to the ACMA’s spectrum licence reissue process.
+Spectrum re-stacking involves defragmenting and shifting separate spectrum blocks that are not next to each other to create a single contiguous holding.
+In Telstra’s case, separate 10 MHz spectrum blocks have been joined together to form single 20 MHz blocks in six cities. Telstra and TPG’s spectrum holdings in the 1800MHz and 2100MHz bands were fragmented due to different spectrum allocations over the last decade, including the regional 1800 MHz auction in 2016 and the 'multiband' auction in 2017.
+Telstra Group executive networks and IT Nikos Katinakis says, “Larger spectrum blocks are more efficient and mean we can deliver faster mobile network speeds to our customers."
+He says, “Thanks to this project, we have seen average 4G speeds improve in every city where the restack was done by at least 10% and in Canberra and Darwin by 20%.
+“We can also carry more traffic on larger spectrum blocks. For example, in Canberra our re-stacked 1800MHz spectrum is carrying approximately 14% more traffic. This means better speeds and better capacity for our customers in these areas, even at busier times on our network.”
+According to Katinakis, this project demonstrates that competitors, with the support of the ACMA, can work together to optimise their spectrum holdings to deliver better connectivity for their customers.
+He says, “This is a win for Telstra customers who’ve seen an immediate improvement in Telstra 4G speeds in these locations and also shows telcos can work together to drive better network outcomes.”
+Katinakis concludes, “We also want to thank the ACMA for their support throughout this process, endorsing the technical mechanism for the restack as well as varying our respective spectrum licenses to reflect the new arrangements.”

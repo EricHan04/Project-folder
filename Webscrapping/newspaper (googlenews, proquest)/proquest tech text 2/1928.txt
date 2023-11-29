@@ -1,0 +1,18 @@
+Consumers want assurances that food crops have had limited exposure to chemicals and one technology company wants to give it to them.
+While automated precision weed control is known to reduce herbicide inputs and allow farmers to manage herbicide resistant weeds in fallows, it is the potential for 'green on green' or in-crop weed control that has the industry excited.
+Earlier this year saw the commercial launch of French company Bilberry's 'green on brown' optical spray technology through sprayer manufacturer Agrifac as AiCPlus.
+Now, Bilberry founder Guillaume Jourdain has his sights set on delivering limited applications of 'green on green' technology later this year.
+"We are using artificial intelligence to identify the weeds within the crops. You train the algorithms so they know how to recognise weeds," he said.
+"In 2018 we started 'green on green' testing in WA, for spot spraying flowering radish in wheat.
+"For the future what you can expect is for each crop to recognise specific weeds, that will be based on the region. It could be ryegrass, feathertop Rhodes grass or radish.
+"It depends on the main weeds you have in the specific area.
+"Our aim is now to build and release more 'green on green' algorithms."
+Mr Jourdain said the beauty of the system was that as more algorithms were developed they could be applied to the commercial AiCPlus units already in the field on a subscription basis.
+He said the results from the summer spray season had cemented the technologies readiness for commercial release with the standalone 'green on brown' application, as it was out performing current technologies on the market.
+"We did 15,000 hectares of green on brown, mostly in northern NSW but also in WA, it has been over two years that the cameras have been used in Australia," he said.
+"We are really happy with the reliability of the systems.
+"The biggest issues we had was when people hit trees and poles, but the cameras cannot be robust enough for that, and we don't think that is a big issue.
+"Conditions in Australia are harsher than in Europe, so we have switched to a new generation of cables that are more suited to Australian conditions."
+Mr Jourdain said Bilberry was also working on upgrading the technology to allow it to be used in night spraying and low light conditions.
+"We are working on our own lights so we have a better pattern, we try to create sunny conditions," he said.
+Word count: 410

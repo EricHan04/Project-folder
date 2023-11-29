@@ -1,0 +1,21 @@
+Australia has no choice but to step up investment in artificial intelligence, says Anton van den Hengel, whose Adelaide research group was awarded $20m in the federal budget last week to boost Australia’s position in this highly competitive research field.
+Professor van den Hengel, who will lead the new Centre of Augmented Reasoning at the University of Adelaide that will be established with the new funding, said Australia had no choice but to engage with the new technologies of machine learning and AI, which were having a revolutionary impact on the global economy.
+“Otherwise our companies will be outcompeted,” he said.
+Professor van den Hengel said that developments in AI meant that every industry had the potential to improve efficiency by getting better at collecting information and using it.
+“The critical tool to capture that information is machine learning,” he said. Federal Education Minister Dan Tehan said the $20m investment was being made to ensure that Australia benefited from the AI revolution.
+“This new research centre will support Australian industry, create jobs and economic growth, and improve the quality of life of all Australians,” Mr Tehan said.
+Professor van den Hengel heads Adelaide University’s Australian Institute for Machine Learning which, with the help of the budget funding, will expand into the new Centre for Augmented Reasoning.
+“The idea behind augmented reasoning is that the machines should adapt and actively engage with humans,” he said.
+Through advances in computer vision and understanding of language, the coming generation of robots will learn tasks by watching humans do them.
+The Australian Institute for Machine Learning has already worked with the mining industry to demonstrate the economic potential of machine-learning technology.
+Professor van den Hengel said the capacity to gather and analyse information meant things such as how much ore would be recovered from the next blast on a mine site or the richness of the ore in the next truckload could be predicted.
+Accurate predictions enabled optimisation, which brought significant cost savings, he said.
+Professor van den Hengel said Australia “punched above its weight internationally in machine learning” in the research area and the new funding, to be spent across four years, would boost capacity in the “core fundamental research”, which was essential.
+The current institute has more than 120 researchers, about half of them PhD students.
+Professor van den Hengel wants to expand their number, with a particular goal of increasing the number of women in PhD level artificial intelligence research.
+“There’s a shortage of women in these roles,” he said.
+He said there was huge demand for qualified machine-learning experts in Australia and they commanded large salaries, with a PhD graduate typically paid $200,000 in their first role once completing their doctorate.
+“The demand comes from Australian companies who want to make the transition to the new economy,” he said, with banks, miners and businesses all the way down to start-ups needing machine-learning expertise.
+But there is also a global shortage of expertise and graduates with PhDs in machine learning can earn even more — about $US250,000 ($348,000) a year — if they go to the US, he said. Despite the growth in demand for machine-learning technology in Australia, Professor van den Hengel said the country was falling behind international competitors with huge investments being made in the US, China, Japan and Singapore. “The majority of Australian companies have not really grasped the machine-learning revolution,” he said. “If Australia wants to be more than a place where Californians come to make money we need to proactively engage in this technology.”
+CREDIT: TIM DODD
+Word count: 593

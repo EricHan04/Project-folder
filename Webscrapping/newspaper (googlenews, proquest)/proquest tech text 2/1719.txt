@@ -1,0 +1,43 @@
+Lifetime Achievers Leaderboard These are Australia’s top 40 researchers, measured by their performance over their career
+This Lifetime Achievers Leaderboard lists the five top researchers from Australian universities and research institutions in each of the eight major discipline areas. To identify the five top researchers in each area we calculate an annualised H-index for each of them. The H-index, named for physicist Jorge Hirsch who suggested it in 2005, is defined at the highest number H such that a given researcher has published H papers which have been cited H times. It measures both productivity and impact. For example, if a researcher has published 50 papers each with at least 50 citations, but has not managed to go one better and publish 51 papers each with at least 51 citations, then their H-index is 50. We then divide the H-index by the number of years that a researcher has been active (since their first citation) to obtain an annualised figure.
+BUSINESS, ECONOMICS & MANAGEMENT Sara Dolnicar Tourism & Hospitality At the University of Queensland, her research interests include market segmentation methodology and survey measures.
+Neal Ashkanasy Human Resources & Organisations At the University of Queensland, he researches leadership, organisational culture, ethics and emotions.
+Rob Raven Business, Economics & Management At Monash University, he researches dynamics and governance of sustainability transitions.
+Sharon Parker Human Resources & Organisations At Curtin University, she researches job and work design, proactive behaviour, wellbeing and job performance.
+Ian Phau Marketing At Curtin University, his research interests include country image, luxury branding, brand counterfeiting and piracy.
+CHEMICAL & MATERIAL SCIENCES Shizhang Qiao Materials Engineering At the University of Adelaide, his research interests are synthesis and characterisation of nanomaterials.
+Yusuke Yamauchi Materials Engineering At the University of Queensland, he researches design of nanocrystals and nanoporous materials.
+Shaobin Wang Chemical Kinetics & Catalysis At the University of Adelaide, his research includes nanomaterial synthesis and application for adsorption and catalysis.
+Hongqi Sun Chemical Kinetics & Catalysis At Edith Cowan University, his research includes novel catalysis and advanced oxidation processes.
+Yoshio Bando Materials Engineering At the University of Wollongong’s Australian Institute for Innovative Materials he researches nanomaterials and electron microscopy.
+ENGINEERING & COMPUTER SCIENCES Dacheng Tao Computer Vision & Pattern Recognition At the University of Sydney, his research focus is artificial intelligence.
+Peng Shi Automation & Control Theory At the University of Adelaide, he researches systems and control theory, and computational intelligence.
+Dietmar Hutmacher Biomedical Technology At the Queensland University of Technology, he researches biomaterials, biomechanics, medical devices and tissue engineering.
+Qing-Long Han Automation & Control Theory At the Swinburne University of Technology, he researches power system stability and control, and wireless communication.
+Chunhua Shen Computer Vision & Pattern Recognition At the University of Adelaide, his research interests are statistical machine learning and computer vision.
+HEALTH & MEDICAL SCIENCES Sarah Medland Genetics & Genomics At the QIMR Berghofer Medical Research Institute, she researches genetic and environmental factors influencing mental health.
+Richard Ryan Social Psychology At the Australian Catholic University, his research includes human motivation and personality development and well-being.
+Louisa Degenhardt Addiction At UNSW Sydney, her diverse epidemiological studies include analysis of large-scale community and clinical population surveys.
+James Sallis Public Health At the Australian Catholic University, he researches promoting physical activity, and policy and environmental influences upon it.
+Grant Montgomery Genetics & Genomics At the University of Queensland, his research includes genomic mapping for risk of endometriosis and melanoma.
+HUMANITIES, ARTS & LITERATURE Michael Haugh Communication At the University of Queensland, his linguistics research in pragmatics includes analysing face, (im)politeness and teasing.
+Larissa Hjorth Communication At RMIT University, her research fields include mobile media and mobile art.
+Fengyi Jin Sex & Sexuality At UNSW Sydney, his research includes epidemiology of sexually transmitted infections and HPV-related anal cancer.
+Alastair Pennycook Foreign Language Learning At the University of Technology, Sydney, his research includes implications of the global spread of English.
+Adrian North Music & Musicology At Curtin University, his research includes music and wellbeing in specific and general populations.
+LIFE SCIENCES & EARTH SCIENCES Lidia Morawska Environmental Sciences At the Queensland University of Technology, she researches air quality’s impact on health and the environment.
+Wenshan Guo Environmental Sciences At the University of Technology, Sydney, she researches innovative water and wastewater treatment, and reuse technologies.
+William Laurance Biodiversity & Conservation Biology At James Cook University, his research includes impacts of intensive land uses on tropical forests.
+Ben Hayes Animal Husbandry At the University of Queensland, he researches genetic improvement of livestock, crop and pasture and aquaculture species.
+Ian Paulsen Life Sciences & Earth Sciences At Macquarie University, his research interests include microbiology and microbial genomics.
+PHYSICS & MATHEMATICS Ray Frost Spectroscopy & Molecular Physics At the Queensland University of Technology, his research interests include vibrational spectroscopy.
+Benjamin Eggleton Optics & Photonics At the University of Sydney, his research interests include optical communications technology.
+Shi Xue Dou Condensed Matter Physics & Semiconductors At the University of Wollongong, his research interests include energy materials research.
+Andrey Miroshnichenko Optics and Photonics At UNSW Sydney, his research interests include nonlinear optics and nanophotonics.
+Ping Koy Lam Physics & Mathematics At the Australian National University, his research includes quantum optics, optical metrology and nonlinear optics.
+SOCIAL SCIENCES Herbert Marsh Educational Psychology & Counselling At the Australian Catholic University, his research includes self-concept and motivation.
+Julie Henry Cognitive Science At the University of Queensland, she researches how social cognition and prospection are disrupted by normal adult ageing and clinical illness.
+Tan Yigitcanlar Urban Studies and Planning At the Queensland University of Technology, he researches contemporary urban planning and development challenges.
+Andrew Martin Educational Psychology & Counselling At the UNSW Sydney, he researches educational motivation, engagement and achievement.
+David Treagust Science & Engineering Education At Curtin University, his research interests include how interventions can enhance students’ understanding of science.
+Word count: 969

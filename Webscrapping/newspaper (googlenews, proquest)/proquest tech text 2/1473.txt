@@ -1,0 +1,18 @@
+We're not sure what your dog is going to say about it but researchers believe drones might be better at their job.
+Using unmanned aerial vehicles (UAV's) to herd sheep could actually be better for the animal than traditional methods of shepherding, a new study from UNSW Canberra has found.
+Squadron leader Kate Yaxley, a Visiting Military Fellow at UNSW Canberra, and one of the lead researchers on the study, said the method of herding animals has a direct impact on the welfare of the animal.
+The study found the heart rates of sheep rose while dogs were moving them and they were less stressed by the drones.
+"Shepherding is an essential part of farming, and it is a way of guiding sheep to go where the farmer needs them to go," she said.
+"As sheep are cognitive living beings, it is our social and ethical responsibility to consider their welfare if we're going to interact with them," she said.
+The aim of the research, published today by Scientific Reports, was to see if the team could design an autonomous system that considers the welfare of the sheep and empowers the farmer to use modern technology, in this case artificial intelligence, while ensuring social and ethical responsibilities toward the animals.
+"UAVs are currently being used by farmers, so this isn't a brand-new school of thought," Ms Yaxley said.
+"But what we found was missing was that there was no understanding of how the sheep are interacting with the technology and the impact of the technology on their welfare.
+"What we found through this study is that the sheep had higher heart rates when they're being shepherded by traditional means. So, the simple act of moving them to another paddock for food is actually putting the animal under stress."
+When using UAVs emitting certain sounds to herd the sheep, the team was able to reduce the stress on the animal.
+"We measured the variations in their heart rates, and we found it to be much lower when using UAVs with appropriate approach speed, and that the animals actually responded to the technology.
+"If we played certain sounds that allowed them to use their sensors, their aural and visual acuity, they moved a lot easier," she said.
+"This is part of our research that is continuing at the moment. In addition to this, we're focusing on the frequency of the sounds emitted as opposed to trying to emit a particular sound.
+"It's all about promoting a positive relationship between the farmer, the technology that is available to them, and the welfare of the animals."
+Start the day with all the big news in agriculture! Sign up below to receive our daily Stock Journal newsletter.
+CREDIT: Chris McLennan
+Word count: 455

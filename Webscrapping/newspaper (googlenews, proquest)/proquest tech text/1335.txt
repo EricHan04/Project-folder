@@ -1,0 +1,15 @@
+MYRIOTA is aiming to have seven satellites in orbit this year, after contracting California-based Tyvak Nano-Satellite Systems to build and launch three more this calendar year.
+The Adelaide company will equip the satellites with its software which provides direct-to-satellite Internet of Things (IoT) connectivity for users worldwide.
+Chief executive Dr Alex Grant said while the timetable would be dependent on factors such as rocket scheduling, if three satellites were put into orbit this year it would bring the total to seven.
+The increased number of satellites shortens the gap between passes of each satellite, providing Myriota’s customers with better coverage. The aim is to build the number to 50 over time.
+“Tyvak will build the physical satellites and we will have our software and firmware on those satellites. Myriota will own the satellites,’’ Dr Grant said.
+“The extra satellites increase the capacity and most importantly decreases the revisit time, so for a device on the ground the number of times a day it will see a satellite increases which gives customers additional flexibility for deploying sensors and data loggers.
+“They can get more data back more frequently.’’ Dr Grant said the company’s software made efficient use of data, meaning it could support a lot of customers with a small number of satellites, but more satellites were certainly on the cards to decrease the time between satellite passes.
+Tyvak chief operating officer Marco Villa welcomed the deal. “We are very excited to expand our reach to new territories and applications while contributing to South Australia’s ecosystem development. Myriota has been a great partner to work with from day one and having recently completed the first program review, we look forward to executing this mission and enabling their business objectives,” he said.
+Myriota has also previously put a satellite into orbit aboard SpaceX’s Falcon 9. Myriota, which is based at the Lot Fourteen business incubator site, raised $US15 million in a series A funding round.
+The round was led by Australian VC firms Main Sequence Ventures and Blue Sky Venture Capital and included Boeing HorizonX Ventures, Singtel Innov8 and Right Click Capital.
+Its technology has numerous uses, for example it can be used to collect data from monitors in the agricultural sector, delivering a data-rich overview for farmers which was previously not possible or vastly more difficult and expensive.
+The company originated in 2011 within UniSA’s Global Sensor Network research program and was founded as a company in 2015.
+Tyvak, founded in 2013, describes itself as a “provider of end-to-end nanosatellite and microsatellite services and solutions for US Government agencies and commercial enterprises.“The company is a pioneer in the miniaturisation of space technologies, making space responsive, with the ability to quickly and economically design, build and launch state-of-the-art satellites.’’
+CREDIT: CAMERON ENGLAND BUSINESS EDITOR
+Word count: 463

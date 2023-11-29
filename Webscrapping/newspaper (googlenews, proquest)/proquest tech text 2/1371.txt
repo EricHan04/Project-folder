@@ -1,0 +1,13 @@
+Better testing lifts survival rate
+AN innovative new screening program is helping men across Australia monitor their health by “predicting” their risk of developing prostate cancer.
+Australian medical technology company Maxwell Plus is using artificial intelligence (AI) to determine the likelihood of a male developing prostate cancer in the hope it will help diagnose it earlier and decrease high case numbers.
+The program works by assessing all the normal risk factors such as age, family history, blood and prostate specific antigen (PSA) levels and then comparing them to a dataset of more than 250,000 men.
+This is analysed by the AI technology, which sifts through the data, using it to “predict” a person’s likely risk based on known outcomes.
+And while it’s not intended to replace doctors and medical specialists, the idea is to fast-track the triage process and help refer men who might not believe they are at risk.
+Professor Tony Costello, a urologist and specialist at the Royal Melbourne Hospital, said it was a test he would “liken to breast screening.” “We know early diagnosis affords a better chance of curability for the cancer,” said Prof Costello, pictured, who has been asked to join the company as an adviser, said.
+“There’s also been a lot of confusion about the reliability of PSA testing but when it’s made available and put into algorithms I think it could be very effective (in predicting cancer).” The first half of the screening is online, via a quick survey and telehealth consultation, before further referrals such as blood and PSA tests are recommended. Prof Costello said the convenience and comfort of being able to access such a service from the couch meant more men, especially those in rural and remote areas, might be able to seek greater help.
+“More men die from prostate cancer in Australia than women from breast cancer,” Prof Costello said.
+“PSA testing works, it’s just a matter of getting the message across and getting treatment with advice … to improve our detection of men’s most prevalent and lethal cancer.” Prof Costello acknowledged that while Australia had come a long way, a more conscious effort was needed.
+“When I first started, any man who came with a diagnosis of prostate cancer usually died within two years,” he said. “We’ve had a 25 per cent reduction in mortality since 1995 … anything that allows men to access a PSA without being told they don’t need it is good.”
+CREDIT: ALANAH FROST
+Word count: 411

@@ -1,0 +1,26 @@
+Portable cameras with 3-D imaging technology, commonly used in gaming cameras, are enabling researchers to estimate the carcase performance of cattle well before they are killed.
+University of Technology Sydney (UTS) and Meat and Livestock Australia, with NSW Department of Primary Industries as project leader, have been trialling the live trait estimation technology which can assess P8 fat and muscling using artificial intelligence.
+Traditionally, human assessors inspect an animal and estimate the same traits, but the new technology would offer a more accurate, cost effective and non-subjective assessment.
+Coupled with decision support tools, such as BeefSpecs, predictions of P8 fat can assist in meeting market specifications.
+Two red-green-blue depth cameras are positioned on a custom-made race and capture the shape of the animal to reflect muscle, and P8 fat.
+When the animal positions itself in a neutral pose, images are automatically taken within 40 seconds, with the data available once the images are captured.
+The technology has been trialled in the Northern Tablelands, mainly on Angus ranging from 300 to 450 kilograms, but the team is keen to expand the trial group to include more Bos taurus.
+There is also the potential to capture yearling and weaners traits.
+UTS senior lecturer Alen Alempijevic said they were also looking to "stitch" 3-D images captured in the race as an animal walked through to establish better accuracy.
+"P8 fat accuracy at present is within the scanning accuracy of 1.5mm and then the muscle score at the moment is not as good as most expert assessors," he said.
+"One of the reasons is we haven't had a look at other breeds. We are looking at improving how and what areas we capture for the muscling because we seem to be missing some areas that are relevant for distinguishing scores.
+"So muscle assessors have a plus and minus system. We can't really hit the B+ or B- because it doesn't look like we are capturing those areas effectively."
+Dr Alempijevic said it was expected producers would want to fit this equipment to their existing cattle yard race, which was being looked into.
+A three-year project, called "Objective real-time assessment of Bos taurus cattle to improve profitability and productivity of the beef value chain", was about to evaluate the 3-D imaging's market introduction.
+"We think by the two year mark ... we will have it tested and be slowly transitioning it into the beef industry," Dr Alempijevic said.
+Using the predictive data and with an indication of supplied feed, a producer could determine when their cattle would meet market specifications and, in turn, optimise sale time, or tailor rations accordingly.
+Producers to get their say on 3-D estimation technology Early next year, beef producers will get their chance to give feedback on emerging 3-D live trait estimation technology.
+The NSW Department of Primary Industries will hold a northern and southern engagement session to allow beef producers to gain insight into how this will work and to provide feedback around their needs, a NSW DPI spokesperson said.
+The project - the latest in a string of work in this space - is being run by Meat and Livestock Australia (MLA), University of Technology Sydney (UTS) and the NSW DPI.
+MLA's grassfed beef program manager Dr Nigel Tomkins said following endorsement from both a producer and expert panel, this project was set to have significant benefits, particularly for Bos taurus cattle.
+"These 3-D cameras, most of those are the technology used in gaming cameras, so it's taking some pretty smart technology and giving it a productive application," he said.
+There would also be an opportunity to align this technology with objective carcase measurements, such as DEXA.
+Meanwhile, though, the 3-D technology had the potential to allow producers to manipulate the live carcase traits of their cattle on the go.
+UTS senior lecturer Alen Alempijevic said if producers could predict at any time whether an animal was on track to hit the grid, then they could take action to guide that outcome.
+CREDIT: Lucy Kinbacher
+Word count: 667

@@ -1,0 +1,4 @@
+A "third-party routing issue" has been blamed for an outage that saw thousands of TPG users prevented from accessing a number of key Microsoft products today.
+Around 10am, TPG users reported being unable to access communication platforms including Teams, Office 365 and Outlook.
+Global outage tracking website DownDetector listed thousands of reports of issues across the three programs about 9.50am AEST.
+Reported issues peaked at 10am on the site and had subsided by midday.

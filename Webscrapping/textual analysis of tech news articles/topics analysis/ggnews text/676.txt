@@ -1,0 +1,13 @@
+TPG Telecom and UK-based broadband services provider Dense Air have formed an agreement to acquire spectrum licenses from each other.
+The deal will see TPG Telecom acquire a subsidiary of Dense Air that holds 3.6 GHz spectrum licenses acquired at auction in 2018.
+This will increase the telco’s 3.6 GHz spectrum holdings from 60 MHz to 90 MHz in Adelaide; 95 MHz in Brisbane, Perth and Canberra; and 65 MHZ in Sydney and Melbourne.
+In return, Dense Air Networks Australia is purchasing TPG Telecom’s 2.6 GHz nationwide spectrum.
+CRN Pipeline 2022 Join Australia’s most influential channel partners at CRN Pipeline 2022 to reconnect after two extraordinary years of change! Register to attend
+TPG Telecom and Dense Air both acquired 5G mmWave spectrum in the ACMA auction for the 26 GHz band in April of this year.
+“For our mobile and home wireless customers, this additional mid-band 5G spectrum will mean a significant boost in speeds through increased capacity,” TPG Telecom chief executive Iñaki Berroeta said in a statement.
+“This spectrum acquisition will enhance our 5G customer experience and set us up for future customer growth as we roll out our 5G home internet service to meet customer demand for NBN alternatives.
+“As this spectrum is immediately adjacent to our existing 5G spectrum holdings, it can be deployed quickly and without significant cost.”
+If the agreements meet conditions, including that the two transactions are completed concurrently and receive approval by the Australian Competition and Consumer Commission, the transaction is expected to complete in September 2021.
+“We are very pleased to announce the agreement to acquire spectrum from TPG Telecom, which we reached despite the challenges of the global COVID-19 pandemic,” said Dense Air chief executive Paul Senior in a separate statement.
+“This spectrum, along with our other holdings, will allow Dense Air to bring its unique ‘RAN-as-a-Service’ business model to Australia and enable us to empower cities and communities to build shared neutral host networks that close the digital divide and benefit operators and consumers alike.”
+Dense Air and TPG Telecom “look forward to exploring opportunities to use Dense Air’s RAN-as-a-service technology solution in the Australian market,” the companies said.

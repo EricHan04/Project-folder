@@ -1,0 +1,20 @@
+Source: University of Canterbury
+Home >
+News >
+2021 >
+09 June 2021
+Research into the electrodes used in flow batteries at the University of Canterbury (UC) has the potential to help create cheaper, longer-life batteries for more renewable energy storage.
+Associate Professor Aaron Marshall prepares a vanadium solution for one of his flow batteries.
+Research into the electrodes used in flow batteries at the University of Canterbury (UC) has the potential to help create cheaper, longer-life batteries for more renewable energy storage.
+Associate Professor Aaron Marshall from the Department of Chemical and Process Engineering is focusing his research on flow battery technology, designed to store large amounts of energy for long times under safe conditions.
+“Most lithium-ion batteries only work for a few thousand cycles before needing to be replaced and recycling these batteries is complex. However, flow batteries can run for at least 20,000 cycles and are also very easy to recycle.
+“The problem is that current flow batteries are big and expensive as the reactions which happen at the electrodes are very slow. My research uses catalysts to speed up these reactions so that we can use smaller electrodes and thus make cheaper batteries.”
+Associate Professor Marshall says while there has been previous research in this area, he has the advantage of being able to accurately measure the speed of the reactions.
+“We have figured out how to measure the true speed of the flow battery reactions, which has been a problem due to the complexity of the electrodes. This means we can now measure and compare the performance of different catalysts.
+“With preliminary data suggesting we can increase the reaction rate by up to five times, if we can maintain this performance increase for long times and scale up our technology it will be very valuable for flow battery manufacturers.”
+The next stage of the project is to calculate what catalysts can speed up the reactions using atomic computer modelling, then to synthesise these materials and use them in the batteries. These batteries would be used on grid scale, similar to Tesla Inc.’s Victorian Big Battery in South Australia.
+Associate Professor Marshall says the market for this technology is growing very quickly.
+“New flow batteries are being developed as people start gaining access to cheaper renewable energy which needs storage. In the next few years, flow batteries will represent a $1 billion per year market, which is less than 10% of the total energy storage market, however it is estimated that flow batteries will be almost 50% of battery storage market in the next 20 years.
+“This is a significant new export opportunity for New Zealand, with lower flow battery costs meaning more renewable energy and better environment outcomes. Cheaper batteries will be key to reaching our country’s climate change targets,” says Professor Marshall.
+MIL OSI
+Word count: 452

@@ -1,0 +1,26 @@
+Source: The Conversation (Au and NZ) - By Tomas Trescak, Senior Lecturer in Intelligent Systems, Western Sydney University
+Just a few years ago, virtual reality (VR) was being showered with very real money. The industry raised an estimated US$900 million in venture capital in 2016, but by 2018 that figure had plummeted to US$280 million.
+Oculus - the Facebook-owned company behind one of the most popular VR headsets on the market - planned to deliver 1 billion headsets to consumers, but as of last year had sold barely 300,000.
+Investments in VR entertainment venues all over the world, VR cinematic experiences, and specialised VR studios such as Google Spotlight and CCP Games have either significantly downsized, closed down or morphed into new ventures. What is happening?
+Read more: What you see is not always what you get: how virtual reality can manipulate our minds
+Recent articles in Fortune and The Verge have voiced disdain with VR technology. Common complaints include expensive, clunky or uncomfortable hardware, and unimaginative or repetitive content. Sceptics have compared VR experiences to the 3D television fad of the early 2010s.
+As a VR researcher and developer, I understand the scepticism. Yet I believe in this technology, and I know there are “killer apps” and solutions waiting to be discovered.
+Last week, Western Sydney University hosted a global symposium on VR software and technology, at which academics and industry partners from around the world discussed possible ways forward for VR and augmented reality. Among the speakers were Aleissia Laidacker, director of Developer Experience at Magic Leap; University of South Australia computing professor Mark Billingurst; and Tomasz Bednarz, director of UNSW’s Expanded Perception and Interaction Centre.
+Juggling on Pluto, anyone? Jindrich Adolf from the Czech Institute of Informatics, Robotics and Cybernetics describes an otherworldly VR experience. Western Sydney UniversityVirtual reality, literal headache
+One problem discussed at the symposium is the fact that VR experiences often cause health-related issues including headaches, eye strain, dizziness, and nausea. Developers can partially deal with these issues at the hardware level by delivering balanced experiences with high refresh and frame rates.
+But many developers are ignoring usability guidelines in the pursuit of exciting content. Gaming industry guidelines used by Epic, Oculus, Marvel, and Intel recommend that games completely avoid any use of induced motion, acceleration or “fake motion”, which are often the main cause of discomfort and motion sickness.
+Yet the vast majority of available VR experiences feature some kind of induced motion, either in the form of animation or by basing the experience on user movement and exploration of the virtual environment.
+I have met many first-time VR users who generally enjoyed the experience, but also reported “feeling wrong” – similar to enjoying the clarity of sound in noise-cancelling headphones but also having a “strange sensation” in their ears.
+Killing creativity
+Queasiness is not the only turnoff. Another problem is that despite the near-limitless potential of VR, many current offerings are sorely lacking in imagination.
+The prevailing trend is to create VR versions of existing content such as games, videos or advertisements, in the hope of delivering extra impact. This does not work, in much the same way that radio play would make terrible television.
+A famous cautionary tale comes from Second Life, the virtual world launched in 2003 which failed spectacularly to live up to its billing. Real-world businesses such as Toyota and BMW opened branches in Second Life, allowing users to test-drive badly programmed versions of their virtual cars. They lasted mere months.
+Why would we prefer a humdrum virtual experience to a real one? No one needs a virtual Toyota. We need to give users good reasons to leave their reality behind and immerse themselves in a new one.
+Read more: Why virtual reality cannot match the real thing
+There have been some notable successes. Beat Saber, made by Czech indie developers, is the one of the few games that have explored the true potential of VR – and is the only VR game to have grossed more than US$20 million.
+[embedded content] Beat Saber has been praised as great mental and physical exercise.
+The VR Vaccine Project helps to take the sting out of childhood needles, by combining a real-world vaccination with a superhero story in the virtual world, in which the child is presented with a magical shield at the crucial moment.
+[embedded content] The VR Vaccine Project: making needles less scary.
+I really hope VR is on its way to becoming more mainstream, more exciting, and less underwhelming. But we scientists can only present new technological solutions, to help make VR a more comfortable and enjoyable experience. Ultimately it is down to VR developers to learn from existing success stories and start delivering those “killer apps”. The possibilities are limited only by imagination.
+- ref. The main problem with virtual reality? It's almost as humdrum as real life - http://theconversation.com/the-main-problem-with-virtual-reality-its-almost-as-humdrum-as-real-life-126761
+Word count: 793

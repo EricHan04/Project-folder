@@ -1,0 +1,73 @@
+The fight against cancer has changed radically as scientists begin to understand the complexities of human genetics. DEBORAH BOGLE reports on the exciting advances in this new age of medicine.
+A FEW weeks ago, I presented myself at the local breast- screening clinic for my biennial checkup. With more than the usual trepidation, I allowed my flesh to be pressed on to the mammogram machine and tried not to think about what it might find.
+Since my last screening, my sister has had a mastectomy, having been diagnosed with breast cancer this time last year.
+As she and her husband went through the harrowing process of seeking second, and then third, opinions, attempting to digest bad news and complicated medical information at the same time, the words "cancer is not a death sentence" sounded like a hollow cliche. The fact that better treatments mean people are less likely to die of their cancer than they were even as recently as five years ago offers but a slender shaft of hope in the dark and fearful days following that dreaded diagnosis. Cancer.
+Conclusions founded on broad, population-based studies barely penetrate the fog of anxiety, where the resounding question tends to be: "Why me?" Why any of us? Billions of dollars are being spent in laboratories around the world in the search for better treatments, diagnosis and, the Holy Grail, a cure for cancer.
+But still it's our leading cause of death, killing more than 36,000 Australians each year. Mortality rates in some cancers have barely shifted, while others, such as lymphoma, are rising alarmingly. The Australian Institute of Health and Welfare's Cancer in Australia Study of 2001 showed that new cases of cancer rose by 34 per cent from 1991 to 2001 (from 65,966 to 88,398).
+It might be of scant comfort to patients already battling cancer, but there is good news from the frontiers of medical research.
+Some are calling today's advances a "flowering of medicine" like that of the late 19th century when great strides were made against infectious diseases.
+Genetics
+The research that has flowed from the Human Genome Project, the mapping of the genetic sequences that are the building blocks of human life, has allowed scientists to take the fight against cancer to the most basic biological level, where cancers start.
+Armed with the knowledge of the human genome, they have been able to determine which genes are involved in cell growth. When these genes cause cells to grow aberrantly and uncontrollably, cancers form.
+Having identified the genes responsible for cancers (some estimates put the number at about 200 so far), scientists have been able to develop treatments that target those particular genes. The buzz phrase for these targeted therapies is personalised medicine.
+As well as treatments, there have been significant advances in diagnosing cancers and some progress in efforts to predict if, and how, the disease will develop. Genetic devices that switch cell growth on or off have been identified, as have "cancer stem cells" which are thought to carry the blueprint for new cancers elsewhere in the body.
+And, thanks to the work of Professor Ian Frazer, Australian of the Year, we now have our first cancer vaccine, with the promise that cervical cancer could be entirely eradicated in forthcoming generations of women.
+Personalised medicine
+While the general public still identifies cancers according to the parts of the body where they are found - breast, prostate, bowel and so on - we now know that there are very different kinds of cancer that can occur in, say, breast tissue, perhaps up to 30 or more. And even a single type of tumour might act differently depending on the genetic make-up of the patient.
+Professor Graeme Young, director of the Flinders Centre for Innovation in Cancer, says that while the benefits of personalised treatments apply across numerous medical fields, "we are really seeing the application of the principle applying most in the field of cancer".
+Continued 6
+From 5
+And it is in breast cancer - where the research field has been so richly endowed - that the greatest advances in targeted treatments have been made.
+"We know that some breast cancers, for example, are very dependent on hormonal regulation and so we can target the hormonal aspect that drives the cancers and switch it off," says Young.
+Therapies which target hormone receptors - such as Tamoxifen and Raloxifene - have been available for some time, but are useless in women in whom the receptors are absent.
+More recently, the HER2 gene has been identified as causing excessive growth of tumour cells.
+Women with breast cancer who test positive for the HER2 gene (estimated to be about 15-25 per cent of cases) are candidates for a drug called Herceptin, which has hitherto only been available on the Pharmaceutical Benefits Scheme for patients with advanced breast cancer.
+However, the PBS Advisory Committee recommended on July 14 that the government subsidy be extended to early-stage patients following surgery.
+Earlier this week, Health Minister Tony Abbott promised to expedite Cabinet consideration. Herceptin, however, is not a cure, but it has been shown to reduce the risk of recurrence in about 30 per cent of cases.
+Last month, promising results for an experimental drug, Tykerb, were reported to the American Society of Clinical Oncology.
+The drug had slowed the progress of the disease in women where Herceptin had failed.
+A targeted treatment - Glivec - is also available for chronic myeloid leukemia (CML), a malignant cancer of the bone marrow caused by the overproduction of white blood cells.
+Much work in the treatment of CML has occurred at the Hanson Institute at Royal Adelaide Hospital and the Institute of Medical and Veterinary Science.
+Professor Howard Morris, director of the Hanson Institute, says research into the targeted therapy of CML has led to the identification of another group of cells which contain the mutation that makes others proliferate and cause cancer, but which remain inactive.
+"These are called cancer stem cells," says Morris. Cancer stem cells, exact copies of the cells that cause cancer, are thought to "seed" new cancers as they spread through the body.
+Their discovery could allow researchers to predict the progress of the disease. Professor Tim Hughes at the Hanson Institute has played a leading role internationally in identifying cancer stem cells in CML.
+The trouble is that these cancer stem cells are not killed off by targeted therapies such as Glivec.
+"So the question we're facing now, with targeted therapies, is does the patient need to take this therapy for the rest of their lives or do the cancer stem cells somehow die off by themselves," says Morris. "We don't know. So now clinicians are assessing whether they can stop the treatment for a period of time and they'll now view what happens to the chronic myeloid leukemia. Do they give rise to the cancer again?"
+Proteins
+Other advances against leukemia at the Hanson Institute involve the work of Dr Angel Lopez, who has identified a particular protein which acts as a molecular "switch" within cells. "In cancer cells, this switch is turned on all the time," says Morris.
+Which brings us to proteins.
+Research in this field is called proteomics, and Adelaide University has a brand-new, state-of-the-art proteomics facility thanks to a $1.5 million grant from the Australian Cancer Research Foundation.
+Proteins are the functional biological units involved in the genetic process.
+A proteomic approach to disease, therefore, is "downstream of the genetic approach", says Professor Shaun McColl.
+McColl is the head of Chemokine Biology in the School of Molecular and Biomedical Science and was responsible for the grant application which funded the Proteomics Laboratory. "For genes to exert their effect, whether they be good or bad genes, a protein has to be made," he says. "It is the protein, which is the product of the gene, that exerts the biological effect."
+A large chunk of the ACF funding went into the purchase of two mass spectrometers, highly sophisticated pieces of equipment which allow researchers to detect and analyse proteins present at very low levels.
+The aim is to find what are called "biomarkers" that assist in the early detection of disease, and to develop potential targets for therapeutic drugs.
+Dr Peter Hoffmann set up a similar facility in Leipzig, Germany, and was head-hunted by Adelaide University to run the new facility.
+"The new drugs would be small molecules that would inhibit a function of a protein," says Hoffmann.
+"That's what the new cancer drugs like Herceptin and Glivec do. They inhibit the function of a faulty protein."
+The centre draws together researchers across numerous disciplines, including biochemistry, genetics, microbiology, immunology and physiology, in collaboration with researchers at the Hanson Institute and clinical colleagues at the Royal Adelaide Hospital.
+"The clinicians provide serum samples from diseased and non- diseased patients and then we can compare them and try to come up with a protein - a potential biomarker," says Hoffmann.
+The new centre, along with other world-class infrastructure in the School of Molecular and Biomedical Science, is allowing scientists to study all stages of the cancer process at both the gene and protein levels.
+"This has already led to some important discoveries that may result in new directions for cancer treatment and diagnosis," says McColl.
+At Flinders Medical Centre, Dr Michael Michael is using a different approach to proteins, based on research into microRNAs, which were first identified in mammalian cells in 2001.
+Initially thought just to be degraded genetic material with no function, microRNAs inhibit the production of certain proteins.
+"We're such complex organisms that we really need all these little checks and balances in all these processes," says Michael. "The reason we have microRNAs is to fine-tune these biological processes so that we develop normally."
+Michael's work in the Department of Gastroenterology and Hepatology looked at the way microRNAs acted in the human gut, and whether they changed in cancerous cells.
+Rather than the needle-in-the-haystack search through all 30,000 genes in the human genome, the study of microRNAs allows scientists to home in on the important proteins that are "the business end of the cell", says Michael.
+"These microRNAS are just new types of markers but they may also play a causative role in how the tumours form very early on in the process," he says.
+"And if we can tie that down, then we can certainly look at changing their activity and in that way developing new therapies. It's very hot in the scientific literature at the moment, but it's still very early days. We're pretty excited, because we were the first in the world to show an association between changes in microRNAs and solid tumours."
+Screening
+While developing therapies for cancers is high on the list of priorities for medical research, the diagnostic potential of these discoveries, and the hope that they may lead to better screening tests, cannot be underestimated.
+Mammograms and PAP smears have significantly reduced mortality rates for breast and cervical cancers, but there is no effective test to find small cancers in the liver or the lungs, and the PSA test for prostate cancer is imprecise. Compared with the science of cancer treatments, research into the science of prevention is comparatively neglected, according to Young.
+In Australia, it's estimated that about $4 billion is spent annually on cancer.
+"From what we can gather, 90 per cent of that is spent on either in-hospital or terminal care," says Young.
+World Health Organisation figures project that between 2000 and 2020, there will be a 50 per cent increase in the number of people presenting with cancer in Australia.
+"This huge expenditure, which is largely directed at treating cancer, is important, but it's not acting to control the problem," says Young. "And so we have to find more ways to prevent the disease."
+How cancer spreads
+Primary tumour formation
+The tumour stimulates growth of a new blood supply
+Tumour cells enter the main blood supply
+Tumour cells are trapped at a distant site in the body
+Tumour cells leave the blood supply
+New tumours form at the distant site
+Word count: 2101

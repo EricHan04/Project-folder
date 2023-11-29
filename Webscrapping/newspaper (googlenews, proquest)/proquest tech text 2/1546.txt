@@ -1,0 +1,15 @@
+Report slams photo sharing
+CHILD-SEX victims, alleged offenders and the public could have been put at risk by the Australian Federal Police when their photos were uploaded to a highly controversial facial-recognition company.
+An investigation by The Australian Information Commissioner, Angelene Falk, into the AFP’s Australian Centre to Counter Child Exploitation (ACCE) team found their actions could have had “serious consequences”.
+A 27-page report by Ms Falk, pictured, reveals for the first time the photos shared by seven AFP officers from the ACCE with artificial intelligence platform, Clearview AI, were of children and vulnerable people in active police investigations.
+“There was a significant risk of adversity for Australians whose sensitive information was uploaded … including a loss of control of personal information; a risk of identity fraud …; harms arising from the potential misidentification of a victim, suspect or person of interest … and the risk of reputational damage,” the report said.
+The report comes almost two years after News Corp revealed Clearview AI was being sued in multiple jurisdictions in the US, and experts warned it was a potential mine of information for “bad guys” and cyber criminals.
+In one case it has been alleged Clearview founder, Australian computer boffin Hoan Ton-That, had been involved in setting up two companies for phishing scams. He has denied the allegations.
+Ms Falk’s investigation into the AFP began in 2020 after a list of Clearview’s clients, including the AFP, was leaked.
+The AFP denied any involvement and refused Freedom of Information requests. But after internal emails emerged, the AFP was forced to admit 10 of its officers from the ACCE, which is now managed by Commander Hilda Sirec, were involved.
+The report found the AFP failed to comply with its own privacy obligations in using the facial recognition, failed to assess the risks applicable to providing personal information to a third party located overseas, and had not assessed Clearview’s security practices, accuracy, or safeguards.
+The report said “in some circumstances, the privacy impacts of a high privacy risk project, may be so significant that the project should not proceed”.
+“ … there were a number of red flags about this third party offering that should have prompted a careful privacy assessment,” Ms Falk found.
+Ms Falk has ordered the AFP to tighten its privacy governance. The AFP said it is reviewing internal governance processes, as well as a review of its privacy governance – by outside lawyers – and staff training. But Ms Falk said on the “evidence before me, I cannot be satisfied that steps the Respondent (AFP) has taken to date will ensure that the breaches … are not repeated or continued”.
+CREDIT: NATALIE O’BRIEN
+Word count: 446

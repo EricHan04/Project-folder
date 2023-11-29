@@ -1,0 +1,17 @@
+THE state’s government-backed venture capital fund has made its third investment, pumping $1.5 million into award-winning Kent Town technology company Fivecast.
+The company has developed a software platform which allows defence, security and law-enforcement bodies to monitor internet activity and alert them of anything suspicious.
+The platform, Fivecast Insight, uses artificial intelligence and machine learning to analyse text, images and video on the internet from a wide range of publicly available sources, including extremist blogs and forums, as well as the “dark web” where suspected criminals tend to gather.
+The SA Venture Capital Fund’s contribution was part of a $4 million funding round which also included Main Sequence Ventures’ CSIRO Innovation Fund.
+It brings the total amount invested under the fund, which is capped at a potential $50 million, to $6 million since it was set up in 2017, with investments also in satellite company Myriota and child development company Kid Sense. Fivecast chief executive Dr Brenton Cooper said yesterday the company’s platform was “world-leading’’.
+“Using AI, the product generates efficiencies in the collection and analysis of big data that simply haven’t been possible before now,’’ he said.
+“We’re talking about time-critical law-enforcement and national security activities; efficiencies in this realm are game-changing on a global scale.
+“The Fivecast Insight platform presents AI-enabled insights from this mass data that are easy for analysts to consume and understand.
+“Analysts can then comprehend the collective content and behaviour of a group of related, or similar entities, all monitored in real time.” Dr Elaine Stead, who is managing the South Australian Venture Capital Fund, said the investment backed a world-first innovation.
+“Fivecast is a perfect example of what can be produced at the intersection of local technology-driven industries like defence and a thriving deep technology ecosystem – high growth global businesses that will retain and create skilled jobs and expertise in the state,’’ she said.
+Fivecast was founded two years ago as a spin-out from the Data to Decisions Cooperative Research Centre (D2D CRC), a collaboration between Australia’s national security agencies and various research organisations.
+It recently won an award for Excellence in Innovation at the Co-operative Research Centre Association conference, held in Adelaide.
+Fivecast Insight has been successfully deployed to support law-enforcement agencies protecting the 2018 Gold Coast Commonwealth Games and by federal intelligence services in the aftermath of the Christchurch terror attacks in New Zealand.
+The money raised will be used to expand internationally.
+Fivecast currently employs about 20 people, and is located at the Base64 business incubator.Past research partners have included the Department of Home Affairs, the Australian Federal Police, the Attorney-General’s Department, the Australian New Zealand Counter Terrorism Committee, all Australian state police forces, the Department of Defence, and the Office of National Assessments.
+CREDIT: CAMERON ENGLAND BUSINESS EDITOR
+Word count: 461

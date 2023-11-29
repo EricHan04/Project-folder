@@ -1,0 +1,91 @@
+The claim
+Climate change has been identified as a key issue for voters in Saturday's New South Wales election, and is expected to be an influential factor in the upcoming federal election in May - particularly in the northern Sydney seat of Warringah, held by Tony Abbott.
+Currently, New South Wales and Western Australia are the only two states in Australia without a renewable energy target.
+The NSW Liberal-National Coalition Government and Labor Opposition have both campaigned on investment in renewable energy, including solar energy.
+During a NSW leaders' debate with Opposition Leader Michael Daley, Premier Gladys Berejiklian sought to establish the government's credentials on renewable energy.
+Ms Berejiklian said "the largest … use of solar energy is actually NSW".
+Is that correct?
+RMIT ABC Fact Check investigates.
+The verdict
+Ms Berejiklian's claim doesn't check out.
+Fact Check compared NSW with other states in three ways:
+the consumption of solar energy as a proportion of total energy;
+the amount of solar energy generated; and
+the installed capacity to generate solar energy.
+Where available, this was done in raw terms and on a per capita basis. All of the figures were further broken down into large-scale and small-scale solar systems.
+Of the resulting 11 measures presented in this fact check, New South Wales held the top ranking in only one. Queensland held the top ranking in six of the measures, while South Australia held the remaining four.
+What is solar energy?
+As described by the Australian Renewable Energy Agency , solar energy is energy created by the heat or light of the sun.
+Solar power is produced when that energy is converted into electricity or used to heat air, water or other substances.
+There are currently two main types of solar energy technology: solar photovoltaic (PV) and solar thermal.
+Solar PV technology converts sunlight directly into electricity using PV cells.
+The solar PV cells are then combined in panels, which can be used in a number of ways, including being placed on rooftops and installed in fields to create large-scale solar power plants.
+Solar thermal technology, meanwhile, converts sunlight into thermal energy (or heat), which can either be used directly or converted to electricity.
+These two technologies can also be combined into one system that generates both electricity and heat.
+On expert advice, the figures presented in this fact check relate to solar PV systems.
+How do we measure solar energy?
+Three types of measurements are available for assessing Ms Berejiklian's claim.
+Official data is collected on solar energy generation, capacity and consumption as a proportion of a state or territory's total energy use.
+All the data can be broken down into large-scale and small-scale systems.
+The generation and capacity figures are also available in both raw terms and on a per capita basis.
+As NSW is the state with the largest population, the per capita figures are important.
+Solar energy capacity is measured in megawatts (MW) for large-scale installations and kilowatts (kW) for small-scale installations, while solar energy generation is measured in gigawatt hours (GWh), megawatt hours (MWh) and kilowatt hours (kWh).
+Small scale installations are those under 100kW (mainly rooftop), while large scale installations are anything above 100kW, and are dominated by large utility scale systems (which are typically greater than 5MW).
+Some of the data is available for all states. Some is only available for the National Energy Market, which comprises all states and territories except Western Australia and the Northern Territory.
+As Ms Berejiklian framed her claim in the present tense, the latest available data has been used.
+The figures used in this fact check were separately extracted from official sources by Iain MacGill, associate professor in the School of Electrical Engineering and Telecommunications and joint director of the Centre for Energy and Environmental Markets at the University of New South Wales, and Roger Dargaville, senior lecturer and researcher in renewable energy at Monash University.
+Their work was peer reviewed by Dylan McConnell, researcher at the Australian-German Climate & Energy College at the University of Melbourne.
+What proportion of energy consumption comes from solar?
+In the National Electricity Market in the year to March 1, 2019, South Australia was the state to draw the largest proportion of solar energy, at 10.7 per cent.
+Queensland drew the second highest proportion, at 7 per cent, while New South Wales and Victoria drew 4.5 per cent and 4.3 per cent respectively.
+What the generation data shows
+Professor MacGill provided Fact Check with Australian Energy Market Operator data accessed via the OpenNEM platform to show gigawatt hour solar generation for the National Electricity Market (which includes all states and territories except Western Australia and the Northern Territory) for the period March 1, 2018, to March 1, 2019.
+In that year, Queensland generated the highest total number of gigawatt hours of solar electricity, with New South Wales coming in second place, and Victoria third.
+When broken down by size, New South Wales generated the highest number of gigawatt hours of solar electricity from its large-scale systems, although Professor MacGill noted that Queensland had pulled ahead of New South Wales on this measure in the months to date in 2019.
+In terms of small-scale rooftop systems, Queensland generated the highest number of gigawatt hours.
+When adjusted for population, South Australia was the leader per capita, followed by Queensland, and then New South Wales.
+What the capacity data shows
+Dr Dargaville provided data from the Clean Energy Regulator and the Australian PV Institute to show total rooftop and utility PV energy capacity across Australia in 2018.
+"New South Wales does not have the largest amount of solar energy generation capacity in Australia," he said.
+"This honour is clearly owned by Queensland, which has a total of just under 3800 MW installed capacity of PV, compared to New South Wales' total of just under 2500 MW. Victoria comes in third with just under 1900 MW of solar PV.
+"In terms of total PV per person , South Australia leads that race, with around 765 W per person, with Queensland close second with around 757 W per person, and Western Australia third with 431 W per person. New South Wales has around 310 W per person."
+The results are similar when broken down by size.
+The vast majority of solar energy in Australia is generated by rooftop solar systems. As of December 31, 2018, more than two million Australian households had a rooftop solar system.
+Dr Dargaville provided Fact Check with Clean Energy Regulator postcode data for small-scale installations across all states and territories for the calendar year 2018.
+The data includes small-scale installations of 100kW or less.
+In 2018, Queensland had the most installed rooftop solar capacity (2,368 MW), followed by New South Wales in second place (1,915 MW) and Victoria in third (1,528 MW).
+New South Wales did have the highest level of newly installed rooftop solar capacity in 2018, though its total capacity remained behind Queensland.
+Looking at the small-scale figures on a per capita basis, South Australia was the leader in 2018 (577.6W per capita), followed by Queensland (472.5W per capita) and Western Australia (409.1W per capita).
+For large-scale capacity, the experts provided data sets from AEMO (January 2019, for the National Electricity Market) and the Clean Energy Regulator (February 2019, for all states and territories) to show MW capacity for large-scale solar projects (greater than 100kW).
+The numbers reported by the agencies differ somewhat as a result of differences in reporting dates and definitions for inclusion in the data.
+But the outcome remains the same: Queensland leads in terms of large-scale solar capacity, while New South Wales comes in second and Victoria third.
+What about the size of solar projects?
+In response to Fact Check's request for the basis for the claim, a spokesman for Ms Berejiklian said the Premier's comment was in relation to solar energy generation projects.
+They provided a link to a 2018 NSW Department of Planning and Environment assessment of the Yarrabee Solar Project, a photovoltaic solar plant proposed to be built in the Riverina Murray region of southern New South Wales (and which has been approved by the NSW Government).
+The spokesman pointed to a line in the report that states: "NSW is currently leading Australia in large-scale solar, with eight major operational projects, including the largest solar farm in Australia."
+Dr Dargaville said: "New South Wales does have some very large operational renewable energy projects, notably the very large solar farm at Coleambally.
+"With 188 MWdc of photovoltaic panels, it is currently the largest solar farm in Australia, closely followed by several other comparably sized solar farms in Queensland (Daydream 180 MW, and Sun Metals 150 MW)."
+"One could argue that the Bungala Solar farm in South Australia, with two units of 138 MW each, is larger."
+"There are also large solar farm projects in New South Wales that have reached 'financial close', meaning they are about to begin or are under construction.
+"Limondale (313 MW) and Darlington Point (275 MW) will be the largest solar farms once constructed."
+Professor MacGill told Fact Check: "If we consider solar projects built in 2018 or under construction, using the Clean Energy Council project tracker, Queensland built considerably more utility PV generation than New South Wales in 2018 (around 600MW versus 330MW).
+"Queensland also has more projects under construction or due to start construction soon than New South Wales (around 4GW versus 2GW)."
+Principal researcher: Lucinda Beaman
+factcheck@rmit.edu.au
+Sources
+Alexandra Smith, Climate change top of voters' minds in NSW election, The Sydney Morning Herald, 12 March, 2019
+Australian Government Climate Change Authority, Australia's climate change policies at the Australian and state and territory government levels: a stocktake, March 2019
+Liberal Party of Australia, NSW Division, Our Plans: helping households cut power bills with clean energy, 10 February 2019
+Australian Labor Party, NSW Branch, Our Plan: Delivering cleaner and cheaper energy, 2019
+NSW Votes Leaders Debate, Australian Broadcasting Corporation, 8 March, 2019
+Australian Government, Australian Renewable Energy Agency, 'Solar energy'
+Australian Government, Geoscience Australia, 'Solar energy'
+Australian Energy Market Operator, Fact Sheet, The National Electricity Market
+Australian Government, Department of the Environment and Energy, 'Solar PV and batteries'
+OpenNEM, using Australian Energy Market Operator data, rooftop and utility solar generation (GWh), 1 March 2018 to 1 March 2019
+Department of the Environment and Energy, Australian Energy Statistics, Table O, Australian electricity generation, by fuel type, physical units, April 2018
+Clean Energy Regulator, postcode data for small-scale installations
+Australian Bureau of Statistics, 3101.0 Australian Demographic Statistics, June 2018
+Australian Energy Market Operator, Generation Information, existing and committed generation projects in the National Electricity Market (NEM)
+Australian PV Institute, using data from the Clean Energy Regulator's Large Scale Renewable Energy Target (LRET) database, large-scale PV systems
+Word count: 1786

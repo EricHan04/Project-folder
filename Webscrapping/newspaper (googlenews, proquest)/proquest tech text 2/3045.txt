@@ -1,0 +1,41 @@
+Source: The Conversation (Au and NZ) - By Cameron Webb, Clinical Lecturer and Principal Hospital Scientist, University of Sydney
+Mosquito-borne disease is a concern for health authorities around Australia. Each year, thousands fall ill to Ross River virus disease caused by mosquito bites.
+Tracking mosquito populations can help us respond to these threats, and new research suggests citizen scientists may be the key to doing this more effectively.
+Health authorities coordinate the surveillance of mosquitoes and their pathogens. These surveillance data help improve the understanding of mosquito-borne disease outbreaks.
+They also help guide public education campaigns, and assist in mosquito control efforts, often through the application of insecticides.
+Read more: The worst year for mosquitoes ever? Here's how we find out
+However, there aren’t enough resources to set mosquito traps everywhere. It can also be tricky getting specimens from the field to the lab for testing. This is where citizen science is important.
+This public-led movement involves volunteers gathering scientific data for programs coordinated by professional scientists, simply through taking photos or recording sounds on their smartphones.
+In this way, sightings of animals and plants can be reported. Citizen scientists can even help in experimental design, data analysis and distribution of research results.
+Getting bu-zzzz-y tracking mosquitoes
+One program called Mozzie Monitors, launched in June last year, is shedding light on how citizen science can address critical resource shortages in mosquito surveillance efforts.
+Our research published last week in Science and the Total Environment reveals how the program’s use of smartphone e-entomology (“e” stands for electronic) is enabling the low-cost upscaling of mosquito surveillance.
+The program involves recruiting volunteers to set up cheap and simple mosquito traps in their backyards, and use their smartphones to send back data on the caught mosquitoes.
+Mozzie Monitors volunteers used a simple BG-GAT trap to catch mosquitoes. Cameron Webb/NSW Health Pathology, Author provided
+A crowd-funding campaign attracted donations from over 150 people to help launch the program, from which 126 people became actively involved in data collection.
+Each participant was provided with an easy-to-use Biogents BG-GAT (Gravid Aedes Trap) and asked to email the research group with photos of collected mosquitoes. Scientists were then able to use these photos to identify and count the different species collected. This approach is called e-entomology.
+Data collected by citizen scientists helps professionals paint a clearer picture of the frequency of a mosquito species in an area. x, Author provided (No reuse)
+The volunteers sent more than 10,000 photos of mosquitoes to scientists. From these, 15 different species were identified, ranging from Aedes notoscriptus (the common Australian backyard mosquito) to Aedes camptorhynchus, a mosquito flying into suburbs from nearby coastal wetlands.
+The number of mosquitoes changed throughout the year in response to changing temperatures. Unsurprisingly, they hit their peak during summer.
+Read more: Hidden housemates: the mosquitoes that battle for our backyards
+The value of citizen science data
+The Mozzie Monitors program marks the first time formal mosquito trapping has been combined with citizen science.
+A key research question for us was: do the data collected by citizen scientists align with data collected in formal mosquito surveillance programs?
+To test this, the data collected by Mozzie Monitors volunteers were compared to data collected from a professional program monitoring mosquitoes around urban wetlands. Mosquitoes associated with these wetlands can pose pest and public health risks.
+The citizen scientists contributed more than four times the amount of data than professional monitoring efforts. This included locally important species known to spread Ross River virus.
+In terms of the number and diversity of mosquitoes collected, citizen science proved just as reliable as a professional program.
+Other victories
+There has been growing interest in the potential of citizen science to assist the surveillance of mosquitoes associated with nuisance-biting and disease risks.
+In Brisbane, the Metro South Public Health Unit’s Zika Mozzie Seeker program has sought to detect the arrival of exotic mosquitoes that may increase the risk of potentially serious diseases caused by the dengue, chikungunya, or Zika viruses.
+Read more: New mosquito threats shift risks from our swamps to our suburbs
+In Spain last year, citizen scientists using the Mosquito Alert app for smartphones detected the arrival of an invasive mosquito, Aedes japonicus, before local authorities could.
+Where to now?
+The citizen science movement is growing across the world, promoting life-long learning among citizens.
+It’s important communities continue to be made aware of their potential role in wildlife surveillance efforts.
+By engaging the public in Mozzie Monitors, we’ve been able to integrate citizen science with a professional programs to boost mosquito surveillance.
+Now, more mosquitoes can be trapped in more locations, giving health authorities a clearer picture of potential health risks. This also increases our chances of detecting invasive species that are a biosecurity threat.
+Apart from monitoring mosquitoes, the Mozzie Monitors program is educating communities about mosquito diversity in their own backyards, and helping raise awareness of local disease risk.
+As mosquitoes were identified during the trial, results were made available on the research group website. Citizen scientists were updated monthly on the distribution and frequency of mosquitoes in and around their suburbs. This encouraged many participants to identify mosquitoes they collected themselves.
+The program’s next trial has already started in South Australia, and everyone is welcome to get involved.
+- ref. As heat strikes, here's one way to help fight disease-carrying and nuisance mosquitoes - http://theconversation.com/as-heat-strikes-heres-one-way-to-help-fight-disease-carrying-and-nuisance-mosquitoes-128466
+Word count: 860

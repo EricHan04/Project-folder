@@ -1,0 +1,13 @@
+MACHINES are taking over, even venturing into the dark arts of beer brewing, in an ­artificial intelligence experiment at Lot Fourteen.
+Using the computer power at the Australian Institute for Machine Learning, two Adelaide University students trawled through 260,000 recipes for craft beer and filtered results for what the crowd liked.
+Then they collaborated with Barossa Valley Brewing to actually make the stuff. The first taste-testing was at Lot Fourteen, where it was served by a robotic bartender built by AIML engineers.
+The robot detects an empty glass placed on the bar and automatically refills it. “It tastes like the future – no, seriously, it’s a fruit-driven IPA, which I’m very proud of,” Barossa Valley Brewing founder Denham D’Silva said.
+Beer essentially consists of four ingredients – malt, hops, water and yeast. Complexity lies in variations in the ingredients and precise changes to times and temperatures during the brewing process, the two computer science intern students, Christopher Fusco and Jash Vira, said. Using AI to design a beer that actually tastes good was quite difficult.
+“We had to come up with our own mathematical formula using statistics from ori-ginal recipes,” Mr Fusco said.
+The pair established more than 60 data points on the ingredients, handling, processing and predictions of bitterness, colour and alcohol content. They overlaid a popularity indicator by how many views a recipe had online, how many people said they had brewed it and what comments they made.
+This produced a shortlist of 30 and Barossa Valley Brewing picked the final candidate. The beer – named Rodney AI2PA in honour of Australian robotics pioneer and autonomous vacuum cleaner inventor Rodney Brooks – will be on sale at limited independent outlets and pubs from January 15, at about $22 for a four-pack.
+Mr D’Silva said he had ­always been keen to try something new and while it was super-exciting, it was also a little terrifying to place faith in AI. But he has been well and truly converted.
+“South Australia’s economy is so dependent on artisans – making cheese, wine, chocolate – and people are concerned that AI and machines are going to take away everyone’s jobs,” he said.
+“But what we found is that this has made what we do even better. As humans, we couldn’t have looked at over 200,000 recipes, but we added our artisanal knowledge to give us the advantage.” The label was designed by Ben Lawrence and incorporates lots of coding to unpack. Mr D’Silva said drinkers would be invited to make comments, with feedback to be applied in refining the beer or developing the next batch – possibly a seasonal change.
+CREDIT: CHRIS RUSSELL
+Word count: 442

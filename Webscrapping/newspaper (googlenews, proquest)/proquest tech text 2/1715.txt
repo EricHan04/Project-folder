@@ -1,0 +1,27 @@
+Three-dimensional printing is now so advanced that a machine can produce body parts – and possibly one day soon, a living, beating heart. TORY SHEPHERD reports on the world beyond dot matrix.
+ASTRONAUTS on the International Space Station just plugged in a 3D printer that can take their plastic waste and turn it into tools – that might then be recycled and turned into space toilet bowls. Or something else entirely.
+Adelaide’s futuristic submarines and frigates may well end up with 3D printers on board so if something goes wrong, an engineer back on solid ground can check it out through virtual reality, design a replacement part, and zip the file to the submarine, where someone can print it out.
+The printer/recycling combination on the ISS is called the In-Space Refabricator.
+Whenever supplies are delivered to the astronauts, they’re wrapped in plastic. The Refabricator will let them recycle that plastic to make their own stuff. Over and over again. It can chew up the rubbish and spit out syringes, wrenches or eating utensils.
+Pretty handy when you don’t have a lot of storage space for stockpiling the things you need. “In space, space is at a premium,” NASA says in a video about the machine.
+3D printers are already chugging out loads of chintzy plastic ornaments, but the serious people are also using them to make organic scaffolding for replacement body parts such as ears and noses, or bones.
+Then there’s food – the d’Arenberg Cube restaurant’s use of a printer to make part of a lemon meringue pie divided the nation. While The Jetsons had a Food-Rac-A-Cycle to cater for them, imagine the Meals on Wheels of the future.
+Imagine people being able to plug in a request or to have very specific nutritional meals created in their own kitchen.
+3D printing is a critical part of the fourth Industrial Revolution – Industry 4.0.
+The first Industrial Revolution was the step from farming by hand to the use of machines. The second was when electricity got involved and production lines started, and the third started in the 1980s, when computers and the internet were invented.
+Industry 4.0 is where robotics and artificial intelligence, the Internet of Things and cyberspace all intersect.
+It’s already here, though most people just use their smart phones without heralding the new era. 3D printing – also known as additive manufacturing – works by laying down perfectly measured thin layers that build up to create a three-dimensional object.
+YOU can design that object yourself or buy a design, and that digital file is sent to the printer. The printer then uses materials such as plastic, epoxy resins, steel, gold or even titanium. Serious industrial printers can cost hundreds of thousands of dollars, but for a few hundred dollars, you can get a home version.
+3D printers could follow the path of old-school text printers – for the moment, they’re mostly in institutions, but there’ll come a time when they’ll be common on household desks. Or in kitchens, a la The Jetsons. As machines get more sophisticated, the sorts of things that can be created start to seem limitless. Dallas, Texas this week hosted a conference about all things three-dimensional, starting with design. The most widely used design software is called Solidworks.
+Dassault Systemes’ Solidworks World 2019 conference showcased creations including prosthetics for amputees, roller-coasters, and custom sunglasses developed from a real-time scan of a person’s head.
+French company Dassault Systemes, which is the publisher of the 3D design Solidworks software and its broader 3DEXPERIENCE platform, will work with Naval Group to develop and maintain the Attack-class submarine fleet being built in Adelaide.
+Dassault has already opened a hub at the University of Adelaide, where it will help train engineering students to work on warships and submarines, as well as in mining and energy. The University of South Australia has also partnered with Dassault to ensure its students are prepared to work on the submarines and other projects.
+Small and medium South Australian businesses are also training for shipbuilding projects using Dassault’s “virtual shipyard” project, which has been developed with funding from the State Government and the Advanced Manufacturing Growth Centre.
+The 3D virtual shipyard technology will connect all the people working on the projects, allowing them to see what they’re working on through virtual reality.
+It will help connect the supply chain, train the workforce and manage ships and boats over their entire life cycle.
+So where’s 3D printing headed next? Maybe Mars.
+NASA says it would probably need to send large-scale 3D printers to Mars to prepare for settlers. The agency has been working for a few years on habitats for deep-space exploration, including for a mission to Mars.
+NASA would have to use whatever it can find on the Red Planet, so it might be that you pour Martian soil in, and print out a building.
+And by then, if explorers’ organs fail in the alien atmosphere, they might be able to just print out new ones.TORY SHEPHERD IS IN DALLAS AS A GUEST OF DASSAULT SYSTEMES
+CREDIT: TORY SHEPHERD
+Word count: 848

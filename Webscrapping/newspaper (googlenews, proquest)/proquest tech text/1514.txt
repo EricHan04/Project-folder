@@ -1,0 +1,24 @@
+A new research and development project is underway to develop products to help growers map their soil constraints in three dimensions across the paddock.
+The products will use machine learning to map constraints such as sodicity, pH, salinity and gravel, and determine the depth at which these constraints become limiting and impact plant available water capacity (PAWC).
+The three-year, $2.6M project has investment from the Grains Research and Development Corporation (GRDC) in partnership with the University of Sydney and will work with leading Australian AgTech business PCT AgCloud to bring the new products to market.
+Once commercially available, the products will help growers and advisers to better predict crop yield variability, pre and in-season, and make decisions on management options such as inputs and soil amelioration.
+The University of Sydney's professor Thomas Bishop, academic director of the Sydney Informatics Hub, said machine learning approaches can harness the large amount of digital data available to growers and consultants from a range of sources.
+"The data for this project comes from publicly available soil and climate databases, satellite-derived information and on-farm surveys and monitoring, which can be analysed for improved decision-making on-farm," Prof Bishop said.
+It builds on a pilot project by GRDC and the University of Sydney which developed the initial machine learning models to map soil constraints and PAWC.
+"This project will validate these models in more environments and scenarios and develop constraint-limited PAWC maps based on site and crop dynamics.
+"The initial project tested the approach on four farms. In this new project we will scale out to 75 farms Australia-wide for further testing across a range of soil, climate and farming systems.
+He said it will also develop improved sampling strategies based on soil constraint maps, PAWC maps, and 'uncertainty' maps, and deliver this information to growers and agronomists through PCT AgCloud mapping products that aid soil management and input decisions.
+"For areas where a lot of soil constraints data exists, one product will use freely available satellite imagery, modelled estimates, and other historical training data to enable users to try out mapping their paddock soils in 3D.
+"For areas where little data exists, a premium version will generate custom 3D maps of key soil constraints, depth to soil constraints and PAWC for any paddock where soil test and precision ag data has been uploaded.
+"The maps will be provided in a standard electronic format to be used to guide variable rate management for soil amelioration.
+"Additionally, spatially optimal soil sampling sites will be determined for a given paddock or farm using our modelling approach, which will give growers an understanding of the type, depth and location of soil samples required to achieve the model accuracy needed for the 3D mapping and amelioration of constraints."
+The project also builds on a previous GRDC investment with consultants Colere Group, which similarly identified the benefits from integrating 'off-farm' data layers, such as remotely sensed products, and national climate and elevation dataset, with on-farm data such as soil test data and yield maps for soil constraint mapping.
+GRDC manager Transformational Technologies Liam Ryan said the project aimed to provide growers with a cost-effective, accurate, and easily scale-able approach to aid key decisions on soil inputs and amelioration.
+"GRDC's pilot project with the University of Sydney and PCT AgCloud highlighted the potential of this approach," Mr Ryan said.
+"Now, this new investment with the University of Sydney and PCT AgCloud will develop these models into scale-able user-friendly products to assist with key soil management and input decisions.
+"It is really pleasing to have world-class soil scientists working closely with a world-renowned commercial company to scale impactful science for the benefit of Australian grain growers.
+"Effectively, this work will enable growers to map PAWC 'bucket size' spatially with ease, and then overlay depth to constraints maps to generate spatial data on 'effective bucket size' across their paddocks."
+The project started in June 2022 with nationally applicable PAWC and depth-to-constraint products expected in mid-to-late 2024.
+Source: GRDC
+CREDIT:
+Word count: 664

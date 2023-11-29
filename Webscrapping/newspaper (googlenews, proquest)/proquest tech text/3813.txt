@@ -1,0 +1,23 @@
+ASX-listed minion AML3D will print a 150kg mandrel tool at its Edinburgh Parks facility in South Australia and ship it to Boeing’s Seattle facility by mid-July, where it will be assessed and tested for its mechanical properties, internal soundness, vacuum integrity and to assess AML3D’s ability to produce to Boeing specifications.
+Boeing currently uses 30-meter long, heavy traditionally-fabricated mandrel tools to build parts of the fuselage on aircraft and spacecraft.
+AML3D’s $50,000 order is for a one-meter-long replica version using a nickel-iron alloy called Invar-36, which works for wire additive layered printing and doesn’t expand when heated, retaining the accuracy needed to tool aircraft parts.
+AML3D’s patented wire additive manufacturing process works on its Arcemy printers, which combine welding, robotics, metallurgy and 3D computer-aided drawings to produce metal parts for the defence, maritime, aerospace and resources sectors.
+The technology first came to Boeing’s attention in 2018, a year after AML3D received a $495,000 grant from the Federal Government’s Accelerating Commercialisation program.
+In 2017, Boeing contracted Norway business Norsk Titanium to make 3D-printed titanium parts for its Boeing 787 Dreamliner.
+“When the US Federal Aviation Administration approved the 3D parts by Norsk, which do wire additive manufacturing like us, we knew it was great for us,” AML3D managing director Andrew Sales said.
+“We are excited that we are one of just two in the world that can make products to this scale and size.
+“Boeing are very interested in us for 3D printing the tooling molds.”
+Mr Sales said Boeing’s technical team had made a number of visits to Adelaide since 2018.
+“We are also quite interested in making the non-flying parts, or tooling equipment, which is used by all aerospace companies.
+“It’s a large market with shorter certification times and if we can be a preferred supplier through the additive process, we’ll look to move into the US eventually.
+“In the auxiliary, non-fly tooling equipment, revenue comes quicker because the requirements are not as stringent as flying parts.
+“The significance of this initial purchase contract from Boeing is high given the size and credibility of the counter-party together with the potential commercial benefits of future collaborations with the group,” he said.
+“It’s a key opportunity to showcase our ability to produce parts on time and to specification with a high-quality customer as the world adapts to 3D printed solutions in addition to traditional manufacturing.”
+“Boeing is proud of the broad and deep supply chain we have developed in Australia,” a Boeing spokesman said.
+“We always look for suppliers with great capabilities so that we can continue to provide our global customers with the best solutions in the aerospace industry.”
+The three main revenue streams for AML3D remain contract manufacturing, sales of Arcemy and software licensing.
+Mr Sales owns more than 30 per cent of AML3D, which listed on the ASX in April last year at 20c per share and raised $7m in October via a private placement to fund business development initiatives.
+Current clients include defence suppliers like SA business Rowland Metalworks and WA-based iKAD, shipbuilders ASC and Austal and 3D printing specialists Thyssenkrupp and Wilhelmsen, 3D Printing Corporation and AdditiveNow.
+Its largest product to date is the 1400kg, 3D-printed carbon steel panama chock, used to guide mooring ropes on ships and other marine vessels, for Singapore’s Keppel Corporation.
+AML3D shares closed 14 per cent higher at 20.5c.
+Word count: 537

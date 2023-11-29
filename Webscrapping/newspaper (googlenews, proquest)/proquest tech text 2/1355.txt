@@ -1,0 +1,12 @@
+SCHOOL kids at risk of bullying and self harm are now being red flagged by sophisticated artificial intelligence software which allows teachers to spy on what students are typing online.
+The uptake of the new technology comes as school cyber security experts report a surge in problematic behaviour from sexting to online bullying this year following the Covid-19 school shutdown.
+The software was developed by Australian company Saa­syan and uses artificial intelligence to identify words in emails, online chats and Google searches to alert teachers to students who may be suicidal or cyber-bullying others.
+The South Australian Department of Education is using it in every single one of its schools.
+Saasyan chief executive Sidney Minassian said the technology had proved popular because it took internet monitoring one step further by harnessing the power of AI to identify the context of words and phrases students used.
+“By applying all our smarts analytics, schools can see searches the kids are doing, for example if they’re searching ‘how long will I be locked up for if caught with drugs’ and you’re able to identify those children,” Mr Minassian said.
+It also uses “near term” analysis to identify problematic words that were deliber­ately spelt incorrectly to avoid detection while “natural language processing” performed by artificial intelligence was used to red flag concerns for teachers.
+“With a phrase like ‘you’re not funny, stop posting’ – none of those words are inherently negative or mean but ­artificial intelligence is able to pick up that it may be bullying and flag it with a teacher.” The analysis software is only used in school owned ­devices and computers – and is not used in students’ own personal mobile phones.
+That means it only captures just the tip of the iceberg when it comes to a child’s daily online interactions but Mr Minassian said feedback over the past 12 months from schools revealed they had picked up a litany of issues.
+Cyber safety expert Susan McLean said there was not a school in Australia which was not struggling to deal with the fallout from ­online learning last year. “There is certainly an explosion of issues in all sorts of schools we can link back to learning from home last year,” she said. lifeline 13 11 14
+CREDIT: CHRISTOPHER HARRIS
+Word count: 381

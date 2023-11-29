@@ -1,0 +1,15 @@
+With the earth heating up and burning due to carbon emissions, who wouldn’t be keen on going solar to generate electricity?
+The technology’s getting better. Panels are cheaper and easier to come by, but solar still seems a long way off from making sense for individual power generation.
+To get an idea why, read Transpower’s 2019 Te Mauri Hiko report, which focuses on solar power. It makes for interesting reading and puts solar in perspective, albeit one that is provided by a grid operator with a vested interest in building on the status quo.
+In summary, New Zealand gets plenty of sun and there’s plenty of space to put up panels to generate considerable amounts of energy. By 2050, solar is expected to be cheaper than gas and wind, Transpower reckons. Yes, solar makes sense. If so, why aren’t we all going solar?
+The economics of solar currently remain difficult for smaller installations. To store energy you need batteries and they’re expensive.
+I asked a Meridian-approved supplier to provide a quote for a five-kilowatt system, using 275-watt photovoltaic panels. It came out at a shade under $30,000, with the 14kW Tesla Powerwall 2 accounting for half of the cost.
+Realistically, I probably need more powerful panels and two Tesla batteries. So it looks like I’m stuck with Meridian’s expensive electricity at 37c/kWH and $2.15 daily charge until I can DIY a less pricey, smaller scale solar set up.
+Without batteries, Transpower’s figures show that rooftop solar-generated electricity at 22c/kwH is a bit cheaper than the average retail power price of 27c/kWh in NZ.
+But batteries are a must for solar to succeed. Maybe graphene nanotubes and improvements to electrolyte liquids will boost the price-performance ratio of solar power generation batteries in the future, provided they can be mass produced cheaply enough.
+Meanwhile, Transpower suggests large-scale utility generated solar that’s battery-backed gets us to around 23c/kWh retail pricing currently.
+That, and the tens of millions of dollars of savings that South Australia saw where massive Tesla batteries were added to the grid, suggests large utilities can avail themselves of economies of scale not available to individuals.
+Because of that, dreams of unhitching the mains grid in favour of full solar-only power are for the wealthy only. Transpower calculates the average household needs a big (51kW) rooftop system that would cost more than $100,000 to buy and install.
+That’s after slashing household energy demand by a quarter and adding a $28,000 fully-charged Nissan Leaf electric vehicle as a 40kWh battery to power household applications if you can get one for that. (A single Tesla Powerwall 2 provides 13.5kWh of usable energy in comparison.)
+Solar power holds the promise of sustainable energy generation that helps minimise carbon burning but we need to think about how it can be deployed economically.
+Word count: 467

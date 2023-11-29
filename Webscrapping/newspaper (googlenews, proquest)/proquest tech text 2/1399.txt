@@ -1,0 +1,53 @@
+The race to create self-driving ‘autonomous’ cars is on in earnest. But would you put your life in the hands of a computer chip? David McCowen reports The no-hands commute is edging closer to reality as Australian trials investigate ways of making cars talk to each other, as well as buses, trams and traffic signs.
+An upcoming study of connected vehicles will establish a virtual warning system across cars, public transport and emergency vehicles to warn motorists of road hazards and help prevent collisions in city centres.
+The technology will reduce congestion by managing traffic flow and enable in-car safety systems to automatically brake for red lights.
+Car-to-car and car-to-infrastructure communication is vital to making autonomous cars a possibility.
+Toyota’s Lexus luxury brand is expected to start a new wave of trials in Melbourne in coming weeks. The brand’s vice president of sales and marketing, Sean Hanley, said, “When it comes to autonomous vehicles Toyota is pressing even harder on the throttle.
+“We’re already involved in local trials of intelligent transport systems that are designed to improve road safety while reducing congestion, fuel consumption and emissions,” he said.
+“This involves testing advanced vehicle-to vehicle and vehicle to infrastructure communications on Australian roads.” Lexus and other brands offer limited hands-free driving on carefully chosen roads overseas, but not yet in Australia.
+The next step on the road to autonomous cars is likely to be smart motorways where motorists can hand steering control to vehicles away from pedestrians, intersections and oncoming traffic.
+American owners of Ford’s latest F-150 ute – the most popular car in the US – will be able to drive hands-free on some roads in coming months.
+The blue oval says more than 100,000 miles (160,000km) of “prequalified sections of divided highways called “Hands-Free Blue Zones” will be available to customers this year.
+Japan already has some smart highways allowing hands-free driving, and Britain is expected to establish new laws for self-steering cars this year that Transport Minister Rachel Maclean said are “a major step for the safe use of self-driving vehicles in the UK”.
+Such systems rely on vigilant supervision by drivers, even if the car is steering itself.
+But the road to autonomous vehicles could be a bumpy one.
+An Australian study questions the effectiveness of driver supervision, finding people are more likely to tune out behind the wheel if technology is doing part of the job.
+Overseas, Tesla’s provocatively named Autopilot driving assistance has been linked to the deaths of several customers attempting to drive hands-free.
+Professor Anina Rich, director of the Perception in Action Research Centre at Macquarie University, said existing technology bridging the gap to truly self-driving vehicles is flawed as people are likely to tune out when they aren’t directly involved in the driving process.
+“It turns out putting people in situations where they are not doing anything and just monitoring is really challenging,” she said.
+“It’s super hard for the human attention system to maintain that vigilance when you’re not doing anything.” Writing for Forbes in 2019, artificial intelligence and machine learning expert Dr Lance B. Elliot said semi-autonomous technology with steering and braking assistance in modern cars “fools you into falsely believing it can drive the car when the actual fact is that it cannot, and you must remain just as vigilant as ever”.
+The Tesla experience shows what can happen when customers become over-reliant on the car’s capabilities. America’s National Transportation Safety Board said an Apple employee who survived a serious crash with his Tesla in “Autopilot” mode was “likely distracted by a gaming application on his cell phone before the crash”.
+A 2017 study of Tesla drivers conducted by the Transportation Research Group at the University of Southampton and the VTI Swedish National Road and Transport Research Institute found drivers of cars with advanced driver assistance “demonstrate behaviour indicative of complacency and over-trust”.
+“These attributes may encourage drivers to take more risks while out on the road,” the study said.
+Bosch academic Liza Dixon said companies such as Tesla were guilty of “autonowashing” by exaggerating the capability of driver aids in new cars, leading to “considerable confusion among the public surrounding the capabilities of vehicle automation”.
+Emeritus Professor Ann Williamson of the University of NSW’s Transport and Road Safety research centre insists the reality of self-driving cars is decades away. “It’s hard to be confident that, come 2050, we are going to be all that close to some of the whiz-bang things that people have been talking about,” she said.
+“At the moment we are still struggling a bit with some of the technologies that are now in vehicles that are supposedly assistive and that aren’t quite there. They work sometimes, but quite often they don’t.
+“We can’t have that. The closer we get to autonomy, the promises we make to drivers need to be accurate.” Thomas Walsh, Ford’s head of autonomous vehicle partnerships, said Ford will offer driverless vehicle services in the US in 2023, though customers will have to buy a ticket to ride in a vehicle as opposed to being able to park one in their driveway.
+“For a number of reasons, they won’t be available for private sale upon launch,” Mr Walsh said.
+“So we will avail fleets of Ford owned autonomous vehicles to end commercial users, be they for either moving people or moving goods.” Autonomous vehicles are already common in mining and agriculture in Australia. Perth hosted one of the nation’s first on-road autonomous vehicle trials with the compact, pod-like RAC Intellibus from 2016, taking handfuls of passengers on brief tours of scenic areas. Volvo took part in a simple trial of lane keeping assistance and other features in Adelaide back in 2015, when the manufacturer told reporters autonomous vehicles would be available locally in 2020.
+Mercedes brought a team of experts and their prototype S-Class to Australia in 2017, where the team captured data from our highway system and struggled to see how Melbourne’s “hook turn” could apply to a driverless vehicle.
+The team’s leader, Jochen Haab, said at the time that driverless cars remain “some way off”, both in Australia and abroad.
+Prior to the coronavirus pandemic, carmakers tripped over each other to unveil lavishly finished driverless concept cars pointing to an autonomous future.
+Industry insiders say extravagant international motor shows may be gone for good, along with the idea people might want to commute into city-centre offices in confined spaces with strangers.
+Professor Williamson said it’s important to remember that “we have cars because humans need them”.
+“The whole idea of having a vehicle that can take you places and have you doing different things rather than sitting in the traffic – bring it on, please,” she said.
+“However, it has got to be done properly and safely.”
+DEFINING THE ISSUE SIX LEVELS OF AUTONOMOUS CAPABILITY LEVEL 0 Cars with features limited to providing warnings and momentary assistance, such as automatic emergency braking and blind spot or lane departure warnings. Almost all new cars have some of this tech.
+LEVEL 1 Cars that provide steering or brake/acceleration support to the driver, including lane centring or adaptive cruise control. Many new cars are available with this.
+Level 2 Cars that provide both steering and brake/acceleration support such as lane centring and adaptive at the same time. A few models are sold with Level 2 capability, particularly luxury cars.
+LEVEL 3 Cars that drive themselves when automated features are engaged, but only in limited circumstances when all required conditions are met, such as smart motorways in good weather. The tech is available in limited overseas areas, and not in Australia.
+LEVEL 4 Self-driving cars with features that will not require you to take over driving when activated, such as local driverless taxi services. Though there are limited public trials, Level 4 cars are not available for public purchase at home or abroad.
+LEVEL 5 Self-driving cars that can drive everywhere in all conditions. Likely to take the form of driverless pod-like vehicles, they will not have a steering wheel or pedals for human control input. The technology exists only in theory – no fully autonomous car works everywhere, all the time.
+Source: SAE International
+RIDING SHOTGUN FROM THE DRIVER’S SEAT As we edge out onto the busy freeway in Japan, the nerves begin to jangle. The steering wheel moves on its own, and it takes all my restraint not to make a grab for it.
+It’s like riding beside a learner or novice driver – you have to trust in their ability, but doing so isn’t always comfortable.
+I’ve driven priceless concept cars with futuristic cabins and engineering prototypes filled with more screens and sensors than an F35 jet fighter, but the Nissan sedan loaded with the brand’s latest ProPilot assistance suite feels oddly normal.
+Until it decides to overtake the car in front.
+The cutting-edge sedan does so smoothly, without any steering or throttle input on my part.
+This is what the car industry calls “Level 3” automation, described by Nissan as “on-ramp to off-ramp highway driving”.
+Limited to well-marked dual-carriageway routes with no pedestrians, traffic lights or intersections, the system is an advanced cruise control.
+Like an airline captain using autopilot, you set a destination and activate the feature, which then drives at a set speed while maintaining a safe distance from other vehicles.
+It works on simple dual-carriageway highways with no side streets or intersections.
+Though it is an impressive achievement, driving with complex assistance systems is not particularly relaxing, as you must vigilantly supervise the car’s driving and its environment at all times. DAVID McCOWEN
+CREDIT: David McCowen
+Word count: 1600

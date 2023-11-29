@@ -1,0 +1,48 @@
+They say biodiversity suffers as a result of too much land clearance, the native vegetation is scarce and there’s hardly anywhere left for the animals to flee.
+But Environment Minister David Speirs says the Government will not apologise for prioritising life and property when it comes to planning for the upcoming bushfire season.
+“Fire-hazard reduction can make bushfires easier to control, helping prevent a bushfire spreading and ultimately saving lives and property,” Mr Speirs said.
+“Prescribed burning is also used for ecological reasons such as protecting and maintaining animal habitats, regenerating plant species and improving biodiversity.”
+The National Parks and Wildlife Service completed 49 prescribed burns this autumn, including 10 “ecological burns”, bringing the total to a record 96 in a 12-month period.
+The previous record was 88, set in 2011-12, following the Victorian Bushfires Royal Commission.
+Across SA, the 2020-21 burns program was up 53 per cent on the previous season, with 6261ha burned compared to 4091ha – “a pleasing result” for Mr Speirs.
+He said the government was spending a record $37m over five years to significantly increase hazard reduction across the state as part of the $97.5m response to the Keelty Review into last season’s catastrophic bushfires.
+“Mick Keelty’s independent review of SA’s 2019-20 bushfire season highlighted the importance of undertaking hazard reduction on both public and private land,” Mr Speirs said.
+“This is why we have committed record funding to significantly increase the amount of prescribed burns we are doing, particularly in the Adelaide Hills and on Kangaroo Island.”
+The president of Nature Conservation Society of SA, Associate Professor Patrick O’Connor, calls it “revenge burning”.
+“There’s something very primitive in us that wants to revenge ourselves against big fires,” he said.
+“So, this issue comes up after we have a big fire, like the Kangaroo Island or the Cudlee Creek fires.
+“We want to burn the buggery out of the landscape as revenge. We don’t think about it as revenge but we definitely don’t want that thing coming back at us next year, so let’s knock it down, keep it down.”
+Dr O’Connor’s long-term research on woodland birds of the Mt Lofty Ranges shows the 45 per cent drop in abundance over 20 years has been “accelerated by inappropriate prescribed burning”.
+“We have 20 years of data for 60 species and it shows 37 per cent of species, mostly woodland specialists, were both declining and negatively impacted by recent burning,” he said.
+“We showed that retaining sufficient long-unburnt large patches in the landscape could reduce the accelerating effect of burning on bird declines.”
+Ecologist Associate Professor David Paton, from the University of Adelaide, agreed.
+“Everyone complains about wildfires and the harm to wildlife, but controlled burns are just as bad,” he said.
+“We burn many of our parks on a fairly regular basis through controlled burns to reduce fire risk but, you know, burning takes that habitat back from wildlife for ten or so years, and everyone assumes it goes back to what it once was. It doesn’t necessarily go back to that at all.”
+He’s particularly upset about the autumn ecological burn at Newland Head Conservation Park, on the Fleurieu Peninsula, where 165ha was burnt rather than 25ha at a time, spaced out.
+“I knew that there were birds breeding, they had nests with chicks in them, inside the area they burned,” Dr Paton said.
+Retired ecologist and conservation volunteer Craig Baulderstone can see the benefit in slow, careful burns to support landscape restoration, but has been frustrated by the Environment Department when trying to organise burns on the areas he looks after.
+“I’ve been told when requesting an area to be burnt for a specific ecological reason that ‘we can’t do that because we need to burn large areas to keep up with our quota of what we need to get burnt in a year – a number we can’t keep up with now’ and no matter what resources they have, follow up is totally inadequate,” Mr Baulderstone said.
+“But it’s better than it was and the burning, I think, is still largely beneficial so I’m careful with my criticism.”
+As a landholder and member of the bandicoot recovery team, University of Adelaide wildlife ecologist Dr Jasmin Packer has been involved in many conversations with the Environment Department over prescribed burning.
+“I have deep respect for the position that they’re in because of the policy drivers and the balance they are trying to reach,” she said.
+“They are good people doing the very best that they can in a very challenging space.”
+Acting director of fire management for the National Parks and Wildlife Service in SA, Richard de Groot, said the purpose of fuel-reduction burning was “to make bushfires easier, safer and cheaper to control”.
+“Burning at a landscape scale, located distant from property and settlements, can mitigate bushfire threat and make it easier to suppress fires that could gain momentum and spread to settled areas,” he said.
+“There is a considerable published research that suggests prescribed burning undertaken away from assets and the urban interface zone can significantly reduce the risk of losses to assets and habitat.”
+But no matter how much burning is done ahead of bushfire season, there is no stopping fires that start in the extreme weather conditions becoming more frequent and intense with climate change.
+As the Keelty Review stated: “While many have asserted that greater hazard reduction would have mitigated the 2019-20 SA bushfires, expert opinion suggests that the weather conditions were so extreme that no level of hazard reduction would have prevented the fires.”
+NEW APP TO PREDICT BUSHFIRES
+Using artificial intelligence and machine learning, Adelaide research is finding new ways to predict bushfires and to make better use of firefighting equipment.
+Following recent success at the Bushfire Data Quest 2020, the Australian Institute for Machine Learning at the University of Adelaide is creating a new app to feed the AI even more data.
+Advanced Reasoning and Learning director Professor Javen Shi said the “citizen scientist app” would capture photo evidence of fuel loads, dryness and structure of forests.
+“AI is a super machine brain that can handle a lot more than a human brain and can predict the future much more accurately,” he said.
+“Human experience and intuition is not very reliable, but the AI can advise you on how to stop the fire, how to intervene, with limited resources.”
+The app called NOBURN (National Bush Fire Resilience Network) has won an Australian Government Citizen Science Grant of almost $500,000 to support its development over the next four years.
+The institute is working with forestry experts at the University of the Sunshine Coast.
+Together they plan to identify communities most at risk ahead of the fire season.
+Their winning Bushfire Data Quest team developed a fast and accurate way to predict bushfire burn areas using “deep neural networks” to capture complex patterns in data.
+PhD candidate Mahdi Kazemi said the model was “able to allocate a risk factor, a burn probability, for every single pixel of an image captured by a satellite”.
+“Our model was also able to predict with 88 per cent accuracy the burn area of a fire.”
+AA – Caring friends of parks
+Twitter follow Clare Peddie
+Word count: 1158

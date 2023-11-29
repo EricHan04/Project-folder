@@ -1,0 +1,11 @@
+The trap of AN0M
+THE HANDSET A mobile phone stripped of most functions – it couldn’t make calls, look up maps, send emails or access internet. Used a foreign SIM card to connect to Australian mobile networks, avoiding domestic laws requiring identification to obtain a mobile phone service.
+THE APP Pre-loaded on to handsets and opened when criminals entered their pin into the device’s calculator. Users could send and receive self-expiring encrypted texts, photos and short videos. Also operated as an encrypted walkie-talkie and users could distort their voices.
+THE COST Handsets cost between $1500 and $2500, which included a six-month subscription. They were purchased from underground distributors and resellers who were trusted by users to be discreet and not associated with law enforcement. Subscription renewals cost $1000 to $1500 for each six months.
+THE KILL SWITCH A duress pin could be entered to wipe the device if a user was ordered by police to unlock the handset or asked for the password. AN0M also had a stealth mode which disguised the handset as a regular mobile phone (with bogus apps).
+THE ARROGANCE Crooks trusted the security of AN0M implicitly and police claim they used it to communicate openly about murder plots, massive drug deals and money laundering.
+THE BOTS Artificial intelligence was built to constantly monitor and alert the AFP to identify words like "kill" and "kil", translate foreign and coded communications and even determine whether the tone was serious or not.
+THE MESSAGES Millions of messages were being stored on secret law enforcement servers.
+THE INSULT The app was a ruse and crooks’ subscription fees were going directly into the pocket of law enforcement.
+THE STING The AFP received copies of messages at the same time as intended recipients. The messages could be decrypted and read by the AFP. Voice alteration could be reversed.
+Word count: 307

@@ -1,0 +1,22 @@
+Adelaide-based aerial mapping firm Aerometrex says it has noticed more demand for three-dimensional imagery.
+Adelaide-based aerial photography company Aerometrex is expanding its coverage in Australia and opening a office in the United States amid growing demand for aerial imagery.
+The Nearmap competitor listed on the ASX last month following a $25 million initial public offering, funds it plans to use to fuel its growth.
+Its shares were trading at $1.88 at 1235 AEDT on Tuesday, down 2.8 per cent on the day but still up 88 per cent on its IPO price.
+The 92-employee company is now flying four times a year over each Australian capital city in light twin-engine aircraft after buying two more planes in October, taking its total to eight.
+It flies once a year over regional centres and on-demand in rural and outback Australia.
+Automatic cameras built into the floor of the planes ensure an unobstructed view, said managing director Mark Deuter.
+The images are fed to Metromap.com.au, Aerometrex's subscription-based website.
+Aerometrex also uses plane-mounted LIDAR - long-range laser scanners - to map terrain, as well as helicopter surveys to create maps in three dimensions.
+"The 3D capability is really taking off," Mr Deuter said.
+The company's scans are used for Google Maps and Bing Maps' 3D capabilities in Australia, powering scrollable imagery that shows tall buildings from multiple angles.
+"People take to 3D very intuitively, they understand what they're seeing," Mr Dueter said.
+The company has completed recently major 3D scans of lower Manhattan and Philadelphia in the USA; Paul, France; and Karlsruhe, Germany.
+The camera systems used for 3D capture are relatively lightweight and inexpensive and can be used with locally sourced helicopters, so there is no need to relocate the company's aircraft.
+"If you have enough intersecting light lines from enough angles, you can actually build a geometric model using triangulation, and then you can render the imagery over the whole geometric model to make a photorealistic map," Mr Deuter explained.
+Aerometrex was founded in 1980 and has actually been offering its 3D scans for years, but was somewhat ahead of its time and it was only recently that clients had the technology to take advantage of them, Mr Deuter said.
+The company has a market capitalisation of $181 million and made a $2.6 million net profit after tax last fiscal year on revenue of $16.1 million.
+Its clients include local governments, mining companies, engineering firms and property developers, and it hopes to sell its 3D imagery to game companies and movie studios.
+Still, RBC Capital Markets analyst Garry Sherriff said in a recent analyst note that he didn't see the company as a threat to Sydney-based industry leader Nearmap, which has a market cap of $1.1 billion and made $77.6 million in revenue in FY19.
+"We believe the Australian market is big enough to have 2-3 large players and that NEA will firmly remain number one in the Australian market in the medium-long term."
+CREDIT: Derek Rose
+Word count: 495

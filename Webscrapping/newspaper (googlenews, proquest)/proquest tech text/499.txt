@@ -1,0 +1,11 @@
+FLINDERS University’s new solar car has been likened to Elon Musk’s cybertruck, while the growing fleet of electric vehicles will function as another battery.
+The FAST (Flinders Automotive Solar Team) car, Investigator IV, will compete in the 2023 Bridgestone World Solar Challenge from Darwin to Adelaide.
+Lonsdale manufacturer Redarc Electronics is an industry partner, collaborating on both the car and an educational solar model kit for South Australian schools. FAST project manager and digital technologies senior lecturer Andrew Marshall said a clip from Elon Musk became the catalyst for the new vehicle, “both as the starting point and ongoing inspiration for Investigator IV’s design direction”.
+“From the short overhang and futuristic front end, to the distinctive, extended flat rear tail section and with the centrally positioned oversized touch screen inside the cabin, the Musk influence was clear to see within all aspects of the vehicle design,” he said.
+He said the student-led engineering team was improving on the previous design, Investigator Mark III, increasing the battery capacity by almost double and solar efficiency by 30 per cent.
+“(They’re also) making the car lighter and improving driving performance by decreasing rolling resistance, increasing aerodynamics and range, while improving handling, which together will produce a significant increase in the performance,” he said.
+Flinders University engineering student Nishant Bazzad said the solar car program gave him the opportunity to learn about industry-standard software used in engineering such as modelling and 3D simulations.
+“I have been able to apply my engineering skills to real-world problems while also maintaining proper engineering documentation, which are highly sought-after skills in industry,” he said.
+The university’s fleet cars at Bedford Park will soon feed renewable energy they have stored into the state’s electricity grid during the early evening, as part of an industry collaboration with Redarc. The 20 two-way V2G electric chargers at Bedford Park will discharge about 100kW into the grid over four to five hours after 5pm, releasing solar power stored during the day before filling up on wind power overnight.
+CREDIT: CLARE PEDDIE
+Word count: 338

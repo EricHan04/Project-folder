@@ -1,0 +1,21 @@
+The Hubble Space Telescope has finally returned to full operations after more than a month of communications issues caused by an outage.
+NASA said the ageing telescope is now operating with all four active instruments collecting science data for the first time since late October.
+The space agency finally switched on Hubble's Space Telescope Imaging Spectrograph (STIS) on December 6, after successfully recovering another three instruments over the course of the last six weeks.
+Hubble, a joint project of NASA, the European Space Agency (ESA) and the Canadian Space Agency (CSA), has been observing the universe for over three decades.
+Since its launch in April 1990, it's taken more than 1.5 million observations of the universe, and over 18,000 scientific papers have been published based on its data.
+It orbits Earth at a speed of about 17,000mph (27,300kph) in low Earth orbit at about 340 miles in altitude, slightly higher than the International Space Station (ISS).
+Hubble is set to be superseded by the James Webb Space Telescope, which is set to launch into space later this month after a quarter of a century in development.
+Scroll down for video
+NASA images issued in July 2021 shows the Hubble Space Telescope drifting over Earth on May 19 2009
+NASA dismissed fears the Hubble space telescope 'is beyond repair,' insisting there are multiple options to fix it weeks after a computer glitch caused it to shut down. Pictured, astronauts F. Story Musgrave (right) and Jeffrey Hoffman, inside the shuttle payload bay, during Hubble's first servicing mission in 1993
+HUBBLE'S ACTIVE INSTRUMENTS - Advanced Camera for Surveys (ACS) Recovered November 7 - Wide Field Camera 3 (WFC3) Recovered November 21 - Cosmic Origins Spectrograph (COS) Recovered November 28 - Space Telescope Imaging Spectrograph (STIS) Recovered December 6 Advertisement
+The issue started at the end of October when Hubble experienced a glitch that caused some of its functions to stop working.
+Its instruments went into 'safe mode' after it experienced 'synchronization issues with internal spacecraft communications', NASA announced on October 25.
+'NASA's Hubble Space Telescope team recovered the Space Telescope Imaging Spectrograph [STIS] on Monday, Dec. 6, and is now operating with all four active instruments collecting science,' NASA says in an update on Tuesday.
+Spectrographs practice spectroscopy, the science of breaking light down to its component parts, similar to how a prism splits white light into a rainbow. STIS provides Hubble scientists with detailed spectral data for a variety of celestial objects.
+The first error codes on the Hubble's science instruments were issued on October 23, 'indicating the loss of a specific synchronization message', i.e. a continuous data stream between two systems.
+Engineers working on the Hubble reset the instruments and science operations were resumed the following morning.
+But a second set of error codes were issued on October 25, again indicating the loss of a specific synchronisation message. Subsequently, the instruments went into safe mode.
+When the Hubble is in safe mode, it does not observe any celestial objects or collect data, but it is still powered up.
+NASA has started to turn on parts of the Near Infrared Camera and Multi Object Spectrometer (NICMOS) instrument to look for 'potential workarounds' on why the Hubble detected a loss of specific data synchronization messages. First installed in 1997, NICMOS has been inactive since 2010
+'The team has still not detected any further synchronization message issues since monitoring began November 1,' NASA says in Tuesday's update.

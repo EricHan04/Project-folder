@@ -1,0 +1,12 @@
+FINTECH company Tic:Toc believes its newly launched software product has the potential to revolutionise the banking sector as it adapts to major changes in the way customer data is controlled and shared.
+The Adelaide start-up has unveiled a new product, XAI Validate, which uses artificial intelligence and machine learning to automate the validation of customer data and provide insights for both lenders and their customers.
+It will offer the product to banks and other lenders as a software as a service product.
+Tic:Toc launched its online home loan platform in 2017, digitising the application process and reducing the time needed to approve a loan “from 22 days to 22 minutes”.
+Chief executive Anthony Baum said the time was right to offer other lenders access to the company’s data modelling capabilities.
+“With all the responsible lending regulatory changes and the start of open banking in Australia, it is the proprietary technology that we’ve developed as part of our validation model we’re taking that part of the platform to the industry,” he said.
+“The product is truly revolutionary – the aggregators sell data to the banks, wealth managers and brokers, but the difference with our technology is that it enables the integration and automation of the use of that data through our AI.
+“For example, if a customer submits their stated financial position, our automated platform matches it with the data in their accounts ... to work out if they are significantly similar, and if not, it allows a human to resolve any queries or differences.” Mr Baum said he was in the final stages of negotiating a reseller agreement with a “major industry player” to help with distribution of the new product. The launch of XAI Validate follows a tightening of responsible lending rules in the wake of the banking royal commission, underlined by ASIC’s updated guidance issued in December.
+It also coincides with the rollout of open banking, which gives customers control of the data financial services firms hold about them. Mr Baum believes technology has a crucial role to play in facilitating the major changes facing the banking sector.
+“The industry expects open banking to become the norm globally,” he said. “With what we do, we believe we can be a world leader in that.”Tic:Toc employs more than 70 staff at its North Tce offices.
+CREDIT: GIUSEPPE TAURIELLO
+Word count: 390

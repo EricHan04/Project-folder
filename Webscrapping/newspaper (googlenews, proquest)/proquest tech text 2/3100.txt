@@ -1,0 +1,11 @@
+DEFENCE has quietly signed over the storage of its secrets to a Chinese-owned company, prompting fears valuable restricted details of our military’s inner workings could now be accessed by the increasingly hostile foreign power.
+For years, data storage firm Global Switch has been tasked with storing the nation’s military secrets at facilities in Ultimo in inner Sydney, but that changed when in 2016 the London-based parent company Aldersgate Invest-ments sold a 49 per cent stake to a Chinese data tech consortium.
+Defence’s contract with Global Switch was due to ­expire in October last year, but in a new contract tendered to federal parliament yesterday, it was revealed that the contract was instead extended until September 2025.
+The re-signing came at a cost of $53.5m, about $250,000 over the original quote. This was despite then treasurer and now Prime Minister Scott Morrison in 2016 ordering all the sensitive data be moved out of the Ultimo warehouse facility by the end of 2020.
+It is understood the storage warehouse has an Australian Signals Directorate-accredited gateway to allow secure access by Defence staff to protected and restricted documents.
+These could include sensitive data such as personnel files, commercial-in-confidence contracts and Defence decision-making notes.
+Mr Morrison told Parliament he was more comfortable with the contract now given some of the more sensitive documents were removed from Global Switch to a purpose-built facility, and that “Defence was now progressing work consistent with this strategy to migrate less-sensitive and unclassified data assets to an alternative data centre”.
+Security expert Peter Jennings from the Australian Strategic Policy Institute questioned whether this was good enough, and said there were concerns as far back as 2016 the data could be remotely accessed by a “hostile actor”.
+“Some mitigation is possible – tapping into government ­information being the owner of a data system is a great way to start you on that journey,” Mr Jennings said. “Frankly, we know they are interested in this stuff because they work on systems they don’t own to aggressively try to get information.”
+CREDIT: CHARLES MIRANDA
+Word count: 343

@@ -1,0 +1,14 @@
+British researchers have developed technology that provides early warning of lameness in sheep caused by diseases such as footrot.
+A team at the School of Veterinary Medicine and Science at the University of Nottingham has developed a prototype tagging and monitoring system that detects lameness when sheep are standing, lying and walking.
+The technology was developed by Associate Professor in Epidemiology and Farm Animal Health Jasmeet Kaler, along with Intel and agricultural software developer Farm Wizard.
+Lameness is the biggest health and welfare problem on United Kingdom sheep farms with more than 90 per cent of producers reporting lameness in their flocks, most of which is caused by footrot, a bacterial infection.
+As sheep are "prey" species, they are likely to mask signs of lameness when they feel threatened or disturbed, which can make early detection more difficult.
+The smart technology consists of a sensing device worn on a sheep's ear tag that gathers accelerometer and gyroscope data, effectively tracking the animal's behaviour and movement and its way of walking.
+The algorithms are used to create different alerts for farmers.
+For all three activities - standing, walking and lying - the study identified features that differed between lame and non-lame sheep.
+The results suggest that instead of affecting how much of an activity lame sheep do, it shows they actually carry out activities differently, leading to a change in acceleration and rotational movement.
+"Our study has shown conclusively there are behavioural differences between lame and non-lame sheep when walking, standing and lying," Dr Kaler said.
+"This has been the first report of its kind and given lameness classification is possible within all these activities, this helps to improve the accuracy as well as flexibility in terms of energy requirements.
+"This automated system for lameness detection can help improve sheep health and welfare on farms."
+CREDIT: Vernon Graham
+Word count: 307

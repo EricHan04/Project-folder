@@ -1,0 +1,4 @@
+NO MATTER how good you get at virtual car racing, a bot can do it better, according to Sony researchers.
+They developed an artificial intelligence agent that can play Gran Turismo, the virtual car racing game.
+The AI is able to race against other vehicles, factoring in the strategy necessary to pass other vehicles, choose new lines when blocked by ­opponents and avoid incurring penalties for poor racing ­etiquette. The AI beat four of the world’s best human Gran Turismo drivers.
+Word count: 82

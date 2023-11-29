@@ -1,0 +1,17 @@
+The cyber attack on the computer software underpinning the Australian wool trade shows how vulnerable agriculture is to malicious hackers, according to a Charles Sturt University academic.
+Associate Professor Lihong Zheng from the university's School of Computing and Mathematics and Graham Centre for Agricultural Innovation said the number of large and successful ransomware attacks had increased dramatically in recent years.
+The ransomware attack on the wool selling system's main IT provider, Talman, halted sales for over a week and caused turmoil in the industry.
+The computer software is used for things like collation of wool test data, sale cataloguing and valuations.
+"Malware is code that is designed to maliciously disrupt the normal operation of, or cause harm to, a network or user's computer, phone, tablet, or other device," Professor Zheng said.
+"The ransomware cyber attack on the software used by the wool auction system is a type of malware," she said.
+"Once infected, it encrypts the files on a user's device or a network's storage devices. To restore access to the encrypted files, the user must pay a sum of the Monero cryptocurrency.
+"Ransomware can be distributed through a malicious file attached to a phishing email, a malicious URL link in the body of an email, an infected USB device, or a vulnerability in the device's operating system or installed applications.
+"The ransomware program will be delivered to the device and starts to encrypt files as soon as the attachment is opened or upon clicking the URL link."
+Professor Zheng said agriculture in Australia today was a very sophisticated and highly technical industry and there were steps that individuals and organisations should take to reduce the risk of cyber-attack.
+"People should minimise visits to unknown websites, disable macros in Microsoft Office, install and regularly update anti-virus and anti-ransomware software and install a firewall to stop traffic from untrustworthy sources getting onto your device," Professor Zheng said.
+"The farming sector has applied more innovative and cutting edge technologies of artificial intelligence (AI), wireless densor networks, cloud computing, and the Internet of Things (IoT) to ease their daily work, reduce losses or improve the yield quantity and product quality.
+"As the number of connected-to-IoT devices increases, these devices are now poised to become more pervasive in our lives and security concerns are exponentially multiplied.
+"Being on the internet means we're always sharing some kind of data. We may not be able to stop a company from getting hacked but we can limit how much information we share.
+"It's important to keep your operating system and software up to date, back up your data, and back up your backup, as well as using multiple security layers."
+CREDIT: Vernon Graham
+Word count: 446

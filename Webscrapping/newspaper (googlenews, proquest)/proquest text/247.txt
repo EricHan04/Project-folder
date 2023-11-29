@@ -1,0 +1,36 @@
+Futuristic warfare technology dreamt up by authors and scriptwriters is now being brought to life here in South Australia to give our troops the battlefield edge, Renato Castello reports.
+CHAMELEON-like camouflage - similar to that used by the alien warrior in Hollywood blockbuster Predator - is being developed in world-leading South Australian research that could render combat vehicles almost invisible.
+Researchers from the University of SA and the DSTG will next week present to defence industry officials from around the globe the results of a trial of vehicle-mounted adaptive camouflage technology that would allow vehicles to change colour at the push of a button.
+The adaptive camouflage concept came to prominence in the Arnold Schwarzenegger sci-fi thriller Predator, in which a camouflaged alien stalks US soldiers in the Amazon jungle.
+The UniSA wizardry, funded by the Australian Defence Force and developed in conjunction with the Defence Science Technology Group's Vivienne Wheaton, works by the manipulation of electrically charged polymer cells, placed between glass, polycarbonate or polymer sheets.
+With just a small amount of applied voltage the polymer cells can change colour, adapting them to different environments.
+A small scale trial of the technology, in which a hand-held array of fixed glass panels was placed over a mock-up military vehicle, was conducted at the ADF's Cultana raining Area, near Whyalla, in February.
+UniSA Future Industries Institute Professor Peter Murphy - who along with colleague Dr Kamil Zuber and Ms Wheaton will present results of the trial at the Future Land Force conference at the Adelaide Convention Centre tomorrow - said the cloaking technology was the "holy grail" of camouflage.
+"What this technology will allow us to do is put an array of panels on a vehicle and they will have the capability to change colour in real time," Professor Murphy said.
+"Currently if a vehicle moves from a woodland to a desert environment they would be very exposed, this lets them change colour quickly.
+"What we would ideally like to have is panels that are flexible, lightweight, which can also be removed but also deployed quickly." Professor Murphy's team from October will begin developing a flexible polymer product, which could potentially allow the panels to be wrapped around vehicles or ships.
+"The human eye is a brilliant device, and hiding something completely from it is virtually impossible," he said.
+"What you could do is make a large object effectively invisible at distance. "And by that I mean not close-up.
+"In the infra-red spectrum, where night-vision goggles work for example, genuine invisibility may be more attainable, as this uses image enhancement technology to process the signal received into a format that the eye can interpret.
+"The conducting polymer cells we are developing do also work in the infra-red, but are still to be optimised in this region." He said deploying the technology in uniforms was "a lot further off". But he said applications for the technology could also extend to household items, such as furniture, allowing consumers to change the colour of a chair depending on their preference.
+The Future Land Force Conference is part of the Land Forces 2016, which is the largest land defence exhibition and conference in Australia.
+An estimated 11,000 visitors are expected across three days from September 6-9.
+EXOSKELETON NO matter how fit a soldier is, lugging around a backpack weighing at times 60kg can be a pain in the back.
+A heavy backpack carried over long distances can cause fatigue, pain and injury that affects a combat troop's performance.
+DST Group researchers have developed an operational exoskeleton (OX) that has the ability to literally take a weight off the shoulders.
+Chief Defence scientist Dr Alex Zelinsky said the OX, which weighs about 4kg, has the ability to reduce the weight of a 60kg load to 20kg.
+"This is done through a very unique design using robotic designs, ideas and pneumatics and projecting the force through to the ground," Dr Zelinsky said.
+"We're now working on how to turn this into a more operational concept. "It's now in the hands of an industrial design house to help refine the next version of the exoskeleton and take it through to trials."
+STAB-PROOF VEST A SIMPLE childhood experiment takes cornflour and mixes it with water to create a compound that turns solid when pressure is applied but reverts to a liquid goop if left alone.
+It's this principle of non-Newtonian chemistry that is being touted as the next generation of body armour in protecting troops, police or even prison officers from a bullet or knife.
+Polish company Moratex has developed a bulletproof vest that uses technology based on shear thickening fluids (STF), which can harden within milliseconds under impact but revert to a liquid state when not agitated. The fluid used in body armour is usually made of silica particles suspended in polyethylene glycol, a polymer commonly used in laxatives and lubricants.
+Research from the Defence Science Training Group has also shown if graphene oxide is added to the mixture stab resistance is improved compared with conventional STF-treated Kevlar.
+DRONE NATURE has examples of parasites that can turn animals into zombies, using mind-control to persuade the hosts to do their bidding.
+But a similar principle of "mind control" is being developed to counter an emerging threat to security - aerial drones.
+US counter drone developer, Department 13, will showcase its counter drone technology MESMER at Land Forces 2016.
+Department 13 has teamed up with Brisbane counter terrorism firm EPE to develop the technology for the Australian market.
+It uses radio frequency to take control of a drone (effectively 'mesmerising' the threat) and safely ground it, all without the knowledge of its operator. It does this by identifying the type of drone, tracking it and manipulating the controls by obtaining system information and "persuading" the drone to do its bidding.
+These could be drones delivering drugs into prison, undertaking surveillance of secure facilities, or those causing nuisance around public events or protected airspace, such as at airports.
+Robi Sen, chief technical officer of Department 13 said terrorist organisations such as ISIS are also using drones equipped with IEDs."We (US) have lost personnel in theatre to drones equipped with IEDs," he said.
+Credit: Renato Castello
+Word count: 1045

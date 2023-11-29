@@ -1,0 +1,57 @@
+The mobile communications peak body believes rural and regional Australians will reap the benefits of 5G and not be left with second rate technology, despite the heavy infrastructure requirements of the technology.
+CEO for the peak body representing Australia's mobile industry, Australian Mobile Telecommunications Association, Chris Althaus said Australia was at the forefront of worldwide 5G technology.
+"We have started to deploy 5G networks in the second half of 2019, and 5G will really start to get momentum in 2020 and beyond," he said.
+Mr Alathus said while for the first few years at least there would be co-existence between 4G and 5G technologies, but ultimately 5G would stand alone.
+"It is going to be driven substantially by networks and artificial intelligence, the sort of things that will make it a very different type of network," he said.
+"It is really important to acknowledge that Australia is a very big country, with a lot of land mass and not a lot of people, so coverage is a real challenge.
+"But 5G will evolve like other generations, and typically the generations begin in the higher-density metropolitan areas, this is where the evolution begins, and then it radiates out ultimately into rural and regional situations."
+Mr Alathus acknowledged while 4G coverage still had further to go, network infrastructure coverage would continue to expand for both technologies, which was particularly important for rural and regional areas.
+"There are some parts of 5G that are particularly challenging in terms of coverage, one of them is that when we deploy 5G we will use what is called millimetre wave spectrum," he said.
+"It is a very high frequency spectrum, which is fantastic for carrying a lot of data, but pretty lousy at going any sort of distance.
+"That's where you get the requirement for a denser layer of infrastructure, to support the use of that spectrum.
+"But 5G will also use some of the lower frequency spectrum, most particularly at the minute in the 3.6 gigahertz range, which is what we call mid-band, but even as we look forward, some of the sub 1GHz could easily come into play.
+"Typically generations aren't confined to one spectrum band."
+Mr Alathus said partnerships with government and industry could help overcome the economic challenges of extending the network to cover rural and regional areas.
+"There will be challenges, yes, but to say it is not going to reach into rural and regional is not correct, it might take a while but nobody is saying it won't get there," he said,
+"We always look for where the government can get involved with assisting providers to overcome the economic challenge of providing these services to more difficult places, it is something we are keeping a close eye on.
+"The other thing that 5G is going to bring forward is a lot more partnerships, you take major agricultural enterprises, they will go to the providers and say this is what I want, this is what I want my telecommunications service to look like."
+Roaming and sharing infrastructure Mr Alathus said AMTA had a neutral position on the co-sharing of network infrastructure.
+"In Australia we have a high level of co-operation within the industry, and even the Telecommunications Act encourages industry to co-locate," he said.
+"So a high proportion of infrastructure out there that involves co-location, as much as possible you end up sharing the passive parts of infrastructure.
+"What is challenging and more interesting to look at for the future of the 5G world is how sharing of networks becomes more deeply ingrained, and you start sharing the active parts of the network, now that hasn't been a feature up until now.
+"It has a whole bunch of challenges associated with it, as AMTA we don't rule it in, we don't rule it out, there are very many joint venture commercial arrangements and partnerships that are being formed around the world where sharing does come into play.
+"But right now were you to ask if sharing was to become the norm we would probably say no, but we are certainly not ruling it out."
+Mr Alathus said there were lessons to be learnt from the past regarding the need for seamless coverage between networks for the uptake of new technologies.
+"When text messaging first came out you could only send a text to someone who was on the same network as you, as a result that service went nowhere until industry lifted the constraints and you could message across any network," he said.
+"There are all sorts of challenges coming into the 5G environment, regarding how deeply embedded sharing related activities will be, but right now it is difficult to see how much sharing is possible."
+National networks Mr Alathus said governments around the world were being more actively involved in 5G technology then previous generations of mobile.
+"They are looking at it as they can see the productivity boost it could potentially provide their economies," he said.
+"A longer term strategic plan is absolutely needed, we've got the start of that in Australia, a working group has been established, we expect over time more engagement from the government."
+Mr Alathus said Australian communications would continue to rely on a range of technologies including fixed wireless, mobile, satellite and wifi.
+"All these technologies tend to interact and play their own part," he said.
+"Mobility is a really important aspect of what is coming in the future, particularly in industries, so mobile will always be a central player.
+"There is no doubt that the presence of 5G will raise the competitive tension around the NBN but still over 90 per cent of our data is carried by fixed line networks."
+Congestion Mr Alathus said some countries were only relying on mobile technology, forgoing building a fixed line network such as Australia's NBN.
+"You see some countries around the world that are not going to bother with fixed, they will go straight to mobile, but there are a great deal of performance characteristics that have got to be factored in," he said.
+"With mobile you are using spectrum, spectrum can become congested, and a lot of the carrying of data, even in a mobile network, involves a role for fixed infrastructure as it can carry a lot more data without the constraints of congestion than spectrum can in many cases."
+Mr Alathus said investment in backhaul capability was integral to the future of the mobile network.
+"If you don't have adequate backhaul then you can't get your linkage back to the core network and you are in strife," he said.
+"In cases where you can achieve coverage but backhaul requirements are lacking, it definitely can't be sustained.
+"A lot of government interest is focused on this as well, if that is a point of market failure that the government can address then I am sure they will look at it."
+Delivering benefits Mr Althaus said the industry believed there were three primary use areas for the new mobile technology - enhanced broadband, connecting the Internet of Things and ultra-low latency usage.
+"It will be a better version of things we have done for quite some time with 4G, you will have higher capacity, better download speeds and a much lower latency," he said.
+"Latency is the time it takes for a signal to go to network and back to you, obviously for some of the implications talked about in the future for 5G, low latency is incredibly important."
+Mr Althaus said for applications such as remote surgery, or driving autonomous vehicles, mobile latency was incredibly important, as information needed be transferred in as close to real time as possible.
+"The Internet of Things, or massive machine-to-machine communications is where we are connecting literally billions of devices and sensors," he said.
+"This is where we find 5G really starts to be different, because the Internet of Things will really give rise to the industrial internet and it will be a really important part of how all manner of industries, including agriculture, plan and operate in the future."
+Mr Alathus said 5G would also supply what the industry called ultra-reliable low latency communications.
+"This is the mission critical stuff such as emergency communications and robotics," he said.
+"This all won't arrive in one hit, but it is part of the suite.
+"The primary difference that 5G will bring is ultimately in my view this diverse offering and the birth of the industrial internet."
+Is it safe? Mr Alathus said 5G technology is safe to the community and there were multiple sources of credible, independent research which backed this up.
+"There has been a lot of debate about health aspects of mobile for a number of decades now, but in reality 5G is no different to any of the other generations," he said.
+"It is using radio waves, just like we have done for decades with other mobiles and for decades before that with things like AM and FM radio, television and any number of different products and services we use on a daily basis and have done for a long time.
+"That's not our view, it is the view of the research community, medical profession and the regulators both here in Australia and globally.
+"It is simply a brand that reflects the latest generation, and there is nothing different about it."
+CREDIT: Sharon O'Keeffe
+Word count: 1559

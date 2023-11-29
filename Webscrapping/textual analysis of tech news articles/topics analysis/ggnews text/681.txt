@@ -1,0 +1,13 @@
+Low-band 5G SA will provide outdoor and indoor coverage
+Nokia and Australian carrier TPG Telecom announced that they have switched on a live 5G standalone (SA) network in Australia on the 700 MHz spectrum band.
+The two partners said that this launch represents the first launch of this kind at a global level.
+Low band 5G coverage at 700 MHz, which is the lowest 5G frequency band deployed in Australia with the largest range, will enable TPG Telecom to provide wide outdoor 5G services, as well as deep indoor 5G coverage in urban and suburban areas to its customers, Nokia said.
+Under the terms of the partnership, Nokia is supplying equipment from its latest ReefShark based AirScale product range including its triple band remote radio unit that supports 700 MHz, 850 MHz and 900 MHz bands. Nokia’s unit also supports 3G, 4G and 5G simultaneously across all TPG Telecom’s low-band frequencies.
+TPG Telecom’s 5G SA service is already live in parts of Sydney
+Barry Kezik, Executive General Manager Mobile and Fixed Networks at TPG Telecom, said: “We’re excited to be the first network in the world to realize the true potential of low band 5G SA at 700MHz. TPG Telecom’s low band 5G will expand our 5G coverage, supporting our goal of reaching 85% of the population in Australia’s top six cities by the end of the year and changing the way people and things connect to the TPG Telecom 5G network.”
+Robert Joyce, CTO at Nokia Oceania, said: “Nokia is proud to support another 5G world first. We have a long-standing partnership with TPG Telecom, and we have jointly developed our unique triple band radio solution specifically for them. Today we get to see the result of that joint effort and collaboration which will deliver premium wide area 5G SA coverage for TPG Telecom and its customers.”
+TPG Telecom was formed in 2019 through the merger of TPG and Vodafone Hutchison Australia. TPG Telecom had selected Nokia as its 5G equipment vendor in 2019 and that the deployment of its 5G network began in March 2020
+The carrier had previously said it aims to launch 5G services in Sydney, Melbourne, Brisbane, Adelaide, Perth and Canberra before the end of this year.
+The Finnish vendor reached 165 commercial 5G deals with individual customers and a total of 220 commercial 5G engagements, including paid trials.
+Nokia said that a total of 66 5G networks are already live using the company’s products and solutions.
+Some of its key customers include AT&T, Bell Canada, Sprint,China Mobile, China Unicom, China Telecom, SoftBank T-Mobile US, US Cellular, Verizon, Swisscom, TDC, Telenor, Vodafone UK, O2 Germany, O2 UK, Wind , Etisalat, Optus, Orange France, Ooredoo, STC, KT, SK Telecom, Telia Company, Vodafone Italy, Telus and Telstra.

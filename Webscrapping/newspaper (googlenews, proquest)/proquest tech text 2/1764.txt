@@ -1,0 +1,11 @@
+Gordon the robot may have started life as a pile of scraps on the floor, but thanks to the work of scientist Guy Coleman it now has a promising career demonstrating how machine learning could be used for weed detection on farms in the not-so-distant future.
+Like his robot, Mr Coleman had been headed towards a different life, in his case a career in medicine, until a year sabbatical as a weed research assistant convinced him to follow his passion for agriculture.
+"It's important to have a job you enjoy, a career, and agriculture is my passion," he said.
+Now a precision agriculture and weed scientist at the University of Sydney IA Watson International Grains Research Centre in Narrabri, NSW, Mr Coleman has been selected as one of two Australian delegates for the prestigious global Bayer 2019 Youth Ag Summit.
+"The Youth Ag Summit really encapsulates everything I love about agriculture, the ability to have beneficial impacts on so many, the involvement of technology and importantly the global perspective," Mr Coleman said.
+Mr Coleman said his work at the grain research centre focused on investigating artificial intelligence, robots and lasers for use in plant-based systems.
+"The key to it all is identifying weeds using machine learning, and individually targeting them, either with targeted chemical application, or potentially without a spray at all," he said.
+Mr Coleman said his project started by autonomously mapping plant breeding plots, using drones, remote sensing and GPS technology to map growth rates.
+"Now I'm programming my robot Gordon to identify, map and track weeds within broadacre crops. The robot started last year as a few bits of aluminium on my loungeroom floor, so to see it used in demonstrations is very exciting," he said.
+"Once the weed can be identified and the machine learning developed, the technology will be able to automatically spot spray or even target a laser directly on the growing point of the weed."
+Word count: 322

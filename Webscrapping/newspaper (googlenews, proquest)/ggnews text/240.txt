@@ -1,0 +1,104 @@
+Achievements and Announcements
+ACHIEVEMENTS
+ANNOUNCEMENTS
+APPOINTMENTS
+ARC Linkage funding for software to reduce train energy demand
+UniSA researchers have won almost $300,000 in funding to develop software that reduces peak electricity demand by improving train scheduling.
+The project aims to develop new scheduling and control methods that enable railways to reduce their demand for electricity during peak demand periods.
+Led by Associate Professor Peter Pudney, the project has been awarded a total of $285,638 in the latest round of Australian Research Council (ARC) Linkage Project funding.
+Assoc Prof Pudney says the goal is to reduce the demand for electricity during peak periods, which will enable better management of electricity within a region and better use of renewable energy sources, with significant cost savings for railways and the wider community.
+“As fossil fuels become more expensive and we move into a carbon-constrained world, it’s more important than ever to make trains more energy efficient,” he says. “We are at the stage now where you can’t just build more trains and more tracks. We just need to hone the technology to increase efficiency and reduce emissions.”
+The other project investigators are Associate Professor Amie Albrecht and Professor Phil Howlett.
+The project will build on and expand the capabilities of software developed at UniSA to calculate efficient driving strategies and advise drivers when to accelerate and brake to ensure they arrive on time with minimum energy use.
+The industry partner on the project is TTG Transportation Technology, which is now part of Toronto-based technology company, Modaxo.
+Australian Research Council chief executive officer Professor Sue Thomas says by supporting the development of partnerships, the ARC encourages the transfer of skills, knowledge and ideas as a basis for securing commercial and other benefits of research.
+“This new funding is provided to universities across Australia … that involve significant collaboration between higher education institutions and their partner organisations,” she says.
+Grants for neonatal health, architecture, technology, schools and desalination
+World-leading advances in measuring fetal blood flow, new virtual reality tools to foster innovative architecture, and a better understanding of chatbot technologies, will be the focus of three UniSA research projects starting in 2022.
+The projects are among seven successful UniSA Discovery Grants announced in late December by the Federal Government, totalling $3 million.
+Details of the five-year projects are:
+Professor Janna Morrison will lead a $686,263 project to measure blood flow from the umbilical cord to the fetal brain to understand how changes in oxygen delivery affect brain metabolism.
+Professor Lester Rigney will lead a $367,168 study to better understand cultural diversity in schools so that curriculums can be adapted to reduce inequality.
+Associate Professor Haolan Xu will lead a $405,000 project to develop a solar-thermal desalination system to simultaneously produce clean water and generate electricity.
+Professor Anthony Elliott will use his $423,799 grant to investigate how chatbot technologies can improve the retail and services sector and benefit the economy and society more generally.
+Professor Jun Ma will lead a $210,000 project to develop nanomaterials encased in elastomers to improve composite manufacturing, particularly underwater monitoring of infrastructure and personalised health monitoring.
+Professor Bruce Thomas will lead a $455,000 project to create new virtual reality tools to support free-form architectural concepts known as parametric design. Parametric tools are an emerging design technology but currently available only on traditional desktop computers. This project will allow designers to use VR instead.
+Professor John Hayball will collaborate on a $529,846 project led by Professor Krasimir Vasilev (Flinders University) to better understand how surface nanotopography affects inflammatory responses. Their findings are expected to provide a breakthrough in the next generation of biomaterials.
+Australian Research Council chief executive officer Professor Sue Thomas says Discovery Projects provide funding to support excellent basic and applied research projects.
+“This investment will see expanded knowledge base and research capacity in Australia, and economic, commercial, environmental, social and/or cultural returns for Australia,” Prof Thomas says.
+The Federal Government awarded $258.6 million for 587 ARC Discovery projects nationally.
+Virtual reality tech to help solve ergonomic issues posed by military
+UniSA has been awarded almost $150,000 to develop a virtual reality tool that will address the ergonomic challenges posed by military vehicles.
+UniSA will receive $149,894 through the Defence Innovation Partnership’s Collaborative Research Fund (CRF) to develop a virtual reality tool that manipulates digital human mannequins to address the unique ergonomic challenges posed by military vessels.
+Dr Peter Schumacher will lead a team including partners from University of Adelaide and Kadego-Cadgile to develop the VR tool, which will enable the easy and effective assessment of designs for complex, high-risk environments, including submarines.
+Dr Schumacher – who heads up the Studio for Complex Human Environment Design, in the Australian Centre for Interactive and Virtual Environments, where the virtual reality project will be based – says there is strong interest from industry in the technology.
+“Industrial partners have expressed a strong interest for integrated digital design assessment tools that enable anthropometric assessment in the design process,” Dr Schumacher says.
+“South Australia is home to a unique pool of collaborative expertise in integrated and virtual environments (UniSA), biomechanics and human modelling (UniSA and University of Adelaide), and virtual reality software development (Kadego-Cadgile). In addition, the main industrial partners in Lockheed Martin and Saab Australia, have a local presence in the state. This project will support this great South Australian ecosystem.”
+UniSA was awarded a further $150,000 from the Collaborative Research Fund to develop a deep sensing, machine learning enhanced optical fibre hydrophone with partners the University of Adelaide, Acacia Systems Pty Ltd and Arkwright Technologies Pty Ltd. Hydrophones are used to record sound underwater.
+The Defence Innovation Partnership is a collaborative venture between the South Australian Government, the Department of Defence through the Next Generation Technologies Fund, and South Australia’s three universities.
+Premier Steven Marshall says the CRF is proving to be an important gateway to successful partnerships between industry, academia and Defence.
+“To date, the Collaborative Research Fund has provided almost $3 million to 20 South Australian-based projects from a range of disciplines,” Marshall says.
+Cycling charity supports breast and ovarian cancer research
+Australian cycling charity Tour de Cure has awarded UniSA researchers Professor Claudine Bonder and Dr Manuela Klingler-Hoffmann $80,000 each to further their work into finding successful treatments for breast and ovarian cancer, respectively.
+Funds raised from recent charity bike rides will help Prof Bonder advance her research into triple negative breast cancer, a highly aggressive cancer which is notoriously difficult to treat.
+Dr Klingler-Hoffmann will use her grant to develop a personalised approach to treating ovarian cancer.
+Tour de Cure has raised $75 million for cancer research since their establishment in 2007 and contributed to 50 scientific cancer breakthroughs.
+Grant supports new test to diagnose early-stage pancreatic cancer
+UniSA researcher Professor Claudine Bonder has won a grant to identify an early detection biomarker for pancreatic cancer.
+The grant was awarded by the Australian Pancreatic Cancer Foundation, which announced $500,000 in funding to be shared across five projects that focus on the early detection of pancreatic cancer.
+Prof Bonder, based in the Centre for Cancer Biology, is leading a project to detect pancreatic ductal adenocarcinoma (PDAC), which remains one of the biggest challenges with patients often asymptomatic until diagnosed with incurable late-stage disease.
+This project is a collaboration between Prof Bonder, Dr S. George Barreto from Flinders Medical Centre and Professor My Mahoney from Thomas Jefferson University.
+They will test an innovative concept that PDAC patients can be identified via a new liquid biopsy biomarker. If successful, results could pave the way for a simple blood test to identify early-stage disease for earlier intervention in even the most remote parts of Australia.
+More information about the research project is available on the Australian Pancreatic Cancer Foundation website.
+Nine new UniSA Creative appointments to support the cultural industries
+UniSA has begun 2022 with a significant commitment to the creative industries through the appointment of nine new academics across the areas of architecture, industrial design, screen production, digital media, and journalism.
+UniSA Creative Acting Executive Dean Professor Craig Batty says the new appointments demonstrate UniSA’s strong commitment to creativity and the cultural industries, helping to support and nurture the sector as it responds to new demands and challenges, including those of the COVID-19 pandemic.
+“It’s brilliant to see such credentialled and passionate educators and researchers choosing to join UniSA,” Prof Batty says.
+“Our new colleagues are already bringing to us new ideas, projects and partnerships.”
+The nine academics join UniSA Creative from across Australia, bringing strong track records in national and international teaching and program management, along with numerous industry and community partnerships, including major research grants with external organisations.
+The new UniSA Creative appointments for the start of 2022 are:
+Associate Professor Erik Champion: Enterprise Fellow (Architecture) – Curtin University
+Associate Professor Fanke Peng: Enterprise Fellow (Industrial Design) – University of Canberra
+Associate Professor Kath Dooley (Screen Production) – Curtin University
+Dr Rongrong Yu: Enterprise Fellow (Architecture) – Griffith University
+Dr Guy Keulemans: Enterprise Fellow (Industrial Design) – University of New South Wales
+Dr Michael Bentham: Lecturer (Screen Production) – University of Melbourne
+Dr Aaron Davis: Lecturer (Architecture) – UniSA (previously a casual staff member)
+Dr Kim Munro: Lecturer (Digital Media) – RMIT University
+Dr Chrisanthi Giotis: Lecturer (Journalism) – University of Technology Sydney
+UniSA achievers among top Australia Day honours recipients
+The UniSA community has featured prominently in this year’s Australia Day honours – with a leading educator as well as a celebrity cook among this year’s recipients.
+Emeritus Professor Barbara Pocock has been researching work and employment in Australia for more than 30 years. Prof Comber was awarded a Medal of the Order of Australia (OAM) for her service to Education.
+South Australian icon Maggie Beer, who received an Honorary Doctorate from UniSA in 2016, was made an Officer (AO) in the General Division for distinguished service to the tourism and hospitality industries as a cook, restaurateur and author, and to aged welfare.
+UniSA alumna Cathy Chong, who studied an MBA at UniSA and is known for her work around cultural and linguistically diverse issues, was recognised for her significant service to multiculturalism in South Australia and to the community, and was made a Member of the Order of Australia (AM).
+The full list of UniSA staff and alumni who were recognised in the 2022 Australia Day Honours is available on the UniSA Alumni website.
+See highlights from the year that was
+Before 2021 becomes a distant memory, take a look back at the year that was for the UniSA community.
+Last year was UniSA’s 30th birthday year. The University has published a Year in Review video featuring achievements from across the UniSA community in what was another turbulent year.
+New Provost and Chief Academic Officer
+Following a competitive recruitment process, Professor Joanne Cys has been appointed Provost and Chief Academic Officer.
+Prof Cys was Executive Dean of UniSA Creative and has previously been Pro Vice Chancellor of the former division of Education, Arts and Social Science, as well as Head of the then School of Art, Architecture and Design.
+In announcing the appointment, UniSA Vice Chancellor Professor David Lloyd says Prof Cys has held many positions during her near 25-year tenure at UniSA and that “it is impossible to think of anyone more suitably qualified to take on the position of Provost than she is”.
+“Jo’s outstanding academic and professional standing have been widely recognised through awards such as Life Fellowship of the Design Institute of Australia in 2010, her induction to the Australian Design Hall of Fame in 2016, and her election to Honorary Fellowship of the Australian Institute of Architects in 2019,” Prof Lloyd says.
+Prof Cys has a BA (Politics) from the University of Adelaide, a BA (Interior Design) from the South Australian Institute of Technology, and a Master of Architecture and PhD from UniSA.
+Prof Cys took over the role on 10 January from Professor Allan Evans who returns to a research role.
+New Chief Information Officer appointed
+Following an extensive search process, UniSA has appointed Bill Le Blanc as Chief Information Officer.
+Le Blanc is currently Head of Technology at electricity transmission specialist ElectraNet and before that was responsible for all aspects of information communication technology (ICT) across SA Health as Chief Information Officer there.
+In announcing the appointment, UniSA Vice Chancellor Professor David Lloyd says Le Blanc comes “with a highly credible and well established track record as a seasoned CIO, having won national recognition for his leadership of technology and 24/7 service changes and program management of large-scale multi-year technology projects that transform business operations”.
+“He has held numerous executive roles locally and internationally, as both a vendor and customer of information technology and will bring a strong sense of partnering with internal and external stakeholders,” Prof Lloyd says.
+“Bill is very much looking forward to working with our highly experienced leaders in the ISTS and Libraries portfolio and working with them and their teams to progress our aspirations.”
+Le Blanc will begin as Chief Information Officer at UniSA in late March.
+Inaugural Playford Chair of Business Growth appointed
+UniSA has appointed international business executive, strategist and entrepreneur Ryan Williams as the inaugural Playford Chair of Business Growth.
+The new position is part of UniSA’s Australian Centre for Business Growth (AUCBG), which helps business owners, CEOs and executives grow their companies and compete in the global marketplace.
+UniSA Deputy Vice-Chancellor: Research and Enterprise Professor Marnie Hughes-Warrington says Williams has considerable experience in executive roles in different kinds of companies, and valuable skills in strategy and marketing.
+“His international experience will be valuable to AUCBG and to the Australian companies going through the centre’s growth programs who need help strengthening their position in Australia and around the world.”
+Innovation and Skills Minister David Pisoni says the establishment of the new Playford Chair of Business Growth underlines the State Government’s commitment to the AUCBG.
+“We are delighted with UniSA’s selection of Ryan Williams as the inaugural Playford Chair,” Pisoni says. “The Government is providing four more years of funding for the centre’s programs, so it can teach more South Australian companies to grow.”
+Williams has two decades of experience in business growth, scaling companies and managing change across a broad spectrum of startups, small and medium companies, and large corporate enterprises. He was CEO of Nota Bene, an award-winning strategy and marketing consultancy, later sold to global company WPP.
+Williams was listed as one of South Africa’s Top 40 under 40 media personalities and recognised as the media industry’s Innovator of the Year in 2011. In 2012, turned around the business-to-business sales arm of Ster-Kinekor Theatres, achieving a significant increase in profitability.
+Williams says he is thrilled to be joining the Australian Centre for Business Growth “because it brings positive change to the world by teaching business leaders and their executive teams how to grow their companies”.
+“Since its founding in 2014, Australian companies who have attended AUCBG programs have generated $1.7B in revenue and $1.1B in profits for the Australian economy,” Williams says.
+ANZ Chair in Business Growth and cirector of AUCBG Dr Jana Matthews says Williams' diverse experience in strategy, marketing and sales, in starting, growing and exiting companies, private equity, and negotiating with international companies "will be a tremendous asset to the centre and the business owners, CEOs, MDs and their teams who come to our programs".
+The Playford Chair of Business Growth is named in honour of former South Australian Premier Sir Thomas Playford whose legacy was the creation of economic growth in South Australia, particularly in the northern suburbs of Adelaide.

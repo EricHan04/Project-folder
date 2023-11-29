@@ -1,0 +1,13 @@
+Two senior researchers from Monash University have warned the widespread introduction of labour- and cost-saving robots on Australian farms may have some serious downsides.
+They have published the first-ever analysis of the ethical and policy issues raised by the use of robots in agriculture.
+Agriculture employs about 2.5 per cent of the country's workforce and is a valuable export, but according to professor of philosophy Robert Sparrow and philosophy research fellow Mark Howard, little attention has been paid to the ethical and policy challenges that will arise as agriculture is increasingly automated.
+Together they investigated the prospects for, and likely impacts and ethical and policy implications of, the use of robotics in agriculture in their paper Robots in agriculture: prospects, impacts, ethics and policy which was recently published in the journal Precision Agriculture.
+"While there hasn't yet been widespread adoption of robots in farming due to a lack of technological breakthroughs, it's anticipated there will be a gradual emergence of technologies for precision farming as well as the use of automation in food processing and packaging," Professor Sparrow said.
+"Already we are seeing the development and, increasingly, the adoption of GPS-enabled autonomous tractors and harvesters, robotic milking stations and dairies, robotic fruit and vegetable pickers, drones for rounding up livestock and crop-dusting and automation in slaughterhouses, food handling, processing and packaging all exist, among others."
+The authors said with global and local food security facing profound challenges including climate change, soil depletion, loss of biodiversity, water scarcity and population growth, robots could help farmers confront these challenges by improving yield and productivity while reducing levels of fertiliser and pesticide use, as well as water wastage.
+But, the researchers warned the widespread adoption of robots in farming could have negative consequences including mismanagement of chemicals, soil compaction due to heavy robots and potential food wastage if consumers come to expect standardised or "perfect" produce.
+This could also lead to further standardisation of breeding and creation via genetic modification of crops and livestock better suited to robotic harvest.
+There is also a fear that smaller or struggling farms could miss out on the technology and be unable to keep up, leading to a centralisation of ownership in agriculture.
+"There's a risk that robots could impact negatively on biodiversity and on the environmental sustainability of agriculture more generally," Dr Howard said.
+CREDIT:
+Word count: 389

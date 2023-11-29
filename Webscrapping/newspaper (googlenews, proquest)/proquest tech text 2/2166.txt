@@ -1,0 +1,18 @@
+Media release distributed by Medianet.
+
+On behalf of the Australian Government, the Australian Renewable Energy Agency (ARENA) today announced a $100 million competitive funding round for grid scale batteries equipped with advanced inverters to support the grid.
+ARENA's Large Scale Battery Storage Funding Round will provide up to $100 million funding to new battery energy storage projects of 70 MW or larger operating in the National Electricity Market or Western Australia's Wholesale Electricity Market. In addition to supporting new build projects, funding will also be available to existing grid scale batteries seeking to retrofit advanced inverter capability.
+The funding round aims to incentivise and derisk private sector investment and overcome barriers to the deployment of advanced inverter technology. By funding advanced inverter technology at scale, ARENA hopes to provide valuable insights into the operations and emerging capabilities of advanced inverters.
+It is expected that the funding round will support at least three projects, with a maximum grant available of $35 million per project. Applications will be open to all battery energy storage technologies, provided that they are equipped with advanced inverters.
+Advanced inverters enable grid scale batteries to provide system stability services traditionally provided by synchronous generation, such as coal or gas. Finding new ways of providing stability to the electricity system will enable the grid to operate with higher shares of variable renewable energy.
+In July, the Australian Energy Market Operator published its white paper on advanced inverters highlighting the importance of grid scale batteries equipped with advanced inverter technology in supporting the energy transition.
+ARENA CEO Darren Miller said the funding round will support grid scale batteries that can provide system stability during periods of very high renewable generation.
+"Grid scale batteries and other types of energy storage technology will be vital to support our future electricity system powered by renewables," he said.
+"This funding round will demonstrate the role of advanced inverters in grid scale batteries to provide system stability, facilitating a more efficient transition and accelerate the uptake of renewable generation.
+We've seen promising signs that advanced inverters can support system stability, but it's clear public sector investment is still needed to prove the technology at scale. We're confident that ARENA funding will help drive the uptake of this technology and provide valuable lessons that will benefit the industry as a whole."
+This funding round builds on ARENA's previous investments in both grid scale batteries and system security, including a recent study by Powerlink Queensland which found that batteries with advanced inverters can play a valuable role in maintaining system strength, supplementing the use of synchronous condensers.
+ARENA has funded six grid scale batteries since 2017. The ARENA-funded Energy Storage for Commercial Renewable Integration (ESCRI) project in South Australia is currently Australia's largest grid-connected battery using advanced inverter technology, but this will be surpassed once Hornsdale Power Reserve completes its upgrade to advanced inverters.
+Expressions of interest will open in February 2022, with a due date of 31 March 2022. Selected projects will be invited to submit a full application later in the year. For more information including funding guidelines and how to apply, please visit ARENA's website.
+https://www.medianet.com.au/news-hub-post?id=964608SOURCE: Australian Renewable Energy Agency (ARENA)
+
+Word count: 529

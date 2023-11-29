@@ -1,0 +1,59 @@
+barefoot investor Scott Pape
+Fiona is a young high school maths teacher who has a lot on her mind. She’s knee deep in planning her wedding, so her head is full with nuptial numbers: The guest list, her wedding dress, flowers, bridesmaid dresses … bridesmaids.
+One afternoon recently her phone rang.
+It was a private number.
+As with most people, Fiona’s reflex was to ignore it and let it go to voicemail, but then she remembered she was expecting a call from a supplier about the wedding, so she answered.
+Turns out it was Telstra.
+“The Telstra rep seemed to know all my details, and they ran me through the privacy stuff. Then they told me that my internet server had been compromised and that I was vulnerable to hackers,” she told me.
+Fiona was a little suspicious … but the rep directed her to a Telstra website and asked her to put in her IP address. Sure enough it showed that she had in fact been hacked.
+“O. M. G!” From there, she was directed to open her emails, and then her ING banking app. The Telstra employee (who had given Fiona her Telstra employee ID for verification purposes) asked her to write down a long series of numbers that she would need to give to the technician that would be visiting her house the next day and reset her internet.
+While Fiona was busy writing down numbers, her fiance arrived home from work and went to the study to do some banking. A few moments later he stormed out and to the lounge room and waved his ING app in her face.
+The $20,000 they’d saved up in their ING account to pay for their wedding? Gone.
+Fiona had in fact been talking to a scammer all this time.
+“Please make me look silly to your readers,” Fiona pleaded as she told me her story. “Because I am silly. I thought that these scams only happened to Boomers!” Yet here’s what got my goat: The scammers hit her account every 30 seconds, each time taking random amounts: $546, $990, $7.50, $1000, $99.
+And they kept smashing the account until all $20,000 was drained. Yet get this: the account name the money was going to was spelt “Drothy”. OH COME ON!
+We’re not in Kansas anymore, ING!
+Grab the Tin Man and Toto and go bite these buggers!
+Seriously, you’d think that Australia’s fifth-largest bank – who trousered $549m in profits after tax last year – would have tipped even just a little bit of that dough into having the most basic banking safety features … like, say, a trigger that detects when a customer is potentially getting scammed and puts a temporary lock on the account?
+Nope.
+Yet it gets worse.
+After a lot of back and forth and tears from Fiona, ING agreed to pay her half the money back.
+Half?
+That makes absolutely no sense to me.
+Either ING believes it’s not their problem, in which case they would tell her (politely) to go jump. Or they admit they should have detected the fraud and pay the money back.
+So which is it?
+You can’t get half up the duff, Drothy!
+In fact, ING’s behaviour is depressingly very bank-like: “When customers get scammed, it’s a lottery if they get reimbursed by their bank. Sometimes it’s 50 per cent, sometimes it’s 75 per cent, sometimes we find they get nothing,” says Gerard Brody from the Consumer Action Law Centre.
+ING’s logo is a lion, which is kind of apt.
+In The Wizard of Oz the cowardly lion is given a dish of courage to drink, which instantly transforms him and allows him to protect Dorothy.
+Time to lick the bowl, ING.
+You’re Australia’s most recommended bank. Start acting like it. And if, dear reader, you’re thinking “There’s no way I would have fallen for a Telstra scam” then you really need to read the following question and see how you would have fared … Tread Your Own Path!
+Q&A A SCAMMER STOLE OUR FAMILY HOME!
+Hi Scott, My husband and I have seven kids, aged from one to 13.
+Five weeks ago we finally took the plunge and bought a big family home! After the deal was done, our solicitor, Jenny, called and directed us to pay our deposit of $165,000 to the trust account. Then at 6.47am the next morning Jenny emailed us with a “correction” to that account. I thought that was a bit weird, so I emailed back to confirm. Jenny came back almost immediately. All good.
+So my husband took the morning off work and went to the bank to wire the money to the account. He paid the $35 bank transfer fee and made sure the teller checked and rechecked the numbers. That night we celebrated!
+Then, two days ago, Jenny called to ask us where the deposit money was! Unbeknown to her, hackers had taken over her computer and communicated with us from her exact email address, posing as her, using her exact language!
+So we immediately called the police. They did an investigation and found that the scammer is in Kenya, so it was out of their jurisdiction. They also told us that Interpol doesn’t deal with “small amounts”.
+“There’s nothing you can do,” the police told us.
+We have spent hours on the phone to our bank. They have given us $5000 on the proviso that we drop any action against them. To say we are gutted is an understatement.
+Please alert all your readers to the risk of hackers accessing online transactions.
+Nathan and Natalie
+Hi Guys, My heart absolutely breaks for you.
+Here’s what you learned the hard way … that most people don’t know: When you transfer money your bank always asks for the name of the account that you’re transferring the money to. Logically, you’d think that’s so their systems match and verify the account name.
+But they don’t.
+You could write “IMA BANK ROBBER” in the account name and it’d still go through. (Or “Drothy”, take your pick.) Yet hang on, don’t the banks invest billions of dollars a year into cutting-edge artificial intelligence so they can cross-sell you credit cards every time you log on? Surely matching the account name would be a pretty basic code for them to add on?
+Well, it turns out it is, and it works!
+Five years ago banks in the Netherlands introduced account name checking and it reduced this type of fraud by a staggering 81 per cent.
+So … why aren’t our banks doing it?
+Well it seems it’s just not a priority for them. But it is for me. Nathan and Natalie, let’s make a ruckus this week, and see what happens. Stay tuned.
+RICH KID, POOR KID … WORRIED MUM Hi Scott We have twin girls and we recently went all in on the Barefoot pocket money strategy. One of the twins is highly motivated when it comes to jobs and earning her pocket money, while the other doesn’t care for it at all. Like AT ALL!
+Her “currency” is connections, not money. She barely gets any pocket money each week and we’re not making up the difference, but she still doesn’t care. What do you do when financial or future motivation is not an incentive for a kid?
+Worried mum
+Hello!
+So you have a kid who isn’t materialistic in the slightest and values people over money?
+Sounds like an awesome kid to me!
+Here’s what I’ve learned: lecturing and hassling your kids doesn’t work. That’s why my brand new book (due out in November) is written directly for kids. I gave a review copy to a kid who sounds exactly like your daughter. He’s not motivated by money at all … yet he read it cover to cover and started plotting out his own small business, not to buy stuff, but to donate to Foodbank.
+Information and opinions provided in this column are general in nature and have been prepared for educational purposes only.
+Always seek personal financial advice tailored to your specific needs before making financial and investment decisions The Barefoot Investor: The Only Money Guide You’ll Ever Need (Wiley) RRP $32.95
+CREDIT: Scott Pape
+Word count: 1374

@@ -1,0 +1,37 @@
+Source: The Conversation (Au and NZ) - By Vikrant Minhas, PhD candidate, University of Adelaide
+China has launched its Tianwen-1 mission to Mars. A rocket holding an orbiter, lander and rover took flight from the country’s Hainan province yesterday, with hopes to deploy the rover on Mars’s surface by early next year.
+Similarly, the launch of the Emirates Mars Mission on Sunday marked the Arab world’s foray into interplanetary space travel. And on July 30, we expect to see NASA’s Mars Perseverance rover finally take off from Florida.
+For many nations and their people, space is becoming the ultimate frontier. But although we’re gaining the ability to travel smarter and faster into space, much remains unknown about its effects on biological substances, including us.
+While the possibilities of space exploration seem endless, so are its dangers. And one particular danger comes from the smallest life forms on Earth: bacteria.
+Bacteria live within us and all around us. So whether we like it or not, these microscopic organisms tag along wherever we go – including into space. Just as space’s unique environment has an impact on us, so too does it impact bacteria.
+We don’t yet know the gravity of the problem
+All life on Earth evolved with gravity as an ever-present force. Thus, Earth’s life has not adapted to spend time in space. When gravity is removed or greatly reduced, processes influenced by gravity behave differently as well.
+In space, where there is minimal gravity, sedimentation (when solids in a liquid settle to the bottom), convection (the transfer of heat energy) and buoyancy (the force that makes certain objects float) are minimised.
+Similarly, forces such as liquid surface tension and capillary forces (when a liquid flows to fill a narrow space) become more intense.
+It’s not yet fully understood how such changes impact lifeforms.
+NASA’s Perseverance Mars rover will be launched later this month. Among other tasks, it will seek out past microscopic life and collect samples of Martian rock and regolith (broken rock and dust) to later be returned to Earth. NASA/Cover ImagesHow bacteria become more deadly in space
+Worryingly, research from space flight missions has shown bacteria become more deadly and resilient when exposed to microgravity (when only tiny gravitational forces are present).
+In space, bacteria seem to become more resistant to antibiotics and more lethal. They also stay this way for a short time after returning to Earth, compared with bacteria that never left Earth.
+Adding to that, bacteria also seem to mutate quicker in space. However, these mutations are predominately for the bacteria to adapt to the new environment – not to become super deadly.
+More research is needed to examine whether such adaptations do, in fact, allow the bacteria to cause more disease.
+Read more: Bacteria found to thrive better in space than on Earth
+Bacterial team work is bad news for space stations
+Research has shown space’s microgravity promotes biofilm formation of bacteria.
+Biofilms are densely-packed cell colonies that produce a matrix of polymeric substances allowing bacteria to stick to each other, and to stationary surfaces.
+Biofilms increase bacteria’s resistance to antibiotics, promote their survival and improve their ability to cause infection. We have seen biofilms grow and attach to equipment on space stations, causing it to biodegrade.
+For example, biofilms have affected the Mir space station’s navigation window, air conditioning, oxygen electrolysis block, water recycling unit and thermal control system. The prolonged exposure of such equipment to biofilms can lead to malfunction, which can have devastating effects.
+Microorganisms that form biofilms include bacteria, fungi and protists. Shutterstock
+Another affect of microgravity on bacteria involves their structural distortion. Certain bacteria have shown reductions in cell size and increases in cell numbers when grown in microgravity.
+In the case of the former, bacterial cells with smaller surface area have fewer molecule-cell interactions, and this reduces the effectiveness of antibiotics against them.
+Moreover, the absence of effects produced by gravity, such as sedimentation and buoyancy, could alter the way bacteria take in nutrients or drugs intended to attack them. This could result in the increased drug resistance and infectiousness of bacteria in space.
+All of this has serious implications, especially when it comes to long-haul space flights where gravity would not be present. Experiencing a bacterial infection that cannot be treated in these circumstances would be catastrophic.
+The benefits of performing research in space
+On the other hand, the effects of space also result in a unique environment that can be positive for life on Earth.
+For example, molecular crystals in space’s microgravity grow much larger and more symmetrically than on Earth. Having more uniform crystals allows the formulation of more effective drugs and treatments to combat various diseases including cancers and Parkinson’s disease.
+Also, the crystallisation of molecules helps determine their precise structures. Many molecules that cannot be crystallised on Earth can be in space.
+So, the structure of such molecules could be determined with the help of space research. This, too, would aid the development of higher quality drugs.
+Optical fibre cables can also be made to a much better standard in space, due to the optimal formation of crystals. This greatly increases data transmission capacity, making networking and telecommunications faster.
+As humans spend more time in space, an environment riddled with known and unknown dangers, further research will help us thoroughly examine the risks – and the potential benefits – of space’s unique environment.
+Read more: With or without you: the role of the moon on life
+- ref. As if space wasn't dangerous enough, bacteria become more deadly in microgravity - https://theconversation.com/as-if-space-wasnt-dangerous-enough-bacteria-become-more-deadly-in-microgravity-141053
+Word count: 898

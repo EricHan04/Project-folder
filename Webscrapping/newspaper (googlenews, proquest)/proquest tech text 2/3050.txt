@@ -1,0 +1,55 @@
+BiØfil, Media Release, 22 December 2021
+BiØfil is a world-first fast charging system for Electric Vehicles (EVs) that is fully off-grid, self-contained and powered by used chip (vegetable) oil, a waste product.
+BiØfil inventor and retired engineer Jon Edwards said that the Western Australian Government has the world’s longest electric highway planned, but there’s a big gap.
+“The planned electric highway doesn’t connect Western Australia to South Australia – there’s some 720km of desolate highway between Norseman and the SA border with no fast charging for EVs – the big lap has a big gap,” Mr Edwards said.
+BiØfil will be installed at the Caiguna Roadhouse, approximately 370 kilometres east of Norseman and 370 kilometres West of the South Australian border, to plug the gap and is set to be operational by the 16th January. 
+“The chip oil for deep fryers comes from seed crops such as canola and sunflower, the plants absorb the CO2 and sunlight to make the oil, which is put to commercial use as fryer oil, then it becomes a waste product – BiØfil extracts the energy from the waste product to charge EVs using a generator,” Mr Edwards said.
+“Importantly, the CO2 produced is the same as the CO2 absorbed, so the process is net zero with no incremental impact on the environment.
+“We’ve been isolated from the rest of Australia for too long, so once borders open up, BiØfil means all vehicles can travel across the Nullarbor, EVs included.”
+BiØfil was initially developed as a carbon neutral solution to a problem: a way to fast charge the TOCEVA Racing Tesla rally car during competition in Targa West Events tarmac rallies.
+In partnership with University of Western Australia, there is a Chuffed crowd-funding campaign for the BiØfil units called “The big lap has gaps”; UWA plans to collect usage data.
+“I’ve had some assistance from Gemtek and a number of EV owners and clubs in the development of BiØfil, and what’s interesting is that it’s the EV driving community who are donating funds to the BiØfil units,” Mr Edwards said.
+“I am often asked, ‘why?’ and the simple reason is that I wanted to see this happen – I’m from South Australia originally, so you could call this a philanthropic endeavour,” Mr Edwards said.
+BiØfil is a not-for-profit venture and it was developed for the benefit of the electric vehicle driving community. 
+BiØfil for the electric vehicle driving community - Q&A
+What is BiØfil?
+BiØfil is a world-first fast charging system for Electric Vehicles (EVs) for very remote locations that are off-grid. The system is self-contained and powered by used chip
+(vegetable) oil, generally a waste product in such locations.
+Where will the BiØfil charging unit be located?
+At the Caiguna Roadhouse in Western Australia, right in the middle of the WA Nullarbor. The plan for the Western Australian Government’s electric highway has a gap of 720 kilometres between Norseman in WA and the South Australian border, which is too far for almost all EVs to travel. With a BiØfil unit at Caiguna Roadhouse, it means that EVs can now drive across the Nullarbor with speed and ease.
+How does it work?
+The generator has been converted to be fuelled by used deep-fryer vegetable oil, which powers the fast-charger and the EV once it’s plugged in. When an EV arrives at Caiguna, one of the roadhouse staff will start the BiØfil generator, ready for charging. The roadhouse staff will be trained in how to filter the waste chip oil, how to fill the generator, and how to operate and maintain the BiØfil EV charger.
+Isn’t using a generator and oil going to create emissions?
+The emissions created by BiØfil are equal to the carbon, the Co2, which is absorbed by the plants that were grown to create the vegetable oil in the first instance. The process represents the true definition of “net zero” with no incremental carbon impact on the environment.
+Why isn’t solar power being used instead?
+The cost of installing an equivalent solar powered EV fast charger with a suitably sized storage battery and power inverter is in the order of $500,000, while the cost to build a BiØfil fast charging unit is about $75,000. Having solar-powered fast-charging units available everywhere is the ideal solution, but it’s not economically feasible for low traffic locations, making BiØfil is an environmentally friendly interim solution for the next few years, until there are more EVs on the road and more EVs driving across the Nullarbor.
+Who is funding BiØfil?
+The development and testing of BiØfil has been funded by Jon Edwards, a retired engineer and passionate electric vehicle advocate. The basic cost of the BiØfil units for public use is currently being raised in a Chuffed campaign – so far, more than $45,000 has been raised; the target is $150,000 for two units.
+https://chuffed.org/project/the-big-lap-has-gaps-lets-plug-one-big-gap-to-unite-the-nation
+Why was BiØfil invented?
+BiØfil was initially developed as a carbon neutral solution to a problem: a way to fast charge the TOCEVA Racing Tesla rally car during competition in Targa West Events tarmac rallies.
+Subsequently, the Western Australian Government’s electric highway plan has a gap of 720 kilometres between Norseman in WA and the South Australian border, which is too far for almost all EVs to travel, for which BiØfil is ideal.
+
+Inventor Jon Edwards and the EV community decided to place a BiØfil unit at Caiguna Roadhouse, between those two points, which means that EVs can now drive from east to west across Australia with ease.
+How many BiØfil fast charging units are there, and where will they be?
+There is an existing unit that has been operating at the Caltex in Jurien Bay for the past 12 months. The current forward plan is to place a second BiØfil unit at Caiguna, and a third unit is being considered for Ravensthorpe in the South West. A fourth unit remains mobile and will be used for EV car club road trips and to service TOCEVA Racing as needed.
+How will the mobile BiØfil unit be transported?
+Usually on the back of a small truck, and electric truck would be ideal, but alas, we don’t have one of those yet.
+How long does it take to fully charge an EV using BiØfil?
+It depends on the size and state of charge of the EV battery, but on average, it would take around an hour to charge using BiØfil, enough time to have a break from driving and a meal.
+How fast is the charging from BiØfil?
+BiØfil charges EVs at nominally 50 kilowatts which equates to adding around 320 kilometres of range to the average EV.
+How much will it cost to fast charge an EV using BiØfil?
+That’s a question for Caiguna Roadhouse – we believe it might be free initially, but it’s likely that there will be a fee in the future, around half the equivalent cost of petrol but it’s yet to be determined.
+Does BiØfil suit every electric vehicle or is an adapter required?
+BiØfil has the European standard CCs2 plug. Most new EVs imported into Australia will be fitted with a CCS2 plug, some older EVs may need an adapter.
+If a community wants a BiØfil unit in their town, how can they get one?
+BiØfil is a not-for-profit venture. BiØfil isn’t a commercial enterprise, and it wasn’t designed to become a business. It was developed to help fast charge the TOCEVA Racing rally car, and then we decided to place a unit at Caiguna Roadhouse to connect Western Australia with the rest of Australia for the benefit of the EV driving community. If other remote locations have the need for a BiØfil unit, Jon Edwards is happy to provide some advice.
+How can we get involved / donate?
+In partnership with University of Western Australia, a Chuffed crowd-funding campaign for the BiØfil units called “The big lap has gaps”.
+Why is University of Western Australia involved?
+University of Western Australia plans to collect data on how many EVs are charged using BiØfil which will assist the WA Government when assessing future locations for solar-powered fast charging units.
+What is TOCEVA Racing?
+TOCEVA Racing is the rally team which competes in tarmac rallies in a 2019 Tesla 3 Performance+ driven by Jurgen Lunsmann with co-driver (and wife) Helen Lunsmann calling pace notes. At WA’s premier tarmac rally, the four-day Make Smoking History Targa West held in Perth in September 2021, TOCEVA Racing dominated the 165 class winning 36 of the 37 stages, only backing off during a marathon day to preserve charge in the EV. They won their class convincingly and finished tenth fastest overall in a field of 64 of WA’s top competitors. The team finished the Targa Cup series on the podium in third place.
+The team name is made up of TOC from the Tesla Owners Clubs and EVA from the Australian Electric Vehicle Association.
+Word count: 1481

@@ -1,0 +1,27 @@
+Photo: AAP
+IO Energy Solutions is initially rolling out its technology in South Australia as it prepares to expand interstate next year.
+The product aims to maximise savings offered under time-of-use pricing for households that do not have solar panels.
+Time-of-use-pricing has already been implemented in NSW and Victoria and is expected to begin in South Australia from July 1, offering reduced rate grid power from 10am until 3pm.
+It is one of a number of measures being examined by the Australian Energy Regulator, which is due to make a determination on April 30.
+IO Energy Solutions CEO Rob Morris said the software matched consumer usage profiles with grid energy pricing.
+“For example, in the middle of the day there’s heaps of solar power being generated and the cost of delivering that power is much lower than at other times of the day,” he said.
+“So, by shifting usage – for example in heating water or charging a battery – into that middle of the day time, we can lower people’s power bills and also lower their carbon footprint.”
+Morris said the company had planned to launch after the introduction of time-of-use pricing later this year but decided to launch early locally so customers could maximise the South Australian government’s home battery subsidy.
+The state subsidy is calculated on the usable capacity of a battery purchased up to a cap of $6000 per household, from April 15 the subsidy will be reduced to a maximum of $4000.
+“Anyone who is approved for a subsidy by April 15 has six months to have the install complete,” Morris said.
+“And with people spending more time at home and potentially their energy bills increasing, they might be looking at cost-saving measures.”
+IO Energy software controls home batteries by informing the battery to charge when tariffs are at their lowest, allowing consumers to use stored energy in evening peak periods when prices are at their highest.
+“At any particular point in time, the profile of what is making up that amount of energy can change,” said Morris, a former Australian Army aerospace engineer.
+“The key to both lower costs for individuals and also the net cost for the whole grid, and lower the carbon footprint, is to try as closely as possible to match the usage to the amount of renewables.”
+Based at Adelaide’s innovation hub Lot Fourteen, IO Energy was born when Morris saw an opportunity for consumers who didn’t have space for solar panels, such as those living in townhouses or apartments, to take advantage of excess grid power.
+“I found there was something a bit crazy happening with energy prices at particular times of day with an over-supply of renewables. Power prices were negative sometimes, particularly in South Australia where we have a high amount of wind and solar,” he said.
+He said in a bid to capitalise on the grid’s energy use he began using a bitcoin miner when power prices were negative.
+“Bitcoin miners use a lot of electricity and they also make money while they’re running. So, by using negative profit electricity you’re actually getting a credit on your power bill,” he said.
+“The other good thing is those times when the power price is negative are invariably also when the energy is pretty much 100 per cent from renewables.”
+He said using the same concept as the bitcoin miner, IO Energy was able to develop its battery software.
+The company has partnered with Class A Energy Solutions, which is offering two types of battery: Tesla Powerwall 2 for high energy consumers and the Varta Pulse 6 for smaller energy consumers.
+Morris said while IO Energy would focus on the South Australian market for the next 12-months he planned to expand interstate next year and then overseas.
+“The good thing is that energy markets operate in slightly differently but fundamentally the same way across the world – and our software is scalable in that way,” he said.
+“We believe, fundamentally, most of the world’s hot water systems etcetera work in the same way. So the software, with small modifications, can be replicated globally. But we’re focused on the small market at the moment.
+“This is one of the best places in the world, with some of the highest amount of renewables, to prove the technology, build it out and then we definitely have global ambitions.”
+Local News Matters Media diversity is under threat in Australia – nowhere more so than in South Australia. The state needs more than one voice to guide it forward and you can help with a donation of any size to InDaily. Your contribution goes directly to helping our journalists uncover the facts. Please click below to help InDaily continue to uncover the facts. Donate today Powered by PressPatron

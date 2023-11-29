@@ -1,0 +1,31 @@
+Source: The Conversation (Au and NZ) - By Richard Matthews, Research Associate | Councillor, University of Adelaide
+Australia’s space industry is set to grow into a multibillion-dollar sector that could provide tens of thousands of jobs and help replenish the dwindling stocks of precious resources on Earth. But to make sure they don’t flame out prematurely, space companies need to learn some key lessons about sustainability.
+Sustainability is often defined as meeting the needs of the present without compromising the ability of future generations to meet their own needs. Often this definition is linked to the economic need for growth. In our context, we link it to the social and material needs of our communities.
+We cannot grow without limit. In 1972, the influential report The Limits to Growth argued that if society’s growth continued at projected rates, humans would experience a “sudden and uncontrollable decline in both population and industrial capacity” by 2070. Recent research from the University of Melbourne’s sustainability institute updated and reinforced these conclusions.
+Our insatiable hunger for resources increases as we continue to strive to improve our way of life. But how does our resource use relate to the space industry?
+Read more: Dig deep: Australia's mining know-how makes it the perfect $150m partner for NASA's Moon and Mars shots
+There are two ways we could try to avert this forecast collapse: we could change our behaviour from consumption to conservation, or we could find new sources to replenish our stocks of non-renewable resources. Space presents an opportunity to do the latter.
+Asteroids provide an almost limitless opportunity to mine rare earth metals such as gold, cobalt, nickle and platinum, as well as the resources required for the future exploration of our solar system, such as water ice. Water ice is crucial to our further exploration efforts as it can be refined into liquid water, oxygen, and rocket fuel.
+Asteroids: limitless potential. ESO/M. Kornmesser/AAP Image
+But for future space missions to top up our dwindling resources on Earth, our space industries themselves must be sustainable. That means building a sustainable culture in these industries as they grow.
+How do we measure sustainability?
+Triple bottom-line accounting is one of the most common ways to assess the sustainability of a company, based on three crucial areas of impact: social, environmental, and financial. A combined framework can be used to measure performance in these areas.
+In 2006, UTS sustainable business researcher Suzanne Benn and her colleagues introduced a method for assessing the corporate sustainability of an organisation in the social and environmental areas. This work was extended in 2014 by her colleague Bruce Perrott to include the financial dimension.
+This model allows the assessment of an organisation based on one of six levels of sustainability. The six stages, in order, are: rejection, non-responsiveness, compliance, efficiency, strategic proactivity, and the sustaining corporation.
+Sustainability benchmarking the space industry
+In my research, which I presented this week at the Australian Space Research Conference in Adelaide, I used these models to assess the sustainability of the American space company SpaceX.
+Using freely available information about SpaceX, I benchmarked the company as compliant (level 3 of 6) within the sustainability framework.
+While SpaceX has been innovative in designing ways to travel into space, this innovation has not been for environmental reasons. Instead, the company is focused on bringing down the cost of launches.
+SpaceX also relies heavily on government contracts. Its profitability has been questioned by several analysts with the capital being raised through the use of loans and the sale of future tickets in the burgeoning space tourism industry. Such a transaction might be seen as an exercise in revenue generation, but accountants would classify such a sale as a liability.
+The growing use of forward sales is a growing concern for the industry, with other tourism companies such as Virgin Galactic failing to secure growth. It has been reported that Virgin Galactic will run out of customers by 2023 due to the high costs associated with space travel.
+Read more: NASA and space tourists might be in our future but first we need to decide who can launch from Australia
+SpaceX’s culture also rates poorly for sustainability. As at many startups, employees at SpaceX are known to work more than 80 hours a week without taking their mandatory breaks. This problem was the subject of a lawsuit settled in 2017. Such behaviour contravenes Goal 8 of the UN Sustainable Development Goals, which seeks to achieve “decent work for all”.
+What’s next?
+Australia is in a unique position. As the newest player in the global space industry, the investment opportunity is big. The federal government predicts that by 2030, the space sector could be a A$12 billion industry employing 20,000 people.
+Presentations at the Australian Space Research Conference by the Australian Space Agency made one thing clear: regulation is coming. We can use this to gain a competitive edge.
+Read more: From tourism to terrorists, fast-moving space industries create new ethical challenges
+By embedding sustainability principles into emerging space startups, we can avoid the economic cost of having to correct bad behaviours later.
+We will gain the first-mover advantage on implementing these principles, which will in turn increase investor confidence and improve company valuations.
+To ensure that the space sector can last long enough to provide real benefits for Australia and the world, its defining principle must be sustainability.
+- ref. Space can solve our looming resource crisis – but the space industry itself must be sustainable - http://theconversation.com/space-can-solve-our-looming-resource-crisis-but-the-space-industry-itself-must-be-sustainable-124576
+Word count: 889

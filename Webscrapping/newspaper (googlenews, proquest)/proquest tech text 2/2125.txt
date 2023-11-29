@@ -1,0 +1,16 @@
+ACCURATELY measuring water supplies could receive a boost as a South Australian Internet of Things leader and cloud-based environmental platform launch a global partnership to provide direct-to-orbit water meter connectivity.
+Myriota, a nanosatellite IoT connectivity leader based in SA, has teamed up with cloud-based environmental platform Eagle.io with the aim of preserving global water supplies.
+The partnership, which was announced at the recent 2019 IoT World Conference in California, United States, will provide global software and telemetry solutions for water management issues faced by agricultural players and governments worldwide.
+Myriota chief executive officer Alex Grant said the partnership would integrate Eagle.io's cloud-based IoT platform that manages alerts from more than 100,000 environmental sensors with Myriota's secure, low-cost, low-power satellite connectivity.
+This will allow the agricultural sector to increase the accuracy of its water measurements through regular, automated recordings.
+"We can't manage what we can't measure," he said.
+"So, if Australia or other countries want to effectively manage their water resources for the future, we need to be getting much better at understanding those resources and how we're using them and how they're being replenished and how we're basically interacting with our environment.
+"And that's proven difficult and expensive to do, so it doesn't get done in a lot of cases and that's when we end up with situations like we are in Australia at the moment."
+The two companies will work with third party data logger manufacturer MIoT, with Myriota integrating its module into their Captis product line and Eagle.io building a feature that will allow device configuration and management for the Captis from within their application.
+Eagle.io CEO Ben Starr said at the moment water meter data is manually and infrequently collected but the partnership Myriota will improve the capability of non-urban water meters and end manual collection.
+"With drought and climate change on the rise, satellite technology is the missing piece of the puzzle when it comes to coverage and connectivity, which is why we're excited to see the impact that our technology and Myriota's capabilities will have for us globally," Mr Starr said.
+In February, Myriota announced the development of a direct-to-orbit connected water sensor with Davey Water Products after completing work with the Australian Livestock Spatial Innovation Program to enable farmers to reliably monitor water systems.
+Myriota spun out of the University of SA in 2015 and last year raised $15 million through a Series A funding round, with Boeing HorizonX Ventures among the contributors.
+The Adelaide-based company is one of a number of space startups in SA, a state which is leading Australia's growing space industry and will host the Australian Space Agency from July.
+CREDIT: Jessica Bassano
+Word count: 443

@@ -1,0 +1,29 @@
+Source: The Conversation (Au and NZ) - By Javaan Chahl, DST Group Joint Chair of Sensor Systems, University of South Australia
+We have developed four-winged bird-like robots, called ornithopters, that can take off and fly with the agility of swifts, hummingbirds and insects. We did this by reverse engineering the aerodynamics and biomechanics of these creatures.
+Our ornithopters have the potential to outperform and outmanoeuvre existing drone configurations with static wings or propellers.
+Read more: How modern technology is inspired by the natural world
+What are ornithopters?
+Ornithopters are flying machines based on the design of birds. Existing drone configurations rely on propellers and static wings. Ornithopters flap their wings to generate forward thrust. The complex relationship between aerodynamics and wing movements allows birds and insects to fly in ways that are impossible for conventional drones.
+[embedded content]Why do we want ornithopters?
+Ornithopters fly differently to conventional drones. They can glide, hover, and perform aerobatics. In different situations, they can either save energy by flying like a regular aeroplane or choose to hover. They can take off and land slowly in tight spaces, yet might quickly soar upwards to perch like a bird.
+Current multirotor drones hover very nicely, but use even more energy in forward flight than in hover, so they can’t really travel far. Fixed wing drones can travel efficiently at high speeds, but hovering is not normally possible without compromising the entire design. There are hybrid concepts, usually with wings and rotors. Hybrid aircraft perform poorly when hovering and cruising when compared to other designs due to additional weight and drag from having more parts.
+[embedded content]
+Flapping wings are nature’s original solution to the need to fly both quickly and slowly, as well as landing and taking off from anywhere. For a bird or insect, every part of the system is used for hovering and cruising flight, without carrying redundant thrusters or additional wings.
+Existing fixed-wing and rotary-wing drones are so well understood that designs are now near the limits of how efficient they can be. Adding anything new comes at a cost to other aspects of performance.
+In principle, ornithopters are capable of more complex missions than conventional aircraft, such as flying long distances, hovering at times, and manoeuvring in tight spaces. Ornithopters are less noisy and safer to use around humans, because of their large wing area and slow wing beats.
+How do we make a working ornithopter?
+The design of the ornithopter. Chin et al, Science Robotics, Author provided
+An ornithopter is a highly complex system. Until now, flapping wing drones have been slow flying and not capable of achieving the speed and power required for vertical aerobatics or sustained hovering.
+The few commercially available ornithopters are designed for forward flight. They climb slowly like an underpowered aeroplane, and can’t hover or climb vertically.
+Our design is different in several ways.
+One difference is that our ornithopters make use of the “clap and fling” effect. The two pairs of wings flap such that they meet, like hands clapping. This makes enough extra thrust to lift their body weight when hovering.
+The two pairs of wings meet each time they flap.
+We improved efficiency by tuning the wing/body hinge to store and recover the energy of the moving wing when the wings change direction, like a spring. We also discovered that most of the energy loss happened because the gears flexed under the load of driving the wing. We resolved this with minute bearings and by rearranging shafts in the transmission to keep the gears spaced correctly.
+The large tail, comprising a rudder and elevator, creates a lot of turning force. This allows aggressive aerobatic manoeuvres and switching fast from horizontal to vertical flight.
+The system was designed to be able to pitch nose up, rapidly increasing its angle of attack to the point where the wing does not generate lift, a phenomenon called “dynamic stall”. Dynamic stall creates a lot of drag, turning the wing into a parachute to slow the aircraft. This would be undesirable in many drones, but the ability to enter this state and quickly recover adds to manoeuvrability. This is useful when operating in cluttered environments or landing on a perch.
+Catching up with evolution
+One of the major findings of our work was that a practical ornithopter might achieve similar efficiency to a propeller driven aircraft. Several behaviours became possible for the ornithopter once some additional power was liberated.
+This really showed that optimising the flight apparatus is key to making these new aircraft designs viable. We are now working to use wing designs copied from nature. We hope for equally large improvements.
+In some ways, such large efficiency gains from design changes in these new systems should not be surprising. Winged organisms have been optimised by evolution over hundreds of millions of years. We humans have been at it for less than 200 years.
+- ref. Learning from nature: a new flapping drone can take off, hover and swoop like a bird - https://theconversation.com/learning-from-nature-a-new-flapping-drone-can-take-off-hover-and-swoop-like-a-bird-143343
+Word count: 814

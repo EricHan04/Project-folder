@@ -1,0 +1,24 @@
+WHERE once, finding a cure for cancer was seen as an impossible dream, it could now be closer to reality, thanks in part to the work of Australian researchers.
+Scientists here are leading the way in the complex field of proteomics, which looks at all the proteins present in cells and tissue.
+Proteins provide the architecture of cells, affect metabolic processes and play a major role in how a cell's growth can be altered
+by cancer.
+By understanding the growth of cancer at the protein level, the disease can be targeted and treated much earlier.
+Researchers at the University of Adelaide are now at the forefront of this science, with a Proteomics Centre that has the latest technology to identify proteins and develop sniper-type treatments to hit cancerous mutations at the earliest stage.
+Professor Peter Hoffmann, director of the Adelaide Proteomics Centre, said: "If you want to be at the forefront of cancer research, you need proteomics.
+"At the moment, if you are detecting a cancer by X-ray it may already have spread through your body and may kill you.
+"With proteomics, we can detect cancer at a very very early stage by looking at markers in the bloodstream and treat it before it spreads."
+The mapping of the human genome has also led to the development of microarray analysis, which allows scientists to simultaneously profile the expression patterns of thousands of genes.
+Microarray analysis of the pattern of gene expression can also be used to distinguish and classify tumours more precisely than has previously been possible.
+The University of Adelaide and the world-renowned Hanson Institute have this year set up a joint initiative to carry out research on how DNA microarray technology could help to build up the most-detailed ever pictures of an individual's tumour.
+According to Professor Ian Olver, chief executive officer of the Cancer Council, the latest developments could mean that a cure for the disease is no longer simply a dream, along with world peace and enough food for all. He said: "In the future, we could have tailor- made therapies so that when a tumour is found, doctors will know precisely what kind of cancer it is, how aggressive it is and what therapies should be used to treat it.
+"I think we will come to regard chemotherapy as rather a crude, blunt tool that will be a thing of the past."
+Other world-leading researchers in Australia include Professor Tim Hughes of the Hanson Institute, who was among the first to show the benefits of the drug Glivec in treating chronic myeloid leukaemia
+While gene testing is now available for certain cancers, such as breast cancer where the BRCA1 and BRCA2 mutations can indicate a higher lifetime risk of developing the disease, Professor Olver says that more needs to be done to pinpoint the exact risk and develop remedies before large-scale screening programmes are developed.
+He believes that the key to reducing cancer rates lies not simply with scientists and cutting edge research, but with the public as well.
+"We now have a huge wealth of data about the links between different cancers and lifestyle factors, such as sun exposure, drinking, smoking and exercise," he said.
+"More evidence is coming out about the link between alcohol breast and colon cancers.
+"We know that lifestyle changes could prevent about a third of cancers, so research into prevention is also important."
+Australian researchers are also leading the way in the vital field of data collection when it comes to understanding how cancer develops and can be treated.
+The Garvan Institute in Sydney has developed a system called CanSto, which for the first time has collated detailed information on prostate cancer sufferers in a way that allows scientists to access the data without compromising the privacy of patients.
+The database uses the latest IT systems to store huge amounts of information and has excited interest from around the world because it will give a bigger picture of prostate cancer than has ever been in one place before.
+Word count: 670

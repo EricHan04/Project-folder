@@ -1,0 +1,14 @@
+MORE than eight years after it was launched, doctors are refusing to use the electronic My Health Record, which has cost taxpayers more than $2bn.
+GPs look at the record – designed to summarise a patient’s key health information – in less than 1 per cent of consults, and hospitals in just 2 per cent of cases, the latest data from the Australian Digital Health Agency shows.
+Only one in 10 medical specialists is registered to use the record. It will be March next year before every specialist software package can support the record.
+Just a quarter of the records have a shared-health summary uploaded by a GP, explaining a patient’s medical history.
+And less than 1 per cent of Australians have put access controls on the record to prevent their dentist or podiatrist seeing sensitive health information about any mental health conditions, sexually transmitted diseases, impotence problems or abortions.
+Originally, doctors refused to use My Health because few people had a record but, two years ago, nine in 10 Australians had one automatically created for them, after failing to opt out of the system.
+Australian Medical Association (AMA) vice-president Chris Moy said the situation was slowly improving, but “it was always going to be a slow burn”. He said the record had been useful to him on a number of occasions.
+“Specialists are still the weak spot,” Dr Moy said.
+“The AMA has a position that this is a serious area that we need to work on.” The Australian Digital Health Agency, which runs My Health Record, had forecast it would help eliminate $172m annually in duplicate scans ordered by different doctors and save $180m in duplicate pathology tests. A further $1.2bn in hospitalisations associated with medication errors were also meant to be avoided.
+Australian Digital Health Agency chief executive Amanda Cattermole said there had been “increases in clinically helpful data in the system and the sharing and viewing by health professionals” over the past 12 months.
+The independent clinical adviser to the Australian Digital Health Agency, Steve Hambleton, said more healthcare workers were realising the practical benefits of digital health.
+“I want hospitals and specialists to have rapid access to relevant information about my patients when they are caring for them,” he said. Recent improvements to the record were the inclusion of three key pieces of information – a summary of a patients’ medications and scan and blood test results for the past two years.
+CREDIT: SUE DUNLEVY
+Word count: 411

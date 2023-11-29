@@ -1,0 +1,2 @@
+A SINGLE 20-minute brain scan could soon be able to detect autism in children and lead to crucial earlier diagnoses, a study has found. International researchers have used electroencephalogram recordings of brain activity to create a unique classification for autism spectrum disorder. By identifying distinct combinations of brain activity in children with autism, the researchers hope to create an artificial intelligence system which would feed live data into a cloud-based service and rapidly diagnose the condition from a single scan.
+Word count: 81

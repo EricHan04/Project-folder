@@ -1,0 +1,28 @@
+New high-tech research is under way to establish how back injuries can be avoided in shearing sheds.
+Back injuries are the most significant injury shearers face in their profession, given the long rehabilitation time involved.
+Australian Wool Innovation agri-technology program manager Carolina Diaz said the research - being undertaken by the University of Melbourne with funding from AWI - was examining how back-related injuries occurred, in order to develop new strategies to reduce the risk.
+She said these new strategies included wearable sensors that alerted a shearer when they were in a position that would make them prone to an injury, through to more interventionist assistance such as wearable robotic solutions that cut the injury risk while allowing a high degree of manoeuvrability.
+"However, the initial objective of the project has been to accurately identify the mechanisms of lower back musculoskeletal injuries in shearers," she said.
+"Researchers from the University of Melbourne's robotics team monitored electromyography signals from sensors placed on a range of shearers, in combination with a motion capture system, to measure and study their back muscles and posture during the day."
+She said 10 shearers were recruited to take part, ranging in age from 21 to 61, with varying levels of skill.
+The research was undertaken in working shearing sheds in three states.
+"The shearers were monitored in authentic shearing conditions and across full workdays to reflect realistic workloads," she said.
+"This enabled the researchers to capture the effect of prolonged muscle fatigue, which is recognised as a precursor to injuries during shearing."
+The most common time of injury for shearers is between 4pm and 6pm, indicating a high correlation to the level of fatigue.
+The project was the idea of PhD student Mark Robinson, who is studying human-robot interactions at the University of Melbourne. Through family connections, Mr Robinson knew about the high risk of injuries to shearers, and realised that robotics could be part of the solution.
+After the data was collected in the shed, the researchers looked for potential features of muscle activity and posture that correlated with the risk of injury.
+"Several important features of muscle activity were identified which, if monitored continuously, allow for the prediction of lower back injuries among shearers," he said.
+"With this knowledge, we developed a prototype 'sensing unit' in a back-stabilising belt that can be worn by shearers to alert them via a display on a smartphone to potential injuries and which can propose optimal resting cycles.
+"Having identified the variables most effective as predictors to injury risk, the prototype unit incorporates sensors in only the most optimum locations, which helps the unit be practical, cost-effective and suitable for shearers to wear."
+He said the researchers' acquisition of new data about injury risk uncovered interesting findings that helped to understand when injuries occurred.
+"For example, there is a perception among shearers that injuries are often attributed to the catch-and-drag process, however, we found that while injuries do happen (then), the cause actually lies in the shearing process," he said.
+"The forces typically encountered during catch-and-drag are usually well within the capability of a typical human's body to withstand safely.
+"It is the stooping posture during shearing that creates muscle fatigue and a noticeable stretch to the passive muscle length.
+"This stretch means that there is a 'slack' in the lower back muscle that affects its ability to stabilise and hold our spine and trunk."
+He said the fatigue and slack in the muscle meant these forces could sometimes exceed what the body could withstand when performing catch-and-drag.
+"If we can fix the problems during shearing, then injuries during the catch-and-drag should consequently be reduced," he said.
+Mr Robinson said the important indicators of muscle activity that they identified could also be used to measure the effectiveness of future physical intervention strategies introduced into the sheep shearing process.
+"This could include strategies such as ergonomic shed redesign, changes in warm-up and stretching exercises, and changes in the rest-work cycle," he said.
+"It could also result in a more active solution such as an electromechanical version of the shearing harness, or even an exoskeleton that the shearer could wear, which would provide physical assistance to the shearer through the use of robotics."
+CREDIT:
+Word count: 704

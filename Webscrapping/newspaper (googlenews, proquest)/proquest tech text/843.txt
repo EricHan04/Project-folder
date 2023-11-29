@@ -1,0 +1,38 @@
+Source: The Conversation (Au and NZ) - By Lee White, Research Fellow, Australian National University
+Shutterstock
+The crucial climate change summit in Glasgow has just begun, and Australian Prime Minister Scott Morrison is bringing his widely criticised plan for net-zero emissions by 2050 to the negotiating table.
+Released last week, the plan promises to deliver deep cuts to Australia’s greenhouse-gas emissions by relying on new technology, while eschewing taxes and mandates. As the Grattan Institute warned this week, this will fail unless the government rolls out other market-based policies too, including better plans to use already existing low-emissions technology for vehicles and energy.
+The priority technologies identified in the plan include clean hydrogen, ultra low-cost solar, energy storage, low-emissions steel and aluminium, and carbon capture and storage.
+But the plan is scant on detail and long-term thinking. It provides support for technology only in the early stages of research and development, not sustained support throughout the commercialisation process.
+Many of these technologies are heavily tied to progress on renewable electricity generation, with the plan relying on 91-97% emissions reduction occurring in the electricity grid by 2050.
+Australia needs to massively scale up renewable electricity generation to reach net zero, but the renewables sector is handicapped by competing in a system originally designed for fossil fuels.
+In 2020, only 24% of Australia’s electricity came from renewable sources, despite Australia’s massive potential as a global leader in the sector thanks to our abundance of sunshine, wind and space.
+Here are four ways the current electricity system favours existing, higher-emitting technologies. These must be overcome to rapidly cut Australia’s emissions and help the world avert catastrophic impacts of climate change.
+1. Framing renewables as a ‘problem’
+Fossil-fuel energy is entrenched in Australia, and resists efforts to shift. Meanwhile, renewables are often framed as a problem that needs controlling, with the Australian Energy Market Operator identifying renewable generation and rooftop solar as challenges to the stability of the electricity grid.
+Even the government’s net-zero plan emphasises the need for coal and gas for grid stability, despite including goals to boost emissions-free storage technologies, such as batteries and pumped hydro, that could likewise support this stability.
+Read more: Scott Morrison attends pivotal global climate talks today, bringing a weak plan that leaves Australia exposed
+This is an example of the entrenched system at work – a transition to renewable energy will require the grid to be reimagined. This is technologically feasible, and should be viewed as an opportunity rather than a problem.
+Indeed, the existing electricity grid is rife with problems that aren’t fully acknowledged in the strategy. For example, coal and gas can pollute for free, with consequences falling on society at large rather than on those paid for coal-fired electricity.
+A transition to renewable energy will require the grid to be reimagined. Shutterstock 2. Securing long-term investors
+Renewable generation is expensive to install upfront, but has no fuel costs and so is extremely cheap to run, once built. For investors in renewable generation, being able to plan for long-range sales over the course of the generating plant’s life is crucial.
+In a 2020 study, a researcher from Switzerland interviewed 40 renewable energy investors in the UK, Germany, and Spain. They indicated investment was riskier when they relied on variable spot market prices rather than on fixed prices agreed on at the time of construction.
+Read more: Baffled by baseload? Dumbfounded by dispatchables? Here's a glossary of the energy debate
+In Australia, spot market energy prices are extremely volatile and change every 30 minutes. Prices can go as high as A$14,500 per megawatt hour and, when there’s an oversupply of electricity, can go as low as A$1,000 below zero per megawatt hour.
+But the net-zero plan includes no mechanisms for providing stability to renewables investors regarding return on investment. However, there are many examples of this type of mechanism worldwide, even locally in Australia.
+The Australian Capital Territory, for instance, has a “reverse-auction renewable feed-in tariff”. This promises a fixed price per unit of electricity for 20 years, produced by contracted renewable energy investors (around A$80 per megawatt hour for recent wind investments).
+Spot market energy prices are extremely volatile in Australia. Shutterstock 3. No real plan for energy storage
+Solar and wind are “non-dispatchable” technologies, meaning they can’t be turned on when needed. This is an issue because the electricity grid relies on a real-time balance of electricity supply and demand, and has very little storage capacity.
+Without sufficient storage in the grid, renewable generation may need to be curtailed at times when there’s too much supply, adding to the financial risk for renewable energy investors and introducing financing challenges.
+More storage is key to fixing this issue, and the plan rightly names storage as a priority technology to develop. However the plan’s focus on early-stage development can only be the first step. Australia also needs a plan to commercialise and deploy storage technology, but the plan is light on details.
+Read more: Australia’s net-zero plan fails to tackle our biggest contribution to climate change: fossil fuel exports
+The two key examples it gives for this are co-investment in the Neoen Hornsdale Power Reserve battery storage program in South Australia, and the Victorian Big Battery.
+Neither project represents any new action or commitment. The Neoen project was completed in September 2020, and the Big Battery was committed to in February this year - both well before the plan was released.
+4. Little imperative without legislation
+The plan states “Australia will not legislate its net-zero by 2050 target”. Without legislation behind the target, there will be less imperative to dig deep to mobilise sufficient resources (funding, time, effort) to meet it.
+The plan flags five-yearly reviews of progress towards emissions targets. The low level of detail in the plan means doing these reviews well, and acting on their findings, will be crucial to achieving actual progress on emissions reduction.
+However, the plan doesn’t specify what these reviews will look like, or what will happen if reviews show progress is falling short. Without legislating its target, the Australian government has promised no consequences for failing to meet the net-zero plan.
+Read more: G20 leaders talk up climate action but avoid real commitments, casting a shadow over crucial Glasgow talks
+Lee White receives funding from the Zero-Carbon Energy for the Asia-Pacific Grand Challenge, funded by the ANU. She has also received grants to support research on energy transition, including a grant from Energy Consumers Australia (for the project "How can we involve renters in the renewable energy transition in Australia?"), and a grant from the Icon Water and ActewAGL Endowment Fund (for the project "Maximising consumer ability to manage electricity demand").
+- ref. How Australia's coal country past is scuppering its renewable energy future - https://theconversation.com/how-australias-coal-country-past-is-scuppering-its-renewable-energy-future-170717
+Word count: 1102

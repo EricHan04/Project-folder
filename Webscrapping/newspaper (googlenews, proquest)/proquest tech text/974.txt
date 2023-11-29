@@ -1,0 +1,44 @@
+Source: The Conversation (Au and NZ) - By Tim Nelson, Associate Professor of Economics, Griffith University
+The NSW transport minister said this week that rolling out a distance-based tax on electric car owners (as the state treasurer flagged) would make them the “laughing stock of the world”.
+Instead, he proposed incentives to boost the uptake of electric vehicles — such as cheaper car parking and special access to transit lanes.
+It comes after the Victorian government this week committed to reducing greenhouse emissions by 45-50% by 2030, and to reaching net zero emissions by 2050. This covers all sectors, including electricity. The government has already legislated to ensure half Victoria’s energy is drawn from renewables by 2030.
+Other states are also setting targets closely aligned with the Paris Agreement commitment of limiting warming to 1.5℃.
+Their efforts lie in contrast to the federal government, which has promoted low-emissions technology advances but didn’t make any new, meaningful emissions reduction commitments at US President Joe Biden’s climate leaders summit last month.
+The ambitious new commitments of state governments go some way to filling the void left by the lack of a national climate policy. So let’s look at how they can best coordinate their efforts to deliver a more efficient, lower-cost outcome — and a national approach to reducing emissions.
+What are the states doing?
+All states have committed to net zero emissions by 2050, have (or have already achieved) renewables targets of 50% or above by 2030, and are rapidly developing innovative hydrogen projects.
+The Victorian government has committed to halving emissions by 2030. AAP Image/Luis Ascui
+The electricity sector remains the biggest focus of state governments.
+South Australia and Tasmania are targeting renewables for more than 100% of their electricity consumption. They plan to export this energy to neighbouring states via new interconnection (transmission lines).
+The Victorian government is just about to launch its second auction using “contracts for difference” (CFDs) to buy energy from new renewable energy projects. The ACT Government has already used CFDs to buy 100% renewables.
+A CFD is a contract where the government makes a top-up payment when the price of electricity is below the price agreed in the original contract. However, concerns about the use of this policy tool are growing.
+Read more: Against the odds, South Australia is a renewable energy powerhouse. How on Earth did they do it?
+The Queensland government has taken a different approach altogether. It has created a new company, CleanCo, to help meet its 50% renewable energy target by 2030.
+But the most ambitious policy of all the states is the NSW Energy Roadmap. It’s aiming to develop new zones that will create 12 gigawatts of renewable energy by 2030. This is the equivalent capacity (not output) of around six Liddell power stations.
+The NSW government is currently consulting on how this policy will be developed, but early indications suggest a modified version of CFDs will be used.
+A case of Back to the Future
+In many ways, the current situation feels a bit like déjà vu. Back in 2005, the states were making commitments to reduce emissions and increasing investment in renewable energy. There was a view the Commonwealth was not doing enough to reduce emissions and they needed to fill the void.
+They even formed their own taskforce, which developed a model for the states to introduce their own nationally consistent emissions trading scheme — a tool for putting a price and limit on emissions.
+Read more: Climate explained: how emissions trading schemes work and they can help us shift to a zero carbon future
+The proposal and individual state policies were largely shelved when both the Howard government and the Rudd opposition took emissions trading and clean energy targets to the 2007 election.
+Today, experts largely agree emissions trading is the most effective way to reduce emissions. But in Australia it remains a politically sensitive issue which neither major party will commit to.
+To date, the states have not announced any new plans for a coordinated national approach to emissions reductions. But as their respective plans and commitments gather pace, a state-led national policy makes perfect sense – and it could be achieved without the need to reach agreement with the federal government.
+South Australia and Tasmania are targeting renewables for more than 100% of their electricity consumption. ShutterstockCan the states finish what they started?
+Back in 2005, the states recognised the best way to deliver national emissions reductions at the lowest cost was to start with the cheapest and easiest actions. By linking their objectives, the cheapest measures would be pursued first, no matter which state the project was located in.
+So, is it worth reviving this approach? And how could it be done given the political aversion to emissions trading?
+In our view, one of the forgotten pieces of the puzzle is the most successful emissions reduction policy Australia has deployed to date: the Renewable Energy Target (RET). The RET, established by the Howard government and expanded by the Rudd government, has produced more emissions reductions than most other similar policies combined.
+Read more: Spot the difference: as world leaders rose to the occasion at the Biden climate summit, Morrison faltered
+The RET concept is simple. Energy retailers must buy a set percentage (currently 20%) of their energy from renewable generators. This is achieved by new renewable projects selling certificates (called large-scale generation certificates, or LGCs) for each unit of production to retailers. This results in new investment in wind, solar, and other green technologies.
+It’s a better outcome than governments picking the winning projects. The more retailers and new generators build, the more prices fall (as they have recently), resulting in cost savings for consumers.
+How could the states work together?
+The Clean Energy Regulator runs the RET and ensures compliance. It has a world-class reputation and oversees the federal government’s emissions reduction fund — where the government purchases the lowest cost abatement.
+The regulator also issues large-scale generation certificates (LGCs), maintaining a register of its creation. Rather than every state running its own new policy, states could utilise this framework by purchasing and voluntarily surrendering the lowest-cost LGCs from new projects.
+This would be a great alternative to the government picking winners and entering into CFDs (“contracts for difference”) that reduce competition and expose them to growing budget liabilities.
+Most importantly, this would link all of the policies together and allow direct integration with the federal government’s emissions reduction fund.
+The leadership of the states is in stark contrast to the federal government, which has failed to set any new climate targets. AAP Image/Lukas Coch
+In fact, LGCs could be measured by their emissions abatement. As such, they could be directly comparable with abatement issued via the emissions reduction fund.
+This would mean that, for the first time, we would have an integrated nationally consistent approach to emissions reductions across the economy.
+By adopting this framework, the states and Commonwealth would all achieve their own objectives without needing to agree on anything new, and avoid the fraught political disagreements that have dogged climate policy for two decades.
+It would allow Australia to take advantage of global carbon markets as they evolve and avoid likely future penalties being applied on our exports.
+- ref. Australia's states are forging ahead with ambitious emissions reductions. Imagine if they worked together - https://theconversation.com/australias-states-are-forging-ahead-with-ambitious-emissions-reductions-imagine-if-they-worked-together-160191
+Word count: 1189

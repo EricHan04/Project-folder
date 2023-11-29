@@ -1,0 +1,38 @@
+Source: The Conversation (Au and NZ) - By Melissa de Zwart, Professor, Adelaide Law School, University of Adelaide
+In a sign the Australian Space Agency is already opening up new doors for Australian industry, NASA says it will be launching rockets from Arnhem Space Centre, in Nhulunbuy in the Northern Territory, in 2020.
+Minister for Industry, Science and Technology Karen Andrews has also indicated she will encourage space tourism from Australia. She wants passengers to experience zero-gravity from the convenience of a domestic airport.
+Read more: Five ethical questions for how we choose to use the Moon
+But who gets to decide what can be launched into space? That depends on where the launch takes place, and in the case of Australia those rules are currently under review.
+International treaty
+The authority for who approves, supervises and grants permission for launch of space objects is based on UN treaties that provide a framework for international space law. The most important is the Outer Space Treaty (OST), which entered into force in 1967.
+Article VI of the OST provides that nation states (that is, countries) bear “international responsibility” for “national activities” undertaken in outer space by government and commercial users alike.
+States remain responsible for activities undertaken by commercial entities – for example, companies such as SpaceX – and are obliged to undertake ongoing supervision of such activities.
+How individual countries choose to conduct such supervision is left entirely up to them, but in most cases it is done by way of domestic space law.
+Another international treaty, the Liability Convention provides that the liability of the state extends to all launches that are made from that state’s territory. For example, the US is legally responsible for all launches that take place from that country as well as for launches elsewhere that it procures.
+This imposes a significant burden on the state to ensure that international requirements are complied with.
+Domestic space law regulates matters such as the granting of launch permits, and insurance and indemnity requirements. In Australia, this is achieved through the Space Activities (Launches and Returns) Act 2018. In New Zealand, the Outer Space and High-altitude Activities Act 2017, applies.
+The Starlink network
+In the US, it’s the Federal Communications Commission (FCC) that gave Elon Musk’s SpaceX permission to launch thousands of Starlink satellites as part of a plan to create a low-orbit internet network.
+The licence is for one constellation of 4,409 satellites and a second constellation of 7,518 satellites. The FCC requires launch of half of the total number planned within six years.
+The first 60 satellites were launched into orbit last month, and have already given rise to a number of concerns.
+Read more: Lights in the sky from Elon Musk's new satellite network have stargazers worried
+Scientists and astronomers are worried such a large constellation of satellites will be visible to the naked eye in the night sky. In response, Musk has already agreed to make the next batch less shiny.
+Penalties apply
+As well as granting launch licences, the FCC can also issue fines for any unlicensed launch by US operators.
+Swarm Technologies launched four SpaceBee satellites from India in January 2018, after having been denied a licence from the FCC. The FCC was concerned the satellites were too small to be effectively tracked by the US Space Surveillance Network.
+FCC subsequently fined Swarm US$900,000, partly as a way to spread the word that licensing of launching is a serious business but because the company had also performed other activities that required FCC authorisation.
+In addition to presenting issues for tracking, new satellites also presented a hazard in terms of their potential to create large debris fields.
+Notably, there are no binding international laws with respect to the creation of space debris. There are non-binding Space Debris Mitigation Guidelines issued by the UN Inter-Agency Space Debris Coordination Committee. But these are only guidelines and are frequently overlooked in the interests of commercial expediency.
+The 2018 Australian Act does require the applicant for various Australian licences (such as a launch permit) to include “a strategy for debris mitigation”. This may include, for example, a plan to de-orbit the satellite after a certain number of years.
+Launches from Australia
+Australia’s first claim to fame as a space-faring nation was the launch of WRESAT (the Weapons Research Establishment Satellite) from Woomera, South Australia, in 1967.
+But the launch platforms on nearby Lake Hart were dismantled following the departure to French Guiana in 1971 of the European Launcher Development Organisation (ELDO) – whose name ELDO still graces the sole hotel in Woomera, in outback South Australia.
+The ELDO hotel in Woomera. Flickr/kool skatkat, CC BY-NC-ND
+From this time until the late 1990s there was little interest in space launches from Australia.
+Read more: Lost in space: Australia dwindled from space leader to also-ran in 50 years
+The Space Activities Act 1998 was enacted in response to a brief interest in US company Kistler Aerospace developing a spaceport at Woomera, SA.
+But no spaceport was constructed nor any launches conducted. A review of the Space Activities Act and of the Australian space industry in 2016-2017 led to the new Space Activities (Launches and Returns) Act in 2018.
+This Act envisions a broader role for domestic space industries, including but not limited to, launch.
+The rules which flesh out the details of the application of that licensing regime are currently open for public review and comment. The deadline for making a submission closes at the end of this week.
+- ref. NASA and space tourists might be in our future but first we need to decide who can launch from Australia - http://theconversation.com/nasa-and-space-tourists-might-be-in-our-future-but-first-we-need-to-decide-who-can-launch-from-australia-117912
+Word count: 910

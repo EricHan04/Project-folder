@@ -1,0 +1,24 @@
+Instead of transmitting vast amounts of data to earth, satellites will collect data in space and apply artificial intelligence and machine learning to it on the spot, without the expense and time wastage of transferring unprocessed data to earth.
+Microsoft and the institute see processing data in lower space as a major breakthrough in satellite data management for enterprises and their collaboration – Project AI Off Earth – will focus on that.
+The institute’s Professor Tat-Jun Chin said processing data in lower space represents a huge time savings often of several days before customers received the insights they wanted.
+He cited environmental monitoring and search and rescue as two areas that would benefit.
+“Doing it (data processing) in space has other benefits that doing it from the ground does not have,” he said. “You‘re not affected by the atmosphere … rain, weather, will not affect you.”
+He said processing data on satellites will save the wastage caused when large amounts of photos shrouded in clouds were sent to earth for processing.
+“If you can avoid sending that kind of data down to earth, that‘s already a big win, never mind what more sophisticated activities you do with on-board processing.”
+Microsoft Australia Azure space engineer Nicholas Moretti said the collaboration would support agriculture and ecology, economics and financial systems as well as the burgeoning space sector itself.
+“Although focused on in-space technologies, Project AI Off Earth will explore how space related technologies and data, and cognitive systems can be used to support automation of multiple different industries, help establish smart cities, as well as address sustainability and important environment challenges,” Mr Moretti said.
+He said information collected from cameras and other sensors could be processed in space to identify crop diseases and moisture in soil. “If you can understand your crops better, you can manage them better and understand diseases before they come out,” he said.
+“Similarly, you can look at other people‘s crops and understand what’s going on there. If you’re a business that sells to those agricultural farmers, you can understand their water usage and fertiliser usage and start planning your supply chain better.”
+He said that in mining, GPS space based technology will allow for better operation of autonomous machinery over large landmasses, in parts of very remote Australia that doesn‘t have infrastructure. “Satellites offer the ability to inspect and manage those areas from space without a huge investment into putting physical infrastructure on the ground.”
+The memorandum of understanding between Microsoft and the institute will also allow simulations of space systems on earth, such as using computers to simulate shunting communications between a virtualised swarm of low orbit satellites, and ironing out problems before the satellites are launched into space.
+The organisations will conduct modelling, emulation and simulation of complex space operations and systems; build algorithms for on-board satellite data processing; develop solutions for the remote operation and optimisation of satellites, constellations and swarms; and address space domain awareness and debris monitoring.
+Mr Moretti said the technology would make better use of “scarce” satellite resources and be of benefit to Australian industry.
+Professor Chin said operators are moving away from using single satellites to “swarms” of smaller satellites that take a network approach to monitoring from space.
+Should a satellite malfunction or be “knocked out”, other satellites in the swarm could take over and maintain communications without disruption.
+He said machine learning researchers could develop algorithms to enable this functionality.
+Mr Moretti said satellite-to-satellite communications was a reality.
+“There are already satellites that do talk to other satellites, for example Space X’s latest batch of satellites, that they will soon be launching, will be able to communicate between them.”
+He said Azure Space wanted to fund scholarships and encourage students to take up STEM (science, technology, engineering and maths) learning paths.
+South Australian Minister for Trade and Investment, Stephen Patterson, said Adelaide had established itself as the heart of Australia’s space industry and the agreement was a signal of what’s to come.
+“Australia has the opportunity to be a leading player in the global space industry and this sort of international collaboration – centred on Adelaide but with a truly global focus – will strengthen the local industry, help build skills in this important area and reinforce Adelaide’s reputation as the epicentre of space activity in this part of the world.”
+Word count: 702

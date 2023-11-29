@@ -1,0 +1,15 @@
+Privacy advocates have raised new concerns about the federal government's coronavirus tracing app on the eve of a debate in Parliament on jail terms and fines for those who breach its safeguards.
+The civil liberties groups want the government to change the design to ensure personal data is not stored on a central database, arguing this increases the danger from a single cyber-attack.
+The government reported 5.5 million downloads of the app by yesterday afternoon but it is yet to reach its target for adoption, highlighting the need to overcome any community concerns.
+Attorney-General Christian Porter has discussed last-minute changes to the privacy bill with Labor legal affairs spokesman Mark Dreyfus, clearing the ground for bipartisan support for the changes this week.
+Privacy expert Malcolm Crompton, a former Commonwealth privacy commissioner, said the exposure draft of the bill was "pretty good" but the law was not everything and the overall design needed to be improved.
+Mr Crompton said the government should commit to more funding for the Office of the Australian Information Commissioner, the federal authority empowered to hear any complaints about privacy breaches with the app.
+The Councils for Civil Liberties in NSW, Queensland and South Australia issued a joint statement that backed the case for digital contact tracing but called for stronger safeguards.
+"More needs to be done to ensure that the app does not compromise data protection and thereby increase the risk of illegal and inappropriate use of data or surveillance of Australians," they said. "It is also disappointing that the government has opted for centralised data storage in a national COVIDSafe data store rather than adopting the widely supported and more privacy-friendly decentralised option.
+"Cyber attacks and accidental and illegal data breaches will continue to occur on Australian government databases. This storage choice creates a real risk of such breaches and will undermine users' confidence as to the safety of their private data."
+The bill imposes jail terms and a $63,000 fine for every privacy breach and makes it an offence to hold the data outside Australia, after concerns global company Amazon Web Services will manage some of the project.
+Prime Minister Scott Morrison said on April 15 he wanted 40 per cent of the population to use the app, but the government has since adjusted its target to make it a percentage of those with smartphones. Given there are about 16 million Australians with smartphones, the target would be met with 6.4 million downloads.
+Mr Porter and Mr Dreyfus would not comment on any changes they have negotiated to the draft bill, which is yet to go to the Labor caucus and the Coalition party room today.
+"Labor believes this app could be a critical tool in the COVID-19 exit strategy, but it's important we get it right," Mr Dreyfus said.
+CREDIT: David Crowe | Chief political correspondent
+Word count: 473

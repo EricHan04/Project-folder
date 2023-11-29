@@ -1,0 +1,18 @@
+A high-security data centre providing massive cloud-based storage for Commonwealth government and public clients will be built in Jerrabomberra to service the ACT and regional market.
+DCI Data Centres, part of the Canadian-based, multi-national Brookfield Asset Management group, is building the centre, to be known as CBR01, at the new 35-hectare Poplars Innovation Hub just over the NSW border. It will provide independent storage support for the Commonwealth government as well as Canberra-based companies in the defence, space, cyber-security and high-tech manufacturing sectors.
+Brookfield is a global company, secretive and multi-layered, with US$725 billion of assets under management across real estate, construction, infrastructure, technology, renewable power, private equity and credit. Its investment portfolio includes telecommunications across Asia and New Zealand, and 14,500km of toll roads.
+The key to DCI selecting the Jerrabomberra site was being connected to a power supply independent to the Canberra grid, with Essential Energy building a new 132kV power feed to the precinct.
+The two-storey centre will have an initial capacity of 20 MW with eight data halls of storage, the equivalent of 40,000 computer servers.
+The cost of the data centre project has not been announced but is expected to run into several hundred million dollars.
+A lack of diversity of data storage supply in the Canberra market was identified by DCI, with cloud-based service providers traditionally focused on the Sydney and Melbourne markets.
+The Poplars data storage will be larger than DCI's existing data storage centres in Sydney and Adelaide, which the company's Australia and New Zealand managing director Malcolm Roe said was "reflective of the significant demand [for cloud-based storage] in Canberra".
+"We estimate the demand in the Canberra market is around 80 MW," Mr Roe said.
+"That's because it [Canberra] is the seat of Commonwealth agencies and defence.
+"Our facility is very much focused on the secure end of the Commonwealth's requirements when it comes to defence, space, cyber and high-tech manufacturing.
+"Those sectors are driving the need for cloud computing and privately managed services."
+When completed in 2024, CBR01 will link with the two DCI storage centres in Adelaide and Sydney, and four others under development around the country.
+DCI Data Centers Chair and Brookfield Managing Director Udhay Mathialagan said the company's new operation would drive development at the new precinct.
+"This new data centre is the first site to offer true resiliency in power provision that not only answers a call from the government to support their Cloud First strategy, but will provide unparalleled security for our customers," Mr Mathialagan said.
+The NSW government has embarked on developing a raft of innovation precincts, from agscience in Orange and Wagga Wagga to health tech in Westmead, based from a report from the Innovation and Productivity Council three years ago which looked at similar initiatives around the world.
+CREDIT: Peter Brewer
+Word count: 469

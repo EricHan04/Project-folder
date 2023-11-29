@@ -1,0 +1,12 @@
+name: Rshiny_NSW_Beach_Valuation_Tool
+title: Rshiny_NSW_Beach_Valuation_Tool
+username: erichan
+account: erichan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10628229
+bundleId: 7969786
+url: https://erichan.shinyapps.io/Rshiny_NSW_Beach_Valuation_Tool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,25 @@
+The US Government’s Department of Homeland Security has selected Micro-X’s wholly-owned subsidiary in Seattle for two early-stage contracts worth $US4m for systems at the heart of its new airport Passenger Self-Screening plans.
+Micro-X, which makes the world’s only carbon nanotube X-ray systems, will get up to $US1.5m in stages to design and manufacture a prototype self-service baggage scanner, subject to conditions including formal contracts, a design review and delivery time-frame capped at 12 months for the prototype.
+The use of CNT allows for devices to be smaller and lighter.
+DHS agency, Transportation Security Administration, screens 2m passengers daily across 440 US airports. TSA wants to enable self-service checkpoints with security screening and automated threat detection.
+Micro-X is prototyping a similar scanner for the UK Government, using an array of miniature X-ray tubes that enable accurate automated detection of explosives and prohibited items.
+The second contract with DHS, worth $US2.5m, involves designing a Self Screening Checkpoint Portal to house the scanner and potentially other smart technology to verify documents and allow for body scans.
+Micro-X will lead the 20-month design contract as part of a consortium that also includes
+Melbourne-based Elenium Automation and Monash University as well as a German imaging solutions provider and a US software company.
+The second contract also involves payment in stages, subject to formal contracts and milestones.
+The award of both the contracts with DHS and commencement of work is expected in early 2021 with Dr Brian Gonzales, Micro-X’s US-based chief scientist, leading the projects.
+Micro-X will be hiring imaging and software engineers in Seattle to execute the sensitive
+areas of these proposals while the Tonsley team will also look for another six systems engineers for the X-ray and imaging system work that will be undertaken in Adelaide.
+Managing director Peter Rowland said the selection “accelerates, funds and validates” Micro-X’s entry into global airport security markets.
+“The scanner is just one part of it, but if we could make inroads with the portals, that’s a market of 8000 to 12000 portals just in the US,” he said.
+“And with a growing push by the aviation industry to harmonise security systems, testing our technology and proving it in the US takes our expertise to a whole new level.
+“We didn’t expect it, but we are on a bit of a roll and loving it.”
+Micro-X, an Australian share market listed company, has already commercialised two mobile carbon nanotube X-ray systems overseas – Carestream Nano for hospital settings and ‘Rover’, a more rugged product for emergency medical use by defence forces.
+It is currently working on a contract secured via the World Health Organisation to deliver Rover to governments of a number of Pacific Island nations.
+Carestream Nano and Rover are made in South Australia for overseas markets.
+Micro-X is also working with the Australian Stroke Alliance on developing the country’s first lightweight mobile brain stroke detection units, for ambulances and medical aircraft to allow for quicker response times.
+Micro-X has applied to the Federal Government’s Medical Research Future Fund for an undisclosed amount to develop an operational prototype of its device over two years.
+In July last year, Micro-X secured a $10m investment deal with defence giant Thales to develop an imaging system for remote detection of improvised explosive devices and other products over six years.
+Micro-X will have to invest substantially in space, machinery and equipment to manufacture substantial volumes at Tonsley.
+Shares in Micro-X soared 41 per cent on Wednesday to close at 26c.
+Word count: 556

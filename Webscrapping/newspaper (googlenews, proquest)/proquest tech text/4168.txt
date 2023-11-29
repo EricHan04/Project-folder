@@ -1,0 +1,8 @@
+A NEW type of drone modelled on one of the world’s fastest birds – the swift – can hover, dart, glide, brake and dive, making it more versatile, safer and quieter than the typical “quadcopter” drones.
+UniSA aerospace engineer Javaan Chahl says he’s fascinated by flight, particularly birds and insects such as dragon flies.
+“Our collective interest is taking biology and trying to turn it into engineering solutions,” he said.
+“We look in depth at the animal and then try to work out really what are the fundamental principles there and then try to replicate those principles, which is different to just trying to make it look about right.” A birdlike drone with flapping wings is known as an “ornithopter” – as opposed to the quadcopter, which has four rotors.
+Earlier ornithopter designs were too inefficient and slow to be agile, so the latest prototype is a major advance.
+“Flapping wings can lift like an aeroplane wing, while making thrust like a propeller and braking like a parachute,” Professor Chahl said. “We have put this together to replicate the aggressive flight patterns of birds by simple tail control.” UniSA research on a prototype, with partners in Singapore, China and Taiwan, is published today in the journal Science Robotics.
+CREDIT: CLARE PEDDIE SCIENCE REPORTER
+Word count: 214

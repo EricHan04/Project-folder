@@ -1,0 +1,33 @@
+The Australian Energy Market Operator has warned of potential volatility and 'short falls' across the electricity grid in coming years due to the increased uptake of renewable energy and the closure of coal-fired power stations.
+AEMO's recently released 2020 System Strength and Inertia Report says there are increasing indications that, "in the near future, projected system strength may be insufficient in NSW, Queensland and Victoria".
+Much of the uncertainty about the future stability of the grid revolves around the looming closure of Liddell power station in 2023.
+"The system strength and inertia outcomes are heavily influenced by the potential for changes in operational profiles of coal-fired generation and increasing levels of distributed and utility scale inverter-based resources (renewables)," the report says.
+"... future decommitment or flexible operation of large synchronous generators at times of low or minimum demand in the region may lead to system strength shortfalls at the Newcastle and Sydney West fault level nodes....the timing, magnitude and likelihood of system strength shortfalls for Newcastle and Sydney West is uncertain."
+Concern about potential grid instability and unreliability is an issue that industry analysts have been warning about for several years.
+Chair of the Energy Security Board Kerry Schott previously told the Hunter Business Chamber that while the rooftop solar boom was undoubtedly helping to drive bills and emissions down, it also had the potential to wreak havoc on power grids.
+The Hunter has an average rooftop solar penetration of 21 per cent. However, homes in Perth and Brisbane and Adelaide have a rooftop solar uptake of about 30 per cent.
+"In the middle of the day the power demand on the grid is zero," Dr Schott said.
+"If you are running a distribution company and power demand goes from reasonably high levels in the breakfast peak to nothing at noon, then it becomes difficult to manage."
+READ MORE:
+Dr Kerry Schott says the growth of renewables is presenting challenges and opportunities The AEMO report also highlights the challenge of integrating hundreds of physically remote renewable energy generators into the grid compared to traditional power stations that are located close to energy distribution infrastructure.
+" The power system was planned and designed around large thermal and hydro synchronous generation.
+Most of the power system design has historically been centred around the characteristics of a system dominated by these power stations, and as such they are currently relied upon for provision of a range of system services needed to keep the system secure," the report says.
+"These power stations were located near their energy sources, which is different to where newer renewable generators are located. This means the efficient redesign of the power system of the future will likely require provision of system services in new locations."
+The challenges and uncertainties associated with a transition to renewable-dominated energy grid were also identified by the federal government taskforce established to prepare for the closure of the Liddell power station in April 2023.
+The taskforce found that closing the plant without adequate dispatchable replacement capacity risked forcing energy prices up by 30 per cent over two years or $20 per megawatt hour to $80 in 2024 and up to $105 per megawatt hour by 2030.
+The federal government has seized on the upcoming closure of Liddell to argue for the construction of a gas-fired power station at Kurri to increase grid stability.
+The government is expected to announce whether it will proceed with the project, which would be funded by Snowy Hydro 2.0, in the first half of 2021.
+The state government declared the project, proposed for the former Kurri Kurri aluminum smelter site, as Critical State Significant Infrastructure last week.
+"Gas-fired power stations will have a critical role to play in ensuring our energy security as we transition to a low-carbon emissions economy with renewable energy projects such as wind and solar," Planning Minister Rob Stokes said last week.
+However, many in the electricity generation industry argue it is not necessary.
+AGL says it is well advanced in its plans to replace the capacity to be lost through the closure of Liddell with renewable energy projects.
+"AGL has led investment in Australia's energy market, including the building of the only new gas generation on the east coast in the last seven years at Barker Inlet, the investment in a 100 megawatt efficiency upgrade at our Bayswater power station and the development of other firming and storage technology," AGL chief executive Brett Redman told the Newcastle Herald.
+Mr Redman said the proposed Newcastle gas-fired power station at Tomago had strategic, economic, efficiency and environmental benefits for the national market.
+"We've made good progress on this proposed development at Newcastle with the environment approval process underway and a final investment decision expected by early 2021."
+"The future of energy requires a combination of technologies and gas is a critical part of that transition, as are renewables and firming technology. We will continue to lead investment in line with the market drivers of customer choice, technology and community needs.
+For faster access to the latest Newcastle news download our NEWCASTLE HERALD APP and sign up for breaking news, sport and what's on sent directly to your email.
+IN THE NEWS:
+Seven locally-acquired COVID cases in NSW, including fire fighter 2020 flashback: the best news photos of the Newcastle Herald
+Samaritans hosts a very merry COVID-safe Christmas lunch giveaway
+CREDIT: Matthew Kelly
+Word count: 896

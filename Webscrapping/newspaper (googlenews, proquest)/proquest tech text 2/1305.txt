@@ -1,0 +1,14 @@
+ADELAIDE researchers are working on a less invasive way to diagnose endometriosis and prevent keyhole surgery.
+Experts in reproductive health at the Robinson Research Institute are working with the Australian Institute for Machine Learning to program computers to search scans for signs of the disease.
+As University of Adelaide’s Associate Professor Louise Hull explains, gynaecologists with extra training have begun using ultrasound scans to detect endometriosis but these specialist skills are rare.
+Some surgeons also use MRI (magnetic resonance imaging) scans to plan their operations.
+But artificial intelligence has the potential to combine the two, giving doctors access to information that has never been available before.
+“We’re hoping we can give them a platform, another way of looking, that’s digital,” she said. “And then if there’s something coming up they can refer to a specialist, but it just allows more accessibility, we’re really hoping that it would be something that, anyone could download their scans and MRIs onto, and get some kind of an answer.” Endometriosis is the abnormal growth of cells where the tissue that normally lines the uterus grows outside the uterus, often on the ovaries and fallopian tubes.
+Having spent decades searching for answers, Libby Trainor-Parker, 43, says she’s excited about the technology’s potential to save many women from the pain and suffering including mental anguish that she’s had to endure.
+“I was having symptoms when I was 14, and was not diagnosed until I was 36, so that‘s a long, long time to be going to doctors and being misdiagnosed with all sorts of things,” she said.
+“If it was as easy as having a scan, rather than diagnostic surgery, that would be something that doctors would probably prefer, so diagnosis would be a lot quicker.” So far, using a diagnostic dataset as a training sample, Professor Gustavo Carneiro has built a computer program that can read specialist scans and recognise the imaging markers of endometriosis.
+These can include lesions where tissues of the bowel and uterus have become stuck together, rather than sliding past each other.
+The diagnostic accuracy is now approaching that of a specialist doctor and will tend to improve over time.
+“Machine learning is an iterative process,” Professor Carneiro said. “As you give more and more training samples, the accuracy of the system improves.” The University’s Robinson Research Institute is calling for volunteers to take part in the study. Email: endostudy@adelaide.edu.au or phone 0450 534 950.
+CREDIT: CLARE PEDDIE
+Word count: 408

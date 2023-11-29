@@ -1,0 +1,14 @@
+CLARE Valley grape growers and winemakers Jeff Grosset and David Travers want to harness the power of blockchain technology to offer brand protection and authentication for the global fine wine industry.
+The winners of the $50,000 prize in the State Government’s Blockchain Challenge in March have set up a new company, G&T Technology, and contracted Estonia-founded blockchain giant Guardtime to build their “wine authentication” proof of concept.
+Guardtime’s Keyless Signature Infrastructure blockchain system – a distributed record of events – uses cryptography (secure codes) and will be used to come up with a system that can help consumers digitally track the wine from grower to point of sale.
+Guardtime, which works with governments and big businesses globally, takes pride in its ability to build a system that has ability to validate information “without the need to trust those who are managing that information”.
+Mr Travers told The Advertiser he expected the Clare Valley wine industry to take leadership in using the system for which he sees global application.
+“Jeff and I had been thinking about this whole question of fake and fraudulent wine, which led to us entering the blockchain challenge,’’ he said.
+“We had been talking about combining technology with the original screw cap Jeff developed 20 years ago.” They contacted Guardtime through a common connection, leading to a formal agreement last week. Mr Travers said he expected to have a blockchain system to trial in 12 weeks, which would be integrated with a separate digital screw cap which is being developed.
+“The QR code technology embedded in the screw cap would link to the blockchain ledger and allow consumers to authenticate the product using their smart phones.” Guardtime chief executive Mike Gault said the company was “immediately attracted” by Jeff and David’s concept and their track record of innovation.
+“This use case is a perfect example of the benefits of overt and covert anti-tamper technologies, combined with immutable provenance information gathered and distributed by Guardtime’s blockchain supply chain platform. Global wine exports, worth more than $US35 billion, remains a largely insecure supply chain full of bureaucracy and inefficiency.
+“This technology is targeted at dramatically improving its efficiency as well as assuring the wine’s provenance,” Mr Gault said.
+Estonia-based businessman John Longhurst has been appointed G&T Technology’s chairman and will work with Guardtime on the proof of concept.
+“The global fine wine market is under threat due to increasing wine fraud,” Mr Longhurst said.“In the case of bottled wine, guaranteeing authenticity has not yet been possible. Wine producers who adopt this system will be able to give that assurance.”
+CREDIT: VALERINA CHANGARATHIL DEPUTY BUSINESS EDITOR
+Word count: 437

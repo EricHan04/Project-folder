@@ -1,0 +1,9 @@
+AN Adelaide team has won a prestigious European Space Agency global challenge by involving the use of artificial intelligence to estimate the position and orientation of a spacecraft from its image.
+Adelaide University researchers developed an AI algorithm to accurately estimate the pose (position and orientation) of a spacecraft from an image of the target.
+Based on computer vision and machine learning techniques, the winning AI algorithm was trained on large amounts of imagery of spacecraft recorded previously.
+Associate Professor Tat-Jun Chin said this could be useful in space rendezvous operations, in which a service vessel is used to approach and recover space debris, such as a defunct satellite.
+Correctly estimating the pose of the debris enabled it to be more reliably captured by a robotic arm, harpoon or net operated from the service vessel.
+“Obviously, if you want to shoot the debris to destroy it then you don’t need to estimate its pose as accurately, but this obviously creates the risk of more debris,” Prof Chin said.
+The other researchers behind the work were Dr Bo Chen and Dr Alvaro Parra Bustos.
+They beat teams from prominent universities across the globe, including California’s Stanford and the UK’s national Future AI and Robotics for Space (FAIR-SPACE) Hub.Prof Chin is the director, machine learning for space, at the university’s Australian Institute for Machine Learning, which was established early last year at Lot Fourteen, the old RAH site.
+Word count: 237

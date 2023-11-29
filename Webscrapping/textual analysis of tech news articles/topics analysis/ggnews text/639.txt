@@ -1,0 +1,40 @@
+COLLECTING and destroying weed seeds as part of harvest operations is recognised as the most efficient and effective way to implement harvest weed seed control (HWSC) within an integrated weed management system.
+Acknowledged as the ‘holy grail’ of the WeedSmart Big 6 tactics to manage herbicide resistance, HWSC was implemented on over 40 per cent of Australian grain farms in 2014 and adoption is expected to increase to 80pc by 2020.
+There are currently six HWSC methods being used in Australia, all of which have been invented, adapted and adopted by Australian farmers.
+When choosing between these methods growers must consider the set-up cost, nutrient removal costs and labour requirements.
+Most agree that the ultimate HWSC tool would complete the weed seed control in one pass at harvest, retain all stubble and nutrients and not require any follow-up work such as marketing hay or burning chaff.
+Chaff impact mills
+There are currently two machines that meet these requirements – the iHSD (Integrated Harrington Seed Destructor) and the Seed Terminator.
+Both chaff impact mill machines render the weed seed unviable, causing the destruction of over 95 per cent of the weed seed that enters the mills.
+In 2017 harvest, both the iHSD and Seed Terminator machines were in commercial operation on farms around Australia and both experienced the teething problems that can be expected for new technology moving into the real-world.
+They have since been in field trials overseas – the Seed Terminator in Canada and the iHSD in France – where both machines completed around 200 hrs work without a hitch.
+Kondinin Group manager of research and development, Ben White, interviewed 20 growers using either the iHSD or Seed Terminator during the 2017 harvest and reported that their observations suggested both brands were achieving over 95pc reduction in seed viability.
+“Both types of impact mills ran into the same real-world problems of handling high flow rates of chaff, choking on green crop or weed matter and significant damage to the mills from any sand or soil that is picked up by the harvester,” he said.
+“Both machines also caused a reduction in harvester capacity of between 12 and 20 per cent in wheat, even though the harvesters had been remapped. This is a significant cost that growers must allow for through machine depreciation and base hourly operating costs, as more hours are needed to harvest the same area of crop.”
+Over 70pc of the growers that the Kondinin Group engineers visited had remapped their harvesters to improve the harvest capacity.
+Operators should note that chaff impact mill technology pulverises the entire chaff fraction, which generates significant levels of dust during the harvest operation. This means that more frequent machine clean-down may be required to minimise fire risk, as well as increased frequency of filter cleaning or replacement.
+“Although the problems outlined here are important, they are all likely to be resolved as this technology matures in the commercial world,” Mr White said.
+“There is enormous interest in this method of harvest weed seed control and this will ensure that the problems are solved.”
+Cost comparisons
+Australian Herbicide Resistance Initiative’s (AHRI) cost comparison of HWSC methods suggests that the chaff impact mills cost $16-17/hectare compared to $22/ha for narrow windrow burning and $6-7/ha for chaff tramlining and chaff lining, depending on crop yield and area.
+In addition to the weed control benefits achieved through the use of any HWSC method, the chaff impact mill option also reduces crop volunteers.
+Research into the efficacy of impact mills is an ongoing process, particularly while the two types of machines are undergoing rapid developmental changes.
+Recent research by Michael Walsh (AHRI and Sydney University) with help from John Broster at Charles Sturt University (CSU), shows that despite the problems that have been experienced with the new machines, iHSD mills are passing the research tests with flying colours.
+Their research concluded that:
+The iHSD achieved 96–99pc destruction of the seeds of 11 weed species when processed in wheat chaff.
+Weed seed destruction varied by about 10pc depending on crop chaff type – ryegrass seed kill was greatest in lupin (98pc) > wheat (92pc) > canola (90pc) > barley (88pc).
+Weed seed kill dropped by about 4% when chaff moisture increased above 12pc.
+Weed seed kill increases with mill speed and 3000 rpm is the accepted optimal speed for the iHSD.
+SAGIT-funded research conducted by Trengove Consulting in 2017 found similar results for the Seed Terminator:
+Ryegrass weed seed kill was 93pc at 2250 rpm and increased to 98pc or greater at normal operating speeds (2500–3000 rpm).
+Greater than 99pc control of several other species including wild radish, brome grass, wild oat, bifora, bedstraw and tares.
+Increasing chaff flow rate (harvest rate) did not reduce control of these species.
+Samples analysed in 2018 by the Weed Science Research Group, at the University of Adelaide showed that the Seed Terminator could consistently kill 96pc of weed seeds when operated at 2750 rpm.
+These kill rates refer only to the weed seed that enters the impact mills. To achieve high level of weed control it is essential that all efforts are made to ensure the weed seed enters the front of the header and then separated and directed into the mills.
+Timing, cutting height, operating speed, weed and crop type and harvester set-up all play a part in achieving maximum harvest weed seed control. As is recommended for all HWSC methods that treat the chaff fraction, separation of the chaff and straw through the harvester often requires the addition and fine-tuning of a baffle plate to achieve greater efficiency.
+Setting up and operating harvesters to achieve the best weed control outcomes often involves some modification and compromise. By taking the time to get things right, growers usually find that they end up with more grain in the bin and a better sample, making the extra effort worthwhile.
+Source: WeedSmart
+WeedSmart has secured the rights to distribute an electronic version of Kondinin Group’s Research Report: Residue Management at Harvest, which is available in the Resources section of www.weedsmart.org.au.
+WeedSmart encourages growers and advisers to support Kondinin Group’s independent research through subscription to Farming Ahead.
+For more information about using impact mills for harvest weed seed control, visit the WeedSmart website: www.weedsmart.org.au
+Grain Central: Get our free daily cropping news straight to your inbox – Click here

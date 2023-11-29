@@ -1,0 +1,76 @@
+Solar engineers and data analysts at the Australian Photovoltaic Institute (APVI) have built the free-to-use SunSpot application which enables you to zoom in to your home from satellite images.
+You can then see how much solar radiation your rooftop gets and thus how much you could save on your energy bills by installing solar panels.
+The innovative tool makes the calculations by prompting you to draw the panels on the satellite image of your roof.
+It will then calculate how much it will cost to install the panels, the amount of power they will contribute, how much you will save on your bills, the amount of emissions you are saving and how long it will take you to pay back the initial cost of the panels through savings.
+To show the ease of the tool we tried it out on some of Australia’s most prominent buildings and homes, starting with the Prime Minister’s official residence in Sydney, Kirribilli House.
+Despite being on the waterfront, the beautiful home does not get as much solar radiation as you might imagine, perhaps due to the nearby tree coverage.
+That said Scott Morrison could save a staggering $8,878 on his bills by the energy generated from a 85.8KW setup on the Kirribilli House roof.
+It would also avoid 66,961kg of C02 emissions each year, which is a massive 916% of average household electricity emissions in NSW.
+The large system would cost the PM around $67,222 to set up but he’s expect to pay that back through savings within 7.7 years.
+SunSpot has already mapped all of Sydney and Canberra as well as Melbourne, Adelaide, Perth and Brisbane CBDs.
+There are also dozens of other cities and regional towns mapped such as Newcastle, Central Coast, Bathurst, Wagga, Byron, Albury and Hay.
+APVI now plan to make the tool available across Australia.
+APVI board member Renate Egan said the tool was very much a team effort incorporating expertise from various organisations.
+“APVI consists of companies, agencies, individuals and academics, working together to support the increased development and use of PV via research, analysis and information,” she said.
+“It has been developed in a partnership between UNSW and the APVI, and helps building and homeowners understand how they can benefit from installing solar.”
+An APVI expert explained: “As a general rule the bigger the electricity bill the more potential savings.
+“The more energy you use, the more appliances, the more rooms you have, the more you will save with solar.
+“When you plug your address into the free online tool, your house shows up on a map and you can see your roof colour coded with dots. Red and orange dots show the best place for solar panels to go.”
+“SunSpot can detect the amount of shade that will fall on the roof spaces throughout the year by identifying the height and shape of all the surrounding vegetation and structures.
+“It also knows how much sunshine hits that roof in an average year, and it can detect the tilt and angle towards the sun of the roof planes. It’s very sophisticated, but really simple to use.”
+Stephanie Gray, from the Solar Citizens organisation, said now is the perfect time to invest in solar.
+“The cost of solar has collapsed over the last decade and now Aussie households can expect to pay off a typical solar system in about 3 to 6 years,” she said.
+“Australia is one of the lucky countries when it comes to our renewable resources: we have some of the best solar resources in the world so it’s not surprising Australian homes are leaders in the uptake of rooftop PV (photovoltaics).”
+She explained, that contrary to popular belief, rooftop solar generates energy all year round. “Even in winter you can expect solar to cover a decent portion of your electricity usage,” she said.
+“The annual savings for households that install the most popular system sizes of 4-6kW are around $900-$1200.
+“Rooftop solar is the cheapest form of electricity so using it to power our homes and vehicles will save households thousands every year.”
+To see how easy it is to use the SunSpot tool we tried it out on some of the most well-known homes and buildings in NSW, Victoria, QLD, the ACT and South Australia.
+The measurements we performed were done without intricate knowledge of the buildings, slopes and angles and therefore are estimates only.
+However, when drawing the panels on your roof your knowledge of your home will produce much more accurate results.
+To see how much you could by using the SunSpot tool, click here.
+SOLAR POTENTIAL FOR OUR MOST FAMOUS BUILDINGS
+Kirribilli House, Sydney
+1 Kirribilli Road, Kirribilli
+Panel capacity: 85.8kW
+Estimated cost: $67,222
+Total annual bill savings: $8,746
+Annual CO2 emissions avoided: 66,961kg
+Payback period: 7.7 years
+If Scott Morrison got the all clear to pop up on the roof and install solar panels then he’d have room for a massive 85.8kw setup. It would set him back just over $67,000 but he’d save a whopping $8,746 on bills annually and make pay back the cost of the system in just over seven years.
+Young and Jackson Pub, Melbourne
+1 Swanston St, Melbourne
+Panel capacity: 85kW
+Estimated cost: $88,719
+Total annual bill savings: $20,967
+Annual CO2 emissions avoided: 90,997kg
+Melbourne perhaps does not have the same number of sun hours as other cities in Australia, but homes and businesses could still save a fortune each year with solar.
+Young and Jackson is one of the city’s most famous pubs with plenty of sun-filled roof space and little shadowing.
+It could accommodate a huge 85kW system with total savings of an incredible $20,000.
+They would be able to pay it off in just under five years – provided the Melbourne weather plays ball.
+The Lodge, Canberra
+5 Adelaide Ave, Deakin
+Panel capacity: 104.4kW
+Estimated cost: $90,770
+Total annual bill savings: $11,763
+Payback period: 7.7 years
+Canberra enjoys some of the best sun for solar energy in Australia. But the PM’s ACT residence is actually one of the more shaded buildings. There’s no lack of roof space, with the Lodge capable of accommodating a 104.4kW system. It would cost just over $90,000 to install but with estimated annual savings of $11,763 the PM will have paid that back in just under eight years.
+Gallery of Modern Art, Brisbane
+Stanley Place, South Brisbane
+Panel capacity: 1,382kW
+Estimated cost: $1,262,748
+Total annual bill savings: $470,521
+Annual CO2 emissions avoided: 1,402,154kg
+Payback period: 2.7 years
+Brisbane’s Gallery of Modern Art enjoys some of the best solar access in the city with no overshadowing from nearby buildings.
+Its roof could accommodate a humungous 1382kW system. It would be a mammoth task to install and would set them back more than a $1m. However, with annual bill savings of an estimated $470,521 it would take just 2.7 years to pay it back.
+At the same time the gallery would be saving an incredible 1,402,154kg in emissions each year.
+Exeter Hotel, Adelaide
+246 Rundle St, Adelaide
+Panel capacity: 26kw
+Estimated cost: $21,357
+Total annual bill savings: $8,479
+Annual CO2 emissions avoided: 17,467kg
+Payback period: 2.6 years
+It’s one of the city’s best-loved pubs and there’s huge solar potential with unobstructed access to sunlight. The fairly modest roof could hold a 26kW system, costing around $21,000.
+But with excellent daily solar capture potential the pub could save $8,479 per year meaning the cost could be paid off in little over two and a half years.
+Word count: 1175

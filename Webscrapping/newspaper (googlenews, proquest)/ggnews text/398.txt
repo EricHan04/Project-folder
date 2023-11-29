@@ -1,0 +1,16 @@
+Mitsubishi Australia is taking the legwork out of electric car charging research for customers, trialling various outlets to find the right fit for local consumers before making a recommendation.
+At the brand’s new headquarters near Adelaide airport, Mitsubishi has fitted 14 AC chargers and four DC fast-chargers to see which offering is the best fit for their plug-in models like the Eclipse Cross and soon-to-launch Outlander.
+In addition to the chargers, Mitsubishi’s new HQ also generates solar energy, and with the advent of bi-directional charging, can power part of the building off the grid.
+Speaking to CarsGuide, Mitsubishi Australia product strategy manager Tim Clarke said it is important for the brand to begin exploring what certain chargers are offering to try and demystify the new technology.
+“It’s a changing space, charging, and because the technology is evolving, we wanted to have smart capability all through here so we can monitor and manage all the chargers, and integrate them with the building energy management system,” he said.
+“Single directional charging is obviously the first step in that, and then bi-directional charging is kind of an unknown quantity at the moment, so how do we manage that? Or how do we automate that? Or is it just a manual process of ‘oh quick, we need to discharge the battery because we’re short on power’, or are we just charging because we’ve got sun out at the moment.
+“Those sorts of things we’ve got to look at, and we’re going to learn by doing basically.
+“Once we find the right fit, and the right technology, we’ll look to offer something to customers or recommend something for our customers.”
+The chargers installed at Mitsubishi include ChargeFox and other big-name brands in the charging space, Mr Clarke revealed, which – once enough data is gathered – Mitsubishi plans to take to government and lobby groups as a proof-of-concept for a holistic electric car and building network.
+All of this is controlled by a network in the building, which can alert users when their electric car is fully charged.
+Mitsubishi currently offers two plug-in hybrid vehicles – the aforementioned Eclipse Cross and Outlander – but is yet to roll out another all-electric model after the pioneering i-MiEV was discontinued in 2012.
+The ultimate goal for Mitsubishi, according to Mr Clarke, is to become carbon neutral, and show customers how a plug-in hybrid can integrate into their lives.
+“That [carbon neutral] is something else we’re working on, [but] carbon neutrality, we don’t have enough renewable energy generation here to go completely carbon free at the moment,” he said.
+“Another exciting project that we’re working on is to increase our storage capacity here. So, repurposing battery projects with Relectrify in Melbourne, we’re using about 10 displaced plug-in hybrid batteries, we’re going to use all those cells and put them into one chassis and connect that into our building.
+“So, we’re probably going to end up not exporting any solar, we’ll probably end up putting all that into the battery and then using that … so that’s going to reduce our import from the grid, reducing our footprint, and then also looking at power purchase agreements to be 100 per cent renewable energy.
+“We hope to have something around our timeframe to be carbon neutral in the near future.”

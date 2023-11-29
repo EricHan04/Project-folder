@@ -1,0 +1,20 @@
+Each year 1140 tonnes of agricultural produce is lost between the paddock and the plate in Tasmania, costing up to $145 million in profit.
+Nationally, it's costing us billions.
+But a new Australian AgTech start-up has found a way to tackle the country's food-loss and wastage problem through a simple phone attachment and app.
+South Australia-based GoMicro have developed a smartphone camera magnifier that, along with an app that utilises AI, can assess the ripeness or spoilage of fruits and vegetables with an 86 - 99% per cent accuracy.
+For GoMicro chief executive Dr Sivam Krish, it's a simple solution that could save agricultural industries millions in lost or wasted produce.
+"Any farmer with a phone could have the diagnostic capability of an agronomist," Dr Krish said.
+The device works by magnifying images taken by a person's smartphone camera with a microscopic lens, which is then processed by their Spotcheck app to assess the status of produce.
+Its uses range from detecting ripeness in fruit or vegetables, to identifying seafood freshness, detecting pest and leaf diseases, and assessing the standard of cereals and grains.
+The magnifiers are currently 3D printed in Australia, and cost around $35 to produce, but the startup said it could be sold for about $90US if produced on a large scale.
+"We see this technology as an infrastructure technology that will essentially remove the chaos out of the food system," Dr Krish said.
+"Because it's run on a phone and is relatively cheap, we're able to support the entire agricultural ecosystem".
+Despite its small size, the startup hopes to be able to work with governments to solve a range of agricultural processes at a state level.
+"State by state, every region has - based on their fruit type - issues to improve their export capabilities and to make the sector profitable," Dr Krish said.
+"We are interested in working with state departments to help them improve what they do to support their farmers".
+He also said the accessibility of the app would allow small-scale and hobby farmers to cut costs on time spent assessing their produce.
+The technology arrives at a time of increased fruit and vegetable costs that he said could be mitigated by better on-farm processing techniques.
+A survey by Tasmanian Food Cluster last year determined the total market value loss of on-farm produce was nearly $997 million, or a 5.3 per cent loss of total profits.
+But with Queensland's Department of Agriculture already running a trial with the device to assess banana ripeness, and successful trials taking place in India and Ghana, Dr Krish said he was certain every farmer in Australia and New Zealand could find a use for the technology.
+CREDIT: Clancy Balen
+Word count: 452

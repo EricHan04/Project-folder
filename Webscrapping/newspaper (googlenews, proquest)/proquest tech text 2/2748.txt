@@ -1,0 +1,11 @@
+Grains researchers and agronomists are being offered statistical skills training support, thanks to the Grains Research and Development Corporation's Statistics for the SA Grains Industry (SAGI) program.
+Workshops to upgrade the research statistical skills will be held in Adelaide and Clare throughout the year.
+The workshops are designed to foster widespread adoption of efficient and consistent statistical methods in agronomic research and practice to better inform growers' decision making.
+The GRDC launched phase three of its SAGI initiative in 2017, involving the creation of four nodes to deliver high quality statistical science to underpin the scientific rigour of hundreds of research investments.
+The SAGI-3 investment is essential in supporting rapid advances in crop varieties, agronomic knowledge and farming practices.
+As well as providing statistical support to almost 40 research projects, SAGI South is presenting a capacity building program for statistical and data analytics skills.
+The program is aimed at researchers, consultants and agronomists and includes four modules, according to SAGI South team member Sharon Nielsen, who manages the training program.
+The first module is an introduction to 'R' a leading and open-source data analytics and statistical software which gives participants a common language for design, analysis and reporting; the second is an introduction to design of agronomy trials; the third is an introduction to analysis of agronomy trials; and the concluding module is an introduction to report writing with 'R'.
+Each module is a day long, with the exception of the introduction to analysis of agronomy trials module which is two days. The modules can be taken sequentially one by one over the calendar year or together over five days.
+Adelaide workshops are on February 4 to 8, June 3 to 7, September 30 to October 4, and November 4 to 8. Clare workshops are from August 12 to 16. Find out more at sciences.adelaide.edu.au/agriculture-food-wine/research/agricultural-science#biometry-hub
+Word count: 305

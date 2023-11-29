@@ -1,0 +1,35 @@
+Source: The Conversation (Au and NZ) - By Tim Nelson, Associate Professor of Economics, Griffith University
+Shutterstock
+AGL Energy – Australia’s largest emitter of greenhouse gases – announced this week it will shut the Loy Yang A power station in Victoria’s LaTrobe Valley in 2035, a decade earlier than planned.
+This is significant for the Australian electricity industry. Loy Yang A provides around 30% of Victoria’s power and is Australia’s largest single emitting industrial facility.
+But while the announcement has made headlines, it comes as no surprise. The power station burns brown coal which, while cheap, is an inefficient and emissions-heavy source of electricity. Brown coal-fired power stations are also failing to compete with the gathering pace of renewables.
+AGL promises to replace the electricity provided by Loy Yang A with large-scale renewables and firming generation (such as batteries). This is, in my view, the most important commitment, because it’ll help ensure Australians have reliable electricity in the decades to come.
+A big week in energy
+AGL emits more than 40 million tonnes of carbon dioxide equivalent each year. Its announcement to bring forward Loy Yang A’s closure is no doubt largely in response to consumer and shareholder views that the electricity sector must decarbonise.
+Consumers are voting with their feet and increasingly demanding electricity sourced from renewable generation. Indeed, Woolworths, BHP and Aldi are just a few high profile brands that have committed to buying 100% renewable energy.
+The announcement comes amid a big week of energy news. The Queensland government released its Energy Plan, which promises to shift the state to 70% renewable energy by 2032 and 80% by 2035. The plan involves an estimated A$62 billion of investment in the energy system up to 2035.
+Meanwhile, the Victorian government announced plans for 2.6 gigawatts of new energy storage capacity by 2030, jumping to 6.3 gigawatts by 2035.
+This is all against the backdrop of the federal government’s commitment to have 82% renewables in the Australian grid by the end of the decade.
+Read more: Australia's biggest carbon emitter buckles before Mike Cannon-Brookes – so what now for AGL's other shareholders?
+Brown coal vs low cost renewables
+Loy Yang A is in the Latrobe Valley, which has enormous reserves of very cheap brown coal. Brown coal is physically difficult to export, so the cost of brown coal electricity generation remains very low, even at times of high international energy prices.
+But these advantages are more than offset by brown coal’s major disadvantage: it is one of the least efficient and most emissions intensive types of electricity generation.
+The Victorian government has a legislated target of 50% renewable energy for the state by 2030. Such significant investments in new renewables have undermined the viability of brown coal fired power stations.
+And the wave of investment is set to intensify. The Victorian government has committed to 2 gigawatts of offshore wind by the end of the decade, and a total of 9 gigawatts by 2040. In terms of energy output, this is the equivalent of two Loy Yang A power stations.
+But it is Australia’s love for rooftop solar that has really undermined the economics of brown coal.
+Around 30% of homes in Australia have rooftop solar panels. In fact, the total capacity of rooftop solar is now almost equal to the entire remaining capacity of coal fired generation.
+When the sun is shining, rooftop solar significantly reduces the amount of electricity demand from the national grid. This forces coal-fired generators to reduce their energy output significantly. In the evening, when electricity demand peaks, coal-fired generators must then ramp up their generation again.
+Read more: 4 ways to stop Australia's surge in rooftop solar from destabilising electricity prices
+Coal generators weren’t built to be ramped up and down to meet demand. They were built to be switched on and left operating at their maximum output, all day every day. Operating them like a yo-yo effectively ages them prematurely, bringing forward major maintenance expenditure and the likely end of their operating lives.
+The impact on grid-based electricity demand in South Australia is shown in the chart below. It is clear that over the past ten years, grid demand in the middle of the day has fallen substantially due to the impact of solar, making it very hard for inflexible older coal plants to compete.
+Changes to South Australian electricity demand over the past decade. This new shape of electricity demand is called the ‘duck curve’ (or in Australia, the ‘emu’ curve!) Tim Nelson AGL’s even more important commitment
+While the focus has been on the closure of Loy Yang A, the more important commitment relates to AGL building the new generation required to replace it. In its Climate Transition Action Plan, AGL stated:
+We will seek to supply our customer demand with [around 12 gigawatts] of additional renewable and firming capacity, requiring a total investment of up to $20 billion, before 2036.
+Our initial target is to have up to 5 GW of new renewables and firming capacity in place by 2030, funded from a combination of assets on our balance sheet, offtakes and via partnerships.
+In other words, AGL will replace Loy Yang A with a mix of wind, solar, battery storage and other firming generation that, when combined, do the same job Loy Yang A does now - provide electricity all day every day.
+This is exactly what energy consumers need: a commitment to not only close a large coal-fired power station, but a complementary commitment to build the two types of technologies required to replace it on a like-for-like basis.
+Some may argue AGL’s announcements are long overdue. But with Origin Energy and AGL both indicating that the future is firm renewable energy, it’s becoming ever more likely that 100% renewable electricity in Australia’s electricity grid could be achieved by the end of the decade. That’s fantastic news for consumers, and for the climate.
+Read more: NSW's biggest coal mine to close in 2030. Now what about the workers?
+Tim Nelson is an Associate Professor at Griffith University and the EGM, Energy Markets at Iberdrola Australia, that develops renewable projects and batteries. Tim was the Chief Economist at AGL up until 2018.
+- ref. So long, Loy Yang: shutting Australia’s dirtiest coal plant a decade early won’t jeopardise our electricity supply - https://theconversation.com/so-long-loy-yang-shutting-australias-dirtiest-coal-plant-a-decade-early-wont-jeopardise-our-electricity-supply-191577
+Word count: 1026

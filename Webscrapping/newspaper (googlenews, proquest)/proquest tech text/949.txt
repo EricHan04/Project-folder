@@ -1,0 +1,33 @@
+Source: The Conversation (Au and NZ) - By Paul Graham, Chief economist, CSIRO energy, CSIRO
+With the cost of energy generated from wind and solar now less than coal, the share of Australia’s electricity coming from renewables has reached 23%. The federal government projects the share will reach 50% by 2030.
+It is at this point that integrating renewables into the energy system becomes more costly.
+We can add wind and solar farms at little extra cost when their share is low and other sources – such as coal and gas generators now – can compensate for their variability. At a certain point, however, there comes a need to invest in supporting infrastructure to ensure supply from mostly renewable generation can meet demand.
+But by 2030, even with these extra costs, adding new variable renewable generation (solar and wind) to as high as a 90% share of the grid will still be cheaper than non-renewable options, according to new estimates from the CSIRO and Australian Energy Market Operator.
+Calculating energy costs
+International research, including from the International Renewable Energy Agency, suggests solar and wind power are now the cheapest new sources of electricity in most parts of the world.
+Our estimates, made for the third annual “GenCost” report (short for generation cost), confirm this is also now the case in Australia.
+We compare the cost of new-build coal, gas, nuclear, solar photovoltaics (both small and large scale), solar-thermal, wind and a number of speculative options (such as nuclear).
+What we’ve been able to more accurately estimate in the new report is the cost of integrating more and more renewable energy into the energy system, as coal and gas generators are retired.
+The two key extra integration costs are energy storage and more transmission lines.
+Read more: Sure, no-one likes a blackout. But keeping the lights on is about to get expensive
+Storage costs
+For any system dominated by renewables, storing energy is essential.
+Storage means renewable energy can be saved when it is overproducing relative to demand – for example, in the middle of the day for solar, or during extended windy conditions. Stored energy can then be used when renewables cannot meet demand – such as overcast days or at night for solar.
+Among options being considered for large-scale investment in Australia are batteries and pumped hydro energy storage (using excess renewable power to pump water back up to dams to again drive hydroelectric turbines).
+Capital costs of storage technologies in $/kWh (total cost basis). Aurecon and Entura are engingeering businesses who publish project cost estimates. AEMO ISP is the Australian Energy Market Operator’s Integrated System Plan, which also includes technology cost estimates. CSIRO
+Pumped hydro sites can provide storage for hours or days. There are three schemes in Australia: Talbingo and Shoalhaven in New South Wales, and Wivenhoe near Brisbane.
+Battery costs have been falling steadily and tend to be most competitive for storage electricity for less than eight hours. South Australia’s big battery (officially known as the Hornsdale Power Reserve) is the most obvious example.
+The Hornsdale Power Reserve, better known as the ‘big battery’, in South Australia. Hornsdale Power Reserve/AAPTransmission costs
+The other key cost to integrate more renewable energy generation into the electricity grid is building more transmission lines. Right now those lines mostly run from coal and gas power stations near coal mines.
+But this not where new large-scale renewable generation will be. Solar farms are best placed inland, where there is less cloud cover, and in the mid to northern regions of Australia. Wind farms are generally better located in elevated areas and in the southern regions. We’ll need to build new transmission links to these “renewable energy zones”.
+Transmission links between the states in the National Electricity Market (Queensland, New South Wales, Australian Capital Territory, Victoria, Tasmania and South Australia) will need to be improved so they can better support each other if one or more are experiencing low renewable energy output.
+Read more: After two decades, the national electricity market is on its way out, and that's alright
+Total integration costs
+So how much extra will it cost for Australia to have a higher share (up to 90%) of electricity from wind and solar (variable renewable energy)? The following graph summarises our findings based on 2030 cost projections.
+Projected renewable energy generation and integration costs by variable renewable energy share in 2030. CSIRO
+The cost of generating energy from wind and solar (shown in light blue) is about A$40 per megawatt-hour (MWh). This is is slightly below current average market prices.
+A higher share of renewable energy adds storage costs (in black) and transmission costs (grey and dark blue). These integration costs increase from A$4/MWh to A$20/MWh as the variable renewable energy share increases from 50% to 90%.
+At 90% renewable energy, the total cost is A$63/MWh. But that’s still cheaper than the cost of new coal and gas-fired electricity generation, which is in the range of A$70 to A$90/MWh (under ideal assumptions of low fuel pricing and no climate policy risk).
+The 2020-21 GenCost report is now in the formal consultation period with stakeholders including industry, government, regulators and academia. The final report is due to be published in March 2021.
+- ref. Up to 90% of electricity from solar and wind the cheapest option by 2030: CSIRO analysis - https://theconversation.com/up-to-90-of-electricity-from-solar-and-wind-the-cheapest-option-by-2030-csiro-analysis-151831
+Word count: 862

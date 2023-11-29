@@ -1,0 +1,19 @@
+New rules and technical standards for home and business energy systems are being developed as regulators catch up with consumers and technology.
+Australians are world leaders in rooftop solar but adding batteries and electric cars means new rules are needed for the gadgets to "talk" to each other.
+The Energy Security Board (ESB) of regulators has released an "interoperability directions" paper on how equipment installed in homes and businesses can be better connected to save money and carbon emissions.
+Regulators want a more secure supply for all electricity customers, whether they have smart and clean energy resources or not.
+But energy users and companies say they need guidance from the energy market bodies on nationally consistent standards for consumer energy resources in the national electricity market (NEM).
+There are more than three million residential solar installations across the NEM, with regulators forecasting an almost five-fold increase in "distributed solar" by 2050.
+Energy consumers are also investing in battery energy systems, electric vehicles and smart chargers and want greater control of their energy use for environmental and financial reasons. 
+Energy Consumers Australia's latest survey found almost one-third (30 per cent) of households expect most of their home appliances to be internet-connected and automated in the next five to 10 years.
+Home energy management systems (HEMS) can also loop in smart appliances, such as air conditioners or water heaters, and co-ordinate them to make the best use of local generation and wider market conditions.
+As part of international advances and Australia's post-2025 market reforms, regulators are developing communications protocols and technical standards for new consumer energy products.
+These include cloud-based software - that looks at current or predicted weather conditions and adjusts to energy tariffs - set to encourage more or less use at different times of the day and night.
+Newer technology is more flexible on the flow, can adapt to what's happening in the network and potentially export more excess power from the home or business premises.
+Proposals in the new directions paper include a national certification process for products and that all new installations be "flexible export ready" from July 2024.
+Flexible export limits - which allow customers to export electricity up to the physical limits of the power system, which change over a day or year - are being trialled in South Australia, Victoria and Queensland. 
+Regulators are also concerned a customer's choice when connecting or paying up-front for devices could become a barrier to switching to a better-priced option later on. 
+Changes will cover new systems and assets only from the date new rules begin and won't apply to systems households and businesses have already installed.
+The ESB will hold a workshop on October 24. Feedback is due by November 17.
+CREDIT: Marion Rae
+Word count: 457
